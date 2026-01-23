@@ -15,10 +15,12 @@ class DouyinScraper:
 
     def __init__(self):
         """初始化抓取器"""
-        # 多个备用 API 地址
+        # 多个备用 API 地址（使用可用的抖音 API）
         self.api_urls = [
-            "https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/",
-            "https://aweme.snssdk.com/aweme/v1/hot/search/list/",
+            "https://aweme.snssdk.com/aweme/v1/hot/search/list/",  # 热搜榜（主要）
+            "https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/",  # 旧版 API
+            "https://aweme.snssdk.com/aweme/v1/hotsearch/star/billboard/",  # 明星榜（备用）
+            "https://aweme.snssdk.com/aweme/v1/chart/music/list/",  # 音乐榜（备用）
         ]
 
         self.headers = {
@@ -31,6 +33,8 @@ class DouyinScraper:
 
         # 标记最后一次抓取是否使用了测试数据
         self.is_using_test_data = False
+        # 记录成功的 API 来源
+        self.last_successful_api = None
 
     def fetch_hot_list(self, limit: int = 20) -> Optional[List[Dict]]:
         """
@@ -71,17 +75,38 @@ class DouyinScraper:
                     # 格式化热榜数据
                     hot_list = []
                     for idx, item in enumerate(word_list[:limit], 1):
+                        # 提取关键字/标题（尝试多个可能的字段）
+                        word = (
+                            item.get('word') or
+                            item.get('title') or
+                            item.get('sentence') or
+                            item.get('query') or
+                            item.get('name') or
+                            item.get('music_title') or
+                            ''
+                        )
+
+                        # 提取热度值（尝试多个可能的字段）
+                        hot_value = (
+                            item.get('hot_value') or
+                            item.get('view_count') or
+                            item.get('hot_level') or
+                            item.get('search_count') or
+                            0
+                        )
+
                         hot_item = {
                             'rank': idx,
-                            'word': item.get('word', item.get('title', item.get('query', ''))),
-                            'hot_value': item.get('hot_value', item.get('view_count', 0)),
-                            'label': item.get('label', ''),
+                            'word': word,
+                            'hot_value': hot_value,
+                            'label': item.get('label', item.get('tag', '')),
                             'event_time': item.get('event_time', ''),
                         }
                         hot_list.append(hot_item)
 
-                    logger.info(f"成功抓取 {len(hot_list)} 条热榜数据")
+                    logger.info(f"✅ 成功抓取 {len(hot_list)} 条热榜数据（来源：{api_url}）")
                     self.is_using_test_data = False
+                    self.last_successful_api = api_url
                     return hot_list
 
             except requests.RequestException as e:
@@ -109,27 +134,53 @@ class DouyinScraper:
         Returns:
             热榜列表
         """
+        if not data:
+            return None
+
         # 格式 1: {status_code: 0, word_list: [...]}
         if isinstance(data, dict) and data.get('status_code') == 0:
             word_list = data.get('word_list', [])
             if word_list:
+                logger.info(f"解析格式：status_code + word_list")
                 return word_list
 
         # 格式 2: {data: {word_list: [...]}}
-        if isinstance(data, dict) and 'data' in data:
+        if isinstance(data, dict) and 'data' in data and isinstance(data['data'], dict):
             word_list = data['data'].get('word_list', [])
             if word_list:
+                logger.info(f"解析格式：data.word_list")
                 return word_list
 
-        # 格式 3: {data: [...]}
+        # 格式 3: {data: [...]} - 直接列表
         if isinstance(data, dict) and 'data' in data:
-            if isinstance(data['data'], list):
+            if isinstance(data['data'], list) and len(data['data']) > 0:
+                logger.info(f"解析格式：data[] 直接列表")
                 return data['data']
 
         # 格式 4: 直接是列表
-        if isinstance(data, list):
+        if isinstance(data, list) and len(data) > 0:
+            logger.info(f"解析格式：直接列表")
             return data
 
+        # 格式 5: {extra: {list: [...]}} - 某些 API 的额外字段
+        if isinstance(data, dict) and 'extra' in data:
+            extra = data.get('extra', {})
+            if isinstance(extra, dict):
+                hot_list = extra.get('list', [])
+                if hot_list:
+                    logger.info(f"解析格式：extra.list")
+                    return hot_list
+
+        # 格式 6: 尝试查找包含热榜数据的字段（通用）
+        if isinstance(data, dict):
+            # 常见的热榜数据字段名
+            possible_keys = ['word_list', 'list', 'data', 'items', 'hot_list', 'search_list']
+            for key in possible_keys:
+                if key in data and isinstance(data[key], list) and len(data[key]) > 0:
+                    logger.info(f"解析格式：通用字段 {key}")
+                    return data[key]
+
+        logger.warning(f"无法解析 API 响应，数据结构未知")
         return None
 
     def _get_test_data(self, limit: int = 20) -> List[Dict]:
