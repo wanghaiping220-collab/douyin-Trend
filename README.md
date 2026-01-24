@@ -2,46 +2,75 @@
 
 这个项目可以定时抓取抖音热榜数据，并通过 Webhook 推送到飞书群聊。
 
+## 🌐 网页版热榜 - 全新上线！
+
+现在你可以通过网页随时查看抖音热榜，无需服务器和域名！
+
+- 🎨 **精美界面**：渐变紫色背景，动画卡片设计
+- 📱 **响应式设计**：完美支持手机、平板、电脑
+- 🔄 **自动更新**：每小时自动抓取最新数据
+- ⚡ **实时刷新**：网页每 5 分钟自动刷新
+- 🆓 **完全免费**：部署在 GitHub Pages，零成本
+
+**👉 [查看网页版部署指南](docs/WEB_VERSION_GUIDE.md)**
+
 ## 功能特性
 
 - ⏰ 定时抓取抖音热榜（默认每小时一次）
 - 📊 获取最新的热门话题和热度值
+- 🌐 **网页版展示**：精美的实时热榜看板
 - 🤖 自动推送到飞书群聊
 - 💬 支持多种消息格式（文本、富文本、交互式卡片）
 - 📝 完整的日志记录
 - 🐳 支持 Docker 部署
 - 🚀 支持 GitHub Actions 自动化运行
 - ⚙️ 可自定义执行频率
+- 🎯 支持自定义内容板块（娱乐、科技、财经等）
 
 ## 项目结构
 
 ```
 .
-├── main.py                        # 主程序入口（本地/Docker运行）
-├── run_once.py                    # 单次执行脚本（GitHub Actions）
-├── douyin_scraper.py              # 抖音热榜抓取模块
-├── feishu_notifier.py             # 飞书通知模块
-├── requirements.txt               # Python 依赖
-├── .env.example                   # 环境变量示例
-├── .gitignore                     # Git 忽略文件
-├── Dockerfile                     # Docker 镜像配置
-├── docker-compose.yml             # Docker Compose 配置
+├── main.py                          # 主程序入口（本地/Docker运行）
+├── run_once.py                      # 单次执行脚本（GitHub Actions）
+├── douyin_scraper.py                # 抖音热榜抓取模块
+├── feishu_notifier.py               # 飞书通知模块
+├── config_loader.py                 # 配置加载模块
+├── config.yaml                      # 配置文件
+├── requirements.txt                 # Python 依赖
+├── .env.example                     # 环境变量示例
+├── .gitignore                       # Git 忽略文件
+├── Dockerfile                       # Docker 镜像配置
+├── docker-compose.yml               # Docker Compose 配置
+├── scripts/
+│   └── fetch_data_for_web.py        # 网页版数据抓取脚本
 ├── .github/
 │   └── workflows/
-│       ├── scrape-and-notify.yml  # GitHub Actions 工作流
-│       └── README.md              # 工作流说明文档
+│       ├── scrape-and-notify.yml    # 飞书推送工作流
+│       ├── update-web-data.yml      # 网页数据更新工作流
+│       └── README.md                # 工作流说明文档
 ├── docs/
-│   └── GITHUB_ACTIONS_GUIDE.md    # GitHub Actions 完整指南
-└── README.md                      # 项目说明
+│   ├── index.html                   # 网页版热榜界面
+│   ├── data/
+│   │   └── hot_list.json            # 热榜数据（自动生成）
+│   ├── WEB_VERSION_GUIDE.md         # 网页版部署指南 ⭐
+│   ├── GITHUB_ACTIONS_GUIDE.md      # GitHub Actions 完整指南
+│   └── CONFIG_GUIDE.md              # 配置指南
+└── README.md                        # 项目说明
 ```
 
 ## 部署方式对比
 
 | 部署方式 | 优点 | 缺点 | 适用场景 |
 |---------|------|------|---------|
-| **GitHub Actions** ⭐推荐 | 免费、无需服务器、配置简单 | 依赖 GitHub、有执行时间限制 | 个人使用、轻量级定时任务 |
+| **网页版 (GitHub Pages)** 🌐推荐 | 免费、精美界面、随时访问、无需配置飞书 | 需要公开仓库 | 个人使用、想要网页展示热榜 |
+| **GitHub Actions** ⭐推荐 | 免费、无需服务器、配置简单、推送到飞书 | 依赖 GitHub、需要配置 Webhook | 需要飞书通知、自动化推送 |
 | **Docker 部署** | 稳定、可控、适合生产环境 | 需要服务器资源 | 企业使用、需要高可用性 |
 | **本地运行** | 开发调试方便 | 需要保持程序运行、不适合长期使用 | 开发测试、快速验证 |
+
+**💡 推荐组合：网页版 + GitHub Actions**
+- 网页版提供精美的可视化界面，随时访问
+- GitHub Actions 定时推送到飞书群，及时通知
 
 ## 快速开始
 
