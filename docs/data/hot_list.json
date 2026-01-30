@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "中国公民在东京街头被劫",
+      "hot_value": 11697610,
+      "label": 1,
+      "event_time": 1769749358
+    },
+    {
+      "rank": 2,
       "word": "为留守儿童打造暖冬生活",
-      "hot_value": 11602016,
+      "hot_value": 11221179,
       "label": 3,
       "event_time": 1769667129
     },
     {
-      "rank": 2,
-      "word": "这口家乡年货才是年味顶配",
-      "hot_value": 10846920,
-      "label": 0,
-      "event_time": 1769743615
-    },
-    {
       "rank": 3,
       "word": "12项举措持续释放服务消费潜力",
-      "hot_value": 10733943,
+      "hot_value": 10857096,
       "label": 0,
       "event_time": 1769744951
     },
     {
       "rank": 4,
-      "word": "热气腾腾中国年",
-      "hot_value": 10355194,
-      "label": 0,
-      "event_time": 1769668727
+      "word": "这口家乡年货才是年味顶配",
+      "hot_value": 10773650,
+      "label": 3,
+      "event_time": 1769743615
     },
     {
       "rank": 5,
-      "word": "帮忙拍照情绪价值要给足了",
-      "hot_value": 9725183,
-      "label": 3,
-      "event_time": 1769586895
-    },
-    {
-      "rank": 6,
-      "word": "李帅回应终身禁足",
-      "hot_value": 9297293,
-      "label": 1,
-      "event_time": 1769742037
-    },
-    {
-      "rank": 7,
-      "word": "中国公民在东京街头被劫",
-      "hot_value": 8095882,
-      "label": 1,
-      "event_time": 1769749358
-    },
-    {
-      "rank": 8,
-      "word": "缅北徐发启犯罪集团案宣判",
-      "hot_value": 8062153,
-      "label": 0,
-      "event_time": 1769748779
-    },
-    {
-      "rank": 9,
       "word": "中方回应“日本或强登钓鱼岛”",
-      "hot_value": 7811858,
-      "label": 0,
+      "hot_value": 10192417,
+      "label": 3,
       "event_time": 1769685238
     },
     {
-      "rank": 10,
+      "rank": 6,
       "word": "SpaceX被曝拟合并xAI",
-      "hot_value": 7800614,
-      "label": 0,
+      "hot_value": 10038344,
+      "label": 3,
       "event_time": 1769744830
     },
     {
-      "rank": 11,
-      "word": "解读尼帕病毒的传播局限性",
-      "hot_value": 7783820,
+      "rank": 7,
+      "word": "缅北徐发启犯罪集团案宣判",
+      "hot_value": 8406543,
       "label": 3,
-      "event_time": 1769682678
+      "event_time": 1769748779
     },
     {
-      "rank": 12,
+      "rank": 8,
       "word": "新疆一景区封山劝返游客系谣言",
-      "hot_value": 7772882,
+      "hot_value": 7822803,
       "label": 16,
       "event_time": 1769735198
     },
     {
-      "rank": 13,
-      "word": "繁华落尽开播",
-      "hot_value": 7745872,
-      "label": 11,
-      "event_time": 1769742517
+      "rank": 9,
+      "word": "外交部回应巴拿马涉港口有关裁决",
+      "hot_value": 7813876,
+      "label": 1,
+      "event_time": 1769758921
     },
     {
-      "rank": 14,
+      "rank": 10,
       "word": "守候今晚杨紫的生命树",
-      "hot_value": 7739909,
+      "hot_value": 7777694,
       "label": 8,
       "event_time": 1769745001
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "word": "繁华落尽开播",
+      "hot_value": 7749168,
+      "label": 11,
+      "event_time": 1769742517
+    },
+    {
+      "rank": 12,
       "word": "杨幂孙俪 总台视后",
-      "hot_value": 7736139,
+      "hot_value": 7746504,
       "label": 3,
       "event_time": 1769698794
     },
     {
-      "rank": 16,
+      "rank": 13,
       "word": "也没人告诉我胡彦斌这么会整活啊",
-      "hot_value": 7733981,
+      "hot_value": 7731626,
       "label": 1,
       "event_time": 1769757353
     },
     {
+      "rank": 14,
+      "word": "电影镖人一键转场江湖",
+      "hot_value": 7731466,
+      "label": 3,
+      "event_time": 1769740171
+    },
+    {
+      "rank": 15,
+      "word": "火影手游神驹佑将斑上线",
+      "hot_value": 7728206,
+      "label": 0,
+      "event_time": 1769748156
+    },
+    {
+      "rank": 16,
+      "word": "不是电影是蔡徐坤新专MV",
+      "hot_value": 7721374,
+      "label": 3,
+      "event_time": 1769746808
+    },
+    {
       "rank": 17,
       "word": "有罪之身用拉扯感把人骗进去虐",
-      "hot_value": 7732518,
+      "hot_value": 7719649,
       "label": 11,
       "event_time": 1769745803
     },
     {
       "rank": 18,
-      "word": "火影手游神驹佑将斑上线",
-      "hot_value": 7722877,
-      "label": 1,
-      "event_time": 1769748156
+      "word": "国风DJ摇出女儿心如水",
+      "hot_value": 7718731,
+      "label": 9,
+      "event_time": 1769689371
     },
     {
       "rank": 19,
-      "word": "不是电影是蔡徐坤新专MV",
-      "hot_value": 7719473,
-      "label": 0,
-      "event_time": 1769746808
+      "word": "抖音ACG新春会下猛料了",
+      "hot_value": 7718053,
+      "label": 1,
+      "event_time": 1769748200
     },
     {
       "rank": 20,
-      "word": "刘玫是日落所有人的劫",
-      "hot_value": 7713545,
-      "label": 13,
-      "event_time": 1769746755
+      "word": "跟着赵丽颖晒日落随拍",
+      "hot_value": 7717020,
+      "label": 8,
+      "event_time": 1769689224
     }
   ],
-  "update_time": "2026-01-30 07:34:22",
+  "update_time": "2026-01-30 08:28:29",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
