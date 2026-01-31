@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "金价银价为何创纪录暴跌",
-      "hot_value": 12072845,
+      "word": "黄金白银大幅下跌 投资者怎么办",
+      "hot_value": 12075446,
       "label": 3,
-      "event_time": 1769844625
+      "event_time": 1769847431
     },
     {
       "rank": 2,
-      "word": "伊朗阿巴斯港楼房爆炸致1死14伤",
-      "hot_value": 12071287,
-      "label": 3,
-      "event_time": 1769860588
-    },
-    {
-      "rank": 3,
-      "word": "2月起这些新规开始施行",
-      "hot_value": 11854960,
-      "label": 0,
-      "event_time": 1769868049
-    },
-    {
-      "rank": 4,
       "word": "这个冬天被抖音网友的善意暖到了",
-      "hot_value": 11533373,
+      "hot_value": 11957916,
       "label": 0,
       "event_time": 1769865797
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "word": "2月起这些新规开始施行",
+      "hot_value": 11827836,
+      "label": 3,
+      "event_time": 1769868049
+    },
+    {
+      "rank": 4,
       "word": "重返狼群导演亦风发声",
-      "hot_value": 10424996,
+      "hot_value": 11386297,
       "label": 3,
       "event_time": 1769838793
     },
     {
+      "rank": 5,
+      "word": "辽宁男篮战胜天津",
+      "hot_value": 10786115,
+      "label": 3,
+      "event_time": 1769855636
+    },
+    {
       "rank": 6,
       "word": "把思念写进一封家书",
-      "hot_value": 10350717,
+      "hot_value": 10289688,
       "label": 0,
       "event_time": 1769772354
     },
     {
       "rank": 7,
-      "word": "辽宁男篮战胜天津",
-      "hot_value": 9183594,
-      "label": 3,
-      "event_time": 1769855636
+      "word": "烟火下心愿皆成",
+      "hot_value": 9167701,
+      "label": 0,
+      "event_time": 1769829448
     },
     {
       "rank": 8,
       "word": "T1 3:0 DK",
-      "hot_value": 9173201,
+      "hot_value": 9116179,
       "label": 0,
       "event_time": 1769853741
     },
     {
       "rank": 9,
-      "word": "烟火下心愿皆成",
-      "hot_value": 9112430,
+      "word": "金价下跌 多品牌设退货手续费",
+      "hot_value": 9091331,
       "label": 0,
-      "event_time": 1769829448
+      "event_time": 1769822214
     },
     {
       "rank": 10,
       "word": "AL 2:1 JDG",
-      "hot_value": 9104080,
+      "hot_value": 9016611,
       "label": 0,
       "event_time": 1769855406
     },
     {
       "rank": 11,
-      "word": "金价下跌 多品牌设退货手续费",
-      "hot_value": 9101998,
-      "label": 0,
-      "event_time": 1769822214
-    },
-    {
-      "rank": 12,
       "word": "延边大学食堂阿姨受邀看春晚彩排",
-      "hot_value": 8836809,
+      "hot_value": 8915949,
       "label": 3,
       "event_time": 1769821783
     },
     {
-      "rank": 13,
+      "rank": 12,
       "word": "解放军军机飞进菲军演划设区",
-      "hot_value": 8685786,
+      "hot_value": 8258506,
       "label": 0,
       "event_time": 1769828439
     },
     {
-      "rank": 14,
-      "word": "黄金白银大幅下跌 投资者怎么办",
-      "hot_value": 8649178,
-      "label": 3,
-      "event_time": 1769847431
-    },
-    {
-      "rank": 15,
-      "word": "应急管理部部长王祥喜被查",
-      "hot_value": 8633800,
+      "rank": 13,
+      "word": "金价银价为何创纪录暴跌",
+      "hot_value": 8207042,
       "label": 0,
-      "event_time": 1769846469
+      "event_time": 1769844625
     },
     {
-      "rank": 16,
-      "word": "俄罗斯重新将14名日本人列为战犯",
-      "hot_value": 8284968,
-      "label": 3,
-      "event_time": 1769817236
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "word": "突然的喜欢大结局",
-      "hot_value": 8280416,
+      "hot_value": 8098967,
       "label": 0,
       "event_time": 1769863872
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "word": "伊朗阿巴斯港楼房爆炸致1死14伤",
+      "hot_value": 7945831,
+      "label": 0,
+      "event_time": 1769860588
+    },
+    {
+      "rank": 16,
       "word": "狼队翻盘NOVA",
-      "hot_value": 7973185,
-      "label": 1,
+      "hot_value": 7846174,
+      "label": 0,
       "event_time": 1769868509
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "word": "俄罗斯重新将14名日本人列为战犯",
+      "hot_value": 7823791,
+      "label": 0,
+      "event_time": 1769817236
+    },
+    {
+      "rank": 18,
       "word": "莱巴金娜首夺澳网桂冠",
-      "hot_value": 7846853,
+      "hot_value": 7813177,
       "label": 0,
       "event_time": 1769855475
     },
     {
+      "rank": 19,
+      "word": "率先在天坛开躺",
+      "hot_value": 7812092,
+      "label": 9,
+      "event_time": 1769865934
+    },
+    {
       "rank": 20,
-      "word": "张帅组合获得澳网女双冠军",
-      "hot_value": 7824683,
-      "label": 0,
-      "event_time": 1769828628
+      "word": "谁还没吃水煮白开水",
+      "hot_value": 7809999,
+      "label": 9,
+      "event_time": 1769860509
     }
   ],
-  "update_time": "2026-01-31 18:20:37",
+  "update_time": "2026-01-31 19:14:53",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
