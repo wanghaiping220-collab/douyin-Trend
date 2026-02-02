@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "南方小土豆勇闯碳水之都",
-      "hot_value": 11855831,
-      "label": 0,
-      "event_time": 1769995872
-    },
-    {
-      "rank": 2,
       "word": "假期姐妹见面就这么拍",
-      "hot_value": 11361576,
+      "hot_value": 11592088,
       "label": 3,
       "event_time": 1769990798
     },
     {
+      "rank": 2,
+      "word": "致在外奔波的你",
+      "hot_value": 11290741,
+      "label": 3,
+      "event_time": 1769930773
+    },
+    {
       "rank": 3,
       "word": "2026年春运启动",
-      "hot_value": 10958402,
+      "hot_value": 11245317,
       "label": 3,
       "event_time": 1769988066
     },
     {
       "rank": 4,
-      "word": "致在外奔波的你",
-      "hot_value": 10744071,
+      "word": "我的过年穿搭准备好了",
+      "hot_value": 10743893,
       "label": 0,
-      "event_time": 1769930773
+      "event_time": 1769916829
     },
     {
       "rank": 5,
       "word": "缅北白家4人被执行死刑",
-      "hot_value": 8796069,
+      "hot_value": 9459939,
       "label": 0,
       "event_time": 1770000044
     },
     {
       "rank": 6,
+      "word": "A股",
+      "hot_value": 8710161,
+      "label": 1,
+      "event_time": 1770011857
+    },
+    {
+      "rank": 7,
       "word": "你的第一波拜年搭子来了",
-      "hot_value": 8745345,
+      "hot_value": 7764092,
       "label": 9,
       "event_time": 1770003585
     },
     {
-      "rank": 7,
-      "word": "我的过年穿搭准备好了",
-      "hot_value": 7799265,
-      "label": 0,
-      "event_time": 1769916829
-    },
-    {
       "rank": 8,
       "word": "腊月农村美食总带着浓浓的暖意",
-      "hot_value": 7786208,
+      "hot_value": 7763519,
       "label": 0,
       "event_time": 1769935342
     },
     {
       "rank": 9,
       "word": "金价暴跌后黄金市场挤满顾客",
-      "hot_value": 7772422,
-      "label": 1,
+      "hot_value": 7755220,
+      "label": 3,
       "event_time": 1770003411
     },
     {
       "rank": 10,
+      "word": "多家银行发布风险提示",
+      "hot_value": 7753254,
+      "label": 1,
+      "event_time": 1769998613
+    },
+    {
+      "rank": 11,
       "word": "哈梅内伊向美国发出严正警告",
-      "hot_value": 7767718,
+      "hot_value": 7752442,
       "label": 0,
       "event_time": 1769935704
     },
     {
-      "rank": 11,
-      "word": "詹姆斯首次替补全明星",
-      "hot_value": 7759978,
-      "label": 3,
-      "event_time": 1769990167
-    },
-    {
       "rank": 12,
       "word": "青龙驱金融谣言",
-      "hot_value": 7756036,
+      "hot_value": 7752229,
       "label": 16,
       "event_time": 1770002415
     },
     {
       "rank": 13,
+      "word": "詹姆斯首次替补全明星",
+      "hot_value": 7751057,
+      "label": 3,
+      "event_time": 1769990167
+    },
+    {
+      "rank": 14,
+      "word": "造车新势力最新销量公布",
+      "hot_value": 7750105,
+      "label": 0,
+      "event_time": 1769954191
+    },
+    {
+      "rank": 15,
+      "word": "南方小土豆勇闯碳水之都",
+      "hot_value": 7738844,
+      "label": 0,
+      "event_time": 1769995872
+    },
+    {
+      "rank": 16,
       "word": "再听一次武家坡",
-      "hot_value": 7736725,
+      "hot_value": 7736229,
       "label": 3,
       "event_time": 1769941149
     },
     {
-      "rank": 14,
+      "rank": 17,
       "word": "论雪景和谢却山的适配度",
-      "hot_value": 7734966,
+      "hot_value": 7727054,
       "label": 11,
       "event_time": 1769957469
     },
     {
-      "rank": 15,
-      "word": "看年少有为笑麻了",
-      "hot_value": 7730870,
-      "label": 11,
-      "event_time": 1769931774
-    },
-    {
-      "rank": 16,
-      "word": "马德里不思议手势舞",
-      "hot_value": 7709619,
-      "label": 9,
-      "event_time": 1769926260
-    },
-    {
-      "rank": 17,
-      "word": "MC进入文旅共创时代",
-      "hot_value": 7706226,
-      "label": 8,
-      "event_time": 1769923543
-    },
-    {
       "rank": 18,
-      "word": "问心2杀青",
-      "hot_value": 7700626,
-      "label": 8,
-      "event_time": 1770005406
+      "word": "网剧成何体统定档0206",
+      "hot_value": 7724284,
+      "label": 5,
+      "event_time": 1770001150
     },
     {
       "rank": 19,
       "word": "白鹿新剧红衣舞剑依旧权威",
-      "hot_value": 7696616,
+      "hot_value": 7715812,
       "label": 5,
       "event_time": 1770002898
     },
     {
       "rank": 20,
-      "word": "魏大勋孙千共创了鸣雪he版结局",
-      "hot_value": 7695123,
-      "label": 0,
-      "event_time": 1769948166
+      "word": "飞驰3贾冰复刻赛道永远的王",
+      "hot_value": 7710508,
+      "label": 5,
+      "event_time": 1770002517
     }
   ],
-  "update_time": "2026-02-02 05:58:22",
+  "update_time": "2026-02-02 07:02:51",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
