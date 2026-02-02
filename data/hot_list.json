@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中方要求美方立即停止错误行径",
-      "hot_value": 12111022,
-      "label": 0,
+      "hot_value": 12073367,
+      "label": 3,
       "event_time": 1770019421
     },
     {
       "rank": 2,
+      "word": "伊朗总统已下令启动核谈判",
+      "hot_value": 12043114,
+      "label": 3,
+      "event_time": 1770030015
+    },
+    {
+      "rank": 3,
       "word": "春节档国产片题材百花齐放",
-      "hot_value": 12099580,
+      "hot_value": 11960075,
       "label": 3,
       "event_time": 1770036531
     },
     {
-      "rank": 3,
+      "rank": 4,
       "word": "永远会被陌生人的善意感动",
-      "hot_value": 12065969,
+      "hot_value": 11768958,
       "label": 3,
       "event_time": 1770035883
     },
     {
-      "rank": 4,
-      "word": "江苏盐城一座在建桥梁垮塌",
-      "hot_value": 11108985,
-      "label": 0,
-      "event_time": 1770047573
-    },
-    {
       "rank": 5,
       "word": "音乐人袁惟仁去世",
-      "hot_value": 10516096,
+      "hot_value": 10795602,
       "label": 0,
       "event_time": 1770024436
     },
     {
       "rank": 6,
-      "word": "第一届黑羽绒服选美大赛",
-      "hot_value": 9193412,
+      "word": "江苏盐城一座在建桥梁垮塌",
+      "hot_value": 9211149,
       "label": 0,
-      "event_time": 1770042032
+      "event_time": 1770047573
     },
     {
       "rank": 7,
-      "word": "在MC里看见中式美学",
-      "hot_value": 9125534,
-      "label": 8,
-      "event_time": 1770031432
-    },
-    {
-      "rank": 8,
       "word": "今年你回家过年吗",
-      "hot_value": 9109744,
+      "hot_value": 9172820,
       "label": 0,
       "event_time": 1770019872
     },
     {
-      "rank": 9,
-      "word": "二月对我好一点吧",
-      "hot_value": 8995337,
-      "label": 0,
-      "event_time": 1770013926
-    },
-    {
-      "rank": 10,
-      "word": "我有节目献给春节",
-      "hot_value": 8895056,
-      "label": 0,
-      "event_time": 1770005657
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "word": "春运只为奔赴那一场共同的团圆",
-      "hot_value": 8813787,
+      "hot_value": 9132331,
       "label": 0,
       "event_time": 1770019763
     },
     {
-      "rank": 12,
+      "rank": 9,
       "word": "唐一军被判无期",
-      "hot_value": 8350020,
+      "hot_value": 9127934,
       "label": 0,
       "event_time": 1770022923
     },
     {
-      "rank": 13,
-      "word": "斯塔默访华后称英国基建速度慢",
-      "hot_value": 8348599,
+      "rank": 10,
+      "word": "第一届黑羽绒服选美大赛",
+      "hot_value": 8927464,
       "label": 0,
+      "event_time": 1770042032
+    },
+    {
+      "rank": 11,
+      "word": "我有节目献给春节",
+      "hot_value": 8669462,
+      "label": 0,
+      "event_time": 1770005657
+    },
+    {
+      "rank": 12,
+      "word": "斯塔默访华后称英国基建速度慢",
+      "hot_value": 8184763,
+      "label": 3,
       "event_time": 1770029824
     },
     {
+      "rank": 13,
+      "word": "在MC里看见中式美学",
+      "hot_value": 8006474,
+      "label": 8,
+      "event_time": 1770031432
+    },
+    {
       "rank": 14,
-      "word": "C罗拒绝为利雅得胜利出战",
-      "hot_value": 7885425,
+      "word": "二月对我好一点吧",
+      "hot_value": 7951495,
       "label": 0,
-      "event_time": 1770004070
+      "event_time": 1770013926
     },
     {
       "rank": 15,
-      "word": "网剧成何体统定档0206",
-      "hot_value": 7832925,
-      "label": 5,
-      "event_time": 1770001150
-    },
-    {
-      "rank": 16,
-      "word": "熬夜对我生活的影响",
-      "hot_value": 7804269,
-      "label": 9,
-      "event_time": 1770043406
-    },
-    {
-      "rank": 17,
       "word": "手工整活大赛开赛啦",
-      "hot_value": 7799693,
+      "hot_value": 7853997,
       "label": 8,
       "event_time": 1770018502
     },
     {
-      "rank": 18,
-      "word": "再听一次武家坡",
-      "hot_value": 7785585,
-      "label": 3,
-      "event_time": 1769941149
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "word": "手帐界也有霉豆腐了",
-      "hot_value": 7771389,
+      "hot_value": 7847557,
       "label": 0,
       "event_time": 1770018249
     },
     {
+      "rank": 17,
+      "word": "一口气看懂爱泼斯坦案背后真相",
+      "hot_value": 7824239,
+      "label": 3,
+      "event_time": 1770026328
+    },
+    {
+      "rank": 18,
+      "word": "熬夜对我生活的影响",
+      "hot_value": 7821037,
+      "label": 9,
+      "event_time": 1770043406
+    },
+    {
+      "rank": 19,
+      "word": "人民网评宝可梦事件",
+      "hot_value": 7799554,
+      "label": 0,
+      "event_time": 1770015179
+    },
+    {
       "rank": 20,
       "word": "蓝盈莹夜色正浓人间清醒MVP",
-      "hot_value": 7759151,
+      "hot_value": 7790805,
       "label": 8,
       "event_time": 1770026724
     }
   ],
-  "update_time": "2026-02-02 18:31:30",
+  "update_time": "2026-02-02 23:20:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
