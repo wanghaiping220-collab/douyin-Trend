@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "俄方向日本发出警告",
-      "hot_value": 12096668,
+      "hot_value": 12092682,
       "label": 3,
       "event_time": 1770109711
     },
     {
       "rank": 2,
       "word": "扫雷吃东西挑战",
-      "hot_value": 12053708,
+      "hot_value": 12034385,
       "label": 3,
       "event_time": 1770114580
     },
     {
       "rank": 3,
       "word": "2026中央一号文件发布",
-      "hot_value": 11913498,
+      "hot_value": 11732237,
       "label": 3,
       "event_time": 1770113928
     },
     {
       "rank": 4,
-      "word": "记录我的春运返乡故事",
-      "hot_value": 11856123,
-      "label": 3,
-      "event_time": 1770091989
-    },
-    {
-      "rank": 5,
       "word": "万物皆可拼豆",
-      "hot_value": 11230607,
-      "label": 0,
+      "hot_value": 11663240,
+      "label": 3,
       "event_time": 1770106285
     },
     {
+      "rank": 5,
+      "word": "记录我的春运返乡故事",
+      "hot_value": 11074226,
+      "label": 0,
+      "event_time": 1770091989
+    },
+    {
       "rank": 6,
+      "word": "李微微一审被判无期",
+      "hot_value": 11016213,
+      "label": 3,
+      "event_time": 1770109355
+    },
+    {
+      "rank": 7,
       "word": "春节美食挑战赛轮番开场啦",
-      "hot_value": 11157716,
+      "hot_value": 9536575,
       "label": 0,
       "event_time": 1770095672
     },
     {
-      "rank": 7,
-      "word": "李微微一审被判无期",
-      "hot_value": 9721933,
-      "label": 0,
-      "event_time": 1770109355
-    },
-    {
       "rank": 8,
       "word": "走过属于我们的冬天",
-      "hot_value": 9180945,
+      "hot_value": 9273516,
       "label": 0,
       "event_time": 1770080812
     },
     {
       "rank": 9,
+      "word": "警方通报“夫妻吃娃娃菜中毒”",
+      "hot_value": 9220735,
+      "label": 0,
+      "event_time": 1770129821
+    },
+    {
+      "rank": 10,
       "word": "嘉禾望岗为什么火了",
-      "hot_value": 9180919,
+      "hot_value": 9177104,
       "label": 0,
       "event_time": 1770038221
     },
     {
-      "rank": 10,
-      "word": "被冬奥会中国代表团队服种草了",
-      "hot_value": 9127712,
-      "label": 3,
-      "event_time": 1770094661
-    },
-    {
       "rank": 11,
       "word": "李微漪确认格林离世",
-      "hot_value": 9097674,
+      "hot_value": 9121061,
       "label": 8,
       "event_time": 1770002615
     },
     {
       "rank": 12,
       "word": "多地网传“人贩子出没”系谣言",
-      "hot_value": 9080465,
+      "hot_value": 9105055,
       "label": 16,
       "event_time": 1770117661
     },
     {
       "rank": 13,
-      "word": "襄阳通报精神医院骗保",
-      "hot_value": 9074795,
-      "label": 0,
-      "event_time": 1770086683
+      "word": "被冬奥会中国代表团队服种草了",
+      "hot_value": 9045147,
+      "label": 3,
+      "event_time": 1770094661
     },
     {
       "rank": 14,
       "word": "风过留痕凶手可怜又可恨",
-      "hot_value": 9002183,
+      "hot_value": 8964519,
       "label": 5,
       "event_time": 1770099587
     },
     {
       "rank": 15,
       "word": "央行将开展8000亿元买断式逆回购",
-      "hot_value": 8996850,
+      "hot_value": 8787655,
       "label": 3,
       "event_time": 1770121363
     },
     {
       "rank": 16,
-      "word": "警方通报“夫妻吃娃娃菜中毒”",
-      "hot_value": 8986913,
-      "label": 0,
-      "event_time": 1770129821
-    },
-    {
-      "rank": 17,
       "word": "哈登或将离开快船",
-      "hot_value": 8927266,
+      "hot_value": 8667417,
       "label": 0,
       "event_time": 1770094130
     },
     {
+      "rank": 17,
+      "word": "外交部回应日本海底挖到稀土泥",
+      "hot_value": 8362567,
+      "label": 3,
+      "event_time": 1770101846
+    },
+    {
       "rank": 18,
       "word": "爱泼斯坦案“吃人”传闻是真的吗",
-      "hot_value": 8793727,
+      "hot_value": 8198714,
       "label": 0,
       "event_time": 1770095302
     },
     {
       "rank": 19,
       "word": "詹姆斯或将在今夏离开湖人",
-      "hot_value": 8749027,
-      "label": 3,
+      "hot_value": 7824600,
+      "label": 0,
       "event_time": 1770080561
     },
     {
       "rank": 20,
-      "word": "外交部回应日本海底挖到稀土泥",
-      "hot_value": 7854130,
+      "word": "襄阳通报精神医院骗保",
+      "hot_value": 7819023,
       "label": 0,
-      "event_time": 1770101846
+      "event_time": 1770086683
     }
   ],
-  "update_time": "2026-02-03 22:21:37",
+  "update_time": "2026-02-03 23:21:05",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
