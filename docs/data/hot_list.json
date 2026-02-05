@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "立陶宛承认对中国犯了巨大错误",
-      "hot_value": 11660813,
-      "label": 3,
-      "event_time": 1770251529
-    },
-    {
-      "rank": 2,
       "word": "加6成受访者支持进口中国电车",
-      "hot_value": 11591988,
-      "label": 0,
+      "hot_value": 12211986,
+      "label": 3,
       "event_time": 1770264971
     },
     {
-      "rank": 3,
-      "word": "我国网民规模达11.25亿人",
-      "hot_value": 11251513,
-      "label": 0,
-      "event_time": 1770268804
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "word": "彩虹霉豆腐申请出战",
-      "hot_value": 11129166,
+      "hot_value": 11722345,
       "label": 3,
       "event_time": 1770260864
     },
     {
-      "rank": 5,
-      "word": "小洛熙事件调查结果",
-      "hot_value": 10179677,
-      "label": 0,
-      "event_time": 1770276614
+      "rank": 3,
+      "word": "我国网民规模达11.25亿人",
+      "hot_value": 11189531,
+      "label": 3,
+      "event_time": 1770268804
     },
     {
-      "rank": 6,
-      "word": "各地春节年俗地图",
-      "hot_value": 9079859,
-      "label": 0,
-      "event_time": 1770185289
-    },
-    {
-      "rank": 7,
-      "word": "第一口春味是家乡的年味",
-      "hot_value": 8994174,
-      "label": 0,
-      "event_time": 1770175706
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "word": "非遗祈福百景图",
-      "hot_value": 8744757,
-      "label": 0,
+      "hot_value": 11094183,
+      "label": 3,
       "event_time": 1770263618
     },
     {
-      "rank": 9,
-      "word": "和平精英小火人联动",
-      "hot_value": 8563196,
-      "label": 9,
-      "event_time": 1770261123
-    },
-    {
-      "rank": 10,
-      "word": "唐宫奇案开播",
-      "hot_value": 8473191,
-      "label": 8,
-      "event_time": 1770263044
-    },
-    {
-      "rank": 11,
-      "word": "王者马限貂蝉美出长安盛世",
-      "hot_value": 8216107,
+      "rank": 5,
+      "word": "第一口春味是家乡的年味",
+      "hot_value": 10188479,
       "label": 3,
-      "event_time": 1770261187
+      "event_time": 1770175706
     },
     {
-      "rank": 12,
+      "rank": 6,
+      "word": "美伊谈判濒临破裂后敲定地点",
+      "hot_value": 10166868,
+      "label": 0,
+      "event_time": 1770246914
+    },
+    {
+      "rank": 7,
+      "word": "中方回应长和集团将发起国际仲裁",
+      "hot_value": 9046934,
+      "label": 3,
+      "event_time": 1770278506
+    },
+    {
+      "rank": 8,
+      "word": "中国网络视听盛典",
+      "hot_value": 8957584,
+      "label": 0,
+      "event_time": 1770276343
+    },
+    {
+      "rank": 9,
       "word": "勇士老鹰完成交易",
-      "hot_value": 7852974,
+      "hot_value": 8741167,
       "label": 3,
       "event_time": 1770266580
     },
     {
+      "rank": 10,
+      "word": "和平精英小火人联动",
+      "hot_value": 8552880,
+      "label": 9,
+      "event_time": 1770261123
+    },
+    {
+      "rank": 11,
+      "word": "小洛熙事件调查结果",
+      "hot_value": 8536816,
+      "label": 0,
+      "event_time": 1770276614
+    },
+    {
+      "rank": 12,
+      "word": "唐宫奇案开播",
+      "hot_value": 7966320,
+      "label": 8,
+      "event_time": 1770263044
+    },
+    {
       "rank": 13,
+      "word": "卫健委回应襄阳宜昌精神病院问题",
+      "hot_value": 7940026,
+      "label": 1,
+      "event_time": 1770294877
+    },
+    {
+      "rank": 14,
       "word": "中央电视塔灯光秀",
-      "hot_value": 7788982,
+      "hot_value": 7873368,
       "label": 1,
       "event_time": 1770289825
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "word": "东风奕派就eπ007事故发表声明",
+      "hot_value": 7848824,
+      "label": 1,
+      "event_time": 1770283731
+    },
+    {
+      "rank": 16,
+      "word": "王者马限貂蝉美出长安盛世",
+      "hot_value": 7782109,
+      "label": 0,
+      "event_time": 1770261187
+    },
+    {
+      "rank": 17,
+      "word": "立陶宛承认对中国犯了巨大错误",
+      "hot_value": 7755126,
+      "label": 0,
+      "event_time": 1770251529
+    },
+    {
+      "rank": 18,
       "word": "浓眉被交易至奇才",
-      "hot_value": 7774931,
+      "hot_value": 7742438,
       "label": 0,
       "event_time": 1770246259
     },
     {
-      "rank": 15,
-      "word": "中方回应长和集团将发起国际仲裁",
-      "hot_value": 7761090,
-      "label": 0,
-      "event_time": 1770278506
-    },
-    {
-      "rank": 16,
-      "word": "唱相亲相爱迎团圆新年",
-      "hot_value": 7760366,
-      "label": 9,
-      "event_time": 1770269481
-    },
-    {
-      "rank": 17,
-      "word": "惊蛰无声国安小队黑衣就位",
-      "hot_value": 7747737,
-      "label": 5,
-      "event_time": 1770265666
-    },
-    {
-      "rank": 18,
-      "word": "王者荣耀新春版本前瞻",
-      "hot_value": 7738824,
-      "label": 3,
-      "event_time": 1770261395
-    },
-    {
       "rank": 19,
-      "word": "大哥白椿终于回来了",
-      "hot_value": 7730517,
-      "label": 5,
-      "event_time": 1770282343
+      "word": "长大了带父母来北京旅游圆梦",
+      "hot_value": 7741166,
+      "label": 0,
+      "event_time": 1770173624
     },
     {
       "rank": 20,
-      "word": "中国网络视听盛典",
-      "hot_value": 7726888,
-      "label": 0,
-      "event_time": 1770276343
+      "word": "惊蛰无声国安小队黑衣就位",
+      "hot_value": 7738645,
+      "label": 5,
+      "event_time": 1770265666
     }
   ],
-  "update_time": "2026-02-05 11:29:15",
+  "update_time": "2026-02-05 12:40:02",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
