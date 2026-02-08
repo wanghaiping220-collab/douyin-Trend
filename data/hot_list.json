@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "赵心童世界大奖赛夺冠",
-      "hot_value": 12405185,
-      "label": "",
-      "event_time": 1770560713
-    },
-    {
-      "rank": 2,
       "word": "亚洲杯王楚钦夺冠",
-      "hot_value": 12108255,
+      "hot_value": 12403201,
       "label": "爆",
       "event_time": 1770538688
     },
     {
+      "rank": 2,
+      "word": "赵心童世界大奖赛夺冠",
+      "hot_value": 12105947,
+      "label": "",
+      "event_time": 1770560713
+    },
+    {
       "rank": 3,
       "word": "年货快递春节不停",
-      "hot_value": 11902633,
+      "hot_value": 11887985,
       "label": "爆",
       "event_time": 1770555473
     },
     {
       "rank": 4,
       "word": "亚洲杯孙颖莎4:3王曼昱夺冠",
-      "hot_value": 11424975,
+      "hot_value": 11344826,
       "label": "爆",
       "event_time": 1770540727
     },
     {
       "rank": 5,
       "word": "新年流光贵女妆",
-      "hot_value": 10742168,
+      "hot_value": 10695174,
       "label": "荐",
       "event_time": 1770536774
     },
     {
       "rank": 6,
       "word": "新年马“甲”变装挑战",
-      "hot_value": 10659452,
+      "hot_value": 10694479,
       "label": "",
       "event_time": 1770522581
     },
     {
       "rank": 7,
       "word": "中国黄金调整回购规则",
-      "hot_value": 9465600,
+      "hot_value": 9534642,
       "label": "爆",
       "event_time": 1770513660
     },
     {
       "rank": 8,
       "word": "IEM克拉科夫半决赛",
-      "hot_value": 9353830,
+      "hot_value": 9321383,
       "label": "爆",
       "event_time": 1770507514
     },
     {
       "rank": 9,
       "word": "日本执政联盟已获众议院过半议席",
-      "hot_value": 9295919,
+      "hot_value": 9303046,
       "label": "爆",
       "event_time": 1770548750
     },
     {
       "rank": 10,
       "word": "CBA杯赛上海112:83山东",
-      "hot_value": 9199879,
+      "hot_value": 9244811,
       "label": "爆",
       "event_time": 1770525871
     },
     {
       "rank": 11,
       "word": "中式台球的风吹到了斯诺克",
-      "hot_value": 9199261,
+      "hot_value": 9198343,
       "label": "爆",
       "event_time": 1770519600
     },
     {
       "rank": 12,
       "word": "“重庆民政局招聘”系谣言",
-      "hot_value": 9113218,
+      "hot_value": 9111496,
       "label": "谣言",
       "event_time": 1770558567
     },
     {
       "rank": 13,
       "word": "吴克群用视频为普通人“写诗”",
-      "hot_value": 9081349,
+      "hot_value": 9072369,
       "label": "爆",
       "event_time": 1770533553
     },
     {
       "rank": 14,
       "word": "外交部回应巴基斯坦爆炸事件",
-      "hot_value": 9057386,
+      "hot_value": 9024140,
       "label": "",
       "event_time": 1770523998
     },
     {
       "rank": 15,
       "word": "苏翊鸣发文感谢家人教练",
-      "hot_value": 8846354,
+      "hot_value": 8922350,
       "label": "荐",
       "event_time": 1770548057
     },
     {
       "rank": 16,
       "word": "三角洲凌霄戍卫10日登场",
-      "hot_value": 8473375,
+      "hot_value": 8338807,
       "label": "爆",
       "event_time": 1770507616
     },
     {
       "rank": 17,
-      "word": "韩国交易所误发超400亿美元比特币",
-      "hot_value": 8369100,
-      "label": "",
-      "event_time": 1770509123
-    },
-    {
-      "rank": 18,
       "word": "巴基斯坦宣布逮捕爆炸案主谋",
-      "hot_value": 8180766,
+      "hot_value": 8192170,
       "label": "",
       "event_time": 1770516831
     },
     {
-      "rank": 19,
+      "rank": 18,
       "word": "丁真劝向佐退出娱乐圈",
-      "hot_value": 8162149,
+      "hot_value": 7906362,
       "label": "美食",
       "event_time": 1770473624
     },
     {
+      "rank": 19,
+      "word": "乐评人评蔡徐坤新专主打歌",
+      "hot_value": 7789335,
+      "label": "",
+      "event_time": 1770543925
+    },
+    {
       "rank": 20,
-      "word": "权志龙跳刀马",
-      "hot_value": 7920426,
-      "label": "爆",
-      "event_time": 1770531047
+      "word": "鞠婧祎无限流的神",
+      "hot_value": 7788189,
+      "label": "娱乐",
+      "event_time": 1770551053
     }
   ],
-  "update_time": "2026-02-08 18:24:12",
+  "update_time": "2026-02-08 19:18:35",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
