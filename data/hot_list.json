@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "外交部回应巴基斯坦爆炸事件",
-      "hot_value": 12464298,
-      "label": "",
-      "event_time": 1770523998
-    },
-    {
-      "rank": 2,
       "word": "用正统年味给邪修上一课",
-      "hot_value": 11716058,
+      "hot_value": 11862503,
       "label": "爆",
       "event_time": 1770520822
     },
     {
+      "rank": 2,
+      "word": "万岁山勇敢的人在控场",
+      "hot_value": 11072079,
+      "label": "爆",
+      "event_time": 1770446244
+    },
+    {
       "rank": 3,
       "word": "在50万米高空卫星能拍到什么",
-      "hot_value": 10962916,
-      "label": "新",
+      "hot_value": 10970065,
+      "label": "",
       "event_time": 1770538609
     },
     {
       "rank": 4,
       "word": "新年马“甲”变装挑战",
-      "hot_value": 10899140,
-      "label": "",
+      "hot_value": 10968913,
+      "label": "爆",
       "event_time": 1770522581
     },
     {
       "rank": 5,
-      "word": "万岁山勇敢的人在控场",
-      "hot_value": 10351508,
-      "label": "",
-      "event_time": 1770446244
-    },
-    {
-      "rank": 6,
       "word": "原来泡面叉子是这么用的",
-      "hot_value": 10301460,
+      "hot_value": 10280539,
       "label": "",
       "event_time": 1770446962
     },
     {
-      "rank": 7,
-      "word": "三角洲凌霄戍卫10日登场",
-      "hot_value": 9204485,
-      "label": "",
-      "event_time": 1770507616
-    },
-    {
-      "rank": 8,
-      "word": "跟着吴碧霞高瑞璇逛水运仪象台",
-      "hot_value": 9138734,
-      "label": "新",
-      "event_time": 1770539123
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "word": "蛋仔寻宝队超市隐藏彩蛋",
-      "hot_value": 9114882,
+      "hot_value": 9112694,
       "label": "爆",
       "event_time": 1770457701
     },
     {
-      "rank": 10,
-      "word": "落日雨辉盛典同框好甜",
-      "hot_value": 9098312,
-      "label": "新",
-      "event_time": 1770539163
-    },
-    {
-      "rank": 11,
-      "word": "王曼昱4:2张本美和",
-      "hot_value": 9080359,
+      "rank": 7,
+      "word": "外交部回应巴基斯坦爆炸事件",
+      "hot_value": 9069143,
       "label": "",
-      "event_time": 1770534768
+      "event_time": 1770523998
     },
     {
-      "rank": 12,
-      "word": "春运出行这些谣言请当心",
-      "hot_value": 9067845,
-      "label": "谣言",
-      "event_time": 1770520426
-    },
-    {
-      "rank": 13,
-      "word": "吴克群用视频为普通人“写诗”",
-      "hot_value": 9064377,
-      "label": "",
-      "event_time": 1770533553
-    },
-    {
-      "rank": 14,
-      "word": "孙颖莎晋级亚洲杯女单决赛",
-      "hot_value": 8996796,
-      "label": "",
-      "event_time": 1770521633
-    },
-    {
-      "rank": 15,
+      "rank": 8,
       "word": "中国黄金调整回购规则",
-      "hot_value": 8982932,
+      "hot_value": 9067896,
       "label": "爆",
       "event_time": 1770513660
     },
     {
-      "rank": 16,
-      "word": "俄军中将遇袭案两名嫌疑人被抓",
-      "hot_value": 8922675,
-      "label": "",
-      "event_time": 1770469062
+      "rank": 9,
+      "word": "民调显示日本执政联盟票数过半",
+      "hot_value": 9037893,
+      "label": "新",
+      "event_time": 1770548750
     },
     {
-      "rank": 17,
-      "word": "苏翊鸣赛后和父母激动相拥",
-      "hot_value": 8527588,
-      "label": "爆",
-      "event_time": 1770511373
-    },
-    {
-      "rank": 18,
+      "rank": 10,
       "word": "IEM克拉科夫半决赛",
-      "hot_value": 8489692,
+      "hot_value": 8983152,
       "label": "爆",
       "event_time": 1770507514
     },
     {
-      "rank": 19,
+      "rank": 11,
+      "word": "春运出行这些谣言请当心",
+      "hot_value": 8973734,
+      "label": "谣言",
+      "event_time": 1770520426
+    },
+    {
+      "rank": 12,
+      "word": "吴克群用视频为普通人“写诗”",
+      "hot_value": 8942732,
+      "label": "爆",
+      "event_time": 1770533553
+    },
+    {
+      "rank": 13,
+      "word": "三角洲凌霄戍卫10日登场",
+      "hot_value": 8866945,
+      "label": "爆",
+      "event_time": 1770507616
+    },
+    {
+      "rank": 14,
+      "word": "苏翊鸣赛后和父母激动相拥",
+      "hot_value": 8785898,
+      "label": "爆",
+      "event_time": 1770511373
+    },
+    {
+      "rank": 15,
       "word": "中式台球的风吹到了斯诺克",
-      "hot_value": 8305310,
+      "hot_value": 8672177,
       "label": "爆",
       "event_time": 1770519600
     },
     {
-      "rank": 20,
+      "rank": 16,
       "word": "刘梦婷发文决赛继续加油",
-      "hot_value": 8278964,
+      "hot_value": 8618346,
       "label": "爆",
       "event_time": 1770478146
+    },
+    {
+      "rank": 17,
+      "word": "俄军中将遇袭案两名嫌疑人被抓",
+      "hot_value": 8242534,
+      "label": "",
+      "event_time": 1770469062
+    },
+    {
+      "rank": 18,
+      "word": "丁真劝向佐退出娱乐圈",
+      "hot_value": 8029336,
+      "label": "美食",
+      "event_time": 1770473624
+    },
+    {
+      "rank": 19,
+      "word": "我就当我的爱是罪是东流水",
+      "hot_value": 7759151,
+      "label": "音乐",
+      "event_time": 1770422023
+    },
+    {
+      "rank": 20,
+      "word": "太平年赵匡胤建立大宋",
+      "hot_value": 7755600,
+      "label": "爆",
+      "event_time": 1770521369
     }
   ],
-  "update_time": "2026-02-08 10:17:23",
+  "update_time": "2026-02-08 11:16:08",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
