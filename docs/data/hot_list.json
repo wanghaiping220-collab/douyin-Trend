@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "孙颖莎晋级亚洲杯女单决赛",
-      "hot_value": 11556707,
+      "hot_value": 11815229,
       "label": "新",
       "event_time": 1770521633
     },
     {
       "rank": 2,
       "word": "万岁山勇敢的人在控场",
-      "hot_value": 11072418,
+      "hot_value": 11285782,
       "label": "爆",
       "event_time": 1770446244
     },
     {
       "rank": 3,
       "word": "推进国家算力互联互通节点体系建设",
-      "hot_value": 10915773,
-      "label": "",
+      "hot_value": 10944014,
+      "label": "爆",
       "event_time": 1770520888
     },
     {
       "rank": 4,
       "word": "原来泡面叉子是这么用的",
-      "hot_value": 10839741,
+      "hot_value": 10880696,
       "label": "爆",
       "event_time": 1770446962
     },
     {
       "rank": 5,
+      "word": "用正统年味给邪修上一课",
+      "hot_value": 10275688,
+      "label": "新",
+      "event_time": 1770520822
+    },
+    {
+      "rank": 6,
       "word": "苏翊鸣大跳台铜牌",
-      "hot_value": 10288101,
+      "hot_value": 10269228,
       "label": "",
       "event_time": 1770447062
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "蛋仔寻宝队超市隐藏彩蛋",
-      "hot_value": 10267268,
+      "hot_value": 9169944,
       "label": "",
       "event_time": 1770457701
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "word": "四川北川县发生3.3级地震",
+      "hot_value": 9168042,
+      "label": "娱乐",
+      "event_time": 1770520602
+    },
+    {
+      "rank": 9,
       "word": "苏翊鸣赛后和父母激动相拥",
-      "hot_value": 9182045,
+      "hot_value": 9149292,
       "label": "爆",
       "event_time": 1770511373
     },
     {
-      "rank": 8,
+      "rank": 10,
       "word": "刘梦婷发文决赛继续加油",
-      "hot_value": 9145065,
+      "hot_value": 9108813,
       "label": "",
       "event_time": 1770478146
     },
     {
-      "rank": 9,
+      "rank": 11,
       "word": "AG晋级圣地亚哥大师赛",
-      "hot_value": 8914129,
+      "hot_value": 9083661,
       "label": "",
       "event_time": 1770506396
     },
     {
-      "rank": 10,
+      "rank": 12,
       "word": "春运出行这些谣言请当心",
-      "hot_value": 8786760,
+      "hot_value": 9075069,
       "label": "谣言",
       "event_time": 1770520426
     },
     {
-      "rank": 11,
+      "rank": 13,
       "word": "高市早苗喊话俄罗斯",
-      "hot_value": 8696634,
+      "hot_value": 9042690,
       "label": "",
       "event_time": 1770507502
     },
     {
-      "rank": 12,
+      "rank": 14,
       "word": "谷爱凌第二跳发挥出色晋级决赛",
-      "hot_value": 7963383,
+      "hot_value": 8679539,
       "label": "",
       "event_time": 1770425149
     },
     {
-      "rank": 13,
+      "rank": 15,
       "word": "我就当我的爱是罪是东流水",
-      "hot_value": 7804411,
+      "hot_value": 8075981,
       "label": "音乐",
       "event_time": 1770422023
     },
     {
-      "rank": 14,
+      "rank": 16,
+      "word": "朱易陪你聊冬奥花样滑冰",
+      "hot_value": 7977096,
+      "label": "",
+      "event_time": 1770470843
+    },
+    {
+      "rank": 17,
       "word": "管乐为送礼事件道歉",
-      "hot_value": 7765770,
+      "hot_value": 7769328,
       "label": "爆",
       "event_time": 1770459658
     },
     {
-      "rank": 15,
-      "word": "丁真劝向佐退出娱乐圈",
-      "hot_value": 7758051,
-      "label": "美食",
-      "event_time": 1770473624
-    },
-    {
-      "rank": 16,
-      "word": "白鹿王星越双A共创来炸场了",
-      "hot_value": 7746735,
-      "label": "热议",
-      "event_time": 1770462943
-    },
-    {
-      "rank": 17,
-      "word": "李煜东这么萌啥意思",
-      "hot_value": 7746494,
-      "label": "娱乐",
-      "event_time": 1770474730
-    },
-    {
       "rank": 18,
-      "word": "CG风冰雪魂燃起来了",
-      "hot_value": 7746241,
-      "label": "音乐",
-      "event_time": 1770461374
-    },
-    {
-      "rank": 19,
       "word": "太平年赵匡胤建立大宋",
-      "hot_value": 7739746,
+      "hot_value": 7761860,
       "label": "新",
       "event_time": 1770521369
     },
     {
+      "rank": 19,
+      "word": "丁真劝向佐退出娱乐圈",
+      "hot_value": 7752320,
+      "label": "美食",
+      "event_time": 1770473624
+    },
+    {
       "rank": 20,
-      "word": "吴克群菜地拍卖会",
-      "hot_value": 7731588,
-      "label": "爆",
-      "event_time": 1770473572
+      "word": "白鹿王星越双A共创来炸场了",
+      "hot_value": 7750173,
+      "label": "热议",
+      "event_time": 1770462943
     }
   ],
-  "update_time": "2026-02-08 05:56:22",
+  "update_time": "2026-02-08 06:42:50",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
