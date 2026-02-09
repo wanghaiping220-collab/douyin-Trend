@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "南京博物院事件最新通报",
-      "hot_value": 12181419,
+      "hot_value": 12100812,
       "label": "爆",
       "event_time": 1770642149
     },
     {
       "rank": 2,
       "word": "谷爱凌冬奥坡障技巧摘银",
-      "hot_value": 12100970,
+      "hot_value": 11914065,
       "label": "爆",
       "event_time": 1770591778
     },
     {
       "rank": 3,
       "word": "春运首周交通出行人数超14亿人次",
-      "hot_value": 11400726,
+      "hot_value": 11400261,
       "label": "",
       "event_time": 1770642349
     },
     {
       "rank": 4,
       "word": "小年文案",
-      "hot_value": 11338929,
+      "hot_value": 11312470,
       "label": "爆",
       "event_time": 1770607618
     },
     {
       "rank": 5,
       "word": "Seedance2.0成片大赏",
-      "hot_value": 10740022,
+      "hot_value": 10678837,
       "label": "爆",
       "event_time": 1770639285
     },
     {
       "rank": 6,
-      "word": "赶在年前组了一个路灯局",
-      "hot_value": 10645121,
-      "label": "荐",
-      "event_time": 1770636431
-    },
-    {
-      "rank": 7,
       "word": "大连地震",
-      "hot_value": 9412186,
+      "hot_value": 10628039,
       "label": "",
       "event_time": 1770623404
     },
     {
+      "rank": 7,
+      "word": "赶在年前组了一个路灯局",
+      "hot_value": 9455301,
+      "label": "荐",
+      "event_time": 1770636431
+    },
+    {
       "rank": 8,
       "word": "回家是最好的礼物",
-      "hot_value": 9307828,
+      "hot_value": 9373295,
       "label": "",
       "event_time": 1770537044
     },
     {
       "rank": 9,
-      "word": "从海南打车到哈尔滨是什么体验",
-      "hot_value": 9307432,
-      "label": "",
-      "event_time": 1770622903
-    },
-    {
-      "rank": 10,
-      "word": "开春穿搭思路",
-      "hot_value": 9295154,
-      "label": "",
-      "event_time": 1770533182
-    },
-    {
-      "rank": 11,
       "word": "南博徐湖平被查",
-      "hot_value": 9248872,
+      "hot_value": 9287177,
       "label": "",
       "event_time": 1770642611
     },
     {
+      "rank": 10,
+      "word": "从海南打车到哈尔滨是什么体验",
+      "hot_value": 9214315,
+      "label": "",
+      "event_time": 1770622903
+    },
+    {
+      "rank": 11,
+      "word": "开春穿搭思路",
+      "hot_value": 9211454,
+      "label": "",
+      "event_time": 1770533182
+    },
+    {
       "rank": 12,
       "word": "多家快递公司辟谣春节停运",
-      "hot_value": 9206116,
+      "hot_value": 9162909,
       "label": "谣言",
       "event_time": 1770633081
     },
     {
       "rank": 13,
       "word": "湖人正式签下巴夫金",
-      "hot_value": 9100314,
+      "hot_value": 9113963,
       "label": "爆",
       "event_time": 1770599325
     },
     {
       "rank": 14,
       "word": "百大厨神年夜饭菜谱发布",
-      "hot_value": 8899493,
+      "hot_value": 8784625,
       "label": "热议",
       "event_time": 1770606342
     },
     {
       "rank": 15,
+      "word": "2026超级碗中场秀",
+      "hot_value": 8637213,
+      "label": "",
+      "event_time": 1770604249
+    },
+    {
+      "rank": 16,
       "word": "俄外长向欧洲发出警告",
-      "hot_value": 8683128,
+      "hot_value": 8553986,
       "label": "爆",
       "event_time": 1770592644
     },
     {
-      "rank": 16,
-      "word": "EDG晋级圣地亚哥大师赛",
-      "hot_value": 8642882,
-      "label": "",
-      "event_time": 1770643550
-    },
-    {
       "rank": 17,
       "word": "有你的恋歌2收官",
-      "hot_value": 8496202,
+      "hot_value": 8495241,
       "label": "爆",
       "event_time": 1770626683
     },
     {
       "rank": 18,
-      "word": "2026超级碗中场秀",
-      "hot_value": 7899384,
-      "label": "",
-      "event_time": 1770604249
-    },
-    {
-      "rank": 19,
       "word": "媒体评日军国主义文体渗透",
-      "hot_value": 7835297,
+      "hot_value": 7927891,
       "label": "",
       "event_time": 1770604761
     },
     {
+      "rank": 19,
+      "word": "EDG晋级圣地亚哥大师赛",
+      "hot_value": 7845722,
+      "label": "",
+      "event_time": 1770643550
+    },
+    {
       "rank": 20,
-      "word": "急急如律令",
-      "hot_value": 7831727,
-      "label": "音乐",
-      "event_time": 1770619572
+      "word": "专家评解放军连续5天南海巡航",
+      "hot_value": 7812105,
+      "label": "爆",
+      "event_time": 1770597098
     }
   ],
-  "update_time": "2026-02-09 19:58:09",
+  "update_time": "2026-02-09 20:36:40",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
