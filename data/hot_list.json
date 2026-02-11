@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "我国首次载人飞船返回舱海上溅落",
-      "hot_value": 11750491,
+      "hot_value": 11718516,
       "label": "爆",
       "event_time": 1770780608
     },
     {
       "rank": 2,
-      "word": "今天是南方小年",
-      "hot_value": 11701133,
-      "label": "爆",
-      "event_time": 1770764994
+      "word": "马刺大胜湖人",
+      "hot_value": 11531238,
+      "label": "",
+      "event_time": 1770792007
     },
     {
       "rank": 3,
       "word": "20.5亿元新春礼包要来了",
-      "hot_value": 11272004,
+      "hot_value": 11055003,
       "label": "",
       "event_time": 1770779279
     },
     {
       "rank": 4,
+      "word": "今天是南方小年",
+      "hot_value": 11002443,
+      "label": "爆",
+      "event_time": 1770764994
+    },
+    {
+      "rank": 5,
       "word": "用一篇长文记录我的春节",
-      "hot_value": 10899729,
+      "hot_value": 10189648,
       "label": "热议",
       "event_time": 1770691845
     },
     {
-      "rank": 5,
+      "rank": 6,
       "word": "自驾回家过年啦",
-      "hot_value": 10242060,
+      "hot_value": 10180863,
       "label": "爆",
       "event_time": 1770723110
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "摩托车返乡人向着家的方向出发",
-      "hot_value": 10191812,
+      "hot_value": 9108871,
       "label": "",
       "event_time": 1770696487
     },
     {
-      "rank": 7,
-      "word": "2026我的爆红穿搭攻略",
-      "hot_value": 9053571,
-      "label": "",
-      "event_time": 1770782635
-    },
-    {
       "rank": 8,
       "word": "马年就要马上时髦",
-      "hot_value": 9022370,
+      "hot_value": 9072883,
       "label": "",
       "event_time": 1770781761
     },
     {
       "rank": 9,
       "word": "中国教练率意大利队短道混接夺金",
-      "hot_value": 8952818,
-      "label": "",
+      "hot_value": 9036605,
+      "label": "爆",
       "event_time": 1770733614
     },
     {
       "rank": 10,
       "word": "手写春联更有年味",
-      "hot_value": 8817245,
+      "hot_value": 8955339,
       "label": "",
       "event_time": 1770728307
     },
     {
       "rank": 11,
-      "word": "乌允许60岁以上人员合同制服役",
-      "hot_value": 8809638,
+      "word": "2026我的爆红穿搭攻略",
+      "hot_value": 8926745,
       "label": "",
-      "event_time": 1770767790
+      "event_time": 1770782635
     },
     {
       "rank": 12,
       "word": "晒出我家的小年美食",
-      "hot_value": 8772855,
+      "hot_value": 8396764,
       "label": "",
       "event_time": 1770695021
     },
     {
       "rank": 13,
       "word": "年味穿搭穿出高级感",
-      "hot_value": 8638125,
+      "hot_value": 8362394,
       "label": "",
       "event_time": 1770705089
     },
     {
       "rank": 14,
       "word": "新春战袍福气穿搭",
-      "hot_value": 8470955,
+      "hot_value": 8319713,
       "label": "",
       "event_time": 1770698754
     },
     {
       "rank": 15,
-      "word": "马刺大胜湖人",
-      "hot_value": 8416107,
-      "label": "新",
-      "event_time": 1770792007
-    },
-    {
-      "rank": 16,
       "word": "糕糕兴兴过大年",
-      "hot_value": 8327780,
+      "hot_value": 7980609,
       "label": "",
       "event_time": 1770699729
     },
     {
+      "rank": 16,
+      "word": "苏翊鸣坦言决赛时承受太大压力",
+      "hot_value": 7967323,
+      "label": "荐",
+      "event_time": 1770795012
+    },
+    {
       "rank": 17,
+      "word": "年夜饭每道美食都蕴藏着吉祥话",
+      "hot_value": 7846793,
+      "label": "爆",
+      "event_time": 1770712880
+    },
+    {
+      "rank": 18,
       "word": "韩媒称韩国又遭冤枉淘汰",
-      "hot_value": 7976532,
+      "hot_value": 7798439,
       "label": "",
       "event_time": 1770782323
     },
     {
-      "rank": 18,
-      "word": "中国短道混接无缘领奖台",
-      "hot_value": 7909974,
-      "label": "",
-      "event_time": 1770723912
-    },
-    {
       "rank": 19,
       "word": "沙特采购中国大型无人机",
-      "hot_value": 7819627,
+      "hot_value": 7794208,
       "label": "",
       "event_time": 1770766995
     },
     {
       "rank": 20,
-      "word": "金博洋男单晋级自由滑",
-      "hot_value": 7781705,
+      "word": "长十火箭溅落瞬间",
+      "hot_value": 7783767,
       "label": "",
-      "event_time": 1770765598
+      "event_time": 1770789819
     }
   ],
-  "update_time": "2026-02-11 09:43:53",
+  "update_time": "2026-02-11 10:40:32",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
