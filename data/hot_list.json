@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "刘少昂孙龙林孝埈1500米冲金",
-      "hot_value": 11523473,
+      "hot_value": 11934561,
       "label": "爆",
       "event_time": 1771035676
     },
     {
       "rank": 2,
       "word": "马里宁自由滑重大失误无缘领奖台",
-      "hot_value": 11241464,
+      "hot_value": 11325221,
       "label": "爆",
       "event_time": 1771026318
     },
     {
       "rank": 3,
       "word": "1月社会融资规模增量7.22万亿",
-      "hot_value": 11230574,
+      "hot_value": 11309788,
       "label": "爆",
       "event_time": 1771039388
     },
     {
       "rank": 4,
       "word": "萨多洛夫花滑男单夺金",
-      "hot_value": 11191502,
+      "hot_value": 11304941,
       "label": "爆",
       "event_time": 1771024202
     },
     {
       "rank": 5,
       "word": "2026温暖中国年",
-      "hot_value": 10617637,
+      "hot_value": 10597776,
       "label": "爆",
       "event_time": 1771041799
     },
     {
       "rank": 6,
       "word": "藏在春节里的劳动节",
-      "hot_value": 10391363,
-      "label": "",
+      "hot_value": 10586383,
+      "label": "爆",
       "event_time": 1770991095
     },
     {
       "rank": 7,
-      "word": "豆包红包",
-      "hot_value": 9261570,
-      "label": "新",
-      "event_time": 1771047768
-    },
-    {
-      "rank": 8,
       "word": "商务部回应安世半导体案裁决结果",
-      "hot_value": 9256129,
+      "hot_value": 9407170,
       "label": "",
       "event_time": 1770987353
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "回到老家后的10元买菜威力",
-      "hot_value": 9242291,
+      "hot_value": 9280553,
       "label": "",
       "event_time": 1770960571
     },
     {
+      "rank": 9,
+      "word": "杨瀚森NBA新秀赛10分2篮板",
+      "hot_value": 9276727,
+      "label": "爆",
+      "event_time": 1771041128
+    },
+    {
       "rank": 10,
       "word": "马年表情包",
-      "hot_value": 9233294,
+      "hot_value": 9267908,
       "label": "新",
       "event_time": 1771044991
     },
     {
       "rank": 11,
-      "word": "杨瀚森NBA新秀赛10分2篮板",
-      "hot_value": 9203800,
+      "word": "全国年味巡游开始啦",
+      "hot_value": 9202522,
       "label": "",
-      "event_time": 1771041128
+      "event_time": 1770958377
     },
     {
       "rank": 12,
       "word": "杨瀚森晃晕克林根",
-      "hot_value": 9178002,
+      "hot_value": 9175407,
       "label": "爆",
       "event_time": 1771037563
     },
     {
       "rank": 13,
       "word": "电影东北恋哥3上线",
-      "hot_value": 9125209,
+      "hot_value": 9124118,
       "label": "荐",
       "event_time": 1771034001
     },
     {
       "rank": 14,
+      "word": "镜头里的年味儿",
+      "hot_value": 9118884,
+      "label": "音乐",
+      "event_time": 1770967487
+    },
+    {
+      "rank": 15,
       "word": "中方将对53个非洲建交国实施零关税",
-      "hot_value": 9109917,
+      "hot_value": 9088254,
       "label": "新",
       "event_time": 1771053546
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "乒乓欧冠樊振东2:3温瑞博",
-      "hot_value": 9058629,
+      "hot_value": 9013828,
       "label": "",
       "event_time": 1771026500
     },
     {
-      "rank": 16,
+      "rank": 17,
       "word": "保罗正式宣布退役",
-      "hot_value": 8982181,
+      "hot_value": 8938629,
       "label": "",
       "event_time": 1771025972
     },
     {
-      "rank": 17,
-      "word": "全国年味巡游开始啦",
-      "hot_value": 8973953,
-      "label": "",
-      "event_time": 1770958377
-    },
-    {
       "rank": 18,
-      "word": "官方回应湛江海滩现疑似儒艮尸体",
-      "hot_value": 8925515,
-      "label": "爆",
-      "event_time": 1770981302
+      "word": "见信如晤",
+      "hot_value": 8923191,
+      "label": "音乐",
+      "event_time": 1771040273
     },
     {
       "rank": 19,
       "word": "央媒点赞Seedance2.0",
-      "hot_value": 8915910,
+      "hot_value": 8901887,
       "label": "新",
       "event_time": 1771049623
     },
     {
       "rank": 20,
-      "word": "王鹤棣红发亮相全明星名人赛",
-      "hot_value": 8864349,
-      "label": "爆",
-      "event_time": 1771031989
+      "word": "春节守护者",
+      "hot_value": 8887050,
+      "label": "",
+      "event_time": 1770955875
     }
   ],
-  "update_time": "2026-02-14 07:28:53",
+  "update_time": "2026-02-14 08:21:31",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
