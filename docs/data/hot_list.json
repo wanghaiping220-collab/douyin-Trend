@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "刘少昂孙龙林孝埈1500米冲金",
-      "hot_value": 12112889,
+      "hot_value": 11608421,
       "label": "爆",
       "event_time": 1771035676
     },
     {
       "rank": 2,
       "word": "抖音ACG拜年晚会",
-      "hot_value": 11601806,
+      "hot_value": 11527027,
       "label": "热议",
       "event_time": 1771049279
     },
     {
       "rank": 3,
       "word": "中欧班列的智慧场站",
-      "hot_value": 11378934,
+      "hot_value": 11085213,
       "label": "新",
       "event_time": 1771075396
     },
     {
       "rank": 4,
       "word": "藏在春节里的劳动节",
-      "hot_value": 11259333,
+      "hot_value": 11074985,
       "label": "爆",
       "event_time": 1770991095
     },
     {
       "rank": 5,
       "word": "回到老家后的10元买菜威力",
-      "hot_value": 10518888,
+      "hot_value": 10482813,
       "label": "爆",
       "event_time": 1770960571
     },
     {
       "rank": 6,
-      "word": "马年表情包",
-      "hot_value": 10506131,
+      "word": "2026温暖中国年",
+      "hot_value": 10263148,
       "label": "爆",
-      "event_time": 1771044991
+      "event_time": 1771041799
     },
     {
       "rank": 7,
       "word": "四川大学通报王竹卿事件",
-      "hot_value": 9361525,
-      "label": "新",
+      "hot_value": 9180892,
+      "label": "",
       "event_time": 1771070704
     },
     {
       "rank": 8,
       "word": "短剧让归途变成力量",
-      "hot_value": 9303468,
-      "label": "新",
+      "hot_value": 9165292,
+      "label": "",
       "event_time": 1771071274
     },
     {
       "rank": 9,
-      "word": "杨瀚森晃晕克林根",
-      "hot_value": 9231344,
-      "label": "爆",
-      "event_time": 1771037563
+      "word": "独牙九球大师赛决赛",
+      "hot_value": 9103406,
+      "label": "",
+      "event_time": 1771050724
     },
     {
       "rank": 10,
       "word": "王毅就中日关系重申严正立场",
-      "hot_value": 9151279,
+      "hot_value": 8820347,
       "label": "新",
       "event_time": 1771074766
     },
     {
       "rank": 11,
-      "word": "2026温暖中国年",
-      "hot_value": 9109466,
+      "word": "马年表情包",
+      "hot_value": 8780239,
       "label": "",
-      "event_time": 1771041799
+      "event_time": 1771044991
     },
     {
       "rank": 12,
       "word": "“2026马年不宜婚嫁”系谣言",
-      "hot_value": 9083930,
+      "hot_value": 8530257,
       "label": "谣言",
       "event_time": 1771065684
     },
     {
       "rank": 13,
-      "word": "2026河南春晚",
-      "hot_value": 8987123,
-      "label": "新",
-      "event_time": 1771069656
+      "word": "杨瀚森晃晕克林根",
+      "hot_value": 8502520,
+      "label": "爆",
+      "event_time": 1771037563
     },
     {
       "rank": 14,
-      "word": "独牙九球大师赛决赛",
-      "hot_value": 8807983,
-      "label": "",
-      "event_time": 1771050724
-    },
-    {
-      "rank": 15,
-      "word": "2026河南春晚不负众望",
-      "hot_value": 8740105,
-      "label": "新",
-      "event_time": 1771074180
-    },
-    {
-      "rank": 16,
       "word": "电影东北恋哥3上线",
-      "hot_value": 8527250,
+      "hot_value": 8468330,
       "label": "荐",
       "event_time": 1771034001
     },
     {
-      "rank": 17,
+      "rank": 15,
       "word": "在家乡灯会里感受地道年味",
-      "hot_value": 8364419,
+      "hot_value": 8371854,
       "label": "",
       "event_time": 1771038282
     },
     {
-      "rank": 18,
+      "rank": 16,
       "word": "春节守护者",
-      "hot_value": 8321713,
+      "hot_value": 8162529,
       "label": "爆",
       "event_time": 1770955875
     },
     {
-      "rank": 19,
+      "rank": 17,
       "word": "萨多洛夫花滑男单夺金",
-      "hot_value": 7856486,
+      "hot_value": 8141570,
       "label": "",
       "event_time": 1771024202
     },
     {
+      "rank": 18,
+      "word": "2026河南春晚",
+      "hot_value": 8070570,
+      "label": "",
+      "event_time": 1771069656
+    },
+    {
+      "rank": 19,
+      "word": "武契奇会见王毅",
+      "hot_value": 8025772,
+      "label": "爆",
+      "event_time": 1771032651
+    },
+    {
       "rank": 20,
       "word": "保罗正式宣布退役",
-      "hot_value": 7844527,
+      "hot_value": 7854052,
       "label": "",
       "event_time": 1771025972
     }
   ],
-  "update_time": "2026-02-14 13:38:24",
+  "update_time": "2026-02-14 14:18:57",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
