@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "金银价再度大涨",
-      "hot_value": 12146261,
+      "hot_value": 12089848,
       "label": "新",
       "event_time": 1771658291
     },
     {
       "rank": 2,
       "word": "正月初五接财神",
-      "hot_value": 11621256,
+      "hot_value": 11705481,
       "label": "爆",
       "event_time": 1771632609
     },
     {
       "rank": 3,
       "word": "“破五”出游注意防风沙",
-      "hot_value": 11314212,
-      "label": "新",
+      "hot_value": 11205538,
+      "label": "",
       "event_time": 1771660132
     },
     {
       "rank": 4,
       "word": "徐梦桃王心迪冲击第5金",
-      "hot_value": 11086820,
-      "label": "",
+      "hot_value": 11104817,
+      "label": "爆",
       "event_time": 1771640950
     },
     {
       "rank": 5,
-      "word": "消息称美考虑打击哈梅内伊及其子",
-      "hot_value": 10254708,
-      "label": "",
+      "word": "消息称美考虑打击哈梅内伊父子",
+      "hot_value": 10542374,
+      "label": "爆",
       "event_time": 1771649680
     },
     {
       "rank": 6,
       "word": "美将终止部分关税措施",
-      "hot_value": 10230065,
+      "hot_value": 10332731,
       "label": "爆",
       "event_time": 1771634199
     },
     {
       "rank": 7,
       "word": "王心迪夺冠后谈及徐梦桃",
-      "hot_value": 9123079,
-      "label": "",
+      "hot_value": 9182027,
+      "label": "爆",
       "event_time": 1771634672
     },
     {
       "rank": 8,
       "word": "与中国短道速滑队同在",
-      "hot_value": 9000879,
-      "label": "",
+      "hot_value": 9161201,
+      "label": "爆",
       "event_time": 1771628087
     },
     {
       "rank": 9,
       "word": "如何看待特朗普全球关税被推翻",
-      "hot_value": 8967590,
+      "hot_value": 9155200,
       "label": "",
       "event_time": 1771639408
     },
     {
       "rank": 10,
       "word": "中国自由式滑雪空中技巧为何这么强",
-      "hot_value": 8957259,
+      "hot_value": 9103811,
       "label": "爆",
       "event_time": 1771602836
     },
     {
       "rank": 11,
-      "word": "克宫：俄日关系“已降至零点”",
-      "hot_value": 8931921,
-      "label": "爆",
-      "event_time": 1771594725
-    },
-    {
-      "rank": 12,
       "word": "节后“甩膘”超负荷运动可取吗",
-      "hot_value": 8648589,
+      "hot_value": 9098728,
       "label": "谣言",
       "event_time": 1771637570
     },
     {
-      "rank": 13,
+      "rank": 12,
       "word": "赵心童晋级半决赛",
-      "hot_value": 8516430,
+      "hot_value": 9032540,
       "label": "",
       "event_time": 1771629233
     },
     {
-      "rank": 14,
+      "rank": 13,
       "word": "电影镖人票房破5亿",
-      "hot_value": 8001441,
-      "label": "新",
+      "hot_value": 8710968,
+      "label": "",
       "event_time": 1771658117
+    },
+    {
+      "rank": 14,
+      "word": "克宫：俄日关系“已降至零点”",
+      "hot_value": 8627482,
+      "label": "爆",
+      "event_time": 1771594725
     },
     {
       "rank": 15,
       "word": "欢迎财神来我家",
-      "hot_value": 7752050,
+      "hot_value": 7783347,
       "label": "音乐",
       "event_time": 1771643701
     },
     {
       "rank": 16,
       "word": "傻傻的耶这样不行哦",
-      "hot_value": 7748741,
+      "hot_value": 7779018,
       "label": "音乐",
       "event_time": 1771578302
     },
     {
       "rank": 17,
-      "word": "王源开门接财神",
-      "hot_value": 7722902,
-      "label": "爆",
-      "event_time": 1771642537
+      "word": "初五迎财神就这么穿",
+      "hot_value": 7762850,
+      "label": "",
+      "event_time": 1771645113
     },
     {
       "rank": 18,
       "word": "我家有个小财神",
-      "hot_value": 7709559,
+      "hot_value": 7754625,
       "label": "音乐",
       "event_time": 1771644736
     },
     {
       "rank": 19,
       "word": "一日店长全民挑战",
-      "hot_value": 7706756,
+      "hot_value": 7732738,
       "label": "音乐",
       "event_time": 1771650378
     },
     {
       "rank": 20,
-      "word": "警方通报平顶山打人事件",
-      "hot_value": 7706182,
-      "label": "",
-      "event_time": 1771653499
+      "word": "王源开门接财神",
+      "hot_value": 7720030,
+      "label": "爆",
+      "event_time": 1771642537
     }
   ],
-  "update_time": "2026-02-21 09:22:03",
+  "update_time": "2026-02-21 10:16:57",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
