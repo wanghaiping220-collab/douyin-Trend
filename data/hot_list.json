@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "春节高速免费时段今晚结束",
-      "hot_value": 12282489,
+      "hot_value": 12260592,
       "label": "爆",
       "event_time": 1771819213
     },
     {
       "rank": 2,
       "word": "又要回到外面当大人了",
-      "hot_value": 12078107,
+      "hot_value": 12077868,
       "label": "爆",
       "event_time": 1771802535
     },
     {
       "rank": 3,
       "word": "新春里的一百个“想不到”",
-      "hot_value": 11718617,
-      "label": "",
+      "hot_value": 11717747,
+      "label": "爆",
       "event_time": 1771834187
     },
     {
       "rank": 4,
       "word": "好像每个车里都塞满了妈妈的爱",
-      "hot_value": 11585457,
+      "hot_value": 11270949,
       "label": "爆",
       "event_time": 1771810365
     },
     {
       "rank": 5,
-      "word": "直击春运返程高峰",
-      "hot_value": 10845358,
-      "label": "爆",
-      "event_time": 1771824212
-    },
-    {
-      "rank": 6,
       "word": "又到一年返程时",
-      "hot_value": 10738629,
+      "hot_value": 10598726,
       "label": "",
       "event_time": 1771823475
     },
     {
+      "rank": 6,
+      "word": "直击春运返程高峰",
+      "hot_value": 10455801,
+      "label": "爆",
+      "event_time": 1771824212
+    },
+    {
       "rank": 7,
-      "word": "如果车窗有记忆",
-      "hot_value": 9506111,
-      "label": "",
-      "event_time": 1771824364
+      "word": "复工飒气穿搭拿捏了",
+      "hot_value": 9293537,
+      "label": "爆",
+      "event_time": 1771831967
     },
     {
       "rank": 8,
       "word": "德国总理默茨将访华",
-      "hot_value": 9456311,
-      "label": "新",
+      "hot_value": 9214948,
+      "label": "",
       "event_time": 1771837476
     },
     {
       "rank": 9,
-      "word": "谷爱凌：我不退役我才22岁",
-      "hot_value": 9395624,
-      "label": "",
-      "event_time": 1771803216
-    },
-    {
-      "rank": 10,
-      "word": "赵心童首夺球员锦标赛冠军",
-      "hot_value": 9217558,
-      "label": "",
-      "event_time": 1771799701
-    },
-    {
-      "rank": 11,
       "word": "皇马官博发布赫伊森道歉内容",
-      "hot_value": 9194000,
+      "hot_value": 9199985,
       "label": "",
       "event_time": 1771766536
     },
     {
+      "rank": 10,
+      "word": "如果车窗有记忆",
+      "hot_value": 9193804,
+      "label": "",
+      "event_time": 1771824364
+    },
+    {
+      "rank": 11,
+      "word": "赵心童首夺球员锦标赛冠军",
+      "hot_value": 9141002,
+      "label": "",
+      "event_time": 1771799701
+    },
+    {
       "rank": 12,
       "word": "今天是正月初七人日节",
-      "hot_value": 9121811,
+      "hot_value": 9124953,
       "label": "",
       "event_time": 1771801756
     },
     {
       "rank": 13,
       "word": "“吃蓝莓能美白”无科学依据",
-      "hot_value": 9017621,
+      "hot_value": 9069058,
       "label": "谣言",
       "event_time": 1771814124
     },
     {
       "rank": 14,
       "word": "镖人票房超射雕成武侠片冠军",
-      "hot_value": 8936189,
+      "hot_value": 9018685,
       "label": "爆",
       "event_time": 1771769851
     },
     {
       "rank": 15,
-      "word": "复工飒气穿搭拿捏了",
-      "hot_value": 8709536,
-      "label": "",
-      "event_time": 1771831967
-    },
-    {
-      "rank": 16,
       "word": "当我和弟弟和解",
-      "hot_value": 8695403,
+      "hot_value": 8854755,
       "label": "",
       "event_time": 1771820427
     },
     {
+      "rank": 16,
+      "word": "谷爱凌晒金牌：夺金失银？",
+      "hot_value": 8757446,
+      "label": "爆",
+      "event_time": 1771822320
+    },
+    {
       "rank": 17,
       "word": "好好的时光开播",
-      "hot_value": 8403350,
+      "hot_value": 8551478,
       "label": "热议",
       "event_time": 1771817470
     },
     {
       "rank": 18,
       "word": "除恶今日开播",
-      "hot_value": 8389352,
+      "hot_value": 8432425,
       "label": "荐",
       "event_time": 1771816643
     },
     {
       "rank": 19,
       "word": "美军重兵合围伊朗",
-      "hot_value": 8292940,
+      "hot_value": 8394313,
       "label": "爆",
       "event_time": 1771812772
     },
     {
       "rank": 20,
-      "word": "大年初七暴雪席卷西安",
-      "hot_value": 8189241,
-      "label": "爆",
-      "event_time": 1771823414
+      "word": "官方回应京昆高速一货车起火",
+      "hot_value": 8324433,
+      "label": "新",
+      "event_time": 1771840913
     }
   ],
-  "update_time": "2026-02-23 10:41:04",
+  "update_time": "2026-02-23 11:33:42",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
