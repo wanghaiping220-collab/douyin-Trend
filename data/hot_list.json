@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "惊艳千年的非遗花丝镶嵌",
-      "hot_value": 12317663,
+      "hot_value": 12359679,
       "label": "爆",
       "event_time": 1771905343
     },
     {
       "rank": 2,
       "word": "复工飒气穿搭拿捏了",
-      "hot_value": 12059100,
+      "hot_value": 12049626,
       "label": "爆",
       "event_time": 1771831967
     },
     {
       "rank": 3,
       "word": "春运单日旅客发送量创新高",
-      "hot_value": 11931750,
+      "hot_value": 11927373,
       "label": "爆",
       "event_time": 1771938268
     },
     {
       "rank": 4,
       "word": "俄乌冲突四周年",
-      "hot_value": 11760906,
+      "hot_value": 11778167,
       "label": "爆",
       "event_time": 1771919389
     },
     {
       "rank": 5,
       "word": "长和：反对巴方强行接管港口公司",
-      "hot_value": 10544654,
+      "hot_value": 10543618,
       "label": "爆",
       "event_time": 1771907331
     },
     {
       "rank": 6,
       "word": "中方回应“美考虑军事打击伊朗”",
-      "hot_value": 10339422,
+      "hot_value": 10375748,
       "label": "爆",
       "event_time": 1771924969
     },
     {
       "rank": 7,
-      "word": "河北大范围雨雪到达",
-      "hot_value": 9112008,
-      "label": "",
-      "event_time": 1771907446
-    },
-    {
-      "rank": 8,
       "word": "中美就特朗普访华事宜保持着沟通",
-      "hot_value": 9103658,
+      "hot_value": 9132201,
       "label": "爆",
       "event_time": 1771918935
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "涉爱泼斯坦案 英前驻美大使被捕",
-      "hot_value": 9015014,
+      "hot_value": 9104881,
       "label": "爆",
       "event_time": 1771892620
     },
     {
-      "rank": 10,
+      "rank": 9,
       "word": "李在明社媒发AI视频",
-      "hot_value": 8956242,
+      "hot_value": 8971928,
       "label": "",
       "event_time": 1771900103
     },
     {
+      "rank": 10,
+      "word": "河北大范围雨雪到达",
+      "hot_value": 8956728,
+      "label": "",
+      "event_time": 1771907446
+    },
+    {
       "rank": 11,
       "word": "商务部回应对日相关出口管制",
-      "hot_value": 8883275,
+      "hot_value": 8836819,
       "label": "爆",
       "event_time": 1771908578
     },
     {
       "rank": 12,
-      "word": "2月LPR报价出炉",
-      "hot_value": 8641829,
-      "label": "",
-      "event_time": 1771900115
+      "word": "商务部回应美近期关税调整举措",
+      "hot_value": 8538097,
+      "label": "爆",
+      "event_time": 1771921206
     },
     {
       "rank": 13,
       "word": "黑龙江一地疑似出现老虎",
-      "hot_value": 8449729,
-      "label": "",
+      "hot_value": 8365816,
+      "label": "爆",
       "event_time": 1771924077
     },
     {
       "rank": 14,
       "word": "我陈平安唯有一剑",
-      "hot_value": 7852230,
+      "hot_value": 7846970,
       "label": "音乐",
       "event_time": 1771939247
     },
     {
       "rank": 15,
       "word": "飞驰3破30亿彩蛋是沈腾卖萌",
-      "hot_value": 7843006,
+      "hot_value": 7842298,
       "label": "热议",
       "event_time": 1771916004
     },
     {
       "rank": 16,
-      "word": "商务部回应美近期关税调整举措",
-      "hot_value": 7840242,
-      "label": "",
-      "event_time": 1771921206
+      "word": "飞驰3林臻东隧道关灯杀帅炸了",
+      "hot_value": 7834708,
+      "label": "科技",
+      "event_time": 1771905138
     },
     {
       "rank": 17,
-      "word": "豌豆公主我终于理解你了",
-      "hot_value": 7838137,
-      "label": "音乐",
-      "event_time": 1771917587
+      "word": "伊朗一军用直升机坠毁",
+      "hot_value": 7832569,
+      "label": "",
+      "event_time": 1771915384
     },
     {
       "rank": 18,
-      "word": "360天换来的5天热闹梦",
-      "hot_value": 7833039,
-      "label": "音乐",
-      "event_time": 1771928100
-    },
-    {
-      "rank": 19,
       "word": "过年后回家的留守猫",
-      "hot_value": 7832967,
+      "hot_value": 7828813,
       "label": "音乐",
       "event_time": 1771935149
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "Darling别打哑谜",
-      "hot_value": 7816883,
+      "hot_value": 7822669,
       "label": "音乐",
       "event_time": 1771933608
+    },
+    {
+      "rank": 20,
+      "word": "360天换来的5天热闹梦",
+      "hot_value": 7821745,
+      "label": "音乐",
+      "event_time": 1771928100
     }
   ],
-  "update_time": "2026-02-24 17:52:44",
+  "update_time": "2026-02-24 18:49:48",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
