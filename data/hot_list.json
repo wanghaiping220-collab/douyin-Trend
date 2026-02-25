@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "阿富汗与巴基斯坦在边境爆发冲突",
-      "hot_value": 11771937,
-      "label": "爆",
-      "event_time": 1771974531
+      "word": "酥心糖跨国热心接力开始了",
+      "hot_value": 11697052,
+      "label": "新",
+      "event_time": 1772009497
     },
     {
       "rank": 2,
-      "word": "小米法拉利保时捷纽北对决",
-      "hot_value": 11237409,
+      "word": "伊朗大规模军演 试射多种导弹",
+      "hot_value": 11362402,
       "label": "爆",
-      "event_time": 1771979977
+      "event_time": 1771946598
     },
     {
       "rank": 3,
       "word": "这份粮食成绩单请查收",
-      "hot_value": 11043698,
+      "hot_value": 11002228,
       "label": "",
       "event_time": 1771985205
     },
     {
       "rank": 4,
-      "word": "德国总理默茨抵达北京",
-      "hot_value": 10932088,
-      "label": "爆",
-      "event_time": 1771989043
-    },
-    {
-      "rank": 5,
-      "word": "伊朗大规模军演 试射多种导弹",
-      "hot_value": 10279638,
-      "label": "",
-      "event_time": 1771946598
-    },
-    {
-      "rank": 6,
-      "word": "吸尘器：太难吃了",
-      "hot_value": 10262525,
-      "label": "新",
-      "event_time": 1772002367
-    },
-    {
-      "rank": 7,
-      "word": "中方在涉乌联大表决中投弃权票",
-      "hot_value": 9110375,
-      "label": "爆",
-      "event_time": 1771983262
-    },
-    {
-      "rank": 8,
       "word": "朱雀三号计划再次挑战回收",
-      "hot_value": 9063830,
-      "label": "",
+      "hot_value": 10813300,
+      "label": "爆",
       "event_time": 1771984932
     },
     {
-      "rank": 9,
-      "word": "骑士109:94大胜尼克斯",
-      "hot_value": 9062109,
+      "rank": 5,
+      "word": "全球首创全涵道式eVTOL试飞",
+      "hot_value": 10180144,
       "label": "",
-      "event_time": 1771995354
+      "event_time": 1772001693
     },
     {
-      "rank": 10,
+      "rank": 6,
       "word": "媒体评默茨访华",
-      "hot_value": 8994110,
-      "label": "",
+      "hot_value": 10158044,
+      "label": "爆",
       "event_time": 1771977197
     },
     {
-      "rank": 11,
-      "word": "全球首创全涵道式eVTOL试飞",
-      "hot_value": 8796126,
+      "rank": 7,
+      "word": "张家鸣加盟伯恩利",
+      "hot_value": 9006685,
       "label": "新",
-      "event_time": 1772001693
+      "event_time": 1772008968
+    },
+    {
+      "rank": 8,
+      "word": "阿富汗与巴基斯坦在边境爆发冲突",
+      "hot_value": 8979048,
+      "label": "",
+      "event_time": 1771974531
+    },
+    {
+      "rank": 9,
+      "word": "中外性能车挑战纽北",
+      "hot_value": 8898204,
+      "label": "",
+      "event_time": 1771992273
+    },
+    {
+      "rank": 10,
+      "word": "骑士109:94大胜尼克斯",
+      "hot_value": 8856069,
+      "label": "爆",
+      "event_time": 1771995354
+    },
+    {
+      "rank": 11,
+      "word": "谈判前夕美伊持续“排兵布阵”",
+      "hot_value": 8795501,
+      "label": "",
+      "event_time": 1771978882
     },
     {
       "rank": 12,
       "word": "维生素D缺乏是因为过度防晒吗",
-      "hot_value": 8167245,
+      "hot_value": 8197997,
       "label": "谣言",
       "event_time": 1771983770
     },
     {
       "rank": 13,
       "word": "河南平顶山郏县再通报打人事件",
-      "hot_value": 8021801,
+      "hot_value": 8131877,
       "label": "",
       "event_time": 1771975039
     },
     {
       "rank": 14,
-      "word": "中外性能车挑战纽北",
-      "hot_value": 7817287,
-      "label": "新",
-      "event_time": 1771992273
-    },
-    {
-      "rank": 15,
-      "word": "茶花开了该回家了",
-      "hot_value": 7812581,
-      "label": "娱乐",
-      "event_time": 1771993916
-    },
-    {
-      "rank": 16,
       "word": "飞驰3终于迎来光辉岁月大合唱",
-      "hot_value": 7804947,
+      "hot_value": 7804372,
       "label": "热议",
       "event_time": 1771999886
     },
     {
-      "rank": 17,
-      "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 7804414,
+      "rank": 15,
+      "word": "电视剧告白官宣",
+      "hot_value": 7796093,
+      "label": "爆",
+      "event_time": 1771990605
+    },
+    {
+      "rank": 16,
+      "word": "德国总理默茨抵达北京",
+      "hot_value": 7791063,
       "label": "",
-      "event_time": 1771978882
+      "event_time": 1771989043
+    },
+    {
+      "rank": 17,
+      "word": "茶花开了该回家了",
+      "hot_value": 7788477,
+      "label": "娱乐",
+      "event_time": 1771993916
     },
     {
       "rank": 18,
-      "word": "云南德宏州盈江县4.6级地震",
-      "hot_value": 7791023,
-      "label": "爆",
-      "event_time": 1771989948
+      "word": "吸尘器：太难吃了",
+      "hot_value": 7786403,
+      "label": "新",
+      "event_time": 1772002367
     },
     {
       "rank": 19,
-      "word": "过年后回家的留守猫",
-      "hot_value": 7790127,
-      "label": "音乐",
-      "event_time": 1771935149
+      "word": "正月初九拜天公",
+      "hot_value": 7772497,
+      "label": "娱乐",
+      "event_time": 1771974807
     },
     {
       "rank": 20,
-      "word": "正月初九拜天公",
-      "hot_value": 7779265,
-      "label": "娱乐",
-      "event_time": 1771974807
+      "word": "TVB演员游飚去世",
+      "hot_value": 7767226,
+      "label": "爆",
+      "event_time": 1771980208
     }
   ],
-  "update_time": "2026-02-25 08:37:41",
+  "update_time": "2026-02-25 09:43:44",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
