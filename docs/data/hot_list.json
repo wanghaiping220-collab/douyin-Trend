@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "阿富汗与巴基斯坦在边境爆发冲突",
-      "hot_value": 11862527,
+      "hot_value": 11789360,
       "label": "爆",
       "event_time": 1771974531
     },
     {
       "rank": 2,
       "word": "伊朗大规模军演 试射多种导弹",
-      "hot_value": 11361194,
-      "label": "",
+      "hot_value": 11439955,
+      "label": "爆",
       "event_time": 1771946598
     },
     {
       "rank": 3,
       "word": "春节长假创下多项新高",
-      "hot_value": 11169178,
+      "hot_value": 11101776,
       "label": "爆",
       "event_time": 1771990855
     },
     {
       "rank": 4,
       "word": "德国总理默茨抵达北京",
-      "hot_value": 10977936,
+      "hot_value": 10844742,
       "label": "爆",
       "event_time": 1771989043
     },
     {
       "rank": 5,
       "word": "小米法拉利保时捷纽北对决",
-      "hot_value": 10246885,
+      "hot_value": 10208757,
       "label": "",
       "event_time": 1771979977
     },
     {
       "rank": 6,
-      "word": "中方在涉乌联大表决中投弃权票",
-      "hot_value": 10185525,
-      "label": "",
-      "event_time": 1771983262
+      "word": "吸尘器：太难吃了",
+      "hot_value": 10206140,
+      "label": "新",
+      "event_time": 1772002367
     },
     {
       "rank": 7,
-      "word": "上海发布楼市“沪七条”",
-      "hot_value": 9089871,
-      "label": "新",
-      "event_time": 1771996409
+      "word": "中方在涉乌联大表决中投弃权票",
+      "hot_value": 9111931,
+      "label": "爆",
+      "event_time": 1771983262
     },
     {
       "rank": 8,
-      "word": "朱雀三号计划再次挑战回收",
-      "hot_value": 9064172,
-      "label": "新",
-      "event_time": 1771984932
-    },
-    {
-      "rank": 9,
       "word": "骑士109:94大胜尼克斯",
-      "hot_value": 8934960,
+      "hot_value": 9057849,
       "label": "新",
       "event_time": 1771995354
     },
     {
-      "rank": 10,
-      "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 8890359,
+      "rank": 9,
+      "word": "朱雀三号计划再次挑战回收",
+      "hot_value": 8972420,
       "label": "",
-      "event_time": 1771978882
+      "event_time": 1771984932
+    },
+    {
+      "rank": 10,
+      "word": "全球首创全涵道式eVTOL试飞",
+      "hot_value": 8935178,
+      "label": "新",
+      "event_time": 1772001693
     },
     {
       "rank": 11,
       "word": "媒体评默茨访华",
-      "hot_value": 8852346,
+      "hot_value": 8368317,
       "label": "",
       "event_time": 1771977197
     },
     {
       "rank": 12,
       "word": "维生素D缺乏是因为过度防晒吗",
-      "hot_value": 8757799,
+      "hot_value": 8114164,
       "label": "谣言",
       "event_time": 1771983770
     },
     {
       "rank": 13,
-      "word": "国际米兰1:2博德闪耀",
-      "hot_value": 8661737,
-      "label": "",
-      "event_time": 1771975574
-    },
-    {
-      "rank": 14,
       "word": "河南平顶山郏县再通报打人事件",
-      "hot_value": 8378977,
+      "hot_value": 8096114,
       "label": "",
       "event_time": 1771975039
     },
     {
+      "rank": 14,
+      "word": "谈判前夕美伊持续“排兵布阵”",
+      "hot_value": 8061265,
+      "label": "",
+      "event_time": 1771978882
+    },
+    {
       "rank": 15,
       "word": "云南德宏州盈江县4.6级地震",
-      "hot_value": 8306497,
+      "hot_value": 7834456,
       "label": "爆",
       "event_time": 1771989948
     },
     {
       "rank": 16,
-      "word": "FBI局长被拍到更衣室庆祝夺冠",
-      "hot_value": 8281289,
-      "label": "爆",
-      "event_time": 1771918494
-    },
-    {
-      "rank": 17,
       "word": "茶花开了该回家了",
-      "hot_value": 8235167,
+      "hot_value": 7825893,
       "label": "娱乐",
       "event_time": 1771993916
     },
     {
-      "rank": 18,
-      "word": "TVB演员游飚去世",
-      "hot_value": 7808813,
+      "rank": 17,
+      "word": "国际米兰1:2博德闪耀",
+      "hot_value": 7798755,
       "label": "",
-      "event_time": 1771980208
+      "event_time": 1771975574
+    },
+    {
+      "rank": 18,
+      "word": "电视剧告白官宣",
+      "hot_value": 7798033,
+      "label": "新",
+      "event_time": 1771990605
     },
     {
       "rank": 19,
-      "word": "正月初九拜天公",
-      "hot_value": 7807780,
-      "label": "娱乐",
-      "event_time": 1771974807
+      "word": "过年后回家的留守猫",
+      "hot_value": 7796966,
+      "label": "音乐",
+      "event_time": 1771935149
     },
     {
       "rank": 20,
-      "word": "我陈平安唯有一剑",
-      "hot_value": 7793405,
-      "label": "音乐",
-      "event_time": 1771939247
+      "word": "TVB演员游飚去世",
+      "hot_value": 7794701,
+      "label": "",
+      "event_time": 1771980208
     }
   ],
-  "update_time": "2026-02-25 06:53:22",
+  "update_time": "2026-02-25 07:46:10",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
