@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "土耳其空军一架F16战机坠毁",
-      "hot_value": 11623845,
-      "label": "爆",
-      "event_time": 1771987498
-    },
-    {
-      "rank": 2,
       "word": "英伟达Q4财报公布在即",
-      "hot_value": 11468427,
+      "hot_value": 11647296,
       "label": "爆",
       "event_time": 1772009228
     },
     {
+      "rank": 2,
+      "word": "土耳其空军一架F16战机坠毁",
+      "hot_value": 11614662,
+      "label": "爆",
+      "event_time": 1771987498
+    },
+    {
       "rank": 3,
       "word": "全国铁路春运发送旅客破3亿人次",
-      "hot_value": 11463104,
+      "hot_value": 11290413,
       "label": "爆",
       "event_time": 1772024897
     },
     {
       "rank": 4,
       "word": "就说看时装周真能学到东西",
-      "hot_value": 11296237,
+      "hot_value": 11267904,
       "label": "荐",
       "event_time": 1771997867
     },
     {
       "rank": 5,
+      "word": "古巴称与美籍快艇交火致4死6伤",
+      "hot_value": 10645651,
+      "label": "新",
+      "event_time": 1772059341
+    },
+    {
+      "rank": 6,
       "word": "雪饼猴的遗憾",
-      "hot_value": 10592307,
+      "hot_value": 10565703,
       "label": "",
       "event_time": 1772024973
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "万万没想到干噎汤圆又来了",
-      "hot_value": 10573669,
+      "hot_value": 9425576,
       "label": "",
       "event_time": 1771998769
     },
     {
-      "rank": 7,
+      "rank": 8,
       "word": "孙颖莎晋级新加坡大满贯16强",
-      "hot_value": 9402793,
+      "hot_value": 9391006,
       "label": "",
       "event_time": 1772025851
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "中国男篮公布客战日本12人名单",
-      "hot_value": 9337246,
+      "hot_value": 9168732,
       "label": "",
       "event_time": 1772023049
     },
     {
-      "rank": 9,
+      "rank": 10,
       "word": "海警在金门附近海域常态执法巡查",
-      "hot_value": 9318344,
+      "hot_value": 9159232,
       "label": "",
       "event_time": 1772011584
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "外交部回应英法或供乌核武器",
-      "hot_value": 9232074,
+      "hot_value": 9135188,
       "label": "",
       "event_time": 1772011474
     },
     {
-      "rank": 11,
-      "word": "全球首创全涵道式eVTOL试飞",
-      "hot_value": 9225181,
-      "label": "",
-      "event_time": 1772001693
-    },
-    {
       "rank": 12,
       "word": "网传医院有安乐死胶囊系谣言",
-      "hot_value": 9127043,
+      "hot_value": 9118814,
       "label": "谣言",
       "event_time": 1772017432
     },
     {
       "rank": 13,
-      "word": "外交部回应美指责中国开展核试验",
-      "hot_value": 9124259,
+      "word": "全球首创全涵道式eVTOL试飞",
+      "hot_value": 9117978,
       "label": "",
-      "event_time": 1772008485
+      "event_time": 1772001693
     },
     {
       "rank": 14,
       "word": "战略金属钨一年暴涨220%",
-      "hot_value": 9123621,
+      "hot_value": 9109634,
       "label": "爆",
       "event_time": 1772008498
     },
     {
       "rank": 15,
       "word": "詹姆斯错失绝杀",
-      "hot_value": 9122251,
+      "hot_value": 8952919,
       "label": "",
       "event_time": 1772008475
     },
     {
       "rank": 16,
-      "word": "王心迪“报名”东北超",
-      "hot_value": 9027142,
-      "label": "爆",
-      "event_time": 1772013767
+      "word": "外交部回应美指责中国开展核试验",
+      "hot_value": 8378173,
+      "label": "",
+      "event_time": 1772008485
     },
     {
       "rank": 17,
-      "word": "张家鸣加盟伯恩利",
-      "hot_value": 8316044,
+      "word": "王心迪“报名”东北超",
+      "hot_value": 7900807,
       "label": "",
-      "event_time": 1772008968
+      "event_time": 1772013767
     },
     {
       "rank": 18,
       "word": "朱雀三号计划再次挑战回收",
-      "hot_value": 8054182,
+      "hot_value": 7843648,
       "label": "",
       "event_time": 1771984932
     },
     {
       "rank": 19,
       "word": "电影镖人累计票房破9亿",
-      "hot_value": 7985525,
+      "hot_value": 7825722,
       "label": "",
       "event_time": 1772008120
     },
     {
       "rank": 20,
-      "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 7984840,
+      "word": "张家鸣加盟伯恩利",
+      "hot_value": 7825151,
       "label": "",
-      "event_time": 1771978882
+      "event_time": 1772008968
     }
   ],
-  "update_time": "2026-02-25 22:23:05",
+  "update_time": "2026-02-25 23:21:13",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
