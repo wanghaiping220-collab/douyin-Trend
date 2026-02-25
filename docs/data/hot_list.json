@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "詹姆斯错失绝杀",
+      "hot_value": 11770343,
+      "label": "新",
+      "event_time": 1772008475
+    },
+    {
+      "rank": 2,
       "word": "就说看时装周真能学到东西",
-      "hot_value": 11815293,
+      "hot_value": 11535195,
       "label": "荐",
       "event_time": 1771997867
     },
     {
-      "rank": 2,
-      "word": "万万没想到干噎汤圆又来了",
-      "hot_value": 11197933,
-      "label": "新",
-      "event_time": 1771998769
-    },
-    {
       "rank": 3,
       "word": "这份粮食成绩单请查收",
-      "hot_value": 10978496,
-      "label": "",
+      "hot_value": 11440033,
+      "label": "爆",
       "event_time": 1771985205
     },
     {
       "rank": 4,
-      "word": "伊朗大规模军演 试射多种导弹",
-      "hot_value": 10856856,
-      "label": "爆",
-      "event_time": 1771946598
+      "word": "万万没想到干噎汤圆又来了",
+      "hot_value": 11062616,
+      "label": "",
+      "event_time": 1771998769
     },
     {
       "rank": 5,
-      "word": "媒体评默茨访华",
-      "hot_value": 10264236,
-      "label": "爆",
-      "event_time": 1771977197
+      "word": "土耳其空军一架F16战机坠毁",
+      "hot_value": 10376549,
+      "label": "",
+      "event_time": 1771987498
     },
     {
       "rank": 6,
-      "word": "朱雀三号计划再次挑战回收",
-      "hot_value": 10208968,
-      "label": "爆",
-      "event_time": 1771984932
+      "word": "伊朗大规模军演 试射多种导弹",
+      "hot_value": 10213369,
+      "label": "",
+      "event_time": 1771946598
     },
     {
       "rank": 7,
-      "word": "全球首创全涵道式eVTOL试飞",
-      "hot_value": 9111194,
-      "label": "",
-      "event_time": 1772001693
+      "word": "外交部回应英法或供乌核武器",
+      "hot_value": 9106477,
+      "label": "新",
+      "event_time": 1772011474
     },
     {
       "rank": 8,
       "word": "阿富汗与巴基斯坦在边境爆发冲突",
-      "hot_value": 9071628,
+      "hot_value": 9085838,
       "label": "",
       "event_time": 1771974531
     },
     {
       "rank": 9,
-      "word": "张家鸣加盟伯恩利",
-      "hot_value": 8995878,
-      "label": "新",
-      "event_time": 1772008968
+      "word": "媒体评默茨访华",
+      "hot_value": 9061130,
+      "label": "",
+      "event_time": 1771977197
     },
     {
       "rank": 10,
-      "word": "外交部回应美指责中国开展核试验",
-      "hot_value": 8943851,
-      "label": "新",
-      "event_time": 1772008485
+      "word": "朱雀三号计划再次挑战回收",
+      "hot_value": 9029917,
+      "label": "",
+      "event_time": 1771984932
     },
     {
       "rank": 11,
       "word": "骑士109:94大胜尼克斯",
-      "hot_value": 8902925,
+      "hot_value": 8677503,
       "label": "爆",
       "event_time": 1771995354
     },
     {
       "rank": 12,
-      "word": "维生素D缺乏是因为过度防晒吗",
-      "hot_value": 8606250,
-      "label": "谣言",
-      "event_time": 1771983770
-    },
-    {
-      "rank": 13,
       "word": "河南平顶山郏县再通报打人事件",
-      "hot_value": 8598807,
+      "hot_value": 8646323,
       "label": "",
       "event_time": 1771975039
     },
     {
-      "rank": 14,
-      "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 8408439,
+      "rank": 13,
+      "word": "张家鸣加盟伯恩利",
+      "hot_value": 8609565,
       "label": "",
-      "event_time": 1771978882
+      "event_time": 1772008968
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "电视剧告白官宣",
-      "hot_value": 8194770,
+      "hot_value": 8582892,
       "label": "爆",
       "event_time": 1771990605
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "德国总理默茨抵达北京",
-      "hot_value": 7934947,
+      "hot_value": 8248455,
       "label": "",
       "event_time": 1771989043
     },
     {
+      "rank": 16,
+      "word": "WBG战胜IG",
+      "hot_value": 8049096,
+      "label": "新",
+      "event_time": 1772014878
+    },
+    {
       "rank": 17,
-      "word": "中外性能车挑战纽北",
-      "hot_value": 7836289,
+      "word": "全球首创全涵道式eVTOL试飞",
+      "hot_value": 7833345,
       "label": "",
-      "event_time": 1771992273
+      "event_time": 1772001693
     },
     {
       "rank": 18,
-      "word": "飞驰3终于迎来光辉岁月大合唱",
-      "hot_value": 7810328,
-      "label": "热议",
-      "event_time": 1771999886
-    },
-    {
-      "rank": 19,
       "word": "电影镖人累计票房破9亿",
-      "hot_value": 7798190,
+      "hot_value": 7815905,
       "label": "新",
       "event_time": 1772008120
     },
     {
+      "rank": 19,
+      "word": "飞驰3终于迎来光辉岁月大合唱",
+      "hot_value": 7795505,
+      "label": "热议",
+      "event_time": 1771999886
+    },
+    {
       "rank": 20,
-      "word": "我陈平安唯有一剑",
-      "hot_value": 7787711,
-      "label": "音乐",
-      "event_time": 1771939247
+      "word": "TVB演员游飚去世",
+      "hot_value": 7793862,
+      "label": "爆",
+      "event_time": 1771980208
     }
   ],
-  "update_time": "2026-02-25 10:41:33",
+  "update_time": "2026-02-25 11:34:33",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
