@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "海警在金门附近海域常态执法巡查",
+      "hot_value": 11910119,
+      "label": "",
+      "event_time": 1772011584
+    },
+    {
+      "rank": 2,
       "word": "就说看时装周真能学到东西",
-      "hot_value": 11546976,
+      "hot_value": 11159242,
       "label": "荐",
       "event_time": 1771997867
     },
     {
-      "rank": 2,
-      "word": "万万没想到干噎汤圆又来了",
-      "hot_value": 11444595,
-      "label": "",
-      "event_time": 1771998769
-    },
-    {
       "rank": 3,
-      "word": "这份粮食成绩单请查收",
-      "hot_value": 11353356,
-      "label": "爆",
-      "event_time": 1771985205
+      "word": "全国铁路春运发送旅客破3亿人次",
+      "hot_value": 11104030,
+      "label": "新",
+      "event_time": 1772024897
     },
     {
       "rank": 4,
-      "word": "土耳其空军一架F16战机坠毁",
-      "hot_value": 11006168,
-      "label": "",
-      "event_time": 1771987498
+      "word": "万万没想到干噎汤圆又来了",
+      "hot_value": 11091004,
+      "label": "爆",
+      "event_time": 1771998769
     },
     {
       "rank": 5,
       "word": "外交部回应英法或供乌核武器",
-      "hot_value": 10402401,
-      "label": "新",
+      "hot_value": 10519493,
+      "label": "爆",
       "event_time": 1772011474
     },
     {
       "rank": 6,
-      "word": "海警在金门附近海域常态执法巡查",
-      "hot_value": 10274801,
-      "label": "新",
-      "event_time": 1772011584
+      "word": "土耳其空军一架F16战机坠毁",
+      "hot_value": 10482759,
+      "label": "",
+      "event_time": 1771987498
     },
     {
       "rank": 7,
+      "word": "WBG战胜IG",
+      "hot_value": 9376970,
+      "label": "",
+      "event_time": 1772014878
+    },
+    {
+      "rank": 8,
+      "word": "中国男篮公布客战日本12人名单",
+      "hot_value": 9149700,
+      "label": "新",
+      "event_time": 1772023049
+    },
+    {
+      "rank": 9,
       "word": "伊朗大规模军演 试射多种导弹",
-      "hot_value": 9109095,
+      "hot_value": 9117655,
       "label": "",
       "event_time": 1771946598
     },
     {
-      "rank": 8,
-      "word": "WBG战胜IG",
-      "hot_value": 9091828,
-      "label": "新",
-      "event_time": 1772014878
+      "rank": 10,
+      "word": "英伟达Q4财报公布在即",
+      "hot_value": 9115174,
+      "label": "",
+      "event_time": 1772009228
     },
     {
-      "rank": 9,
+      "rank": 11,
       "word": "张家鸣加盟伯恩利",
-      "hot_value": 9050662,
+      "hot_value": 9087469,
       "label": "爆",
       "event_time": 1772008968
     },
     {
-      "rank": 10,
-      "word": "朱雀三号计划再次挑战回收",
-      "hot_value": 8958601,
-      "label": "",
-      "event_time": 1771984932
-    },
-    {
-      "rank": 11,
-      "word": "全球首创全涵道式eVTOL试飞",
-      "hot_value": 8896216,
-      "label": "",
-      "event_time": 1772001693
-    },
-    {
       "rank": 12,
-      "word": "特朗普：我们赢得太多了",
-      "hot_value": 8860487,
-      "label": "",
-      "event_time": 1771994939
+      "word": "网传医院有安乐死胶囊系谣言",
+      "hot_value": 9069672,
+      "label": "谣言",
+      "event_time": 1772017432
     },
     {
       "rank": 13,
-      "word": "电视剧告白官宣",
-      "hot_value": 8759529,
-      "label": "爆",
-      "event_time": 1771990605
-    },
-    {
-      "rank": 14,
-      "word": "詹姆斯错失绝杀",
-      "hot_value": 8695224,
-      "label": "新",
-      "event_time": 1772008475
-    },
-    {
-      "rank": 15,
       "word": "德国总理默茨抵达北京",
-      "hot_value": 8502519,
+      "hot_value": 9068655,
       "label": "",
       "event_time": 1771989043
     },
     {
-      "rank": 16,
-      "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 8460310,
+      "rank": 14,
+      "word": "电视剧告白官宣",
+      "hot_value": 8955668,
+      "label": "爆",
+      "event_time": 1771990605
+    },
+    {
+      "rank": 15,
+      "word": "詹姆斯错失绝杀",
+      "hot_value": 8704830,
       "label": "",
-      "event_time": 1771978882
+      "event_time": 1772008475
+    },
+    {
+      "rank": 16,
+      "word": "全球首创全涵道式eVTOL试飞",
+      "hot_value": 8462088,
+      "label": "",
+      "event_time": 1772001693
     },
     {
       "rank": 17,
-      "word": "王心迪“报名”东北超",
-      "hot_value": 8262742,
-      "label": "新",
-      "event_time": 1772013767
+      "word": "战略金属钨一年暴涨220%",
+      "hot_value": 8454481,
+      "label": "爆",
+      "event_time": 1772008498
     },
     {
       "rank": 18,
-      "word": "电影镖人累计票房破9亿",
-      "hot_value": 8143204,
+      "word": "外交部回应美指责中国开展核试验",
+      "hot_value": 8185305,
       "label": "",
-      "event_time": 1772008120
+      "event_time": 1772008485
     },
     {
       "rank": 19,
-      "word": "英伟达Q4财报公布在即",
-      "hot_value": 7820863,
-      "label": "新",
-      "event_time": 1772009228
+      "word": "电影镖人累计票房破9亿",
+      "hot_value": 7827225,
+      "label": "爆",
+      "event_time": 1772008120
     },
     {
       "rank": 20,
-      "word": "TVB演员游飚去世",
-      "hot_value": 7817875,
+      "word": "中外性能车挑战纽北",
+      "hot_value": 7825248,
       "label": "爆",
-      "event_time": 1771980208
+      "event_time": 1771992273
     }
   ],
-  "update_time": "2026-02-25 12:42:13",
+  "update_time": "2026-02-25 14:04:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
