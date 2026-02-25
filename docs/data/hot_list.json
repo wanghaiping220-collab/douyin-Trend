@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "阿富汗与巴基斯坦在边境爆发冲突",
-      "hot_value": 11761705,
+      "hot_value": 11862527,
       "label": "爆",
       "event_time": 1771974531
     },
     {
       "rank": 2,
       "word": "伊朗大规模军演 试射多种导弹",
-      "hot_value": 11657000,
+      "hot_value": 11361194,
       "label": "",
       "event_time": 1771946598
     },
     {
       "rank": 3,
       "word": "春节长假创下多项新高",
-      "hot_value": 11492232,
-      "label": "",
+      "hot_value": 11169178,
+      "label": "爆",
       "event_time": 1771990855
     },
     {
       "rank": 4,
+      "word": "德国总理默茨抵达北京",
+      "hot_value": 10977936,
+      "label": "爆",
+      "event_time": 1771989043
+    },
+    {
+      "rank": 5,
       "word": "小米法拉利保时捷纽北对决",
-      "hot_value": 11123804,
+      "hot_value": 10246885,
       "label": "",
       "event_time": 1771979977
     },
     {
-      "rank": 5,
-      "word": "德国总理默茨抵达北京",
-      "hot_value": 10411897,
-      "label": "",
-      "event_time": 1771989043
-    },
-    {
       "rank": 6,
       "word": "中方在涉乌联大表决中投弃权票",
-      "hot_value": 10333414,
-      "label": "新",
+      "hot_value": 10185525,
+      "label": "",
       "event_time": 1771983262
     },
     {
       "rank": 7,
       "word": "上海发布楼市“沪七条”",
-      "hot_value": 9188327,
+      "hot_value": 9089871,
       "label": "新",
       "event_time": 1771996409
     },
     {
       "rank": 8,
-      "word": "苹果市值一夜增超6000亿",
-      "hot_value": 9172356,
-      "label": "",
-      "event_time": 1771978693
+      "word": "朱雀三号计划再次挑战回收",
+      "hot_value": 9064172,
+      "label": "新",
+      "event_time": 1771984932
     },
     {
       "rank": 9,
-      "word": "国际米兰1:2博德闪耀",
-      "hot_value": 9119799,
-      "label": "",
-      "event_time": 1771975574
+      "word": "骑士109:94大胜尼克斯",
+      "hot_value": 8934960,
+      "label": "新",
+      "event_time": 1771995354
     },
     {
       "rank": 10,
-      "word": "FBI局长被拍到更衣室庆祝夺冠",
-      "hot_value": 9054762,
-      "label": "爆",
-      "event_time": 1771918494
-    },
-    {
-      "rank": 11,
       "word": "谈判前夕美伊持续“排兵布阵”",
-      "hot_value": 8939153,
+      "hot_value": 8890359,
       "label": "",
       "event_time": 1771978882
     },
     {
+      "rank": 11,
+      "word": "媒体评默茨访华",
+      "hot_value": 8852346,
+      "label": "",
+      "event_time": 1771977197
+    },
+    {
       "rank": 12,
       "word": "维生素D缺乏是因为过度防晒吗",
-      "hot_value": 8889470,
+      "hot_value": 8757799,
       "label": "谣言",
       "event_time": 1771983770
     },
     {
       "rank": 13,
-      "word": "墨西哥头号毒枭身亡细节曝光",
-      "hot_value": 8539139,
-      "label": "新",
-      "event_time": 1771992061
+      "word": "国际米兰1:2博德闪耀",
+      "hot_value": 8661737,
+      "label": "",
+      "event_time": 1771975574
     },
     {
       "rank": 14,
       "word": "河南平顶山郏县再通报打人事件",
-      "hot_value": 8276832,
+      "hot_value": 8378977,
       "label": "",
       "event_time": 1771975039
     },
     {
       "rank": 15,
-      "word": "媒体评默茨访华",
-      "hot_value": 8178764,
-      "label": "",
-      "event_time": 1771977197
-    },
-    {
-      "rank": 16,
       "word": "云南德宏州盈江县4.6级地震",
-      "hot_value": 7822745,
-      "label": "",
+      "hot_value": 8306497,
+      "label": "爆",
       "event_time": 1771989948
     },
     {
+      "rank": 16,
+      "word": "FBI局长被拍到更衣室庆祝夺冠",
+      "hot_value": 8281289,
+      "label": "爆",
+      "event_time": 1771918494
+    },
+    {
       "rank": 17,
-      "word": "正月初九拜天公",
-      "hot_value": 7797876,
+      "word": "茶花开了该回家了",
+      "hot_value": 8235167,
       "label": "娱乐",
-      "event_time": 1771974807
+      "event_time": 1771993916
     },
     {
       "rank": 18,
-      "word": "过年后回家的留守猫",
-      "hot_value": 7797435,
-      "label": "音乐",
-      "event_time": 1771935149
-    },
-    {
-      "rank": 19,
       "word": "TVB演员游飚去世",
-      "hot_value": 7789006,
+      "hot_value": 7808813,
       "label": "",
       "event_time": 1771980208
     },
     {
+      "rank": 19,
+      "word": "正月初九拜天公",
+      "hot_value": 7807780,
+      "label": "娱乐",
+      "event_time": 1771974807
+    },
+    {
       "rank": 20,
       "word": "我陈平安唯有一剑",
-      "hot_value": 7763684,
+      "hot_value": 7793405,
       "label": "音乐",
       "event_time": 1771939247
     }
   ],
-  "update_time": "2026-02-25 05:55:22",
+  "update_time": "2026-02-25 06:53:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
