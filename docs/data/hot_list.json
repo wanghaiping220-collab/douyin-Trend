@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "世预赛中国男篮逆转战胜日本队",
-      "hot_value": 11227879,
-      "label": "爆",
+      "hot_value": 11005687,
+      "label": "",
       "event_time": 1772085010
     },
     {
       "rank": 2,
       "word": "四六级成绩27日6时公布",
-      "hot_value": 10794885,
-      "label": "爆",
+      "hot_value": 10787970,
+      "label": "",
       "event_time": 1772073100
     },
     {
       "rank": 3,
       "word": "春节消费市场年味浓人气旺活力足",
-      "hot_value": 10773788,
+      "hot_value": 10787511,
       "label": "爆",
       "event_time": 1772111698
     },
     {
       "rank": 4,
       "word": "新一轮美伊谈判举行",
-      "hot_value": 10765133,
+      "hot_value": 10759246,
       "label": "爆",
       "event_time": 1772066516
     },
     {
       "rank": 5,
       "word": "古巴称与美籍快艇交火致4死6伤",
-      "hot_value": 10202747,
+      "hot_value": 10218832,
       "label": "",
       "event_time": 1772059341
     },
     {
       "rank": 6,
       "word": "长和系清仓英国电网资产",
-      "hot_value": 10200217,
+      "hot_value": 10205506,
       "label": "爆",
       "event_time": 1772068985
     },
     {
       "rank": 7,
+      "word": "三亚“民宿毁约”事件处置情况",
+      "hot_value": 9129323,
+      "label": "",
+      "event_time": 1772091754
+    },
+    {
+      "rank": 8,
       "word": "手机厂商或于3月初集中涨价",
-      "hot_value": 9047737,
+      "hot_value": 9127245,
       "label": "",
       "event_time": 1772076405
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "考研成绩2月28日起陆续公布",
-      "hot_value": 9035196,
+      "hot_value": 9025922,
       "label": "",
       "event_time": 1772076892
     },
     {
-      "rank": 9,
-      "word": "这一刻的爱太沉重也太伟大",
-      "hot_value": 8999278,
-      "label": "爆",
-      "event_time": 1772108360
-    },
-    {
       "rank": 10,
       "word": "赵心童4:2穆迪晋级16强",
-      "hot_value": 8977404,
+      "hot_value": 9013719,
       "label": "爆",
       "event_time": 1772065384
     },
     {
       "rank": 11,
-      "word": "JDG 3:2 AL",
-      "hot_value": 8848052,
+      "word": "这一刻的爱太沉重也太伟大",
+      "hot_value": 8986128,
       "label": "爆",
-      "event_time": 1772102888
+      "event_time": 1772108360
     },
     {
       "rank": 12,
       "word": "二郎山水库因发电污染系谣言",
-      "hot_value": 8842333,
+      "hot_value": 8883490,
       "label": "谣言",
       "event_time": 1772105245
     },
     {
       "rank": 13,
       "word": "赵继伟发文鼓励中国男篮",
-      "hot_value": 8688250,
+      "hot_value": 8880562,
       "label": "爆",
       "event_time": 1772113052
     },
     {
       "rank": 14,
-      "word": "三亚“民宿毁约”事件处置情况",
-      "hot_value": 8686303,
-      "label": "",
-      "event_time": 1772091754
-    },
-    {
-      "rank": 15,
-      "word": "著名法学家高铭暄逝世",
-      "hot_value": 8655171,
-      "label": "爆",
-      "event_time": 1772088548
-    },
-    {
-      "rank": 16,
-      "word": "请你看花",
-      "hot_value": 8402549,
-      "label": "",
-      "event_time": 1772110184
-    },
-    {
-      "rank": 17,
       "word": "王者全球英雄票选开启",
-      "hot_value": 8385199,
+      "hot_value": 8693610,
       "label": "爆",
       "event_time": 1772089766
     },
     {
+      "rank": 15,
+      "word": "请你看花",
+      "hot_value": 8640138,
+      "label": "",
+      "event_time": 1772110184
+    },
+    {
+      "rank": 16,
+      "word": "著名法学家高铭暄逝世",
+      "hot_value": 8604245,
+      "label": "爆",
+      "event_time": 1772088548
+    },
+    {
+      "rank": 17,
+      "word": "JDG 3:2 AL",
+      "hot_value": 8364443,
+      "label": "爆",
+      "event_time": 1772102888
+    },
+    {
       "rank": 18,
       "word": "媒体点赞县委书记开抖音号",
-      "hot_value": 7825887,
+      "hot_value": 7826826,
       "label": "",
       "event_time": 1772076257
     },
     {
       "rank": 19,
       "word": "用豌豆公主的视角打开生活",
-      "hot_value": 7806123,
+      "hot_value": 7776382,
       "label": "音乐",
       "event_time": 1772106750
     },
     {
       "rank": 20,
       "word": "为什么北方的肥胖率高于南方",
-      "hot_value": 7804770,
+      "hot_value": 7775386,
       "label": "娱乐",
       "event_time": 1772089916
     }
   ],
-  "update_time": "2026-02-26 18:40:00",
+  "update_time": "2026-02-26 19:37:30",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
