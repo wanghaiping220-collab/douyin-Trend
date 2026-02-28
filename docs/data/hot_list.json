@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "伊朗宣布关闭霍尔木兹海峡",
-      "hot_value": 11877845,
+      "hot_value": 11615094,
       "label": "",
       "event_time": 1772300416
     },
     {
       "rank": 2,
       "word": "小米超跑正式亮相",
-      "hot_value": 11663250,
+      "hot_value": 11581151,
       "label": "",
       "event_time": 1772291330
     },
     {
       "rank": 3,
       "word": "我国最大采煤沉陷区光伏基地投运",
-      "hot_value": 11178827,
+      "hot_value": 11290926,
       "label": "爆",
       "event_time": 1772257295
     },
     {
       "rank": 4,
       "word": "黄金连续上涨7个月",
-      "hot_value": 11122096,
+      "hot_value": 10935347,
       "label": "",
       "event_time": 1772274920
     },
     {
       "rank": 5,
       "word": "元宵节一定要去福州接福鱼",
-      "hot_value": 10291086,
+      "hot_value": 10276020,
       "label": "",
       "event_time": 1772245081
     },
     {
       "rank": 6,
       "word": "考研失败又不是人生失败",
-      "hot_value": 10273183,
+      "hot_value": 10264287,
       "label": "爆",
       "event_time": 1772275739
     },
     {
       "rank": 7,
-      "word": "我的考研出分时刻",
-      "hot_value": 9123445,
-      "label": "",
-      "event_time": 1772204837
-    },
-    {
-      "rank": 8,
       "word": "蔡磊已进入渐冻症疾病的终末期",
-      "hot_value": 9119464,
+      "hot_value": 9161723,
       "label": "",
       "event_time": 1772253542
     },
     {
+      "rank": 8,
+      "word": "我的考研出分时刻",
+      "hot_value": 9122369,
+      "label": "",
+      "event_time": 1772204837
+    },
+    {
       "rank": 9,
       "word": "当代人的算了型人格",
-      "hot_value": 9085117,
+      "hot_value": 9104311,
       "label": "爆",
       "event_time": 1772238252
     },
     {
       "rank": 10,
       "word": "我的考研MVP结算画面",
-      "hot_value": 8994602,
+      "hot_value": 8982547,
       "label": "爆",
       "event_time": 1772248950
     },
     {
       "rank": 11,
       "word": "伊朗：袭击致约200名美军人员伤亡",
-      "hot_value": 8940618,
+      "hot_value": 8657201,
       "label": "",
       "event_time": 1772283712
     },
     {
       "rank": 12,
       "word": "反诈老陈因多次违规被处罚",
-      "hot_value": 8880783,
+      "hot_value": 8586583,
       "label": "",
       "event_time": 1772185600
     },
     {
       "rank": 13,
       "word": "元宵节就吃这个马到成功吧",
-      "hot_value": 8715390,
+      "hot_value": 8556168,
       "label": "爆",
       "event_time": 1772251783
     },
     {
       "rank": 14,
-      "word": "聚光灯给到2026届高三生",
-      "hot_value": 8043944,
-      "label": "",
-      "event_time": 1772198928
-    },
-    {
-      "rank": 15,
-      "word": "春晚同款机器人开箱",
-      "hot_value": 7994147,
-      "label": "爆",
-      "event_time": 1772268683
-    },
-    {
-      "rank": 16,
       "word": "伊朗军方称总司令身体健康",
-      "hot_value": 7912290,
+      "hot_value": 8183917,
       "label": "",
       "event_time": 1772274787
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "word": "老爸评测之艾条检测",
+      "hot_value": 8082142,
+      "label": "爆",
+      "event_time": 1772260785
+    },
+    {
+      "rank": 16,
       "word": "伊朗打击美国中东军事基地",
-      "hot_value": 7874155,
+      "hot_value": 7828083,
       "label": "",
       "event_time": 1772270440
     },
     {
-      "rank": 18,
+      "rank": 17,
       "word": "伊媒称伊朗总统安全",
-      "hot_value": 7848037,
+      "hot_value": 7819619,
       "label": "",
       "event_time": 1772264914
     },
     {
-      "rank": 19,
-      "word": "2026年考研国家线公布",
-      "hot_value": 7802580,
+      "rank": 18,
+      "word": "聚光灯给到2026届高三生",
+      "hot_value": 7781109,
       "label": "",
-      "event_time": 1772246463
+      "event_time": 1772198928
+    },
+    {
+      "rank": 19,
+      "word": "春晚同款机器人开箱",
+      "hot_value": 7778559,
+      "label": "",
+      "event_time": 1772268683
     },
     {
       "rank": 20,
       "word": "伊朗向以色列发射导弹",
-      "hot_value": 7800019,
+      "hot_value": 7774648,
       "label": "",
       "event_time": 1772266352
     }
   ],
-  "update_time": "2026-02-28 20:16:16",
+  "update_time": "2026-02-28 21:13:18",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
