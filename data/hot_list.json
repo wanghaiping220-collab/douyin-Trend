@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中国男篮力克中国台北男篮",
-      "hot_value": 12152888,
+      "hot_value": 12156175,
       "label": "爆",
       "event_time": 1772332430
     },
     {
       "rank": 2,
       "word": "中方：有中国公民在袭击中受伤",
-      "hot_value": 12012904,
+      "hot_value": 12107954,
       "label": "新",
       "event_time": 1772368182
     },
     {
       "rank": 3,
       "word": "中国农机火到海外",
-      "hot_value": 11684626,
+      "hot_value": 12004487,
       "label": "新",
       "event_time": 1772371622
     },
     {
       "rank": 4,
+      "word": "伊朗前总统内贾德遇袭身亡",
+      "hot_value": 11736957,
+      "label": "新",
+      "event_time": 1772372332
+    },
+    {
+      "rank": 5,
       "word": "孙颖莎新加坡大满贯冠军",
-      "hot_value": 11668524,
+      "hot_value": 11019368,
       "label": "新",
       "event_time": 1772367799
     },
     {
-      "rank": 5,
+      "rank": 6,
       "word": "三月 你好",
-      "hot_value": 10646641,
+      "hot_value": 10542618,
       "label": "",
       "event_time": 1772323885
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "幸福在未被发现时叫普通的一天",
-      "hot_value": 10343130,
+      "hot_value": 9233096,
       "label": "",
       "event_time": 1772328637
     },
     {
-      "rank": 7,
+      "rank": 8,
       "word": "江浙沪就这样等美食回归解馋",
-      "hot_value": 9181003,
+      "hot_value": 9190945,
       "label": "",
       "event_time": 1772334044
     },
     {
-      "rank": 8,
-      "word": "中方就哈梅内伊遇害表态",
-      "hot_value": 9126786,
-      "label": "",
-      "event_time": 1772361655
-    },
-    {
       "rank": 9,
       "word": "挑战把墙画成艺术品",
-      "hot_value": 9112772,
+      "hot_value": 9124662,
       "label": "爆",
       "event_time": 1772330181
     },
     {
       "rank": 10,
       "word": "早春的油菜花我先拍了",
-      "hot_value": 8857181,
-      "label": "",
+      "hot_value": 9068299,
+      "label": "爆",
       "event_time": 1772272318
     },
     {
       "rank": 11,
       "word": "中俄外长讨论伊朗局势",
-      "hot_value": 8755745,
-      "label": "",
+      "hot_value": 8795049,
+      "label": "爆",
       "event_time": 1772361107
     },
     {
       "rank": 12,
       "word": "一抹春妆赴春光",
-      "hot_value": 8235360,
+      "hot_value": 8577447,
       "label": "",
       "event_time": 1772338101
     },
     {
       "rank": 13,
       "word": "男子造谣霸王茶姬涉毒被抓",
-      "hot_value": 8226069,
+      "hot_value": 8327823,
       "label": "谣言",
       "event_time": 1772272890
     },
     {
       "rank": 14,
       "word": "伊朗最高领袖哈梅内伊遇袭身亡",
-      "hot_value": 7808259,
+      "hot_value": 7908794,
       "label": "",
       "event_time": 1772328733
     },
     {
       "rank": 15,
+      "word": "伊朗：向美航母发射四枚导弹",
+      "hot_value": 7785864,
+      "label": "新",
+      "event_time": 1772373418
+    },
+    {
+      "rank": 16,
       "word": "阿联酋机场遭袭1亚洲公民死亡",
-      "hot_value": 7775851,
+      "hot_value": 7764504,
       "label": "",
       "event_time": 1772325358
     },
     {
-      "rank": 16,
-      "word": "小米超跑正式亮相",
-      "hot_value": 7741992,
-      "label": "",
-      "event_time": 1772291330
-    },
-    {
       "rank": 17,
       "word": "记者实拍伊朗首都德黑兰爆炸",
-      "hot_value": 7736343,
+      "hot_value": 7745116,
       "label": "新",
       "event_time": 1772365333
     },
     {
       "rank": 18,
-      "word": "伊朗武装部队总参谋长身亡",
-      "hot_value": 7730061,
-      "label": "爆",
-      "event_time": 1772347041
-    },
-    {
-      "rank": 19,
       "word": "黄景瑜关晓彤给剧粉喂糖了",
-      "hot_value": 7724815,
+      "hot_value": 7743231,
       "label": "热议",
       "event_time": 1772368364
     },
     {
+      "rank": 19,
+      "word": "伊朗武装部队总参谋长身亡",
+      "hot_value": 7740515,
+      "label": "爆",
+      "event_time": 1772347041
+    },
+    {
       "rank": 20,
       "word": "迪拜国际机场航站楼遭到袭击",
-      "hot_value": 7723275,
+      "hot_value": 7727820,
       "label": "爆",
       "event_time": 1772325287
     }
   ],
-  "update_time": "2026-03-01 13:33:48",
+  "update_time": "2026-03-01 14:17:15",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
