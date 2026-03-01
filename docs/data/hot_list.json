@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "三月 你好",
-      "hot_value": 11781435,
+      "hot_value": 11142671,
       "label": "爆",
       "event_time": 1772323885
     },
     {
       "rank": 2,
       "word": "江浙沪就这样等美食回归解馋",
-      "hot_value": 11433161,
-      "label": "新",
+      "hot_value": 10786824,
+      "label": "",
       "event_time": 1772334044
     },
     {
       "rank": 3,
       "word": "我国经济向新向优发展",
-      "hot_value": 10913896,
-      "label": "",
+      "hot_value": 10752295,
+      "label": "爆",
       "event_time": 1772335720
     },
     {
       "rank": 4,
       "word": "伊朗最高领袖哈梅内伊遇袭身亡",
-      "hot_value": 10883359,
+      "hot_value": 10692929,
       "label": "",
       "event_time": 1772328733
     },
     {
       "rank": 5,
-      "word": "元宵节一定要去福州接福鱼",
-      "hot_value": 10234656,
-      "label": "",
-      "event_time": 1772245081
-    },
-    {
-      "rank": 6,
       "word": "挑战把墙画成艺术品",
-      "hot_value": 10107074,
+      "hot_value": 10083305,
       "label": "新",
       "event_time": 1772330181
     },
     {
-      "rank": 7,
-      "word": "元宵节就吃这个马到成功吧",
-      "hot_value": 8705954,
+      "rank": 6,
+      "word": "元宵节一定要去福州接福鱼",
+      "hot_value": 9792932,
       "label": "",
-      "event_time": 1772251783
+      "event_time": 1772245081
+    },
+    {
+      "rank": 7,
+      "word": "我就是滇风盛典超燃",
+      "hot_value": 8598850,
+      "label": "",
+      "event_time": 1772261440
     },
     {
       "rank": 8,
       "word": "伊朗导弹击中以军总参谋部",
-      "hot_value": 8171639,
+      "hot_value": 8459052,
       "label": "新",
       "event_time": 1772339775
     },
     {
       "rank": 9,
+      "word": "一抹春妆赴春光",
+      "hot_value": 8069606,
+      "label": "新",
+      "event_time": 1772338101
+    },
+    {
+      "rank": 10,
       "word": "星空风铃让我看到了宇宙浪漫",
-      "hot_value": 7964055,
+      "hot_value": 7961569,
       "label": "",
       "event_time": 1772246458
     },
     {
-      "rank": 10,
-      "word": "我就是滇风盛典超燃",
-      "hot_value": 7792635,
-      "label": "",
-      "event_time": 1772261440
-    },
-    {
       "rank": 11,
       "word": "小米超跑正式亮相",
-      "hot_value": 7782019,
+      "hot_value": 7958605,
       "label": "",
       "event_time": 1772291330
     },
     {
       "rank": 12,
       "word": "考研失败又不是人生失败",
-      "hot_value": 7769306,
+      "hot_value": 7811612,
       "label": "",
       "event_time": 1772275739
     },
     {
       "rank": 13,
       "word": "男子造谣霸王茶姬涉毒被抓",
-      "hot_value": 7746542,
+      "hot_value": 7790431,
       "label": "谣言",
       "event_time": 1772272890
     },
     {
       "rank": 14,
-      "word": "小满晓丹异国恋分手",
-      "hot_value": 7720621,
+      "word": "在阿联酋华人亲述现状",
+      "hot_value": 7765871,
       "label": "新",
-      "event_time": 1772338049
+      "event_time": 1772338318
     },
     {
       "rank": 15,
-      "word": "我的考研MVP结算画面",
-      "hot_value": 7701423,
-      "label": "",
-      "event_time": 1772248950
-    },
-    {
-      "rank": 16,
-      "word": "我的考研出分时刻",
-      "hot_value": 7686483,
-      "label": "",
-      "event_time": 1772204837
-    },
-    {
-      "rank": 17,
-      "word": "老爸评测之艾条检测",
-      "hot_value": 7678604,
-      "label": "",
-      "event_time": 1772260785
-    },
-    {
-      "rank": 18,
-      "word": "春晚同款机器人开箱",
-      "hot_value": 7678011,
-      "label": "",
-      "event_time": 1772268683
-    },
-    {
-      "rank": 19,
       "word": "实拍伊朗生活现状",
-      "hot_value": 7669443,
-      "label": "新",
+      "hot_value": 7749448,
+      "label": "",
       "event_time": 1772334970
     },
     {
+      "rank": 16,
+      "word": "与福鱼合拍我的新年大片",
+      "hot_value": 7740998,
+      "label": "音乐",
+      "event_time": 1772334919
+    },
+    {
+      "rank": 17,
+      "word": "小满晓丹异国恋分手",
+      "hot_value": 7730670,
+      "label": "",
+      "event_time": 1772338049
+    },
+    {
+      "rank": 18,
+      "word": "哈梅内伊遇害细节公开",
+      "hot_value": 7726036,
+      "label": "新",
+      "event_time": 1772331709
+    },
+    {
+      "rank": 19,
+      "word": "元宵节就吃这个马到成功吧",
+      "hot_value": 7714163,
+      "label": "",
+      "event_time": 1772251783
+    },
+    {
       "rank": 20,
-      "word": "方穆扬费霓终于亲上了",
-      "hot_value": 7668717,
-      "label": "荐",
-      "event_time": 1772334752
+      "word": "我的考研MVP结算画面",
+      "hot_value": 7695916,
+      "label": "",
+      "event_time": 1772248950
     }
   ],
-  "update_time": "2026-03-01 05:44:57",
+  "update_time": "2026-03-01 06:35:25",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
