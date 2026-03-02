@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "元宵节都有什么习俗",
-      "hot_value": 12109025,
+      "hot_value": 11921313,
       "label": "爆",
       "event_time": 1772333601
     },
     {
       "rank": 2,
       "word": "1名中国公民在伊朗遇难",
-      "hot_value": 11993763,
+      "hot_value": 11804420,
       "label": "新",
       "event_time": 1772436789
     },
     {
       "rank": 3,
       "word": "我国海岸线低空经济带加速成型",
-      "hot_value": 11960461,
+      "hot_value": 11629142,
       "label": "爆",
       "event_time": 1772420841
     },
     {
       "rank": 4,
       "word": "内贾德家属和亲信否认其死亡",
-      "hot_value": 11481747,
-      "label": "",
+      "hot_value": 11273781,
+      "label": "爆",
       "event_time": 1772423984
     },
     {
       "rank": 5,
       "word": "幸福在未被发现时叫普通的一天",
-      "hot_value": 10266866,
+      "hot_value": 10269324,
       "label": "",
       "event_time": 1772328637
     },
     {
       "rank": 6,
       "word": "早春的油菜花我先拍了",
-      "hot_value": 10229993,
+      "hot_value": 10224831,
       "label": "",
       "event_time": 1772272318
     },
     {
       "rank": 7,
       "word": "挑战把墙画成艺术品",
-      "hot_value": 9118812,
+      "hot_value": 9124566,
       "label": "",
       "event_time": 1772330181
     },
     {
       "rank": 8,
       "word": "羽毛球终于降价了",
-      "hot_value": 9112423,
-      "label": "",
+      "hot_value": 9121073,
+      "label": "爆",
       "event_time": 1772419545
     },
     {
       "rank": 9,
       "word": "快船主场大胜鹈鹕",
-      "hot_value": 8842912,
-      "label": "新",
+      "hot_value": 8961070,
+      "label": "",
       "event_time": 1772429647
     },
     {
       "rank": 10,
       "word": "最燃的接力",
-      "hot_value": 8806912,
+      "hot_value": 8795160,
       "label": "爆",
       "event_time": 1772416063
     },
     {
       "rank": 11,
       "word": "圣地亚哥大师赛将重新抽签",
-      "hot_value": 8536208,
+      "hot_value": 8690851,
       "label": "",
       "event_time": 1772426352
     },
     {
       "rank": 12,
       "word": "浙江地震局辟谣泰顺4.2级地震",
-      "hot_value": 8512994,
+      "hot_value": 8505646,
       "label": "谣言",
       "event_time": 1772422633
     },
     {
       "rank": 13,
       "word": "中国军号：假如战争今天爆发",
-      "hot_value": 8498691,
-      "label": "新",
+      "hot_value": 8393620,
+      "label": "",
       "event_time": 1772422681
     },
     {
       "rank": 14,
       "word": "美军F15战机据称被“友军”击中",
-      "hot_value": 8259872,
+      "hot_value": 8352670,
       "label": "",
       "event_time": 1772429528
     },
     {
       "rank": 15,
       "word": "伊朗：向美航母发射四枚导弹",
-      "hot_value": 8228009,
+      "hot_value": 8347268,
       "label": "",
       "event_time": 1772373418
     },
     {
       "rank": 16,
-      "word": "飞驰3记星展示臂力这一块",
-      "hot_value": 7920228,
-      "label": "荐",
-      "event_time": 1772421851
-    },
-    {
-      "rank": 17,
       "word": "记者实拍伊朗首都德黑兰爆炸",
-      "hot_value": 7795328,
+      "hot_value": 8074609,
       "label": "爆",
       "event_time": 1772365333
     },
     {
-      "rank": 18,
-      "word": "个税汇算申报指南",
-      "hot_value": 7783311,
-      "label": "",
-      "event_time": 1772330544
+      "rank": 17,
+      "word": "飞驰3记星展示臂力这一块",
+      "hot_value": 7795870,
+      "label": "荐",
+      "event_time": 1772421851
     },
     {
-      "rank": 19,
+      "rank": 18,
       "word": "晒出我的拼豆作品",
-      "hot_value": 7769382,
+      "hot_value": 7774009,
       "label": "爆",
       "event_time": 1772370159
     },
     {
+      "rank": 19,
+      "word": "个税汇算申报指南",
+      "hot_value": 7761339,
+      "label": "",
+      "event_time": 1772330544
+    },
+    {
       "rank": 20,
-      "word": "看完方穆扬表白原谅了整个世界",
-      "hot_value": 7764911,
-      "label": "爆",
-      "event_time": 1772369487
+      "word": "北京国安超级杯夺冠",
+      "hot_value": 7756576,
+      "label": "",
+      "event_time": 1772358713
     }
   ],
-  "update_time": "2026-03-02 07:42:55",
+  "update_time": "2026-03-02 08:33:45",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
