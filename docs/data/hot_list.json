@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中方敦促英方撤销对中企制裁",
-      "hot_value": 11991145,
+      "hot_value": 11763323,
       "label": "爆",
       "event_time": 1772425614
     },
     {
       "rank": 2,
       "word": "深山幽谷都能钓到什么鱼",
-      "hot_value": 11660961,
+      "hot_value": 11595678,
       "label": "爆",
       "event_time": 1772451833
     },
     {
       "rank": 3,
       "word": "新学期多地校园餐迎来新变化",
-      "hot_value": 11451675,
+      "hot_value": 11537658,
       "label": "爆",
       "event_time": 1772459835
     },
     {
       "rank": 4,
       "word": "元宵节别忘了抬头看看月亮",
-      "hot_value": 11064795,
+      "hot_value": 11291688,
       "label": "",
       "event_time": 1772457890
     },
     {
       "rank": 5,
       "word": "元宵节都有什么习俗",
-      "hot_value": 10467045,
+      "hot_value": 10534640,
       "label": "",
       "event_time": 1772333601
     },
     {
       "rank": 6,
       "word": "汤圆送入冻房爆改大福",
-      "hot_value": 10273207,
+      "hot_value": 10248899,
       "label": "爆",
       "event_time": 1772423231
     },
     {
       "rank": 7,
       "word": "用粉彩风打开春天",
-      "hot_value": 9128402,
+      "hot_value": 9116606,
       "label": "",
       "event_time": 1772431701
     },
     {
       "rank": 8,
       "word": "请我的好朋友吃油泼辣子汤圆",
-      "hot_value": 9123033,
+      "hot_value": 9116435,
       "label": "",
       "event_time": 1772429711
     },
     {
       "rank": 9,
-      "word": "F1澳大利亚大奖赛前瞻",
-      "hot_value": 9116221,
-      "label": "爆",
-      "event_time": 1772443328
-    },
-    {
-      "rank": 10,
       "word": "中国女足将迎亚洲杯首战",
-      "hot_value": 9014102,
+      "hot_value": 9116080,
       "label": "爆",
       "event_time": 1772438026
     },
     {
-      "rank": 11,
+      "rank": 10,
       "word": "印度GDP没超过日本",
-      "hot_value": 9008155,
+      "hot_value": 9093352,
       "label": "爆",
       "event_time": 1772409919
     },
     {
+      "rank": 11,
+      "word": "快船主场大胜鹈鹕",
+      "hot_value": 8982570,
+      "label": "爆",
+      "event_time": 1772429647
+    },
+    {
       "rank": 12,
       "word": "圣地亚哥大师赛将重新抽签",
-      "hot_value": 8900523,
+      "hot_value": 8848919,
       "label": "",
       "event_time": 1772426352
     },
     {
       "rank": 13,
       "word": "海澜之家被暂停全军采购活动资格",
-      "hot_value": 8785997,
+      "hot_value": 8751343,
       "label": "爆",
       "event_time": 1772423970
     },
     {
       "rank": 14,
       "word": "1名中国公民在伊朗遇难",
-      "hot_value": 8555913,
+      "hot_value": 8615004,
       "label": "",
       "event_time": 1772436789
     },
     {
       "rank": 15,
       "word": "中国军号：假如战争今天爆发",
-      "hot_value": 8012508,
+      "hot_value": 7823893,
       "label": "",
       "event_time": 1772422681
     },
     {
       "rank": 16,
       "word": "内贾德家属和亲信否认其死亡",
-      "hot_value": 7827596,
+      "hot_value": 7817429,
       "label": "",
       "event_time": 1772423984
     },
     {
       "rank": 17,
-      "word": "飞驰3记星展示臂力这一块",
-      "hot_value": 7816073,
-      "label": "荐",
-      "event_time": 1772421851
+      "word": "个税汇算申报指南",
+      "hot_value": 7815121,
+      "label": "",
+      "event_time": 1772330544
     },
     {
       "rank": 18,
-      "word": "中国金球奖颁奖典礼",
-      "hot_value": 7795359,
-      "label": "",
-      "event_time": 1772431338
-    },
-    {
-      "rank": 19,
       "word": "第三个吻痕手势舞",
-      "hot_value": 7793406,
+      "hot_value": 7809711,
       "label": "音乐",
       "event_time": 1772462154
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "伊媒：哈梅内伊妻子去世",
-      "hot_value": 7787621,
+      "hot_value": 7796024,
       "label": "",
       "event_time": 1772457294
+    },
+    {
+      "rank": 20,
+      "word": "花式演绎武家坡",
+      "hot_value": 7787818,
+      "label": "音乐",
+      "event_time": 1772431141
     }
   ],
-  "update_time": "2026-03-02 19:31:29",
+  "update_time": "2026-03-02 20:26:04",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
