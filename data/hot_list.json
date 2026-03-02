@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中方敦促英方撤销对中企制裁",
-      "hot_value": 11875548,
+      "hot_value": 11956513,
       "label": "爆",
       "event_time": 1772425614
     },
     {
       "rank": 2,
       "word": "元宵节都有什么习俗",
-      "hot_value": 11667359,
+      "hot_value": 11859325,
       "label": "爆",
       "event_time": 1772333601
     },
     {
       "rank": 3,
       "word": "新学期多地校园餐迎来新变化",
-      "hot_value": 11634193,
+      "hot_value": 11693146,
       "label": "爆",
       "event_time": 1772459835
     },
     {
       "rank": 4,
-      "word": "深山幽谷都能钓到什么鱼",
-      "hot_value": 11277971,
+      "word": "元宵节别忘了抬头看看月亮",
+      "hot_value": 11094957,
       "label": "爆",
-      "event_time": 1772451833
+      "event_time": 1772457890
     },
     {
       "rank": 5,
-      "word": "元宵节别忘了抬头看看月亮",
-      "hot_value": 10541203,
+      "word": "深山幽谷都能钓到什么鱼",
+      "hot_value": 10342096,
       "label": "",
-      "event_time": 1772457890
+      "event_time": 1772451833
     },
     {
       "rank": 6,
       "word": "用粉彩风打开春天",
-      "hot_value": 10244484,
+      "hot_value": 10211199,
       "label": "",
       "event_time": 1772431701
     },
     {
       "rank": 7,
       "word": "汤圆送入冻房爆改大福",
-      "hot_value": 9119538,
+      "hot_value": 9122877,
       "label": "",
       "event_time": 1772423231
     },
     {
       "rank": 8,
       "word": "F1澳大利亚大奖赛前瞻",
-      "hot_value": 9119058,
+      "hot_value": 9121899,
       "label": "爆",
       "event_time": 1772443328
     },
     {
       "rank": 9,
       "word": "请我的好朋友吃油泼辣子汤圆",
-      "hot_value": 9076187,
+      "hot_value": 9082261,
       "label": "",
       "event_time": 1772429711
     },
     {
       "rank": 10,
-      "word": "印度GDP没超过日本",
-      "hot_value": 9067601,
-      "label": "爆",
-      "event_time": 1772409919
-    },
-    {
-      "rank": 11,
-      "word": "圣地亚哥大师赛将重新抽签",
-      "hot_value": 9044100,
-      "label": "",
-      "event_time": 1772426352
-    },
-    {
-      "rank": 12,
       "word": "中国女足将迎亚洲杯首战",
-      "hot_value": 8939035,
+      "hot_value": 8957823,
       "label": "爆",
       "event_time": 1772438026
     },
     {
+      "rank": 11,
+      "word": "印度GDP没超过日本",
+      "hot_value": 8911552,
+      "label": "爆",
+      "event_time": 1772409919
+    },
+    {
+      "rank": 12,
+      "word": "圣地亚哥大师赛将重新抽签",
+      "hot_value": 8788569,
+      "label": "",
+      "event_time": 1772426352
+    },
+    {
       "rank": 13,
       "word": "1名中国公民在伊朗遇难",
-      "hot_value": 8617297,
+      "hot_value": 8708132,
       "label": "",
       "event_time": 1772436789
     },
     {
       "rank": 14,
       "word": "海澜之家被暂停全军采购活动资格",
-      "hot_value": 8215636,
+      "hot_value": 8488801,
       "label": "爆",
       "event_time": 1772423970
     },
     {
       "rank": 15,
       "word": "中国军号：假如战争今天爆发",
-      "hot_value": 7833435,
+      "hot_value": 7838008,
       "label": "",
       "event_time": 1772422681
     },
     {
       "rank": 16,
       "word": "内贾德家属和亲信否认其死亡",
-      "hot_value": 7821557,
+      "hot_value": 7824542,
       "label": "",
       "event_time": 1772423984
     },
     {
       "rank": 17,
-      "word": "中国金球奖颁奖典礼",
-      "hot_value": 7813715,
+      "word": "个税汇算申报指南",
+      "hot_value": 7818901,
       "label": "",
-      "event_time": 1772431338
+      "event_time": 1772330544
     },
     {
       "rank": 18,
-      "word": "第三个吻痕手势舞",
-      "hot_value": 7809345,
-      "label": "音乐",
-      "event_time": 1772462154
+      "word": "快船主场大胜鹈鹕",
+      "hot_value": 7814846,
+      "label": "",
+      "event_time": 1772429647
     },
     {
       "rank": 19,
       "word": "伊媒：哈梅内伊妻子去世",
-      "hot_value": 7803016,
+      "hot_value": 7813884,
       "label": "",
       "event_time": 1772457294
     },
     {
       "rank": 20,
-      "word": "花式演绎武家坡",
-      "hot_value": 7767815,
-      "label": "音乐",
-      "event_time": 1772431141
+      "word": "中国金球奖颁奖典礼",
+      "hot_value": 7805595,
+      "label": "",
+      "event_time": 1772431338
     }
   ],
-  "update_time": "2026-03-02 21:25:19",
+  "update_time": "2026-03-02 22:19:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
