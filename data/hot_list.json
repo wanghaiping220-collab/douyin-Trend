@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "十四届全国人大四次会议发布会",
-      "hot_value": 11119096,
-      "label": "",
+      "hot_value": 11112992,
+      "label": "爆",
       "event_time": 1772594232
     },
     {
       "rank": 2,
       "word": "两会代表委员有话说",
-      "hot_value": 11115706,
+      "hot_value": 10742973,
       "label": "",
       "event_time": 1772505728
     },
     {
       "rank": 3,
       "word": "七个关键词感知中国经济脉搏",
-      "hot_value": 10733058,
-      "label": "新",
+      "hot_value": 10738772,
+      "label": "",
       "event_time": 1772597830
     },
     {
       "rank": 4,
       "word": "大会发言人谈中日关系",
-      "hot_value": 10730020,
+      "hot_value": 10736117,
       "label": "新",
       "event_time": 1772601325
     },
     {
       "rank": 5,
+      "word": "全国两会首场委员通道",
+      "hot_value": 9377270,
+      "label": "新",
+      "event_time": 1772603217
+    },
+    {
+      "rank": 6,
       "word": "建议70岁以上农民养老金提至500元",
-      "hot_value": 9524439,
+      "hot_value": 9322160,
       "label": "新",
       "event_time": 1772598976
     },
     {
-      "rank": 6,
-      "word": "建议高速每年免费3000公里",
-      "hot_value": 9283838,
-      "label": "",
-      "event_time": 1772582696
-    },
-    {
       "rank": 7,
       "word": "雷军发布2026两会建议",
-      "hot_value": 8291491,
+      "hot_value": 8301626,
       "label": "荐",
       "event_time": 1772586478
     },
     {
       "rank": 8,
-      "word": "将举行经济民生外交主题记者会",
-      "hot_value": 8290108,
+      "word": "大会发言人谈美以袭击伊朗",
+      "hot_value": 8160215,
       "label": "新",
-      "event_time": 1772601970
+      "event_time": 1772602379
     },
     {
       "rank": 9,
       "word": "四部门联合出台科技保险意见",
-      "hot_value": 8230569,
+      "hot_value": 8130728,
       "label": "新",
       "event_time": 1772598872
     },
     {
       "rank": 10,
       "word": "何小鹏的3份代表建议",
-      "hot_value": 7837724,
+      "hot_value": 7961992,
       "label": "荐",
       "event_time": 1772593343
     },
     {
       "rank": 11,
-      "word": "中国军号抖音粉丝突破5000万",
-      "hot_value": 7833649,
+      "word": "生肖拼豆作者属什么一目了然",
+      "hot_value": 7831603,
       "label": "",
-      "event_time": 1772540470
+      "event_time": 1772524241
     },
     {
       "rank": 12,
       "word": "西瓜真的容易升血糖吗",
-      "hot_value": 7832417,
+      "hot_value": 7821044,
       "label": "谣言",
       "event_time": 1772584131
     },
     {
       "rank": 13,
       "word": "让豆包给我取个网名",
-      "hot_value": 7827941,
+      "hot_value": 7820525,
       "label": "娱乐",
       "event_time": 1772548884
     },
     {
       "rank": 14,
-      "word": "生肖拼豆作者属什么一目了然",
-      "hot_value": 7811081,
-      "label": "",
-      "event_time": 1772524241
+      "word": "家是有人等你回来的地方",
+      "hot_value": 7798021,
+      "label": "新",
+      "event_time": 1772591142
     },
     {
       "rank": 15,
       "word": "陆铭建议试点推广弹性工作制",
-      "hot_value": 7784256,
-      "label": "新",
+      "hot_value": 7775503,
+      "label": "",
       "event_time": 1772597354
     },
     {
       "rank": 16,
       "word": "伊朗：不会允许一滴石油流出",
-      "hot_value": 7775567,
+      "hot_value": 7768385,
       "label": "爆",
       "event_time": 1772537167
     },
     {
       "rank": 17,
       "word": "声优都是怪物",
-      "hot_value": 7755456,
+      "hot_value": 7757873,
       "label": "音乐",
       "event_time": 1772533381
     },
     {
       "rank": 18,
       "word": "元宵仪式感藏在传统文化里",
-      "hot_value": 7754728,
+      "hot_value": 7718153,
       "label": "",
       "event_time": 1772518271
     },
     {
       "rank": 19,
-      "word": "大部分中国公民已撤离伊朗",
-      "hot_value": 7743987,
-      "label": "爆",
-      "event_time": 1772529840
+      "word": "被记住的年永远不会淡",
+      "hot_value": 7714527,
+      "label": "",
+      "event_time": 1772593727
     },
     {
       "rank": 20,
       "word": "解放军和武警部队代表团成立",
-      "hot_value": 7743521,
-      "label": "新",
+      "hot_value": 7714421,
+      "label": "",
       "event_time": 1772587853
     }
   ],
-  "update_time": "2026-03-04 05:37:14",
+  "update_time": "2026-03-04 06:35:52",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
