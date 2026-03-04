@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "全国政协十四届四次会议开幕会",
-      "hot_value": 11800105,
-      "label": "",
+      "hot_value": 11804795,
+      "label": "爆",
       "event_time": 1772606479
     },
     {
       "rank": 2,
-      "word": "两会代表委员有话说",
-      "hot_value": 10800906,
-      "label": "爆",
-      "event_time": 1772505728
+      "word": "建议居民身份证去地址化",
+      "hot_value": 11386317,
+      "label": "新",
+      "event_time": 1772618375
     },
     {
       "rank": 3,
       "word": "十四届全国人大四次会议议程",
-      "hot_value": 10744589,
+      "hot_value": 10819442,
       "label": "爆",
       "event_time": 1772591537
     },
     {
       "rank": 4,
-      "word": "大会发言人谈中日关系",
-      "hot_value": 10741062,
-      "label": "爆",
-      "event_time": 1772601325
+      "word": "建议提高个税起征点至8000或1万",
+      "hot_value": 10744109,
+      "label": "新",
+      "event_time": 1772606041
     },
     {
       "rank": 5,
       "word": "建议70岁以上农民养老金提至500元",
-      "hot_value": 10172809,
+      "hot_value": 10204295,
       "label": "",
       "event_time": 1772598976
     },
     {
       "rank": 6,
-      "word": "解放军和武警部队代表团成立",
-      "hot_value": 9871109,
+      "word": "生肖拼豆作者属什么一目了然",
+      "hot_value": 10176292,
       "label": "爆",
-      "event_time": 1772587853
+      "event_time": 1772524241
     },
     {
       "rank": 7,
-      "word": "生肖拼豆作者属什么一目了然",
-      "hot_value": 8673042,
-      "label": "",
-      "event_time": 1772524241
+      "word": "家是有人等你回来的地方",
+      "hot_value": 8796620,
+      "label": "爆",
+      "event_time": 1772591142
     },
     {
       "rank": 8,
       "word": "大会发言人谈美以袭击伊朗",
-      "hot_value": 8541553,
+      "hot_value": 8729732,
       "label": "爆",
       "event_time": 1772602379
     },
     {
       "rank": 9,
       "word": "关于政协你了解多少",
-      "hot_value": 8482246,
+      "hot_value": 8540082,
       "label": "新",
       "event_time": 1772614952
     },
     {
       "rank": 10,
-      "word": "家是有人等你回来的地方",
-      "hot_value": 8465296,
-      "label": "爆",
-      "event_time": 1772591142
-    },
-    {
-      "rank": 11,
       "word": "被记住的年永远不会淡",
-      "hot_value": 8403350,
+      "hot_value": 8456273,
       "label": "爆",
       "event_time": 1772593727
     },
     {
+      "rank": 11,
+      "word": "伊朗确定最高领袖候选人",
+      "hot_value": 8307387,
+      "label": "新",
+      "event_time": 1772617420
+    },
+    {
       "rank": 12,
       "word": "西瓜真的容易升血糖吗",
-      "hot_value": 8056387,
+      "hot_value": 7832840,
       "label": "谣言",
       "event_time": 1772584131
     },
     {
       "rank": 13,
-      "word": "三八节给嫡长闺的送礼清单",
-      "hot_value": 8043385,
-      "label": "",
-      "event_time": 1772594738
-    },
-    {
-      "rank": 14,
-      "word": "福鱼升空的每一帧都封神",
-      "hot_value": 7831802,
-      "label": "",
-      "event_time": 1772548828
-    },
-    {
-      "rank": 15,
-      "word": "陆铭建议试点推广弹性工作制",
-      "hot_value": 7828459,
-      "label": "爆",
-      "event_time": 1772597354
-    },
-    {
-      "rank": 16,
-      "word": "CSGO回归Steam",
-      "hot_value": 7759213,
-      "label": "",
-      "event_time": 1772604516
-    },
-    {
-      "rank": 17,
       "word": "让豆包给我取个网名",
-      "hot_value": 7757672,
+      "hot_value": 7830307,
       "label": "娱乐",
       "event_time": 1772548884
     },
     {
-      "rank": 18,
-      "word": "早春辣妹我先当了",
-      "hot_value": 7753160,
+      "rank": 14,
+      "word": "三八节给嫡长闺的送礼清单",
+      "hot_value": 7828700,
       "label": "",
-      "event_time": 1772507588
+      "event_time": 1772594738
     },
     {
-      "rank": 19,
+      "rank": 15,
+      "word": "CSGO回归Steam",
+      "hot_value": 7752533,
+      "label": "爆",
+      "event_time": 1772604516
+    },
+    {
+      "rank": 16,
       "word": "hello时尚季",
-      "hot_value": 7741843,
+      "hot_value": 7743137,
       "label": "",
       "event_time": 1772524896
     },
     {
+      "rank": 17,
+      "word": "早春辣妹我先当了",
+      "hot_value": 7741187,
+      "label": "",
+      "event_time": 1772507588
+    },
+    {
+      "rank": 18,
+      "word": "莓果碗拯救节后减脂人",
+      "hot_value": 7722442,
+      "label": "新",
+      "event_time": 1772603120
+    },
+    {
+      "rank": 19,
+      "word": "福鱼升空的每一帧都封神",
+      "hot_value": 7720737,
+      "label": "",
+      "event_time": 1772548828
+    },
+    {
       "rank": 20,
       "word": "周云杰两会带来4份建议",
-      "hot_value": 7728190,
+      "hot_value": 7718793,
       "label": "热议",
       "event_time": 1772607427
     }
   ],
-  "update_time": "2026-03-04 09:31:37",
+  "update_time": "2026-03-04 10:27:11",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
