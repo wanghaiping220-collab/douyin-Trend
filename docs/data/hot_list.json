@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "全国政协十四届四次会议开幕会",
-      "hot_value": 11621493,
-      "label": "爆",
-      "event_time": 1772606479
+      "word": "中国女篮战胜巴西女篮",
+      "hot_value": 12319742,
+      "label": "新",
+      "event_time": 1772627630
     },
     {
       "rank": 2,
       "word": "中央政治局原常委宋平逝世",
-      "hot_value": 11557496,
+      "hot_value": 11345055,
       "label": "",
       "event_time": 1772621342
     },
     {
       "rank": 3,
-      "word": "十四届全国人大四次会议议程",
-      "hot_value": 11118551,
-      "label": "爆",
-      "event_time": 1772591537
+      "word": "中国量子计算稳居国际第一方阵",
+      "hot_value": 11193012,
+      "label": "新",
+      "event_time": 1772629874
     },
     {
       "rank": 4,
       "word": "建议居民身份证去地址化",
-      "hot_value": 11036895,
-      "label": "",
+      "hot_value": 10883702,
+      "label": "爆",
       "event_time": 1772618375
     },
     {
       "rank": 5,
-      "word": "建议提高个税起征点至8000或1万",
-      "hot_value": 10205913,
-      "label": "",
-      "event_time": 1772606041
+      "word": "俄外交部长已确定访华计划",
+      "hot_value": 10272349,
+      "label": "新",
+      "event_time": 1772616863
     },
     {
       "rank": 6,
       "word": "生肖拼豆作者属什么一目了然",
-      "hot_value": 10203176,
-      "label": "爆",
+      "hot_value": 10240487,
+      "label": "",
       "event_time": 1772524241
     },
     {
       "rank": 7,
       "word": "家是有人等你回来的地方",
-      "hot_value": 9112628,
+      "hot_value": 9130114,
       "label": "爆",
       "event_time": 1772591142
     },
     {
       "rank": 8,
-      "word": "CSGO回归Steam",
-      "hot_value": 9070108,
+      "word": "被记住的年永远不会淡",
+      "hot_value": 9126711,
       "label": "爆",
-      "event_time": 1772604516
+      "event_time": 1772593727
     },
     {
       "rank": 9,
-      "word": "关于政协你了解多少",
-      "hot_value": 8943649,
-      "label": "爆",
-      "event_time": 1772614952
+      "word": "我国将制定托育服务法等法律",
+      "hot_value": 9097054,
+      "label": "新",
+      "event_time": 1772629962
     },
     {
       "rank": 10,
       "word": "抖音作者组团探访核电站实拍",
-      "hot_value": 8615713,
+      "hot_value": 9024732,
       "label": "热议",
       "event_time": 1772622237
     },
     {
       "rank": 11,
       "word": "伊朗确定最高领袖候选人",
-      "hot_value": 8547923,
-      "label": "",
+      "hot_value": 8672141,
+      "label": "爆",
       "event_time": 1772617420
     },
     {
       "rank": 12,
+      "word": "CSGO回归Steam",
+      "hot_value": 8401674,
+      "label": "爆",
+      "event_time": 1772604516
+    },
+    {
+      "rank": 13,
       "word": "美国多地爆发反战抗议活动",
-      "hot_value": 7979732,
+      "hot_value": 8113125,
       "label": "",
       "event_time": 1772587886
     },
     {
-      "rank": 13,
-      "word": "被记住的年永远不会淡",
-      "hot_value": 7839584,
-      "label": "爆",
-      "event_time": 1772593727
-    },
-    {
       "rank": 14,
       "word": "周鸿祎两会关注智能体技术",
-      "hot_value": 7833445,
+      "hot_value": 7931240,
       "label": "荐",
       "event_time": 1772622621
     },
     {
       "rank": 15,
-      "word": "让豆包给我取个网名",
-      "hot_value": 7827534,
-      "label": "娱乐",
-      "event_time": 1772548884
-    },
-    {
-      "rank": 16,
-      "word": "高智运动风穿搭公式",
-      "hot_value": 7779412,
-      "label": "",
-      "event_time": 1772598150
-    },
-    {
-      "rank": 17,
-      "word": "三八节给嫡长闺的送礼清单",
-      "hot_value": 7764689,
-      "label": "爆",
-      "event_time": 1772594738
-    },
-    {
-      "rank": 18,
       "word": "hello时尚季",
-      "hot_value": 7750073,
+      "hot_value": 7847274,
       "label": "",
       "event_time": 1772524896
     },
     {
+      "rank": 16,
+      "word": "三八节给嫡长闺的送礼清单",
+      "hot_value": 7833328,
+      "label": "爆",
+      "event_time": 1772594738
+    },
+    {
+      "rank": 17,
+      "word": "让豆包给我取个网名",
+      "hot_value": 7823503,
+      "label": "娱乐",
+      "event_time": 1772548884
+    },
+    {
+      "rank": 18,
+      "word": "早春辣妹我先当了",
+      "hot_value": 7797335,
+      "label": "",
+      "event_time": 1772507588
+    },
+    {
       "rank": 19,
-      "word": "周云杰两会带来4份建议",
-      "hot_value": 7732012,
-      "label": "热议",
-      "event_time": 1772607427
+      "word": "高智运动风穿搭公式",
+      "hot_value": 7763752,
+      "label": "",
+      "event_time": 1772598150
     },
     {
       "rank": 20,
       "word": "伊朗称袭击印度洋上美军舰艇",
-      "hot_value": 7721784,
+      "hot_value": 7747523,
       "label": "爆",
       "event_time": 1772592026
     }
   ],
-  "update_time": "2026-03-04 12:36:00",
+  "update_time": "2026-03-04 13:51:21",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
