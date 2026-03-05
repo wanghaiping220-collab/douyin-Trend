@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "苹果春季发布会",
-      "hot_value": 11840782,
-      "label": "爆",
-      "event_time": 1772635607
+      "word": "十四届全国人大四次会议开幕会",
+      "hot_value": 11349981,
+      "label": "新",
+      "event_time": 1772671943
     },
     {
       "rank": 2,
-      "word": "博士用十年为机器人注入灵魂",
-      "hot_value": 11326335,
-      "label": "爆",
-      "event_time": 1772635739
+      "word": "全国两会首场代表通道",
+      "hot_value": 11204590,
+      "label": "新",
+      "event_time": 1772668076
     },
     {
       "rank": 3,
       "word": "中国量子计算稳居国际第一方阵",
-      "hot_value": 11167397,
+      "hot_value": 11030655,
       "label": "爆",
       "event_time": 1772629874
     },
     {
       "rank": 4,
-      "word": "家是有人等你回来的地方",
-      "hot_value": 10752697,
-      "label": "爆",
-      "event_time": 1772591142
+      "word": "建议合理增加下半年节假日",
+      "hot_value": 10739319,
+      "label": "新",
+      "event_time": 1772669464
     },
     {
       "rank": 5,
+      "word": "今天惊蛰",
+      "hot_value": 10198810,
+      "label": "新",
+      "event_time": 1772665878
+    },
+    {
+      "rank": 6,
+      "word": "建议整治精神病医院骗保乱象",
+      "hot_value": 10194750,
+      "label": "",
+      "event_time": 1772603338
+    },
+    {
+      "rank": 7,
       "word": "中央政治局原常委宋平逝世",
-      "hot_value": 10209230,
+      "hot_value": 9116843,
       "label": "",
       "event_time": 1772621342
     },
     {
-      "rank": 6,
-      "word": "被记住的年永远不会淡",
-      "hot_value": 10207531,
-      "label": "",
-      "event_time": 1772593727
-    },
-    {
-      "rank": 7,
-      "word": "生肖拼豆作者属什么一目了然",
-      "hot_value": 9044627,
-      "label": "",
-      "event_time": 1772524241
-    },
-    {
       "rank": 8,
-      "word": "三八节给嫡长闺的送礼清单",
-      "hot_value": 8499657,
-      "label": "爆",
-      "event_time": 1772594738
-    },
-    {
-      "rank": 9,
-      "word": "我国将制定托育服务法等法律",
-      "hot_value": 8095635,
-      "label": "",
-      "event_time": 1772629962
-    },
-    {
-      "rank": 10,
-      "word": "高智运动风穿搭公式",
-      "hot_value": 7990436,
-      "label": "",
-      "event_time": 1772598150
-    },
-    {
-      "rank": 11,
-      "word": "hello时尚季",
-      "hot_value": 7864505,
-      "label": "",
-      "event_time": 1772524896
-    },
-    {
-      "rank": 12,
-      "word": "美国多地爆发反战抗议活动",
-      "hot_value": 7846173,
-      "label": "",
-      "event_time": 1772587886
-    },
-    {
-      "rank": 13,
-      "word": "让豆包给我取个网名",
-      "hot_value": 7757819,
-      "label": "娱乐",
-      "event_time": 1772548884
-    },
-    {
-      "rank": 14,
-      "word": "抖音作者组团探访核电站实拍",
-      "hot_value": 7739130,
-      "label": "热议",
-      "event_time": 1772622237
-    },
-    {
-      "rank": 15,
-      "word": "福鱼升空的每一帧都封神",
-      "hot_value": 7733918,
-      "label": "",
-      "event_time": 1772548828
-    },
-    {
-      "rank": 16,
-      "word": "CSGO回归Steam",
-      "hot_value": 7725625,
-      "label": "",
-      "event_time": 1772604516
-    },
-    {
-      "rank": 17,
       "word": "建议废除劳务派遣制度",
-      "hot_value": 7723336,
+      "hot_value": 8955434,
       "label": "爆",
       "event_time": 1772624916
     },
     {
-      "rank": 18,
-      "word": "俄外交部长已确定访华计划",
-      "hot_value": 7723075,
+      "rank": 9,
+      "word": "我国将制定托育服务法等法律",
+      "hot_value": 8591846,
+      "label": "爆",
+      "event_time": 1772629962
+    },
+    {
+      "rank": 10,
+      "word": "建议提高个税起征点至8000或1万",
+      "hot_value": 8544031,
       "label": "",
-      "event_time": 1772616863
+      "event_time": 1772606041
+    },
+    {
+      "rank": 11,
+      "word": "博士用十年为机器人注入灵魂",
+      "hot_value": 8442782,
+      "label": "",
+      "event_time": 1772635739
+    },
+    {
+      "rank": 12,
+      "word": "美国多地爆发反战抗议活动",
+      "hot_value": 7850218,
+      "label": "爆",
+      "event_time": 1772587886
+    },
+    {
+      "rank": 13,
+      "word": "马路边的风景好美",
+      "hot_value": 7847626,
+      "label": "",
+      "event_time": 1772635238
+    },
+    {
+      "rank": 14,
+      "word": "苹果春季发布会",
+      "hot_value": 7844718,
+      "label": "",
+      "event_time": 1772635607
+    },
+    {
+      "rank": 15,
+      "word": "西班牙首相回击特朗普",
+      "hot_value": 7828988,
+      "label": "",
+      "event_time": 1772626302
+    },
+    {
+      "rank": 16,
+      "word": "让豆包给我取个网名",
+      "hot_value": 7815261,
+      "label": "娱乐",
+      "event_time": 1772548884
+    },
+    {
+      "rank": 17,
+      "word": "生肖拼豆作者属什么一目了然",
+      "hot_value": 7752260,
+      "label": "",
+      "event_time": 1772524241
+    },
+    {
+      "rank": 18,
+      "word": "三八节给嫡长闺的送礼清单",
+      "hot_value": 7748473,
+      "label": "",
+      "event_time": 1772594738
     },
     {
       "rank": 19,
-      "word": "中国女篮战胜巴西女篮",
-      "hot_value": 7714167,
+      "word": "高智运动风穿搭公式",
+      "hot_value": 7733561,
       "label": "",
-      "event_time": 1772627630
+      "event_time": 1772598150
     },
     {
       "rank": 20,
-      "word": "抖音直播盛典阵容官宣",
-      "hot_value": 7703865,
-      "label": "热议",
-      "event_time": 1772607362
+      "word": "MacBook Neo首发体验",
+      "hot_value": 7729641,
+      "label": "",
+      "event_time": 1772640047
     }
   ],
-  "update_time": "2026-03-04 23:22:14",
+  "update_time": "2026-03-05 01:16:39",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
