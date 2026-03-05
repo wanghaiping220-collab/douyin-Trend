@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "今年经济增长目标4.5%至5%",
-      "hot_value": 11603455,
+      "word": "今天惊蛰",
+      "hot_value": 11658759,
       "label": "爆",
-      "event_time": 1772674627
+      "event_time": 1772665878
     },
     {
       "rank": 2,
-      "word": "全国两会首场部长通道",
-      "hot_value": 10857557,
-      "label": "爆",
-      "event_time": 1772679682
+      "word": "今年国防支出为1.9万亿 增长7%",
+      "hot_value": 11283783,
+      "label": "新",
+      "event_time": 1772689023
     },
     {
       "rank": 3,
       "word": "中国式现代化进行时",
-      "hot_value": 10721483,
+      "hot_value": 10843393,
       "label": "爆",
       "event_time": 1772681429
     },
     {
       "rank": 4,
-      "word": "2026年赤字率拟按4%左右安排",
-      "hot_value": 10720291,
-      "label": "爆",
-      "event_time": 1772675153
+      "word": "非遗巡游的妆造美出了新高度",
+      "hot_value": 10721233,
+      "label": "",
+      "event_time": 1772683631
     },
     {
       "rank": 5,
-      "word": "2026政府工作报告极简版",
-      "hot_value": 10157866,
-      "label": "爆",
-      "event_time": 1772677168
+      "word": "福建过年人均民间艺术家实锤了",
+      "hot_value": 10184488,
+      "label": "",
+      "event_time": 1772683664
     },
     {
       "rank": 6,
-      "word": "今天惊蛰",
-      "hot_value": 9377873,
-      "label": "",
-      "event_time": 1772665878
+      "word": "三八节给嫡长闺的送礼清单",
+      "hot_value": 10114824,
+      "label": "爆",
+      "event_time": 1772594738
     },
     {
       "rank": 7,
-      "word": "马路边的风景好美",
-      "hot_value": 8369726,
-      "label": "爆",
-      "event_time": 1772635238
+      "word": "建议三孩家庭每月补贴5000元至3岁",
+      "hot_value": 8556296,
+      "label": "新",
+      "event_time": 1772696382
     },
     {
       "rank": 8,
-      "word": "五金店一天都卖些啥",
-      "hot_value": 8232119,
+      "word": "2026年赤字率拟按4%左右安排",
+      "hot_value": 8488499,
       "label": "",
-      "event_time": 1772608130
+      "event_time": 1772675153
     },
     {
       "rank": 9,
       "word": "时速450公里的高铁快来了",
-      "hot_value": 7878015,
-      "label": "新",
+      "hot_value": 8008758,
+      "label": "",
       "event_time": 1772691378
     },
     {
       "rank": 10,
-      "word": "非遗巡游的妆造美出了新高度",
-      "hot_value": 7867448,
-      "label": "新",
-      "event_time": 1772683631
+      "word": "中国女篮战胜巴西女篮",
+      "hot_value": 8001230,
+      "label": "",
+      "event_time": 1772627630
     },
     {
       "rank": 11,
-      "word": "养老金月最低标准再提20元",
-      "hot_value": 7839669,
-      "label": "",
-      "event_time": 1772676117
+      "word": "拟发行超长期特别国债1.3万亿",
+      "hot_value": 7972020,
+      "label": "新",
+      "event_time": 1772694059
     },
     {
       "rank": 12,
       "word": "官方辟谣列车硬座下躺人",
-      "hot_value": 7812810,
+      "hot_value": 7953003,
       "label": "谣言",
       "event_time": 1772606399
     },
     {
       "rank": 13,
-      "word": "医保补助标准提高24元",
-      "hot_value": 7804176,
-      "label": "爆",
-      "event_time": 1772676401
+      "word": "2026政府工作报告极简版",
+      "hot_value": 7837423,
+      "label": "",
+      "event_time": 1772677168
     },
     {
       "rank": 14,
       "word": "两会民间讲解员已到位",
-      "hot_value": 7789456,
+      "hot_value": 7779545,
       "label": "新",
       "event_time": 1772692117
     },
     {
       "rank": 15,
+      "word": "普京：考虑主动给欧洲“断气”",
+      "hot_value": 7767114,
+      "label": "",
+      "event_time": 1772669411
+    },
+    {
+      "rank": 16,
       "word": "西班牙首相回击特朗普",
-      "hot_value": 7778385,
+      "hot_value": 7764465,
       "label": "爆",
       "event_time": 1772626302
     },
     {
-      "rank": 16,
-      "word": "福建过年人均民间艺术家实锤了",
-      "hot_value": 7762063,
-      "label": "新",
-      "event_time": 1772683664
-    },
-    {
       "rank": 17,
-      "word": "三八节给嫡长闺的送礼清单",
-      "hot_value": 7754793,
+      "word": "马克龙声援西班牙",
+      "hot_value": 7763342,
       "label": "",
-      "event_time": 1772594738
+      "event_time": 1772670629
     },
     {
       "rank": 18,
-      "word": "雷军回应手机内存芯片价格上涨",
-      "hot_value": 7753363,
+      "word": "五金店一天都卖些啥",
+      "hot_value": 7755500,
       "label": "",
-      "event_time": 1772677854
+      "event_time": 1772608130
     },
     {
       "rank": 19,
-      "word": "中国女篮战胜巴西女篮",
-      "hot_value": 7740603,
+      "word": "今年经济增长目标4.5%至5%",
+      "hot_value": 7746592,
       "label": "",
-      "event_time": 1772627630
+      "event_time": 1772674627
     },
     {
       "rank": 20,
-      "word": "周云杰两会带来4份建议",
-      "hot_value": 7739689,
-      "label": "热议",
-      "event_time": 1772607427
+      "word": "政府工作报告：持续用力稳楼市",
+      "hot_value": 7745528,
+      "label": "",
+      "event_time": 1772676937
     }
   ],
-  "update_time": "2026-03-05 07:36:30",
+  "update_time": "2026-03-05 08:30:25",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
