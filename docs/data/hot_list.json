@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "政府工作报告为何强调休假",
-      "hot_value": 11369887,
+      "hot_value": 11222916,
       "label": "新",
       "event_time": 1772693881
     },
     {
       "rank": 2,
       "word": "今年国防支出为1.9万亿 增长7%",
-      "hot_value": 11173146,
-      "label": "新",
+      "hot_value": 10825643,
+      "label": "",
       "event_time": 1772689023
     },
     {
       "rank": 3,
       "word": "今年经济增长目标4.5%至5%",
-      "hot_value": 10870779,
+      "hot_value": 10737526,
       "label": "爆",
       "event_time": 1772674627
     },
     {
       "rank": 4,
       "word": "代表建议给农民工上社保",
-      "hot_value": 10770523,
+      "hot_value": 10726258,
       "label": "",
       "event_time": 1772680491
     },
     {
       "rank": 5,
       "word": "建议尽量不要调休",
-      "hot_value": 10188395,
+      "hot_value": 10088509,
       "label": "新",
       "event_time": 1772699631
     },
     {
       "rank": 6,
       "word": "今天惊蛰",
-      "hot_value": 10183831,
+      "hot_value": 10043272,
       "label": "",
       "event_time": 1772665878
     },
     {
       "rank": 7,
       "word": "建议三孩家庭每月补贴5000元至3岁",
-      "hot_value": 9001211,
-      "label": "新",
+      "hot_value": 8969542,
+      "label": "",
       "event_time": 1772696382
     },
     {
       "rank": 8,
-      "word": "非遗巡游的妆造美出了新高度",
-      "hot_value": 8862807,
-      "label": "",
-      "event_time": 1772683631
+      "word": "福建过年人均民间艺术家实锤了",
+      "hot_value": 8931703,
+      "label": "爆",
+      "event_time": 1772683664
     },
     {
       "rank": 9,
       "word": "2026政府工作报告极简版",
-      "hot_value": 8434647,
+      "hot_value": 8775638,
       "label": "",
       "event_time": 1772677168
     },
     {
       "rank": 10,
-      "word": "福建过年人均民间艺术家实锤了",
-      "hot_value": 8306399,
+      "word": "非遗巡游的妆造美出了新高度",
+      "hot_value": 8261945,
       "label": "",
-      "event_time": 1772683664
+      "event_time": 1772683631
     },
     {
       "rank": 11,
       "word": "中国女篮战胜巴西女篮",
-      "hot_value": 8111134,
+      "hot_value": 8205059,
       "label": "",
       "event_time": 1772627630
     },
     {
       "rank": 12,
       "word": "官方辟谣列车硬座下躺人",
-      "hot_value": 8069107,
+      "hot_value": 8180688,
       "label": "谣言",
       "event_time": 1772606399
     },
     {
       "rank": 13,
       "word": "普京：考虑主动给欧洲“断气”",
-      "hot_value": 7979648,
+      "hot_value": 8156007,
       "label": "",
       "event_time": 1772669411
     },
     {
       "rank": 14,
       "word": "两会民间讲解员已到位",
-      "hot_value": 7839541,
-      "label": "",
+      "hot_value": 8141464,
+      "label": "爆",
       "event_time": 1772692117
     },
     {
       "rank": 15,
       "word": "西班牙首相回击特朗普",
-      "hot_value": 7763308,
+      "hot_value": 7950514,
       "label": "爆",
       "event_time": 1772626302
     },
     {
       "rank": 16,
       "word": "十四届全国人大四次会议开幕",
-      "hot_value": 7756116,
+      "hot_value": 7840762,
       "label": "",
       "event_time": 1772671943
     },
     {
       "rank": 17,
       "word": "建议缩短研究生考录时间",
-      "hot_value": 7755172,
+      "hot_value": 7789264,
       "label": "新",
       "event_time": 1772693311
     },
     {
       "rank": 18,
       "word": "马克龙声援西班牙",
-      "hot_value": 7751673,
+      "hot_value": 7763545,
       "label": "",
       "event_time": 1772670629
     },
     {
       "rank": 19,
-      "word": "拟发行超长期特别国债1.3万亿",
-      "hot_value": 7749761,
-      "label": "新",
-      "event_time": 1772694059
+      "word": "雷军回应手机内存芯片价格上涨",
+      "hot_value": 7750141,
+      "label": "爆",
+      "event_time": 1772677854
     },
     {
       "rank": 20,
-      "word": "政府工作报告：持续用力稳楼市",
-      "hot_value": 7747580,
-      "label": "爆",
-      "event_time": 1772676937
+      "word": "拟发行超长期特别国债1.3万亿",
+      "hot_value": 7739476,
+      "label": "",
+      "event_time": 1772694059
     }
   ],
-  "update_time": "2026-03-05 09:34:35",
+  "update_time": "2026-03-05 10:30:20",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
