@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "全国人大举行经济主题记者会",
-      "hot_value": 11239180,
+      "hot_value": 11628484,
       "label": "爆",
       "event_time": 1772779019
     },
     {
       "rank": 2,
       "word": "成都蓉城5:1深圳新鹏城",
-      "hot_value": 11162855,
+      "hot_value": 11205875,
       "label": "爆",
       "event_time": 1772799869
     },
     {
       "rank": 3,
       "word": "预计今年GDP增量超6万亿",
-      "hot_value": 10855064,
+      "hot_value": 11143153,
       "label": "爆",
       "event_time": 1772782012
     },
     {
       "rank": 4,
       "word": "代表建议统一全国婚假天数",
-      "hot_value": 10739668,
+      "hot_value": 10988789,
       "label": "爆",
       "event_time": 1772772886
     },
     {
       "rank": 5,
       "word": "建议探索4天半工作制",
-      "hot_value": 10202579,
+      "hot_value": 10216660,
       "label": "",
       "event_time": 1772804921
     },
     {
       "rank": 6,
       "word": "中国量子计算如何改变世界",
-      "hot_value": 10178343,
+      "hot_value": 10200105,
       "label": "热议",
       "event_time": 1772766952
     },
     {
       "rank": 7,
       "word": "中国女足3:0乌兹别克斯坦女足",
-      "hot_value": 9078879,
+      "hot_value": 9126042,
       "label": "",
       "event_time": 1772784161
     },
     {
       "rank": 8,
-      "word": "年轻人拒绝酒桌文化是社会进步",
-      "hot_value": 8981571,
-      "label": "爆",
-      "event_time": 1772765047
+      "word": "港澳特首互相划重点",
+      "hot_value": 9105293,
+      "label": "",
+      "event_time": 1772767171
     },
     {
       "rank": 9,
       "word": "政府工作报告里的民生温度",
-      "hot_value": 8900752,
+      "hot_value": 9027079,
       "label": "爆",
       "event_time": 1772800956
     },
     {
       "rank": 10,
-      "word": "油价即将上涨",
-      "hot_value": 8845604,
-      "label": "",
-      "event_time": 1772768248
+      "word": "年轻人拒绝酒桌文化是社会进步",
+      "hot_value": 9021024,
+      "label": "爆",
+      "event_time": 1772765047
     },
     {
       "rank": 11,
       "word": "国防部回应澳方相关炒作",
-      "hot_value": 8550431,
-      "label": "新",
+      "hot_value": 8629089,
+      "label": "",
       "event_time": 1772808145
     },
     {
       "rank": 12,
-      "word": "港澳特首互相划重点",
-      "hot_value": 7832542,
+      "word": "油价即将上涨",
+      "hot_value": 7845808,
       "label": "",
-      "event_time": 1772767171
+      "event_time": 1772768248
     },
     {
       "rank": 13,
       "word": "普通高中将增加学位200万个以上",
-      "hot_value": 7820268,
-      "label": "爆",
+      "hot_value": 7830223,
+      "label": "",
       "event_time": 1772796328
     },
     {
       "rank": 14,
-      "word": "双一流高校本科扩招10万人以上",
-      "hot_value": 7820215,
+      "word": "许昆林：理旧账也是政绩",
+      "hot_value": 7823753,
       "label": "",
-      "event_time": 1772790176
+      "event_time": 1772770802
     },
     {
       "rank": 15,
       "word": "特朗普威胁下一个就是古巴",
-      "hot_value": 7817914,
+      "hot_value": 7804211,
       "label": "",
       "event_time": 1772773270
     },
     {
       "rank": 16,
       "word": "请继续不完美的人生",
-      "hot_value": 7800995,
+      "hot_value": 7789488,
       "label": "音乐",
       "event_time": 1772733041
     },
     {
       "rank": 17,
       "word": "手工界十二生肖大赛",
-      "hot_value": 7787101,
+      "hot_value": 7772724,
       "label": "音乐",
       "event_time": 1772719975
     },
     {
       "rank": 18,
-      "word": "建议规制外包同工不同酬",
-      "hot_value": 7774471,
-      "label": "爆",
-      "event_time": 1772754273
-    },
-    {
-      "rank": 19,
       "word": "建议取消家长护学岗",
-      "hot_value": 7769561,
+      "hot_value": 7769665,
       "label": "爆",
       "event_time": 1772767116
     },
     {
+      "rank": 19,
+      "word": "双一流高校本科扩招10万人以上",
+      "hot_value": 7763552,
+      "label": "",
+      "event_time": 1772790176
+    },
+    {
       "rank": 20,
       "word": "没人告诉我逐玉这么好笑啊",
-      "hot_value": 7761973,
+      "hot_value": 7755086,
       "label": "游戏",
       "event_time": 1772776239
     }
   ],
-  "update_time": "2026-03-06 16:29:37",
+  "update_time": "2026-03-06 17:27:58",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
