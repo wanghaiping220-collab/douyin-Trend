@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "全国人大举行经济主题记者会",
-      "hot_value": 10945761,
+      "hot_value": 10952527,
       "label": "",
       "event_time": 1772779019
     },
     {
       "rank": 2,
       "word": "成都蓉城5:1深圳新鹏城",
-      "hot_value": 10856525,
+      "hot_value": 10778173,
       "label": "爆",
       "event_time": 1772799869
     },
     {
       "rank": 3,
       "word": "预计今年GDP增量超6万亿",
-      "hot_value": 10804388,
+      "hot_value": 10745960,
       "label": "爆",
       "event_time": 1772782012
     },
     {
       "rank": 4,
       "word": "代表建议统一全国婚假天数",
-      "hot_value": 10738300,
+      "hot_value": 10739096,
       "label": "爆",
       "event_time": 1772772886
     },
     {
       "rank": 5,
-      "word": "建议探索4天半工作制",
-      "hot_value": 10201355,
-      "label": "爆",
-      "event_time": 1772804921
-    },
-    {
-      "rank": 6,
       "word": "中国量子计算如何改变世界",
-      "hot_value": 10198267,
+      "hot_value": 10202130,
       "label": "热议",
       "event_time": 1772766952
     },
     {
-      "rank": 7,
+      "rank": 6,
       "word": "中国女足3:0乌兹别克斯坦女足",
-      "hot_value": 9104642,
+      "hot_value": 10109253,
       "label": "",
       "event_time": 1772784161
     },
     {
+      "rank": 7,
+      "word": "港澳特首互相划重点",
+      "hot_value": 8859704,
+      "label": "",
+      "event_time": 1772767171
+    },
+    {
       "rank": 8,
-      "word": "普通高中将增加学位200万个以上",
-      "hot_value": 9008291,
-      "label": "爆",
-      "event_time": 1772796328
+      "word": "建议探索4天半工作制",
+      "hot_value": 8830625,
+      "label": "",
+      "event_time": 1772804921
     },
     {
       "rank": 9,
       "word": "政府工作报告里的民生温度",
-      "hot_value": 8970543,
+      "hot_value": 8715061,
       "label": "爆",
       "event_time": 1772800956
     },
     {
       "rank": 10,
-      "word": "建议取消私家车年审制度",
-      "hot_value": 8800512,
-      "label": "",
-      "event_time": 1772753740
+      "word": "年轻人拒绝酒桌文化是社会进步",
+      "hot_value": 8685508,
+      "label": "爆",
+      "event_time": 1772765047
     },
     {
       "rank": 11,
       "word": "国防部回应澳方相关炒作",
-      "hot_value": 8156653,
-      "label": "",
+      "hot_value": 8399853,
+      "label": "爆",
       "event_time": 1772808145
     },
     {
       "rank": 12,
       "word": "油价即将上涨",
-      "hot_value": 7905827,
+      "hot_value": 7829815,
       "label": "",
       "event_time": 1772768248
     },
     {
       "rank": 13,
-      "word": "冯远征谈“新型家暴”",
-      "hot_value": 7854327,
+      "word": "普通高中将增加学位200万个以上",
+      "hot_value": 7819702,
       "label": "",
-      "event_time": 1772778785
+      "event_time": 1772796328
     },
     {
       "rank": 14,
-      "word": "请继续不完美的人生",
-      "hot_value": 7841600,
+      "word": "手工界十二生肖大赛",
+      "hot_value": 7793103,
       "label": "音乐",
-      "event_time": 1772733041
+      "event_time": 1772719975
     },
     {
       "rank": 15,
       "word": "特朗普威胁下一个就是古巴",
-      "hot_value": 7838178,
+      "hot_value": 7778389,
       "label": "",
       "event_time": 1772773270
     },
     {
       "rank": 16,
-      "word": "港澳特首互相划重点",
-      "hot_value": 7832409,
-      "label": "",
-      "event_time": 1772767171
+      "word": "请继续不完美的人生",
+      "hot_value": 7772560,
+      "label": "音乐",
+      "event_time": 1772733041
     },
     {
       "rank": 17,
       "word": "许昆林：理旧账也是政绩",
-      "hot_value": 7826977,
+      "hot_value": 7763403,
       "label": "",
       "event_time": 1772770802
     },
     {
       "rank": 18,
       "word": "外交部副部长吊唁哈梅内伊遇难",
-      "hot_value": 7778340,
+      "hot_value": 7759044,
       "label": "爆",
       "event_time": 1772762133
     },
     {
       "rank": 19,
-      "word": "手工界十二生肖大赛",
-      "hot_value": 7771796,
-      "label": "音乐",
-      "event_time": 1772719975
+      "word": "建议取消私家车年审制度",
+      "hot_value": 7758278,
+      "label": "",
+      "event_time": 1772753740
     },
     {
       "rank": 20,
       "word": "没人告诉我逐玉这么好笑啊",
-      "hot_value": 7768578,
+      "hot_value": 7757995,
       "label": "游戏",
       "event_time": 1772776239
     }
   ],
-  "update_time": "2026-03-06 19:28:19",
+  "update_time": "2026-03-06 20:22:08",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
