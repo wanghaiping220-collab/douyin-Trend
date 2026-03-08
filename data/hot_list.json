@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "外交部长王毅答记者问",
-      "hot_value": 11488100,
+      "hot_value": 11553010,
       "label": "爆",
       "event_time": 1772934043
     },
     {
       "rank": 2,
       "word": "王毅谈特朗普访华",
-      "hot_value": 11211146,
+      "hot_value": 11372318,
       "label": "爆",
       "event_time": 1772942351
     },
     {
       "rank": 3,
       "word": "打造智能经济新形态",
-      "hot_value": 11072264,
+      "hot_value": 11311485,
       "label": "爆",
       "event_time": 1772975950
     },
     {
       "rank": 4,
       "word": "王毅：台湾绝无可能成为“国家”",
-      "hot_value": 11031284,
+      "hot_value": 10974395,
       "label": "",
       "event_time": 1772941618
     },
     {
       "rank": 5,
-      "word": "跨越近百年的姐弟情",
-      "hot_value": 10298273,
-      "label": "爆",
-      "event_time": 1772961897
-    },
-    {
-      "rank": 6,
       "word": "抖音精选为每一种选择喝彩",
-      "hot_value": 10215868,
+      "hot_value": 10231653,
       "label": "爆",
       "event_time": 1772935963
     },
     {
+      "rank": 6,
+      "word": "跨越近百年的姐弟情",
+      "hot_value": 10190690,
+      "label": "爆",
+      "event_time": 1772961897
+    },
+    {
       "rank": 7,
       "word": "CBA全明星正赛",
-      "hot_value": 9115721,
+      "hot_value": 9117982,
       "label": "爆",
       "event_time": 1772956990
     },
     {
       "rank": 8,
       "word": "保持热爱一路向上",
-      "hot_value": 9115700,
+      "hot_value": 9080090,
       "label": "",
       "event_time": 1772939756
     },
     {
       "rank": 9,
       "word": "从“有没有”到“好不好”",
-      "hot_value": 9039744,
+      "hot_value": 9029247,
       "label": "爆",
       "event_time": 1772976029
     },
     {
       "rank": 10,
       "word": "BLG 3:1战胜JDG",
-      "hot_value": 8995550,
+      "hot_value": 8713384,
       "label": "爆",
       "event_time": 1772956330
     },
     {
       "rank": 11,
-      "word": "中国女篮85:51捷克女篮",
-      "hot_value": 8685803,
-      "label": "",
-      "event_time": 1772972617
+      "word": "哈梅内伊之子当选伊朗最高领袖",
+      "hot_value": 8597436,
+      "label": "新",
+      "event_time": 1773007413
     },
     {
       "rank": 12,
       "word": "网民发布“摘器官”谣言被拘",
-      "hot_value": 8298046,
+      "hot_value": 8268908,
       "label": "谣言",
       "event_time": 1772981880
     },
     {
       "rank": 13,
-      "word": "第一视角体验盲人坐飞机",
-      "hot_value": 8205539,
+      "word": "中国女篮85:51捷克女篮",
+      "hot_value": 8010755,
       "label": "",
-      "event_time": 1772934203
+      "event_time": 1772972617
     },
     {
       "rank": 14,
       "word": "推荐大家都来云南过春天",
-      "hot_value": 7910485,
+      "hot_value": 7841556,
       "label": "",
       "event_time": 1772949478
     },
     {
       "rank": 15,
-      "word": "王毅：中国绝不走国强必霸老路",
-      "hot_value": 7865645,
+      "word": "第一视角体验盲人坐飞机",
+      "hot_value": 7840389,
       "label": "",
-      "event_time": 1772968776
+      "event_time": 1772934203
     },
     {
       "rank": 16,
       "word": "王毅谈解决台湾问题",
-      "hot_value": 7833192,
+      "hot_value": 7831146,
       "label": "",
       "event_time": 1772941957
     },
     {
       "rank": 17,
+      "word": "王毅：中国绝不走国强必霸老路",
+      "hot_value": 7826935,
+      "label": "",
+      "event_time": 1772968776
+    },
+    {
+      "rank": 18,
       "word": "当机器人越来越像人",
-      "hot_value": 7830234,
+      "hot_value": 7826454,
       "label": "爆",
       "event_time": 1772966185
     },
     {
-      "rank": 18,
+      "rank": 19,
       "word": "中方将对非洲100%税目产品零关税",
-      "hot_value": 7823765,
+      "hot_value": 7816092,
       "label": "爆",
       "event_time": 1772947488
     },
     {
-      "rank": 19,
+      "rank": 20,
       "word": "王毅谈中日关系",
-      "hot_value": 7815303,
+      "hot_value": 7809955,
       "label": "",
       "event_time": 1772939979
-    },
-    {
-      "rank": 20,
-      "word": "王毅：中俄关系风雨不动安如山",
-      "hot_value": 7813132,
-      "label": "",
-      "event_time": 1772935996
     }
   ],
-  "update_time": "2026-03-08 21:15:06",
+  "update_time": "2026-03-08 22:14:46",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
