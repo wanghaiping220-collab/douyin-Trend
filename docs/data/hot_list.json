@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "外交部长王毅答记者问",
-      "hot_value": 11868052,
+      "hot_value": 11564128,
       "label": "爆",
       "event_time": 1772934043
     },
     {
       "rank": 2,
-      "word": "王毅谈特朗普访华",
-      "hot_value": 11497934,
-      "label": "爆",
-      "event_time": 1772942351
-    },
-    {
-      "rank": 3,
-      "word": "打造智能经济新形态",
-      "hot_value": 11454966,
-      "label": "",
-      "event_time": 1772975950
-    },
-    {
-      "rank": 4,
       "word": "王毅：台湾绝无可能成为“国家”",
-      "hot_value": 10857837,
+      "hot_value": 11414230,
       "label": "爆",
       "event_time": 1772941618
     },
     {
+      "rank": 3,
+      "word": "打造智能经济新形态",
+      "hot_value": 11313787,
+      "label": "爆",
+      "event_time": 1772975950
+    },
+    {
+      "rank": 4,
+      "word": "王毅谈特朗普访华",
+      "hot_value": 10852800,
+      "label": "爆",
+      "event_time": 1772942351
+    },
+    {
       "rank": 5,
       "word": "抖音精选为每一种选择喝彩",
-      "hot_value": 10265627,
+      "hot_value": 10262700,
       "label": "爆",
       "event_time": 1772935963
     },
     {
       "rank": 6,
       "word": "保持热爱一路向上",
-      "hot_value": 10221972,
+      "hot_value": 10226778,
       "label": "爆",
       "event_time": 1772939756
     },
     {
       "rank": 7,
       "word": "CBA全明星正赛",
-      "hot_value": 9142658,
+      "hot_value": 9119048,
       "label": "爆",
       "event_time": 1772956990
     },
     {
       "rank": 8,
       "word": "跨越近百年的姐弟情",
-      "hot_value": 9114495,
+      "hot_value": 9111984,
       "label": "爆",
       "event_time": 1772961897
     },
     {
       "rank": 9,
       "word": "从“有没有”到“好不好”",
-      "hot_value": 9114493,
-      "label": "",
+      "hot_value": 9111978,
+      "label": "爆",
       "event_time": 1772976029
     },
     {
       "rank": 10,
       "word": "BLG 3:1战胜JDG",
-      "hot_value": 9073085,
+      "hot_value": 9056177,
       "label": "爆",
       "event_time": 1772956330
     },
     {
       "rank": 11,
       "word": "中国女篮85:51捷克女篮",
-      "hot_value": 8913355,
+      "hot_value": 8762938,
       "label": "",
       "event_time": 1772972617
     },
     {
       "rank": 12,
       "word": "网民发布“摘器官”谣言被拘",
-      "hot_value": 8745768,
+      "hot_value": 8644051,
       "label": "谣言",
       "event_time": 1772981880
     },
     {
       "rank": 13,
       "word": "推荐大家都来云南过春天",
-      "hot_value": 8541282,
+      "hot_value": 8440919,
       "label": "爆",
       "event_time": 1772949478
     },
     {
       "rank": 14,
       "word": "第一视角体验盲人坐飞机",
-      "hot_value": 8195704,
+      "hot_value": 8257830,
       "label": "爆",
       "event_time": 1772934203
     },
     {
       "rank": 15,
-      "word": "王毅：中国绝不走国强必霸老路",
-      "hot_value": 8151399,
-      "label": "爆",
-      "event_time": 1772968776
+      "word": "寻找100个生动的她",
+      "hot_value": 8146859,
+      "label": "",
+      "event_time": 1772873275
     },
     {
       "rank": 16,
-      "word": "张鼎岩全明星扣篮大赛冠军",
-      "hot_value": 8150759,
-      "label": "新",
-      "event_time": 1772979666
+      "word": "王毅：中国绝不走国强必霸老路",
+      "hot_value": 8053494,
+      "label": "",
+      "event_time": 1772968776
     },
     {
       "rank": 17,
       "word": "王毅谈解决台湾问题",
-      "hot_value": 7940620,
+      "hot_value": 7899421,
       "label": "",
       "event_time": 1772941957
     },
     {
       "rank": 18,
       "word": "中方将对非洲100%税目产品零关税",
-      "hot_value": 7843397,
+      "hot_value": 7818881,
       "label": "爆",
       "event_time": 1772947488
     },
     {
       "rank": 19,
       "word": "王毅谈中日关系",
-      "hot_value": 7838696,
+      "hot_value": 7818239,
       "label": "",
       "event_time": 1772939979
     },
     {
       "rank": 20,
-      "word": "王毅：中俄关系风雨不动安如山",
-      "hot_value": 7817956,
-      "label": "",
-      "event_time": 1772935996
+      "word": "当机器人越来越像人",
+      "hot_value": 7818113,
+      "label": "爆",
+      "event_time": 1772966185
     }
   ],
-  "update_time": "2026-03-08 17:16:12",
+  "update_time": "2026-03-08 18:21:57",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
