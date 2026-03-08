@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "外交部长王毅答记者问",
-      "hot_value": 11897278,
+      "hot_value": 12093897,
       "label": "爆",
       "event_time": 1772934043
     },
     {
       "rank": 2,
       "word": "王毅：台湾绝无可能成为“国家”",
-      "hot_value": 11075028,
+      "hot_value": 11920869,
       "label": "新",
       "event_time": 1772941618
     },
     {
       "rank": 3,
       "word": "事关民生 这些声音有温度有力度",
-      "hot_value": 11039842,
+      "hot_value": 11015981,
       "label": "爆",
       "event_time": 1772939299
     },
     {
       "rank": 4,
       "word": "建议农村医保缴费“不清零”",
-      "hot_value": 10931009,
+      "hot_value": 10968949,
       "label": "爆",
       "event_time": 1772929408
     },
     {
       "rank": 5,
-      "word": "王毅：中俄关系风雨不动安如山",
-      "hot_value": 10367468,
-      "label": "爆",
-      "event_time": 1772935996
-    },
-    {
-      "rank": 6,
       "word": "今天妇女节",
-      "hot_value": 10268155,
+      "hot_value": 10375233,
       "label": "爆",
       "event_time": 1772926531
     },
     {
-      "rank": 7,
+      "rank": 6,
       "word": "油价下周走势如何",
-      "hot_value": 9145071,
-      "label": "",
+      "hot_value": 10357850,
+      "label": "爆",
       "event_time": 1772893396
+    },
+    {
+      "rank": 7,
+      "word": "保持热爱一路向上",
+      "hot_value": 9243432,
+      "label": "",
+      "event_time": 1772939756
     },
     {
       "rank": 8,
       "word": "王毅谈中美关系",
-      "hot_value": 9134707,
+      "hot_value": 9185848,
       "label": "爆",
       "event_time": 1772937247
     },
     {
       "rank": 9,
       "word": "体验型消费成两会热词",
-      "hot_value": 9125372,
+      "hot_value": 9128691,
       "label": "爆",
       "event_time": 1772891670
     },
     {
       "rank": 10,
-      "word": "保持热爱一路向上",
-      "hot_value": 9125270,
-      "label": "新",
-      "event_time": 1772939756
+      "word": "抖音精选为每一种选择喝彩",
+      "hot_value": 9128455,
+      "label": "爆",
+      "event_time": 1772935963
     },
     {
       "rank": 11,
       "word": "伊朗新任最高领袖人选确定",
-      "hot_value": 9079123,
-      "label": "新",
+      "hot_value": 9126708,
+      "label": "",
       "event_time": 1772949646
     },
     {
       "rank": 12,
       "word": "运动不到30分钟就相当于白练吗",
-      "hot_value": 9078957,
+      "hot_value": 9036459,
       "label": "谣言",
       "event_time": 1772945931
     },
     {
       "rank": 13,
       "word": "王毅谈中日关系",
-      "hot_value": 9061405,
+      "hot_value": 9028086,
       "label": "爆",
       "event_time": 1772939979
     },
     {
       "rank": 14,
       "word": "俄袭击乌能源系统致7地停电",
-      "hot_value": 9050414,
+      "hot_value": 8911470,
       "label": "",
       "event_time": 1772891619
     },
     {
       "rank": 15,
-      "word": "苏木达尔基UFC三连胜",
-      "hot_value": 8794524,
-      "label": "爆",
-      "event_time": 1772928683
-    },
-    {
-      "rank": 16,
-      "word": "抖音精选为每一种选择喝彩",
-      "hot_value": 8351527,
-      "label": "爆",
-      "event_time": 1772935963
-    },
-    {
-      "rank": 17,
       "word": "推荐大家都来云南过春天",
-      "hot_value": 8329862,
+      "hot_value": 8754860,
       "label": "新",
       "event_time": 1772949478
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "word": "苏木达尔基UFC三连胜",
+      "hot_value": 8269174,
+      "label": "爆",
+      "event_time": 1772928683
+    },
+    {
+      "rank": 17,
       "word": "梅西打进生涯第899球",
-      "hot_value": 8175887,
+      "hot_value": 8262215,
       "label": "爆",
       "event_time": 1772937252
     },
     {
+      "rank": 18,
+      "word": "妇女节祝福请查收",
+      "hot_value": 7814611,
+      "label": "爆",
+      "event_time": 1772940409
+    },
+    {
       "rank": 19,
       "word": "第一视角体验盲人坐飞机",
-      "hot_value": 8116264,
+      "hot_value": 7811007,
       "label": "爆",
       "event_time": 1772934203
     },
     {
       "rank": 20,
       "word": "寻找100个生动的她",
-      "hot_value": 7823945,
+      "hot_value": 7802279,
       "label": "",
       "event_time": 1772873275
     }
   ],
-  "update_time": "2026-03-08 07:25:17",
+  "update_time": "2026-03-08 08:21:04",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
