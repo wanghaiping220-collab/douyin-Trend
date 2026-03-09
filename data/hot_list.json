@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "今年将修改教师法",
-      "hot_value": 12100697,
-      "label": "爆",
-      "event_time": 1773021027
-    },
-    {
-      "rank": 2,
       "word": "国台办评卓荣泰窜访日本",
-      "hot_value": 12057655,
+      "hot_value": 12099348,
       "label": "爆",
       "event_time": 1773048802
     },
     {
+      "rank": 2,
+      "word": "中国女足2:1朝鲜女足",
+      "hot_value": 12031293,
+      "label": "爆",
+      "event_time": 1773039472
+    },
+    {
       "rank": 3,
       "word": "最高法工作报告速览",
-      "hot_value": 12047935,
+      "hot_value": 11858687,
       "label": "",
       "event_time": 1773063535
     },
     {
       "rank": 4,
       "word": "日本北海道地区发生6.1级地震",
-      "hot_value": 11566987,
+      "hot_value": 11508733,
       "label": "",
       "event_time": 1773071768
     },
     {
       "rank": 5,
-      "word": "中国女足2:1朝鲜女足",
-      "hot_value": 10746495,
+      "word": "今年将修改教师法",
+      "hot_value": 10486649,
       "label": "",
-      "event_time": 1773039472
+      "event_time": 1773021027
     },
     {
       "rank": 6,
       "word": "烟火老吃家入门考试",
-      "hot_value": 10481467,
+      "hot_value": 10446577,
       "label": "爆",
       "event_time": 1773035429
     },
     {
       "rank": 7,
       "word": "2026年F1中国大奖赛",
-      "hot_value": 9323446,
+      "hot_value": 9314043,
       "label": "",
       "event_time": 1773018546
     },
     {
       "rank": 8,
       "word": "全国人代会第二次全体会议",
-      "hot_value": 9257860,
+      "hot_value": 9171545,
       "label": "",
       "event_time": 1773014372
     },
     {
       "rank": 9,
       "word": "我从基层来",
-      "hot_value": 9177461,
+      "hot_value": 9140642,
       "label": "",
       "event_time": 1773064070
     },
     {
       "rank": 10,
-      "word": "全国两会第二场部长通道",
-      "hot_value": 9151669,
-      "label": "",
-      "event_time": 1773023939
-    },
-    {
-      "rank": 11,
       "word": "2月份CPI同比上涨1.3%",
-      "hot_value": 9138533,
+      "hot_value": 9115105,
       "label": "",
       "event_time": 1773020380
     },
     {
+      "rank": 11,
+      "word": "全国两会第二场部长通道",
+      "hot_value": 9115105,
+      "label": "",
+      "event_time": 1773023939
+    },
+    {
       "rank": 12,
       "word": "日本远程导弹已运抵其首个部署地",
-      "hot_value": 9115252,
+      "hot_value": 9069866,
       "label": "爆",
       "event_time": 1773041513
     },
     {
       "rank": 13,
       "word": "哈梅内伊之子当选伊朗最高领袖",
-      "hot_value": 9060199,
+      "hot_value": 9068592,
       "label": "爆",
       "event_time": 1773007413
     },
     {
       "rank": 14,
-      "word": "最高法：持续推动治理高额彩礼",
-      "hot_value": 8845145,
-      "label": "",
-      "event_time": 1773022014
-    },
-    {
-      "rank": 15,
-      "word": "代表回应建议提高农民养老金",
-      "hot_value": 8769785,
-      "label": "荐",
-      "event_time": 1773023652
-    },
-    {
-      "rank": 16,
-      "word": "当地网友实探迪拜黄金市场",
-      "hot_value": 8041072,
-      "label": "",
-      "event_time": 1773023262
-    },
-    {
-      "rank": 17,
       "word": "看见两会里的她",
-      "hot_value": 7886101,
+      "hot_value": 8890279,
       "label": "",
       "event_time": 1772932826
     },
     {
+      "rank": 15,
+      "word": "当地网友实探迪拜黄金市场",
+      "hot_value": 8790725,
+      "label": "爆",
+      "event_time": 1773023262
+    },
+    {
+      "rank": 16,
+      "word": "最高法：持续推动治理高额彩礼",
+      "hot_value": 8619319,
+      "label": "",
+      "event_time": 1773022014
+    },
+    {
+      "rank": 17,
+      "word": "代表回应建议提高农民养老金",
+      "hot_value": 7806307,
+      "label": "荐",
+      "event_time": 1773023652
+    },
+    {
       "rank": 18,
       "word": "油价上调 加一箱油多花27.5元",
-      "hot_value": 7798168,
+      "hot_value": 7773978,
       "label": "",
       "event_time": 1773045976
     },
     {
       "rank": 19,
       "word": "OpenClaw使用攻略",
-      "hot_value": 7782692,
+      "hot_value": 7772366,
       "label": "爆",
       "event_time": 1773059642
     },
     {
       "rank": 20,
       "word": "胖东来超8成员工拒绝降薪增假",
-      "hot_value": 7781393,
+      "hot_value": 7770820,
       "label": "爆",
       "event_time": 1773038633
     }
   ],
-  "update_time": "2026-03-09 18:40:04",
+  "update_time": "2026-03-09 19:34:37",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
