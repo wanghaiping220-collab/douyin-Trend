@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "建议建立统一的居民健康档案",
-      "hot_value": 11983501,
+      "hot_value": 12102928,
       "label": "爆",
       "event_time": 1773137529
     },
     {
       "rank": 2,
       "word": "用春字框住春天",
-      "hot_value": 11863305,
+      "hot_value": 11956114,
       "label": "爆",
       "event_time": 1773125111
     },
     {
       "rank": 3,
       "word": "一位门巴族法官眼中的墨脱巨变",
-      "hot_value": 11128389,
+      "hot_value": 11314097,
       "label": "",
       "event_time": 1773121343
     },
     {
       "rank": 4,
       "word": "52条中日航线2月取消全部航班",
-      "hot_value": 11128269,
-      "label": "",
+      "hot_value": 11243764,
+      "label": "爆",
       "event_time": 1773132280
     },
     {
       "rank": 5,
       "word": "交通部约谈两家全球航运公司",
-      "hot_value": 10535116,
+      "hot_value": 10621606,
       "label": "",
       "event_time": 1773111178
     },
     {
       "rank": 6,
       "word": "宋平同志遗体在京火化",
-      "hot_value": 10414041,
+      "hot_value": 10408939,
       "label": "",
       "event_time": 1773128042
     },
     {
       "rank": 7,
       "word": "委员说养老待遇应该是平等的",
-      "hot_value": 9147737,
+      "hot_value": 9189700,
       "label": "",
       "event_time": 1773099275
     },
     {
       "rank": 8,
       "word": "大美西藏",
-      "hot_value": 9135822,
+      "hot_value": 9141008,
       "label": "爆",
       "event_time": 1773136243
     },
     {
       "rank": 9,
       "word": "低空经济起飞正当时",
-      "hot_value": 9126577,
+      "hot_value": 9128693,
       "label": "新",
       "event_time": 1773147255
     },
     {
       "rank": 10,
       "word": "建议小学每周1节方言课",
-      "hot_value": 9126346,
+      "hot_value": 9126815,
       "label": "",
       "event_time": 1773109712
     },
     {
       "rank": 11,
       "word": "建议优化教师待遇保障",
-      "hot_value": 9110840,
+      "hot_value": 9124994,
       "label": "",
       "event_time": 1773025481
     },
     {
       "rank": 12,
-      "word": "WTT重庆冠军赛开打",
-      "hot_value": 8983213,
-      "label": "爆",
-      "event_time": 1773120024
-    },
-    {
-      "rank": 13,
       "word": "建议把更多救命药纳入医保",
-      "hot_value": 8976235,
+      "hot_value": 9109958,
       "label": "爆",
       "event_time": 1773047666
     },
     {
-      "rank": 14,
+      "rank": 13,
       "word": "建议餐馆标明预制菜让顾客自己选",
-      "hot_value": 8662158,
+      "hot_value": 9093686,
       "label": "",
       "event_time": 1773025809
     },
     {
-      "rank": 15,
-      "word": "蕾哈娜豪宅遭枪击时其本人在家",
-      "hot_value": 8555223,
+      "rank": 14,
+      "word": "WTT重庆冠军赛开打",
+      "hot_value": 8905162,
       "label": "爆",
-      "event_time": 1773125649
+      "event_time": 1773120024
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "AG vs PRX生死战前瞻",
-      "hot_value": 8479597,
+      "hot_value": 8720013,
       "label": "爆",
       "event_time": 1773116771
     },
     {
-      "rank": 17,
+      "rank": 16,
       "word": "亚历山大绝杀掘金",
-      "hot_value": 8235227,
-      "label": "爆",
+      "hot_value": 7811986,
+      "label": "",
       "event_time": 1773109722
     },
     {
-      "rank": 18,
+      "rank": 17,
       "word": "走挖野菜去",
-      "hot_value": 7823809,
+      "hot_value": 7811417,
       "label": "爆",
       "event_time": 1773068065
     },
     {
-      "rank": 19,
-      "word": "中国街舞小孩哥勇闯世界赛场",
-      "hot_value": 7812721,
+      "rank": 18,
+      "word": "蕾哈娜豪宅遭枪击时其本人在家",
+      "hot_value": 7780390,
       "label": "",
-      "event_time": 1773127786
+      "event_time": 1773125649
+    },
+    {
+      "rank": 19,
+      "word": "坏了大学生已经盯上了逐玉",
+      "hot_value": 7767028,
+      "label": "热议",
+      "event_time": 1773128337
     },
     {
       "rank": 20,
-      "word": "坏了大学生已经盯上了逐玉",
-      "hot_value": 7771584,
-      "label": "热议",
-      "event_time": 1773128337
+      "word": "随处可见的春",
+      "hot_value": 7755401,
+      "label": "音乐",
+      "event_time": 1773062685
     }
   ],
-  "update_time": "2026-03-10 13:56:06",
+  "update_time": "2026-03-10 14:42:43",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
