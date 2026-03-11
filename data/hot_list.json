@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国防部正告日方",
-      "hot_value": 12127697,
+      "hot_value": 11838733,
       "label": "爆",
       "event_time": 1773214639
     },
     {
       "rank": 2,
       "word": "麦基CBA生涯首秀",
-      "hot_value": 11939127,
+      "hot_value": 11789638,
       "label": "",
       "event_time": 1773236280
     },
     {
       "rank": 3,
       "word": "“十五五”开局 国家把“人”放在C位",
-      "hot_value": 11869818,
-      "label": "",
+      "hot_value": 11773652,
+      "label": "爆",
       "event_time": 1773235249
     },
     {
       "rank": 4,
       "word": "中国女篮81:68马里女篮",
-      "hot_value": 11652258,
+      "hot_value": 11572348,
       "label": "爆",
       "event_time": 1773231922
     },
     {
       "rank": 5,
       "word": "水庆霞代表为退役运动员发声",
-      "hot_value": 11027616,
+      "hot_value": 10960371,
       "label": "",
       "event_time": 1773237760
     },
     {
       "rank": 6,
-      "word": "建议修改年休假天数规定",
-      "hot_value": 10961183,
+      "word": "CBA深圳新世纪88:96辽宁本钢",
+      "hot_value": 10829322,
       "label": "爆",
-      "event_time": 1773220345
+      "event_time": 1773226049
     },
     {
       "rank": 7,
+      "word": "建议修改年休假天数规定",
+      "hot_value": 9435097,
+      "label": "",
+      "event_time": 1773220345
+    },
+    {
+      "rank": 8,
       "word": "建议推行婴幼儿父母弹性上下班",
-      "hot_value": 9411688,
+      "hot_value": 9365981,
       "label": "",
       "event_time": 1773192934
     },
     {
-      "rank": 8,
-      "word": "建议发农村老人历史贡献养老金",
-      "hot_value": 9297769,
-      "label": "爆",
-      "event_time": 1773213606
-    },
-    {
       "rank": 9,
       "word": "从“投资于人”到“民生为大”",
-      "hot_value": 9183461,
-      "label": "",
+      "hot_value": 9246560,
+      "label": "爆",
       "event_time": 1773235161
     },
     {
       "rank": 10,
       "word": "建议AI应用设计多考虑残疾人",
-      "hot_value": 9158394,
+      "hot_value": 9159208,
       "label": "",
       "event_time": 1773192984
     },
     {
       "rank": 11,
       "word": "为农民哽咽发声代表接到多部委电话",
-      "hot_value": 9147875,
-      "label": "",
+      "hot_value": 9151895,
+      "label": "爆",
       "event_time": 1773236289
     },
     {
       "rank": 12,
       "word": "“深圳将禁行电动自行车”不实",
-      "hot_value": 9132364,
+      "hot_value": 9144521,
       "label": "谣言",
       "event_time": 1773197654
     },
     {
       "rank": 13,
       "word": "美军对伊行动死亡人数上升",
-      "hot_value": 9132357,
+      "hot_value": 9132236,
       "label": "爆",
       "event_time": 1773224625
     },
     {
       "rank": 14,
       "word": "伊朗总统之子称最高领袖平安",
-      "hot_value": 9073731,
+      "hot_value": 9132209,
       "label": "",
       "event_time": 1773212369
     },
     {
       "rank": 15,
       "word": "中国造出“世界最强”碳纤维",
-      "hot_value": 9040634,
+      "hot_value": 8992399,
       "label": "",
       "event_time": 1773190913
     },
     {
       "rank": 16,
       "word": "伊朗逮捕81名“内鬼”",
-      "hot_value": 8833054,
+      "hot_value": 8974650,
       "label": "爆",
       "event_time": 1773183957
     },
     {
       "rank": 17,
-      "word": "剑来陈平安剑劈穗山名场面",
-      "hot_value": 7809718,
-      "label": "荐",
-      "event_time": 1773229766
+      "word": "建议发农村老人历史贡献养老金",
+      "hot_value": 8330147,
+      "label": "",
+      "event_time": 1773213606
     },
     {
       "rank": 18,
-      "word": "精选创作者宠粉收官倒计时",
-      "hot_value": 7786289,
-      "label": "爆",
-      "event_time": 1773212738
-    },
-    {
-      "rank": 19,
       "word": "一年了还是忘不了星奇摇",
-      "hot_value": 7777616,
+      "hot_value": 7784141,
       "label": "音乐",
       "event_time": 1773232478
     },
     {
+      "rank": 19,
+      "word": "剑来陈平安剑劈穗山名场面",
+      "hot_value": 7765116,
+      "label": "荐",
+      "event_time": 1773229766
+    },
+    {
       "rank": 20,
-      "word": "周杰伦新专发片记者会时间",
-      "hot_value": 7757740,
+      "word": "精选创作者宠粉收官倒计时",
+      "hot_value": 7759650,
       "label": "爆",
-      "event_time": 1773206392
+      "event_time": 1773212738
     }
   ],
-  "update_time": "2026-03-11 16:41:16",
+  "update_time": "2026-03-11 17:42:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
