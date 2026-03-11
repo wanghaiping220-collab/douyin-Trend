@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国防部正告日方",
-      "hot_value": 12147675,
-      "label": "",
+      "hot_value": 12045713,
+      "label": "爆",
       "event_time": 1773214639
     },
     {
       "rank": 2,
       "word": "中国造出“世界最强”碳纤维",
-      "hot_value": 12084072,
+      "hot_value": 11847920,
       "label": "爆",
       "event_time": 1773190913
     },
     {
       "rank": 3,
-      "word": "体验经济持续火爆",
-      "hot_value": 11984976,
-      "label": "爆",
-      "event_time": 1773193378
+      "word": "航空航天被列为我国新兴支柱产业",
+      "hot_value": 11716014,
+      "label": "",
+      "event_time": 1773196714
     },
     {
       "rank": 4,
       "word": "去机场不该比坐飞机时间还长",
-      "hot_value": 11982281,
+      "hot_value": 11648182,
       "label": "爆",
       "event_time": 1773189196
     },
     {
       "rank": 5,
       "word": "建议城市建立农民工子弟寄宿学校",
-      "hot_value": 11279523,
+      "hot_value": 10440322,
       "label": "爆",
       "event_time": 1773184346
     },
     {
       "rank": 6,
-      "word": "全国两会第三场委员通道",
-      "hot_value": 10293267,
-      "label": "爆",
-      "event_time": 1773186769
-    },
-    {
-      "rank": 7,
       "word": "建议AI应用设计多考虑残疾人",
-      "hot_value": 9136301,
+      "hot_value": 9234267,
       "label": "爆",
       "event_time": 1773192984
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "视听北京京彩两会",
-      "hot_value": 9136179,
+      "hot_value": 9185140,
       "label": "新",
       "event_time": 1773224151
     },
     {
-      "rank": 9,
-      "word": "制造业“马拉松”怎么跑",
-      "hot_value": 9101786,
-      "label": "爆",
-      "event_time": 1773204755
+      "rank": 8,
+      "word": "成为中国人为何刷屏两会",
+      "hot_value": 9172067,
+      "label": "新",
+      "event_time": 1773225686
     },
     {
-      "rank": 10,
+      "rank": 9,
       "word": "建议修改年休假天数规定",
-      "hot_value": 9096414,
-      "label": "新",
+      "hot_value": 9159676,
+      "label": "",
       "event_time": 1773220345
     },
     {
-      "rank": 11,
+      "rank": 10,
       "word": "阿德巴约83分",
-      "hot_value": 9069727,
+      "hot_value": 9135431,
       "label": "爆",
       "event_time": 1773195139
     },
     {
+      "rank": 11,
+      "word": "“深圳将禁行电动自行车”不实",
+      "hot_value": 9135392,
+      "label": "谣言",
+      "event_time": 1773197654
+    },
+    {
       "rank": 12,
       "word": "伊朗总统之子称最高领袖平安",
-      "hot_value": 8793707,
+      "hot_value": 9080070,
       "label": "",
       "event_time": 1773212369
     },
     {
       "rank": 13,
-      "word": "当地辟谣“129岁老夫妻相恋百年”",
-      "hot_value": 8717767,
-      "label": "谣言",
-      "event_time": 1773194372
-    },
-    {
-      "rank": 14,
-      "word": "皇马vs曼城前瞻",
-      "hot_value": 8476464,
-      "label": "",
-      "event_time": 1773212658
-    },
-    {
-      "rank": 15,
-      "word": "化橘红是什么",
-      "hot_value": 8254224,
-      "label": "",
-      "event_time": 1773138343
-    },
-    {
-      "rank": 16,
-      "word": "王楚钦重庆冠军赛开门红",
-      "hot_value": 8095234,
-      "label": "新",
-      "event_time": 1773210343
-    },
-    {
-      "rank": 17,
-      "word": "AG憾负PRX",
-      "hot_value": 7831033,
-      "label": "爆",
-      "event_time": 1773188226
-    },
-    {
-      "rank": 18,
-      "word": "新郎：别人拍的我不放心",
-      "hot_value": 7806789,
-      "label": "爆",
-      "event_time": 1773195338
-    },
-    {
-      "rank": 19,
       "word": "伊朗逮捕81名“内鬼”",
-      "hot_value": 7802458,
+      "hot_value": 9073217,
       "label": "爆",
       "event_time": 1773183957
     },
     {
-      "rank": 20,
+      "rank": 14,
+      "word": "化橘红是什么",
+      "hot_value": 9013718,
+      "label": "",
+      "event_time": 1773138343
+    },
+    {
+      "rank": 15,
+      "word": "王楚钦重庆冠军赛开门红",
+      "hot_value": 8860371,
+      "label": "",
+      "event_time": 1773210343
+    },
+    {
+      "rank": 16,
+      "word": "AG憾负PRX",
+      "hot_value": 8844202,
+      "label": "爆",
+      "event_time": 1773188226
+    },
+    {
+      "rank": 17,
+      "word": "建议推行婴幼儿父母弹性上下班",
+      "hot_value": 8839791,
+      "label": "爆",
+      "event_time": 1773192934
+    },
+    {
+      "rank": 18,
+      "word": "皇马vs曼城前瞻",
+      "hot_value": 8481025,
+      "label": "",
+      "event_time": 1773212658
+    },
+    {
+      "rank": 19,
       "word": "伊朗实施第37轮打击行动",
-      "hot_value": 7791860,
+      "hot_value": 8071094,
       "label": "爆",
       "event_time": 1773186808
+    },
+    {
+      "rank": 20,
+      "word": "建议农村医保费分期分档缴纳",
+      "hot_value": 7983818,
+      "label": "",
+      "event_time": 1773151294
     }
   ],
-  "update_time": "2026-03-11 10:30:13",
+  "update_time": "2026-03-11 11:26:43",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
