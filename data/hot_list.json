@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "来一场绿色Color Walk",
-      "hot_value": 11956676,
+      "hot_value": 11994089,
       "label": "爆",
       "event_time": 1773287159
     },
     {
       "rank": 2,
       "word": "十四届全国人大四次会议闭幕",
-      "hot_value": 11861770,
+      "hot_value": 11776685,
       "label": "爆",
       "event_time": 1773297293
     },
     {
       "rank": 3,
       "word": "第二部以“法典”命名法律诞生",
-      "hot_value": 11795843,
+      "hot_value": 11634534,
       "label": "",
       "event_time": 1773326019
     },
     {
       "rank": 4,
       "word": "司法部：立法着力解决内卷式竞争",
-      "hot_value": 11667886,
+      "hot_value": 11629921,
       "label": "爆",
       "event_time": 1773309896
     },
     {
       "rank": 5,
+      "word": "台湾花莲县发生5.3级地震",
+      "hot_value": 10857361,
+      "label": "爆",
+      "event_time": 1773318724
+    },
+    {
+      "rank": 6,
       "word": "老师的职责不该向家长转移",
-      "hot_value": 10760363,
+      "hot_value": 10516518,
       "label": "爆",
       "event_time": 1773283720
     },
     {
-      "rank": 6,
-      "word": "全国两会第三场部长通道",
-      "hot_value": 10736579,
-      "label": "",
-      "event_time": 1773301538
-    },
-    {
       "rank": 7,
       "word": "代表呼吁给生育女性补贴养老金",
-      "hot_value": 9135265,
+      "hot_value": 9141862,
       "label": "",
       "event_time": 1773284803
     },
     {
       "rank": 8,
       "word": "大国重器跑出加速度",
-      "hot_value": 9130902,
+      "hot_value": 9128898,
       "label": "",
       "event_time": 1773310095
     },
     {
       "rank": 9,
       "word": "建议增设元宵重阳节为法定节假日",
-      "hot_value": 9130902,
+      "hot_value": 9128898,
       "label": "",
       "event_time": 1773274838
     },
     {
       "rank": 10,
-      "word": "张翼：加强对带薪休假执法检查",
-      "hot_value": 9099951,
+      "word": "“唯流量论”在毁灭影视创作",
+      "hot_value": 9041534,
       "label": "",
-      "event_time": 1773274037
+      "event_time": 1773292510
     },
     {
       "rank": 11,
-      "word": "在人民大会堂听军乐团演奏",
-      "hot_value": 9034883,
+      "word": "中央和地方预算的决议表决通过",
+      "hot_value": 8675340,
       "label": "",
-      "event_time": 1773288384
+      "event_time": 1773300402
     },
     {
       "rank": 12,
-      "word": "代表建议区分网络用语使用边界",
-      "hot_value": 8438475,
+      "word": "建议扩围职业病目录明确认定标准",
+      "hot_value": 8378597,
       "label": "",
-      "event_time": 1773286111
+      "event_time": 1773286375
     },
     {
       "rank": 13,
       "word": "伊朗称无法参加世界杯",
-      "hot_value": 8228275,
+      "hot_value": 8306567,
       "label": "爆",
       "event_time": 1773280429
     },
     {
       "rank": 14,
       "word": "中国女篮不敌比利时女篮",
-      "hot_value": 7828740,
+      "hot_value": 8183672,
       "label": "",
       "event_time": 1773321850
     },
     {
       "rank": 15,
-      "word": "“唯流量论”在毁灭影视创作",
-      "hot_value": 7823549,
+      "word": "全国两会第三场部长通道",
+      "hot_value": 8049106,
       "label": "",
-      "event_time": 1773292510
+      "event_time": 1773301538
     },
     {
       "rank": 16,
       "word": "伊朗新任最高领袖发表声明",
-      "hot_value": 7810447,
+      "hot_value": 7973217,
       "label": "",
       "event_time": 1773317817
     },
     {
       "rank": 17,
       "word": "伊朗总统提出结束战争必要条件",
-      "hot_value": 7782933,
+      "hot_value": 7808512,
       "label": "",
       "event_time": 1773270876
     },
     {
       "rank": 18,
-      "word": "台湾花莲县发生5.3级地震",
-      "hot_value": 7765417,
+      "word": "代表建议区分网络用语使用边界",
+      "hot_value": 7793329,
       "label": "",
-      "event_time": 1773318724
+      "event_time": 1773286111
     },
     {
       "rank": 19,
-      "word": "你是否在雪山救过一只狐狸真人版",
-      "hot_value": 7763320,
-      "label": "音乐",
-      "event_time": 1773317716
+      "word": "中方呼吁立即停火止战",
+      "hot_value": 7768513,
+      "label": "",
+      "event_time": 1773307084
     },
     {
       "rank": 20,
-      "word": "中方呼吁立即停火止战",
-      "hot_value": 7763171,
-      "label": "",
-      "event_time": 1773307084
+      "word": "你是否在雪山救过一只狐狸真人版",
+      "hot_value": 7767388,
+      "label": "音乐",
+      "event_time": 1773317716
     }
   ],
-  "update_time": "2026-03-12 18:40:44",
+  "update_time": "2026-03-12 19:36:18",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
