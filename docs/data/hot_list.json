@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "建议增设元宵重阳节为法定节假日",
-      "hot_value": 12026478,
+      "hot_value": 12099550,
       "label": "爆",
       "event_time": 1773274838
     },
     {
       "rank": 2,
       "word": "“唯流量论”在毁灭影视创作",
-      "hot_value": 11923839,
+      "hot_value": 12030139,
       "label": "新",
       "event_time": 1773292510
     },
     {
       "rank": 3,
       "word": "政府工作报告聚焦投资于人",
-      "hot_value": 11858293,
-      "label": "",
+      "hot_value": 11857724,
+      "label": "爆",
       "event_time": 1773285547
     },
     {
       "rank": 4,
-      "word": "建议优化社保缴费机制",
-      "hot_value": 11783756,
-      "label": "",
-      "event_time": 1773208069
+      "word": "全国两会第三场代表通道",
+      "hot_value": 11793769,
+      "label": "新",
+      "event_time": 1773294529
     },
     {
       "rank": 5,
       "word": "宋兆普建议完善医生评价体系",
-      "hot_value": 11182576,
+      "hot_value": 10895920,
       "label": "爆",
       "event_time": 1773221747
     },
     {
       "rank": 6,
       "word": "代表呼吁给生育女性补贴养老金",
-      "hot_value": 10641595,
-      "label": "",
+      "hot_value": 10549394,
+      "label": "爆",
       "event_time": 1773284803
     },
     {
       "rank": 7,
-      "word": "今天植树节",
-      "hot_value": 9440112,
+      "word": "我拍到了赛里木湖最美的样子",
+      "hot_value": 9435673,
       "label": "",
-      "event_time": 1773271229
+      "event_time": 1773195758
     },
     {
       "rank": 8,
       "word": "建议扩围职业病目录明确认定标准",
-      "hot_value": 9436098,
-      "label": "",
+      "hot_value": 9278115,
+      "label": "爆",
       "event_time": 1773286375
     },
     {
       "rank": 9,
       "word": "在春天里奔赴新征程",
-      "hot_value": 9291303,
-      "label": "",
+      "hot_value": 9274986,
+      "label": "爆",
       "event_time": 1773285897
     },
     {
       "rank": 10,
-      "word": "我拍到了赛里木湖最美的样子",
-      "hot_value": 9127100,
+      "word": "今天植树节",
+      "hot_value": 9181772,
       "label": "",
-      "event_time": 1773195758
+      "event_time": 1773271229
     },
     {
       "rank": 11,
       "word": "在人民大会堂听军乐团演奏",
-      "hot_value": 9127050,
-      "label": "新",
+      "hot_value": 9127911,
+      "label": "",
       "event_time": 1773288384
     },
     {
       "rank": 12,
       "word": "代表说农民交的公粮等于交了社保",
-      "hot_value": 9119957,
-      "label": "",
+      "hot_value": 9127859,
+      "label": "爆",
       "event_time": 1773280999
     },
     {
       "rank": 13,
       "word": "官方辟谣“乐山大佛是大禹雕像”",
-      "hot_value": 8876766,
+      "hot_value": 9080124,
       "label": "谣言",
       "event_time": 1773225242
     },
     {
       "rank": 14,
       "word": "植树节来一场绿色Color Walk",
-      "hot_value": 8720979,
-      "label": "新",
+      "hot_value": 9047808,
+      "label": "",
       "event_time": 1773287159
     },
     {
       "rank": 15,
+      "word": "伊朗局势最新消息速览",
+      "hot_value": 9043614,
+      "label": "新",
+      "event_time": 1773295391
+    },
+    {
+      "rank": 16,
       "word": "张翼：加强对带薪休假执法检查",
-      "hot_value": 8713843,
+      "hot_value": 8900715,
       "label": "爆",
       "event_time": 1773274037
     },
     {
-      "rank": 16,
-      "word": "建议规范食品有效期标注",
-      "hot_value": 8680160,
-      "label": "爆",
-      "event_time": 1773233350
-    },
-    {
       "rank": 17,
       "word": "代表建议区分网络用语使用边界",
-      "hot_value": 8605889,
-      "label": "新",
+      "hot_value": 8859407,
+      "label": "",
       "event_time": 1773286111
     },
     {
       "rank": 18,
-      "word": "阿森纳1:1勒沃库森",
-      "hot_value": 8490753,
+      "word": "伊朗总统提出结束战争必要条件",
+      "hot_value": 8554576,
       "label": "爆",
-      "event_time": 1773276204
+      "event_time": 1773270876
     },
     {
       "rank": 19,
-      "word": "伊朗总统提出结束战争必要条件",
-      "hot_value": 8308216,
+      "word": "以色列已发出42000次来袭警报",
+      "hot_value": 8279831,
       "label": "",
-      "event_time": 1773270876
+      "event_time": 1773237644
     },
     {
       "rank": 20,
       "word": "老师的职责不该向家长转移",
-      "hot_value": 7836608,
-      "label": "新",
+      "hot_value": 8243601,
+      "label": "",
       "event_time": 1773283720
     }
   ],
-  "update_time": "2026-03-12 05:43:30",
+  "update_time": "2026-03-12 06:42:13",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
