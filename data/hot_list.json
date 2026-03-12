@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "今天植树节",
-      "hot_value": 11989721,
-      "label": "新",
-      "event_time": 1773271229
-    },
-    {
-      "rank": 2,
       "word": "建议增设元宵重阳节为法定节假日",
-      "hot_value": 11974216,
-      "label": "新",
+      "hot_value": 12103470,
+      "label": "爆",
       "event_time": 1773274838
     },
     {
+      "rank": 2,
+      "word": "多名代表呼吁提高农民养老金",
+      "hot_value": 11907080,
+      "label": "新",
+      "event_time": 1773284485
+    },
+    {
       "rank": 3,
-      "word": "“十五五”开局 国家把“人”放在C位",
-      "hot_value": 11816737,
-      "label": "爆",
-      "event_time": 1773235249
+      "word": "政府工作报告聚焦投资于人",
+      "hot_value": 11835680,
+      "label": "新",
+      "event_time": 1773285547
     },
     {
       "rank": 4,
-      "word": "建议发农村老人历史贡献养老金",
-      "hot_value": 11756964,
-      "label": "爆",
-      "event_time": 1773213606
+      "word": "建议优化社保缴费机制",
+      "hot_value": 11772874,
+      "label": "",
+      "event_time": 1773208069
     },
     {
       "rank": 5,
       "word": "宋兆普建议完善医生评价体系",
-      "hot_value": 10559246,
-      "label": "",
+      "hot_value": 10670459,
+      "label": "爆",
       "event_time": 1773221747
     },
     {
       "rank": 6,
-      "word": "张翼：加强对带薪休假执法检查",
-      "hot_value": 9379766,
+      "word": "代表呼吁给生育女性补贴养老金",
+      "hot_value": 10546155,
       "label": "新",
-      "event_time": 1773274037
+      "event_time": 1773284803
     },
     {
       "rank": 7,
-      "word": "从“投资于人”到“民生为大”",
-      "hot_value": 9132783,
+      "word": "张翼：加强对带薪休假执法检查",
+      "hot_value": 9311143,
       "label": "爆",
-      "event_time": 1773235161
+      "event_time": 1773274037
     },
     {
       "rank": 8,
-      "word": "建议规范食品有效期标注",
-      "hot_value": 9130680,
-      "label": "",
-      "event_time": 1773233350
+      "word": "在春天里奔赴新征程",
+      "hot_value": 9107317,
+      "label": "新",
+      "event_time": 1773285897
     },
     {
       "rank": 9,
-      "word": "巴黎圣日耳曼5:2切尔西",
-      "hot_value": 9130642,
+      "word": "建议扩围职业病目录明确认定标准",
+      "hot_value": 9107317,
       "label": "新",
-      "event_time": 1773272718
+      "event_time": 1773286375
     },
     {
       "rank": 10,
-      "word": "“深圳将禁行电动自行车”不实",
-      "hot_value": 8901358,
-      "label": "谣言",
-      "event_time": 1773197654
+      "word": "建议规范食品有效期标注",
+      "hot_value": 8979892,
+      "label": "爆",
+      "event_time": 1773233350
     },
     {
       "rank": 11,
-      "word": "中国女篮81:68马里女篮",
-      "hot_value": 8672843,
+      "word": "今天植树节",
+      "hot_value": 8810289,
       "label": "",
-      "event_time": 1773231922
+      "event_time": 1773271229
     },
     {
       "rank": 12,
-      "word": "皇马3:0大胜曼城",
-      "hot_value": 8050052,
+      "word": "代表说农民交的公粮等于交了社保",
+      "hot_value": 8753366,
       "label": "新",
-      "event_time": 1773272457
+      "event_time": 1773280999
     },
     {
       "rank": 13,
-      "word": "王濛拟被破格晋升",
-      "hot_value": 7838027,
-      "label": "",
-      "event_time": 1773234991
+      "word": "官方辟谣“乐山大佛是大禹雕像”",
+      "hot_value": 8734662,
+      "label": "谣言",
+      "event_time": 1773225242
     },
     {
       "rank": 14,
+      "word": "我拍到了赛里木湖最美的样子",
+      "hot_value": 8674673,
+      "label": "",
+      "event_time": 1773195758
+    },
+    {
+      "rank": 15,
+      "word": "建议年假天数按工龄递增",
+      "hot_value": 8583071,
+      "label": "",
+      "event_time": 1773204952
+    },
+    {
+      "rank": 16,
+      "word": "代表建议区分网络用语使用边界",
+      "hot_value": 7944641,
+      "label": "新",
+      "event_time": 1773286111
+    },
+    {
+      "rank": 17,
+      "word": "阿森纳1:1勒沃库森",
+      "hot_value": 7821495,
+      "label": "新",
+      "event_time": 1773276204
+    },
+    {
+      "rank": 18,
+      "word": "伊朗总统提出结束战争必要条件",
+      "hot_value": 7818511,
+      "label": "新",
+      "event_time": 1773270876
+    },
+    {
+      "rank": 19,
       "word": "精选创作者宠粉收官倒计时",
-      "hot_value": 7809620,
+      "hot_value": 7802711,
       "label": "爆",
       "event_time": 1773212738
     },
     {
-      "rank": 15,
+      "rank": 20,
       "word": "剑来陈平安剑劈穗山名场面",
-      "hot_value": 7789831,
+      "hot_value": 7781189,
       "label": "荐",
       "event_time": 1773229766
-    },
-    {
-      "rank": 16,
-      "word": "好好的时光庄好好生子被分手",
-      "hot_value": 7755037,
-      "label": "爆",
-      "event_time": 1773226143
-    },
-    {
-      "rank": 17,
-      "word": "一年了还是忘不了星奇摇",
-      "hot_value": 7741795,
-      "label": "音乐",
-      "event_time": 1773232478
-    },
-    {
-      "rank": 18,
-      "word": "田曦薇求饶小表情萌晕我",
-      "hot_value": 7741157,
-      "label": "热议",
-      "event_time": 1773239291
-    },
-    {
-      "rank": 19,
-      "word": "蹲到杜克的印度新游记了",
-      "hot_value": 7716488,
-      "label": "爆",
-      "event_time": 1773227106
-    },
-    {
-      "rank": 20,
-      "word": "当我把朋友照片打出来并让他签名",
-      "hot_value": 7715173,
-      "label": "爆",
-      "event_time": 1773234050
     }
   ],
-  "update_time": "2026-03-12 01:09:27",
+  "update_time": "2026-03-12 04:06:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
