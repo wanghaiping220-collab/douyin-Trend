@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "商务部回应美国发起301调查",
-      "hot_value": 11798093,
+      "hot_value": 11736953,
       "label": "爆",
       "event_time": 1773381453
     },
     {
       "rank": 2,
       "word": "中美将在法国举行经贸磋商",
-      "hot_value": 11705683,
+      "hot_value": 11678228,
       "label": "爆",
       "event_time": 1773379663
     },
     {
       "rank": 3,
       "word": "新的五年我们再次出发",
-      "hot_value": 11574591,
+      "hot_value": 11646745,
       "label": "",
       "event_time": 1773412604
     },
     {
       "rank": 4,
       "word": "央行将开展5千亿元买断式逆回购",
-      "hot_value": 11102746,
+      "hot_value": 11083894,
       "label": "爆",
       "event_time": 1773395238
     },
     {
       "rank": 5,
       "word": "侵入式脑机接口医疗器械获批上市",
-      "hot_value": 10542861,
+      "hot_value": 10463406,
       "label": "",
       "event_time": 1773382363
     },
     {
       "rank": 6,
       "word": "外交部回应美方涉黎智英言论",
-      "hot_value": 10304916,
+      "hot_value": 10329407,
       "label": "爆",
       "event_time": 1773390668
     },
     {
       "rank": 7,
       "word": "北斗卫星导航系统将在轨升级",
-      "hot_value": 9175051,
+      "hot_value": 9165856,
       "label": "",
       "event_time": 1773368545
     },
     {
       "rank": 8,
       "word": "中国无人矿卡如何改变矿业",
-      "hot_value": 9158417,
+      "hot_value": 9161007,
       "label": "热议",
       "event_time": 1773404574
     },
     {
       "rank": 9,
       "word": "星穹铁道4.1前瞻",
-      "hot_value": 9126121,
+      "hot_value": 9126320,
       "label": "爆",
       "event_time": 1773402439
     },
     {
       "rank": 10,
       "word": "伊朗首都集会现场附近发生爆炸",
-      "hot_value": 9023026,
+      "hot_value": 9035046,
       "label": "爆",
       "event_time": 1773394905
     },
     {
       "rank": 11,
       "word": "希腊爆发大规模抗议",
-      "hot_value": 8070819,
+      "hot_value": 8323445,
       "label": "爆",
       "event_time": 1773380151
     },
     {
       "rank": 12,
       "word": "中方强烈谴责始作俑者美国",
-      "hot_value": 8014177,
-      "label": "爆",
+      "hot_value": 7990914,
+      "label": "",
       "event_time": 1773356911
     },
     {
       "rank": 13,
       "word": "逐玉如此纯正的强制爱",
-      "hot_value": 7805104,
+      "hot_value": 7822429,
       "label": "游戏",
       "event_time": 1773398238
     },
     {
       "rank": 14,
       "word": "王者荣耀国际服联动奥特曼",
-      "hot_value": 7800177,
+      "hot_value": 7800323,
       "label": "",
       "event_time": 1773395594
     },
     {
       "rank": 15,
-      "word": "美军福特号航母发生火灾",
-      "hot_value": 7797986,
-      "label": "",
-      "event_time": 1773357415
-    },
-    {
-      "rank": 16,
       "word": "演员故事感背影杀挑战",
-      "hot_value": 7784177,
+      "hot_value": 7793211,
       "label": "音乐",
       "event_time": 1773385807
     },
     {
+      "rank": 16,
+      "word": "美军福特号航母发生火灾",
+      "hot_value": 7789118,
+      "label": "",
+      "event_time": 1773357415
+    },
+    {
       "rank": 17,
       "word": "毛坯房也能精致入住",
-      "hot_value": 7781554,
+      "hot_value": 7775242,
       "label": "爆",
       "event_time": 1773370013
     },
     {
       "rank": 18,
       "word": "魔力歌先生初舞台",
-      "hot_value": 7780526,
+      "hot_value": 7768070,
       "label": "爆",
       "event_time": 1773380857
     },
     {
       "rank": 19,
-      "word": "这个敲敲舞太巴适了吧",
-      "hot_value": 7754272,
-      "label": "音乐",
-      "event_time": 1773399105
+      "word": "我和流浪猫的故事",
+      "hot_value": 7758620,
+      "label": "爆",
+      "event_time": 1773371585
     },
     {
       "rank": 20,
       "word": "来尝尝这对陈皮糖味的CP",
-      "hot_value": 7752005,
+      "hot_value": 7754443,
       "label": "热议",
       "event_time": 1773383198
     }
   ],
-  "update_time": "2026-03-13 18:29:52",
+  "update_time": "2026-03-13 19:25:42",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
