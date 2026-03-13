@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "商务部回应美国发起301调查",
-      "hot_value": 11668820,
+      "hot_value": 11714170,
       "label": "爆",
       "event_time": 1773381453
     },
     {
       "rank": 2,
       "word": "侵入式脑机接口医疗器械获批上市",
-      "hot_value": 11084948,
+      "hot_value": 11553973,
       "label": "爆",
       "event_time": 1773382363
     },
     {
       "rank": 3,
       "word": "2026开年科技创新亮点频现",
-      "hot_value": 11057771,
+      "hot_value": 11150961,
       "label": "",
       "event_time": 1773395503
     },
     {
       "rank": 4,
       "word": "十五五规划纲要全文发布",
-      "hot_value": 11037985,
+      "hot_value": 11086690,
       "label": "新",
       "event_time": 1773409434
     },
     {
       "rank": 5,
       "word": "央行将开展5千亿元买断式逆回购",
-      "hot_value": 10420430,
+      "hot_value": 10528830,
       "label": "新",
       "event_time": 1773395238
     },
     {
       "rank": 6,
       "word": "中美将在法国举行经贸磋商",
-      "hot_value": 10407877,
+      "hot_value": 10518814,
       "label": "爆",
       "event_time": 1773379663
     },
     {
       "rank": 7,
       "word": "外交部回应美方涉黎智英言论",
-      "hot_value": 9164269,
+      "hot_value": 9362820,
       "label": "",
       "event_time": 1773390668
     },
     {
       "rank": 8,
       "word": "中国无人矿卡如何改变矿业",
-      "hot_value": 9158431,
+      "hot_value": 9208782,
       "label": "热议",
       "event_time": 1773404574
     },
     {
       "rank": 9,
-      "word": "星穹铁道4.1前瞻",
-      "hot_value": 9157669,
-      "label": "新",
-      "event_time": 1773402439
-    },
-    {
-      "rank": 10,
       "word": "北斗卫星导航系统将在轨升级",
-      "hot_value": 9129636,
+      "hot_value": 9197101,
       "label": "",
       "event_time": 1773368545
     },
     {
+      "rank": 10,
+      "word": "星穹铁道4.1前瞻",
+      "hot_value": 9159199,
+      "label": "新",
+      "event_time": 1773402439
+    },
+    {
       "rank": 11,
       "word": "伊朗首都集会现场附近发生爆炸",
-      "hot_value": 9083567,
+      "hot_value": 9102806,
       "label": "爆",
       "event_time": 1773394905
     },
     {
       "rank": 12,
       "word": "孙颖莎3:0迪亚兹",
-      "hot_value": 9060479,
+      "hot_value": 9083527,
       "label": "爆",
       "event_time": 1773383498
     },
     {
       "rank": 13,
+      "word": "希腊爆发大规模抗议",
+      "hot_value": 8842551,
+      "label": "爆",
+      "event_time": 1773380151
+    },
+    {
+      "rank": 14,
       "word": "中方强烈谴责始作俑者美国",
-      "hot_value": 8883452,
+      "hot_value": 8789991,
       "label": "爆",
       "event_time": 1773356911
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "川超达州vs凉山",
-      "hot_value": 8720947,
+      "hot_value": 8596378,
       "label": "",
       "event_time": 1773375798
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "王者荣耀国际服联动奥特曼",
-      "hot_value": 8642090,
+      "hot_value": 8526611,
       "label": "爆",
       "event_time": 1773395594
     },
     {
-      "rank": 16,
+      "rank": 17,
       "word": "美军福特号航母发生火灾",
-      "hot_value": 8601490,
+      "hot_value": 8450658,
       "label": "",
       "event_time": 1773357415
     },
     {
-      "rank": 17,
-      "word": "逐玉如此纯正的强制爱",
-      "hot_value": 7812027,
-      "label": "游戏",
-      "event_time": 1773398238
-    },
-    {
       "rank": 18,
       "word": "她的盛焰开播",
-      "hot_value": 7792661,
+      "hot_value": 7961353,
       "label": "热议",
       "event_time": 1773371604
     },
     {
       "rank": 19,
-      "word": "这个敲敲舞太巴适了吧",
-      "hot_value": 7750500,
-      "label": "音乐",
-      "event_time": 1773399105
+      "word": "逐玉如此纯正的强制爱",
+      "hot_value": 7794494,
+      "label": "游戏",
+      "event_time": 1773398238
     },
     {
       "rank": 20,
-      "word": "我是春天新长出的人儿",
-      "hot_value": 7732595,
+      "word": "这个敲敲舞太巴适了吧",
+      "hot_value": 7753156,
       "label": "音乐",
-      "event_time": 1773390856
+      "event_time": 1773399105
     }
   ],
-  "update_time": "2026-03-13 13:53:59",
+  "update_time": "2026-03-13 14:36:56",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
