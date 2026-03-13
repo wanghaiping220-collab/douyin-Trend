@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "商务部回应美国发起301调查",
-      "hot_value": 11569603,
+      "hot_value": 11668820,
       "label": "爆",
       "event_time": 1773381453
     },
     {
       "rank": 2,
       "word": "侵入式脑机接口医疗器械获批上市",
-      "hot_value": 11099100,
+      "hot_value": 11084948,
       "label": "爆",
       "event_time": 1773382363
     },
     {
       "rank": 3,
       "word": "2026开年科技创新亮点频现",
-      "hot_value": 10856122,
+      "hot_value": 11057771,
       "label": "",
       "event_time": 1773395503
     },
     {
       "rank": 4,
+      "word": "十五五规划纲要全文发布",
+      "hot_value": 11037985,
+      "label": "新",
+      "event_time": 1773409434
+    },
+    {
+      "rank": 5,
+      "word": "央行将开展5千亿元买断式逆回购",
+      "hot_value": 10420430,
+      "label": "新",
+      "event_time": 1773395238
+    },
+    {
+      "rank": 6,
       "word": "中美将在法国举行经贸磋商",
-      "hot_value": 10834077,
+      "hot_value": 10407877,
       "label": "爆",
       "event_time": 1773379663
     },
     {
-      "rank": 5,
-      "word": "北斗卫星导航系统将在轨升级",
-      "hot_value": 10273783,
-      "label": "",
-      "event_time": 1773368545
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "word": "外交部回应美方涉黎智英言论",
-      "hot_value": 10203448,
-      "label": "新",
+      "hot_value": 9164269,
+      "label": "",
       "event_time": 1773390668
     },
     {
-      "rank": 7,
+      "rank": 8,
       "word": "中国无人矿卡如何改变矿业",
-      "hot_value": 9128657,
+      "hot_value": 9158431,
       "label": "热议",
       "event_time": 1773404574
     },
     {
-      "rank": 8,
-      "word": "伊朗首都集会现场附近发生爆炸",
-      "hot_value": 9098691,
+      "rank": 9,
+      "word": "星穹铁道4.1前瞻",
+      "hot_value": 9157669,
+      "label": "新",
+      "event_time": 1773402439
+    },
+    {
+      "rank": 10,
+      "word": "北斗卫星导航系统将在轨升级",
+      "hot_value": 9129636,
       "label": "",
+      "event_time": 1773368545
+    },
+    {
+      "rank": 11,
+      "word": "伊朗首都集会现场附近发生爆炸",
+      "hot_value": 9083567,
+      "label": "爆",
       "event_time": 1773394905
     },
     {
-      "rank": 9,
+      "rank": 12,
       "word": "孙颖莎3:0迪亚兹",
-      "hot_value": 8846012,
+      "hot_value": 9060479,
       "label": "爆",
       "event_time": 1773383498
     },
     {
-      "rank": 10,
+      "rank": 13,
       "word": "中方强烈谴责始作俑者美国",
-      "hot_value": 8796145,
+      "hot_value": 8883452,
       "label": "爆",
       "event_time": 1773356911
     },
     {
-      "rank": 11,
-      "word": "王者荣耀国际服联动奥特曼",
-      "hot_value": 8485376,
+      "rank": 14,
+      "word": "川超达州vs凉山",
+      "hot_value": 8720947,
       "label": "",
+      "event_time": 1773375798
+    },
+    {
+      "rank": 15,
+      "word": "王者荣耀国际服联动奥特曼",
+      "hot_value": 8642090,
+      "label": "爆",
       "event_time": 1773395594
     },
     {
-      "rank": 12,
+      "rank": 16,
       "word": "美军福特号航母发生火灾",
-      "hot_value": 8384556,
+      "hot_value": 8601490,
       "label": "",
       "event_time": 1773357415
     },
     {
-      "rank": 13,
+      "rank": 17,
       "word": "逐玉如此纯正的强制爱",
-      "hot_value": 7830041,
+      "hot_value": 7812027,
       "label": "游戏",
       "event_time": 1773398238
     },
     {
-      "rank": 14,
-      "word": "演员故事感背影杀挑战",
-      "hot_value": 7774089,
-      "label": "音乐",
-      "event_time": 1773385807
-    },
-    {
-      "rank": 15,
-      "word": "科技晚看得我CPU快冒烟了",
-      "hot_value": 7771362,
-      "label": "新",
-      "event_time": 1773393365
-    },
-    {
-      "rank": 16,
-      "word": "魔力歌先生初舞台",
-      "hot_value": 7770431,
-      "label": "爆",
-      "event_time": 1773380857
-    },
-    {
-      "rank": 17,
-      "word": "沧元图年番开播",
-      "hot_value": 7762036,
-      "label": "荐",
-      "event_time": 1773370608
-    },
-    {
       "rank": 18,
-      "word": "专访云南最强媒婆",
-      "hot_value": 7760909,
-      "label": "荐",
-      "event_time": 1773374288
+      "word": "她的盛焰开播",
+      "hot_value": 7792661,
+      "label": "热议",
+      "event_time": 1773371604
     },
     {
       "rank": 19,
-      "word": "来尝尝这对陈皮糖味的CP",
-      "hot_value": 7750430,
-      "label": "热议",
-      "event_time": 1773383198
+      "word": "这个敲敲舞太巴适了吧",
+      "hot_value": 7750500,
+      "label": "音乐",
+      "event_time": 1773399105
     },
     {
       "rank": 20,
-      "word": "这个敲敲舞太巴适了吧",
-      "hot_value": 7746449,
+      "word": "我是春天新长出的人儿",
+      "hot_value": 7732595,
       "label": "音乐",
-      "event_time": 1773399105
+      "event_time": 1773390856
     }
   ],
-  "update_time": "2026-03-13 12:37:18",
+  "update_time": "2026-03-13 13:53:59",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
