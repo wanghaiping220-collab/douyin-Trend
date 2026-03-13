@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "商务部回应美国发起301调查",
-      "hot_value": 11908486,
+      "hot_value": 11848384,
       "label": "爆",
       "event_time": 1773381453
     },
     {
       "rank": 2,
       "word": "中美将在法国举行经贸磋商",
-      "hot_value": 11690710,
+      "hot_value": 11500201,
       "label": "爆",
       "event_time": 1773379663
     },
     {
       "rank": 3,
       "word": "新的五年我们再次出发",
-      "hot_value": 11578946,
+      "hot_value": 11496931,
       "label": "",
       "event_time": 1773412604
     },
     {
       "rank": 4,
       "word": "侵入式脑机接口医疗器械获批上市",
-      "hot_value": 11419543,
+      "hot_value": 11158204,
       "label": "爆",
       "event_time": 1773382363
     },
     {
       "rank": 5,
       "word": "央行将开展5千亿元买断式逆回购",
-      "hot_value": 10628134,
+      "hot_value": 10588272,
       "label": "",
       "event_time": 1773395238
     },
     {
       "rank": 6,
       "word": "外交部回应美方涉黎智英言论",
-      "hot_value": 10579183,
+      "hot_value": 10521287,
       "label": "爆",
       "event_time": 1773390668
     },
     {
       "rank": 7,
       "word": "北斗卫星导航系统将在轨升级",
-      "hot_value": 9460295,
+      "hot_value": 9269242,
       "label": "",
       "event_time": 1773368545
     },
     {
       "rank": 8,
       "word": "中国无人矿卡如何改变矿业",
-      "hot_value": 9283348,
+      "hot_value": 9170889,
       "label": "热议",
       "event_time": 1773404574
     },
     {
       "rank": 9,
       "word": "星穹铁道4.1前瞻",
-      "hot_value": 9126108,
-      "label": "",
+      "hot_value": 9125554,
+      "label": "爆",
       "event_time": 1773402439
     },
     {
       "rank": 10,
       "word": "伊朗首都集会现场附近发生爆炸",
-      "hot_value": 9086358,
+      "hot_value": 8942787,
       "label": "爆",
       "event_time": 1773394905
     },
     {
       "rank": 11,
-      "word": "孙颖莎3:0迪亚兹",
-      "hot_value": 8498307,
-      "label": "爆",
-      "event_time": 1773383498
-    },
-    {
-      "rank": 12,
-      "word": "希腊爆发大规模抗议",
-      "hot_value": 8465990,
-      "label": "爆",
-      "event_time": 1773380151
-    },
-    {
-      "rank": 13,
-      "word": "川超达州1:1凉山",
-      "hot_value": 8396836,
-      "label": "",
-      "event_time": 1773375798
-    },
-    {
-      "rank": 14,
-      "word": "王者荣耀国际服联动奥特曼",
-      "hot_value": 8264704,
-      "label": "爆",
-      "event_time": 1773395594
-    },
-    {
-      "rank": 15,
-      "word": "美军福特号航母发生火灾",
-      "hot_value": 8073015,
-      "label": "爆",
-      "event_time": 1773357415
-    },
-    {
-      "rank": 16,
-      "word": "中方强烈谴责始作俑者美国",
-      "hot_value": 8042016,
-      "label": "爆",
-      "event_time": 1773356911
-    },
-    {
-      "rank": 17,
-      "word": "逐玉如此纯正的强制爱",
-      "hot_value": 7800675,
-      "label": "游戏",
-      "event_time": 1773398238
-    },
-    {
-      "rank": 18,
       "word": "她的盛焰开播",
-      "hot_value": 7788683,
+      "hot_value": 8935609,
       "label": "热议",
       "event_time": 1773371604
     },
     {
+      "rank": 12,
+      "word": "孙颖莎3:0迪亚兹",
+      "hot_value": 8811386,
+      "label": "爆",
+      "event_time": 1773383498
+    },
+    {
+      "rank": 13,
+      "word": "中方强烈谴责始作俑者美国",
+      "hot_value": 8539589,
+      "label": "爆",
+      "event_time": 1773356911
+    },
+    {
+      "rank": 14,
+      "word": "315晚会主题发布",
+      "hot_value": 8221873,
+      "label": "新",
+      "event_time": 1773411237
+    },
+    {
+      "rank": 15,
+      "word": "王者荣耀国际服联动奥特曼",
+      "hot_value": 8179516,
+      "label": "爆",
+      "event_time": 1773395594
+    },
+    {
+      "rank": 16,
+      "word": "希腊爆发大规模抗议",
+      "hot_value": 8117941,
+      "label": "爆",
+      "event_time": 1773380151
+    },
+    {
+      "rank": 17,
+      "word": "川超达州1:1凉山",
+      "hot_value": 8098360,
+      "label": "",
+      "event_time": 1773375798
+    },
+    {
+      "rank": 18,
+      "word": "沧元图年番开播",
+      "hot_value": 7810196,
+      "label": "荐",
+      "event_time": 1773370608
+    },
+    {
       "rank": 19,
-      "word": "我是春天新长出的人儿",
-      "hot_value": 7767945,
-      "label": "音乐",
-      "event_time": 1773390856
+      "word": "美军福特号航母发生火灾",
+      "hot_value": 7795265,
+      "label": "爆",
+      "event_time": 1773357415
     },
     {
       "rank": 20,
-      "word": "毛坯房也能精致入住",
-      "hot_value": 7759396,
-      "label": "爆",
-      "event_time": 1773370013
+      "word": "我是春天新长出的人儿",
+      "hot_value": 7782452,
+      "label": "音乐",
+      "event_time": 1773390856
     }
   ],
-  "update_time": "2026-03-13 15:34:45",
+  "update_time": "2026-03-13 16:29:44",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
