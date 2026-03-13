@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "商务部回应美国发起301调查",
-      "hot_value": 11820503,
+      "hot_value": 11889898,
       "label": "爆",
       "event_time": 1773381453
     },
     {
       "rank": 2,
       "word": "中美将在法国举行经贸磋商",
-      "hot_value": 11716669,
+      "hot_value": 11803030,
       "label": "爆",
       "event_time": 1773379663
     },
     {
       "rank": 3,
       "word": "新的五年我们再次出发",
-      "hot_value": 11499116,
+      "hot_value": 11441657,
       "label": "",
       "event_time": 1773412604
     },
     {
       "rank": 4,
       "word": "央行将开展5千亿元买断式逆回购",
-      "hot_value": 11062109,
+      "hot_value": 11136521,
       "label": "爆",
       "event_time": 1773395238
     },
     {
       "rank": 5,
       "word": "侵入式脑机接口医疗器械获批上市",
-      "hot_value": 10491846,
+      "hot_value": 10429848,
       "label": "",
       "event_time": 1773382363
     },
     {
       "rank": 6,
       "word": "外交部回应美方涉黎智英言论",
-      "hot_value": 10421535,
+      "hot_value": 10330399,
       "label": "爆",
       "event_time": 1773390668
     },
     {
       "rank": 7,
       "word": "北斗卫星导航系统将在轨升级",
-      "hot_value": 9170916,
+      "hot_value": 9169639,
       "label": "",
       "event_time": 1773368545
     },
     {
       "rank": 8,
       "word": "中国无人矿卡如何改变矿业",
-      "hot_value": 9146835,
+      "hot_value": 9144810,
       "label": "热议",
       "event_time": 1773404574
     },
     {
       "rank": 9,
       "word": "星穹铁道4.1前瞻",
-      "hot_value": 9125814,
+      "hot_value": 9127512,
       "label": "爆",
       "event_time": 1773402439
     },
     {
       "rank": 10,
       "word": "伊朗首都集会现场附近发生爆炸",
-      "hot_value": 9081490,
+      "hot_value": 8938302,
       "label": "爆",
       "event_time": 1773394905
     },
     {
       "rank": 11,
       "word": "希腊爆发大规模抗议",
-      "hot_value": 8306783,
-      "label": "爆",
+      "hot_value": 8131829,
+      "label": "",
       "event_time": 1773380151
     },
     {
       "rank": 12,
       "word": "中方强烈谴责始作俑者美国",
-      "hot_value": 8049362,
+      "hot_value": 7810276,
       "label": "",
       "event_time": 1773356911
     },
     {
       "rank": 13,
-      "word": "沧元图年番开播",
-      "hot_value": 7819983,
-      "label": "荐",
-      "event_time": 1773370608
-    },
-    {
-      "rank": 14,
       "word": "王者荣耀国际服联动奥特曼",
-      "hot_value": 7805443,
+      "hot_value": 7779064,
       "label": "",
       "event_time": 1773395594
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "演员故事感背影杀挑战",
-      "hot_value": 7804781,
+      "hot_value": 7769774,
       "label": "音乐",
       "event_time": 1773385807
     },
     {
-      "rank": 16,
-      "word": "美军福特号航母发生火灾",
-      "hot_value": 7793701,
-      "label": "",
-      "event_time": 1773357415
-    },
-    {
-      "rank": 17,
-      "word": "毛坯房也能精致入住",
-      "hot_value": 7780185,
-      "label": "爆",
-      "event_time": 1773370013
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "word": "专访云南最强媒婆",
-      "hot_value": 7771518,
+      "hot_value": 7765048,
       "label": "荐",
       "event_time": 1773374288
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "word": "等来了张凌赫田曦薇的头纱牵手",
+      "hot_value": 7755000,
+      "label": "热议",
+      "event_time": 1773402897
+    },
+    {
+      "rank": 17,
       "word": "逐玉如此纯正的强制爱",
-      "hot_value": 7766529,
+      "hot_value": 7753851,
       "label": "游戏",
       "event_time": 1773398238
     },
     {
-      "rank": 20,
+      "rank": 18,
       "word": "我的山与海年代版小时代",
-      "hot_value": 7739372,
+      "hot_value": 7751919,
       "label": "游戏",
       "event_time": 1773397418
+    },
+    {
+      "rank": 19,
+      "word": "逐玉崔千金宁死不出卖樊长玉",
+      "hot_value": 7741384,
+      "label": "游戏",
+      "event_time": 1773405302
+    },
+    {
+      "rank": 20,
+      "word": "春天来了约会去了",
+      "hot_value": 7740741,
+      "label": "音乐",
+      "event_time": 1773398304
     }
   ],
-  "update_time": "2026-03-13 20:24:18",
+  "update_time": "2026-03-13 21:25:00",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
