@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国内成品油价格将迎调整",
-      "hot_value": 12113877,
+      "hot_value": 12072202,
       "label": "爆",
       "event_time": 1773482488
     },
     {
       "rank": 2,
       "word": "中国女足进四强直通世界杯",
-      "hot_value": 11804464,
+      "hot_value": 11925192,
       "label": "爆",
       "event_time": 1773445856
     },
     {
       "rank": 3,
       "word": "2026铁路春运多项指标创新高",
-      "hot_value": 11360111,
-      "label": "",
+      "hot_value": 11615694,
+      "label": "爆",
       "event_time": 1773491492
     },
     {
       "rank": 4,
       "word": "中国女篮战胜南苏丹女篮",
-      "hot_value": 11307391,
+      "hot_value": 11327586,
       "label": "爆",
       "event_time": 1773459606
     },
     {
       "rank": 5,
       "word": "镜头里的春日美景",
-      "hot_value": 10519398,
+      "hot_value": 10653821,
       "label": "爆",
       "event_time": 1773459616
     },
     {
       "rank": 6,
       "word": "F1现场好多熟人",
-      "hot_value": 10414253,
+      "hot_value": 10485151,
       "label": "",
       "event_time": 1773455847
     },
     {
       "rank": 7,
       "word": "福建游神已经传到河南了",
-      "hot_value": 9257602,
-      "label": "",
+      "hot_value": 9203801,
+      "label": "爆",
       "event_time": 1773452752
     },
     {
       "rank": 8,
       "word": "国台办痛批赖清德谬论",
-      "hot_value": 9196295,
+      "hot_value": 9184801,
       "label": "爆",
       "event_time": 1773481762
     },
     {
       "rank": 9,
       "word": "黄海部分海域执行军事任务",
-      "hot_value": 9169202,
+      "hot_value": 9147269,
       "label": "",
       "event_time": 1773469411
     },
     {
       "rank": 10,
       "word": "老爸评测净水器",
-      "hot_value": 9124124,
+      "hot_value": 9122992,
       "label": "",
       "event_time": 1773469592
     },
     {
       "rank": 11,
       "word": "别再被农残造谣骗了",
-      "hot_value": 9116600,
+      "hot_value": 9113243,
       "label": "谣言",
       "event_time": 1773488375
     },
     {
       "rank": 12,
-      "word": "著名哲学家哈贝马斯去世",
-      "hot_value": 8938855,
-      "label": "新",
-      "event_time": 1773500659
+      "word": "以夜袭伊朗 爆炸距记者仅几百米",
+      "hot_value": 9094650,
+      "label": "",
+      "event_time": 1773445073
     },
     {
       "rank": 13,
+      "word": "著名哲学家哈贝马斯去世",
+      "hot_value": 8947382,
+      "label": "",
+      "event_time": 1773500659
+    },
+    {
+      "rank": 14,
       "word": "蒯曼4:2孙颖莎",
-      "hot_value": 8790768,
+      "hot_value": 8885351,
       "label": "爆",
       "event_time": 1773469716
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "王楚钦2:4不敌松岛辉空",
-      "hot_value": 8700354,
+      "hot_value": 8686814,
       "label": "",
       "event_time": 1773490348
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "记者直击以军夜袭伊朗",
-      "hot_value": 8510444,
+      "hot_value": 8616457,
       "label": "",
       "event_time": 1773453387
     },
     {
-      "rank": 16,
-      "word": "CBA北京首钢98:85广州龙狮",
-      "hot_value": 7858461,
-      "label": "",
-      "event_time": 1773472727
-    },
-    {
       "rank": 17,
       "word": "逐玉不齐而俞这么带感",
-      "hot_value": 7781923,
+      "hot_value": 7766937,
       "label": "游戏",
       "event_time": 1773496167
     },
     {
       "rank": 18,
-      "word": "我是春天新长出的人儿",
-      "hot_value": 7713776,
-      "label": "音乐",
-      "event_time": 1773390856
+      "word": "CBA北京首钢98:85广州龙狮",
+      "hot_value": 7738417,
+      "label": "爆",
+      "event_time": 1773472727
     },
     {
       "rank": 19,
       "word": "宝贝锯的是哪首曲子",
-      "hot_value": 7712061,
+      "hot_value": 7725227,
       "label": "爆",
       "event_time": 1773458170
     },
     {
       "rank": 20,
       "word": "李微漪告别格林",
-      "hot_value": 7709256,
+      "hot_value": 7723580,
       "label": "新",
       "event_time": 1773498288
     }
   ],
-  "update_time": "2026-03-14 16:20:45",
+  "update_time": "2026-03-14 17:19:09",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
