@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "BLG对战BFX",
-      "hot_value": 12073511,
+      "hot_value": 12097428,
       "label": "爆",
       "event_time": 1773631525
     },
     {
       "rank": 2,
       "word": "中国女足vs澳大利亚女足前瞻",
-      "hot_value": 11617384,
+      "hot_value": 12036211,
       "label": "爆",
       "event_time": 1773643827
     },
     {
       "rank": 3,
       "word": "快舟十一号遥七运载火箭发射成功",
-      "hot_value": 11103106,
+      "hot_value": 11574927,
       "label": "",
       "event_time": 1773638347
     },
     {
       "rank": 4,
       "word": "这个春天我先跑一步",
-      "hot_value": 10866559,
+      "hot_value": 11363530,
       "label": "爆",
       "event_time": 1773629703
     },
     {
       "rank": 5,
       "word": "中美经贸磋商在法国巴黎结束",
-      "hot_value": 10317116,
-      "label": "",
+      "hot_value": 10713138,
+      "label": "爆",
       "event_time": 1773666191
     },
     {
       "rank": 6,
       "word": "有一种春天叫油菜花开",
-      "hot_value": 10257590,
+      "hot_value": 10558887,
       "label": "荐",
       "event_time": 1773644616
     },
     {
       "rank": 7,
       "word": "鲍威尔留任可能性上升",
-      "hot_value": 9125611,
+      "hot_value": 9385575,
       "label": "",
       "event_time": 1773629763
     },
     {
       "rank": 8,
       "word": "中美就一些议题取得初步共识",
-      "hot_value": 9119526,
-      "label": "",
+      "hot_value": 9178352,
+      "label": "爆",
       "event_time": 1773665965
     },
     {
       "rank": 9,
       "word": "vivo门店回应涨价",
-      "hot_value": 9119525,
+      "hot_value": 9137171,
       "label": "",
       "event_time": 1773635082
     },
     {
       "rank": 10,
-      "word": "清明假期高速公路免费",
-      "hot_value": 9104807,
-      "label": "",
-      "event_time": 1773631913
-    },
-    {
-      "rank": 11,
-      "word": "樊振东下赛季加盟杜塞尔多夫",
-      "hot_value": 9099831,
-      "label": "",
-      "event_time": 1773657371
-    },
-    {
-      "rank": 12,
-      "word": "凤凰传奇杭州演唱会",
-      "hot_value": 9082626,
-      "label": "爆",
-      "event_time": 1773640581
-    },
-    {
-      "rank": 13,
       "word": "315曝光名单",
-      "hot_value": 9028962,
+      "hot_value": 9123443,
       "label": "",
       "event_time": 1773581812
     },
     {
-      "rank": 14,
-      "word": "正义女神开播",
-      "hot_value": 9012309,
-      "label": "荐",
-      "event_time": 1773632075
-    },
-    {
-      "rank": 15,
-      "word": "漂白鸡爪企业致歉",
-      "hot_value": 8986854,
-      "label": "",
-      "event_time": 1773638526
-    },
-    {
-      "rank": 16,
-      "word": "人形机器人能打网球了",
-      "hot_value": 8952404,
-      "label": "爆",
-      "event_time": 1773632391
-    },
-    {
-      "rank": 17,
-      "word": "日本一海域两船倾覆致2人死亡",
-      "hot_value": 8800174,
-      "label": "",
-      "event_time": 1773645074
-    },
-    {
-      "rank": 18,
-      "word": "内塔尼亚胡发视频自证在世",
-      "hot_value": 8260364,
-      "label": "爆",
-      "event_time": 1773624879
-    },
-    {
-      "rank": 19,
+      "rank": 11,
       "word": "多个凤爪品牌股价集体下跌",
-      "hot_value": 8044967,
+      "hot_value": 9123443,
       "label": "爆",
       "event_time": 1773658627
     },
     {
-      "rank": 20,
+      "rank": 12,
+      "word": "樊振东下赛季加盟杜塞尔多夫",
+      "hot_value": 9020925,
+      "label": "",
+      "event_time": 1773657371
+    },
+    {
+      "rank": 13,
+      "word": "CBA南京同曦爆发内讧",
+      "hot_value": 8991412,
+      "label": "新",
+      "event_time": 1773669575
+    },
+    {
+      "rank": 14,
+      "word": "凤凰传奇杭州演唱会",
+      "hot_value": 8980958,
+      "label": "爆",
+      "event_time": 1773640581
+    },
+    {
+      "rank": 15,
+      "word": "清明假期高速公路免费",
+      "hot_value": 8961483,
+      "label": "",
+      "event_time": 1773631913
+    },
+    {
+      "rank": 16,
+      "word": "漂白鸡爪企业致歉",
+      "hot_value": 8956092,
+      "label": "",
+      "event_time": 1773638526
+    },
+    {
+      "rank": 17,
+      "word": "内塔尼亚胡发视频自证在世",
+      "hot_value": 8925459,
+      "label": "爆",
+      "event_time": 1773624879
+    },
+    {
+      "rank": 18,
       "word": "如何看待315问题车展变拦车大赛",
-      "hot_value": 7913767,
+      "hot_value": 7849135,
       "label": "",
       "event_time": 1773627702
+    },
+    {
+      "rank": 19,
+      "word": "人形机器人能打网球了",
+      "hot_value": 7845659,
+      "label": "",
+      "event_time": 1773632391
+    },
+    {
+      "rank": 20,
+      "word": "对“双氧水泡鸡爪”必须连根铲",
+      "hot_value": 7787609,
+      "label": "",
+      "event_time": 1773643047
     }
   ],
-  "update_time": "2026-03-16 15:57:14",
+  "update_time": "2026-03-16 16:58:42",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
