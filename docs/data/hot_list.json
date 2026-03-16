@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中国女足vs澳大利亚女足前瞻",
-      "hot_value": 12097242,
+      "hot_value": 12085306,
       "label": "爆",
       "event_time": 1773643827
     },
     {
       "rank": 2,
       "word": "有一种春天叫油菜花开",
-      "hot_value": 11556372,
+      "hot_value": 11676180,
       "label": "荐",
       "event_time": 1773644616
     },
     {
       "rank": 3,
       "word": "快舟十一号遥七运载火箭发射成功",
-      "hot_value": 11148317,
+      "hot_value": 11089168,
       "label": "",
       "event_time": 1773638347
     },
     {
       "rank": 4,
       "word": "樊振东下赛季加盟杜塞尔多夫",
-      "hot_value": 11038164,
+      "hot_value": 11081702,
       "label": "",
       "event_time": 1773657371
     },
     {
       "rank": 5,
-      "word": "漂白鸡爪企业致歉",
-      "hot_value": 10469270,
-      "label": "",
-      "event_time": 1773638526
-    },
-    {
-      "rank": 6,
       "word": "BLG 3:2 BFX",
-      "hot_value": 10420988,
+      "hot_value": 10524020,
       "label": "",
       "event_time": 1773631525
     },
     {
-      "rank": 7,
+      "rank": 6,
       "word": "这个春天我先跑一步",
-      "hot_value": 9302944,
+      "hot_value": 10491889,
       "label": "",
       "event_time": 1773629703
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "vivo门店回应涨价",
-      "hot_value": 9283701,
+      "hot_value": 9373052,
       "label": "",
       "event_time": 1773635082
     },
     {
+      "rank": 8,
+      "word": "漂白鸡爪企业致歉",
+      "hot_value": 9144384,
+      "label": "",
+      "event_time": 1773638526
+    },
+    {
       "rank": 9,
       "word": "鲍威尔留任可能性上升",
-      "hot_value": 9160764,
+      "hot_value": 9129476,
       "label": "",
       "event_time": 1773629763
     },
     {
       "rank": 10,
       "word": "中美经贸磋商在法国巴黎结束",
-      "hot_value": 9141493,
+      "hot_value": 9129434,
       "label": "",
       "event_time": 1773666191
     },
     {
       "rank": 11,
       "word": "315曝光名单",
-      "hot_value": 9127561,
+      "hot_value": 9124262,
       "label": "",
       "event_time": 1773581812
     },
     {
       "rank": 12,
       "word": "多个凤爪品牌股价集体下跌",
-      "hot_value": 9127441,
+      "hot_value": 8854637,
       "label": "爆",
       "event_time": 1773658627
     },
     {
       "rank": 13,
       "word": "清明假期高速公路免费",
-      "hot_value": 9072826,
+      "hot_value": 8713122,
       "label": "",
       "event_time": 1773631913
     },
     {
       "rank": 14,
-      "word": "人形机器人能打网球了",
-      "hot_value": 8935247,
-      "label": "爆",
-      "event_time": 1773632391
-    },
-    {
-      "rank": 15,
       "word": "中美就一些议题取得初步共识",
-      "hot_value": 8898909,
+      "hot_value": 8634187,
       "label": "爆",
       "event_time": 1773665965
     },
     {
-      "rank": 16,
-      "word": "日本一海域两船倾覆致2人死亡",
-      "hot_value": 8491107,
+      "rank": 15,
+      "word": "人形机器人能打网球了",
+      "hot_value": 8538568,
       "label": "爆",
-      "event_time": 1773645074
+      "event_time": 1773632391
     },
     {
-      "rank": 17,
+      "rank": 16,
       "word": "凤凰传奇杭州演唱会",
-      "hot_value": 8096941,
+      "hot_value": 8189067,
       "label": "",
       "event_time": 1773640581
     },
     {
+      "rank": 17,
+      "word": "日本一海域两船倾覆致2人死亡",
+      "hot_value": 7917039,
+      "label": "",
+      "event_time": 1773645074
+    },
+    {
       "rank": 18,
       "word": "内塔尼亚胡发视频自证在世",
-      "hot_value": 7811229,
+      "hot_value": 7853732,
       "label": "",
       "event_time": 1773624879
     },
     {
       "rank": 19,
-      "word": "正义女神开播",
-      "hot_value": 7802944,
-      "label": "荐",
-      "event_time": 1773632075
+      "word": "315晚会",
+      "hot_value": 7762789,
+      "label": "",
+      "event_time": 1773560631
     },
     {
       "rank": 20,
-      "word": "315晚会",
-      "hot_value": 7786921,
-      "label": "",
-      "event_time": 1773560631
+      "word": "正义女神开播",
+      "hot_value": 7756135,
+      "label": "荐",
+      "event_time": 1773632075
     }
   ],
-  "update_time": "2026-03-16 22:24:11",
+  "update_time": "2026-03-16 23:22:49",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
