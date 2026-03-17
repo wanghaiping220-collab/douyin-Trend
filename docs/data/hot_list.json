@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中国女足无缘亚洲杯决赛",
-      "hot_value": 11331943,
-      "label": "爆",
+      "hot_value": 11289885,
+      "label": "",
       "event_time": 1773719819
     },
     {
       "rank": 2,
       "word": "看机器人跳一支春天的芭蕾",
-      "hot_value": 11159367,
+      "hot_value": 11248214,
       "label": "爆",
       "event_time": 1773739552
     },
     {
       "rank": 3,
       "word": "逐步实现儿童友好空间全覆盖",
-      "hot_value": 11143467,
+      "hot_value": 11019921,
       "label": "爆",
       "event_time": 1773740212
     },
     {
       "rank": 4,
       "word": "甘肃省副省长雷思维被查",
-      "hot_value": 10970373,
+      "hot_value": 10913507,
       "label": "爆",
       "event_time": 1773738149
     },
     {
       "rank": 5,
       "word": "强风暴席卷美国大部分地区",
-      "hot_value": 10331668,
+      "hot_value": 10354774,
       "label": "爆",
       "event_time": 1773735892
     },
     {
       "rank": 6,
       "word": "理性看待油菜花打“药”纷争",
-      "hot_value": 10266213,
+      "hot_value": 10263580,
       "label": "娱乐",
       "event_time": 1773667792
     },
     {
       "rank": 7,
       "word": "解读自然资源部“38号文”",
-      "hot_value": 9179943,
+      "hot_value": 9176577,
       "label": "",
       "event_time": 1773630644
     },
     {
       "rank": 8,
       "word": "欧冠皇马vs曼城",
-      "hot_value": 9152674,
+      "hot_value": 9170781,
       "label": "",
       "event_time": 1773721124
     },
     {
       "rank": 9,
       "word": "中国女篮战胜巴西",
-      "hot_value": 9125884,
+      "hot_value": 9124699,
       "label": "",
       "event_time": 1773744989
     },
     {
       "rank": 10,
       "word": "汕头自建房致12死火灾原因公布",
-      "hot_value": 9117633,
+      "hot_value": 9108156,
       "label": "",
       "event_time": 1773716789
     },
     {
       "rank": 11,
       "word": "拉里贾尼发表手写悼词",
-      "hot_value": 9110680,
+      "hot_value": 9095467,
       "label": "爆",
       "event_time": 1773740593
     },
     {
       "rank": 12,
-      "word": "CBA广东男篮战胜新疆",
-      "hot_value": 9033086,
-      "label": "爆",
-      "event_time": 1773741654
-    },
-    {
-      "rank": 13,
       "word": "小巷人家官宣第二部",
-      "hot_value": 8928529,
+      "hot_value": 9015668,
       "label": "爆",
       "event_time": 1773729946
     },
     {
+      "rank": 13,
+      "word": "CBA广东男篮战胜新疆",
+      "hot_value": 8632810,
+      "label": "爆",
+      "event_time": 1773741654
+    },
+    {
       "rank": 14,
-      "word": "我要做个齐天大圣",
-      "hot_value": 7827463,
-      "label": "音乐",
-      "event_time": 1773734295
+      "word": "原来章若楠也是瓦学姐",
+      "hot_value": 7860699,
+      "label": "爆",
+      "event_time": 1773728012
     },
     {
       "rank": 15,
       "word": "突然想起20年前追逐梦想的自己",
-      "hot_value": 7824122,
+      "hot_value": 7842429,
       "label": "音乐",
       "event_time": 1773703634
     },
     {
       "rank": 16,
+      "word": "我要做个齐天大圣",
+      "hot_value": 7829429,
+      "label": "音乐",
+      "event_time": 1773734295
+    },
+    {
+      "rank": 17,
       "word": "没网的八小时他坦白了一切",
-      "hot_value": 7816155,
+      "hot_value": 7805442,
       "label": "音乐",
       "event_time": 1773734045
     },
     {
-      "rank": 17,
+      "rank": 18,
       "word": "逐玉单更剧粉的精神状态",
-      "hot_value": 7786187,
+      "hot_value": 7796860,
       "label": "热议",
       "event_time": 1773747901
     },
     {
-      "rank": 18,
-      "word": "洛克王国世界抢注ID",
-      "hot_value": 7769178,
-      "label": "",
-      "event_time": 1773716579
-    },
-    {
       "rank": 19,
-      "word": "最美萌宠锅盖头出现了",
-      "hot_value": 7768594,
-      "label": "音乐",
-      "event_time": 1773736652
+      "word": "唤俊在武汉开上巡演了",
+      "hot_value": 7784288,
+      "label": "",
+      "event_time": 1773757558
     },
     {
       "rank": 20,
-      "word": "原来章若楠也是瓦学姐",
-      "hot_value": 7752097,
-      "label": "爆",
-      "event_time": 1773728012
+      "word": "最美萌宠锅盖头出现了",
+      "hot_value": 7775358,
+      "label": "音乐",
+      "event_time": 1773736652
     }
   ],
-  "update_time": "2026-03-17 17:58:57",
+  "update_time": "2026-03-17 19:04:10",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
