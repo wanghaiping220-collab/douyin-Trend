@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "苹果50周年庆",
-      "hot_value": 12123081,
-      "label": "新",
-      "event_time": 1773816120
+      "word": "用山系机能风踏遍山野",
+      "hot_value": 12122693,
+      "label": "爆",
+      "event_time": 1773805219
     },
     {
       "rank": 2,
-      "word": "用山系机能风踏遍山野",
-      "hot_value": 11359343,
-      "label": "",
-      "event_time": 1773805219
+      "word": "短剧演员谈被AI替代",
+      "hot_value": 11101032,
+      "label": "新",
+      "event_time": 1773818971
     },
     {
       "rank": 3,
       "word": "2026年前两月汽车出口持续强劲",
-      "hot_value": 11004795,
+      "hot_value": 11074203,
       "label": "",
       "event_time": 1773824885
     },
     {
       "rank": 4,
-      "word": "多地宣布生物地理不计入中考总分",
-      "hot_value": 10996065,
-      "label": "爆",
-      "event_time": 1773794637
-    },
-    {
-      "rank": 5,
       "word": "委内瑞拉棒球队战胜美国夺冠",
-      "hot_value": 10398309,
-      "label": "新",
+      "hot_value": 11053131,
+      "label": "",
       "event_time": 1773809670
     },
     {
+      "rank": 5,
+      "word": "多地宣布生物地理不计入中考总分",
+      "hot_value": 10430698,
+      "label": "",
+      "event_time": 1773794637
+    },
+    {
       "rank": 6,
-      "word": "短剧演员谈被AI替代",
-      "hot_value": 10215967,
-      "label": "新",
-      "event_time": 1773818971
+      "word": "苹果50周年庆",
+      "hot_value": 10307245,
+      "label": "",
+      "event_time": 1773816120
     },
     {
       "rank": 7,
-      "word": "官方辟谣“AI安全治理3年计划”",
-      "hot_value": 8902514,
-      "label": "谣言",
-      "event_time": 1773807365
+      "word": "中东局势升级将加剧全球饥饿问题",
+      "hot_value": 8388584,
+      "label": "",
+      "event_time": 1773796048
     },
     {
       "rank": 8,
-      "word": "美联储议息会议召开",
-      "hot_value": 8636193,
-      "label": "",
-      "event_time": 1773741081
+      "word": "无畏契约3月19日停机更新",
+      "hot_value": 7833050,
+      "label": "爆",
+      "event_time": 1773803896
     },
     {
       "rank": 9,
       "word": "我要做个齐天大圣",
-      "hot_value": 8315610,
+      "hot_value": 7800316,
       "label": "音乐",
       "event_time": 1773734295
     },
     {
       "rank": 10,
-      "word": "无畏契约3月19日停机更新",
-      "hot_value": 7833112,
-      "label": "爆",
-      "event_time": 1773803896
-    },
-    {
-      "rank": 11,
       "word": "冬去春来定档0322",
-      "hot_value": 7784962,
+      "hot_value": 7781418,
       "label": "爆",
       "event_time": 1773803522
     },
     {
-      "rank": 12,
-      "word": "当不知火舞遇到方言",
-      "hot_value": 7778191,
-      "label": "音乐",
-      "event_time": 1773753321
-    },
-    {
-      "rank": 13,
-      "word": "直接拿下简简单单四个菜",
-      "hot_value": 7763724,
-      "label": "音乐",
-      "event_time": 1773804777
-    },
-    {
-      "rank": 14,
-      "word": "夏晓兰好争气",
-      "hot_value": 7757467,
-      "label": "荐",
-      "event_time": 1773802602
-    },
-    {
-      "rank": 15,
-      "word": "最美萌宠锅盖头出现了",
-      "hot_value": 7756227,
-      "label": "音乐",
-      "event_time": 1773736652
-    },
-    {
-      "rank": 16,
-      "word": "谢征身份掉马",
-      "hot_value": 7753479,
-      "label": "",
-      "event_time": 1773815991
-    },
-    {
-      "rank": 17,
+      "rank": 11,
       "word": "谢征樊长玉单手抱名场面",
-      "hot_value": 7750888,
+      "hot_value": 7780387,
       "label": "荐",
       "event_time": 1773807077
     },
     {
-      "rank": 18,
+      "rank": 12,
+      "word": "谢征身份掉马",
+      "hot_value": 7766499,
+      "label": "爆",
+      "event_time": 1773815991
+    },
+    {
+      "rank": 13,
+      "word": "夏晓兰好争气",
+      "hot_value": 7764710,
+      "label": "荐",
+      "event_time": 1773802602
+    },
+    {
+      "rank": 14,
+      "word": "当不知火舞遇到方言",
+      "hot_value": 7757400,
+      "label": "音乐",
+      "event_time": 1773753321
+    },
+    {
+      "rank": 15,
       "word": "万物皆可逐玉刮痧",
-      "hot_value": 7746671,
+      "hot_value": 7756126,
       "label": "热议",
       "event_time": 1773803776
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "word": "最美萌宠锅盖头出现了",
+      "hot_value": 7745664,
+      "label": "音乐",
+      "event_time": 1773736652
+    },
+    {
+      "rank": 17,
       "word": "当我挑战学习15小时",
-      "hot_value": 7746530,
+      "hot_value": 7740927,
       "label": "音乐",
       "event_time": 1773735247
     },
     {
-      "rank": 20,
-      "word": "随元青这个手势舞是挨完揍拍的吗",
-      "hot_value": 7743424,
+      "rank": 18,
+      "word": "花弓箭精准射中我心巴",
+      "hot_value": 7738487,
       "label": "爆",
-      "event_time": 1773744915
+      "event_time": 1773727498
+    },
+    {
+      "rank": 19,
+      "word": "遮天动画首部剧场版定档",
+      "hot_value": 7731363,
+      "label": "爆",
+      "event_time": 1773801307
+    },
+    {
+      "rank": 20,
+      "word": "逐玉单更剧粉的精神状态",
+      "hot_value": 7730218,
+      "label": "热议",
+      "event_time": 1773747901
     }
   ],
-  "update_time": "2026-03-18 09:43:48",
+  "update_time": "2026-03-18 10:42:12",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
