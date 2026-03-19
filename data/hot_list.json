@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "美联储宣布维持利率不变",
-      "hot_value": 11795957,
+      "hot_value": 11391246,
       "label": "爆",
       "event_time": 1773876147
     },
     {
       "rank": 2,
       "word": "手机为什么会涨价",
-      "hot_value": 11214433,
+      "hot_value": 10990195,
       "label": "爆",
       "event_time": 1773836307
     },
     {
       "rank": 3,
       "word": "农村承包地二轮到期延包整省试点",
-      "hot_value": 11079606,
+      "hot_value": 10986072,
       "label": "",
       "event_time": 1773833418
     },
     {
       "rank": 4,
       "word": "在潮汕服博会被春日好东西种草",
-      "hot_value": 11019478,
+      "hot_value": 10840747,
       "label": "爆",
       "event_time": 1773813659
     },
     {
       "rank": 5,
       "word": "欧冠八强对阵出炉",
-      "hot_value": 10396165,
-      "label": "",
+      "hot_value": 10202822,
+      "label": "爆",
       "event_time": 1773877158
     },
     {
       "rank": 6,
       "word": "AI短片流金谷恩仇录",
-      "hot_value": 8391243,
+      "hot_value": 8867273,
       "label": "爆",
       "event_time": 1773827525
     },
     {
       "rank": 7,
+      "word": "湖人再胜火箭取7连胜",
+      "hot_value": 8340155,
+      "label": "新",
+      "event_time": 1773893811
+    },
+    {
+      "rank": 8,
+      "word": "詹姆斯连续战斧劈扣",
+      "hot_value": 8177719,
+      "label": "新",
+      "event_time": 1773888052
+    },
+    {
+      "rank": 9,
       "word": "青海“熊出没”系谣言",
-      "hot_value": 7890179,
+      "hot_value": 8138388,
       "label": "谣言",
       "event_time": 1773885793
     },
     {
-      "rank": 8,
+      "rank": 10,
+      "word": "欧冠拜仁4:1亚特兰大",
+      "hot_value": 7808191,
+      "label": "",
+      "event_time": 1773876762
+    },
+    {
+      "rank": 11,
       "word": "我要做个齐天大圣",
-      "hot_value": 7823964,
+      "hot_value": 7805441,
       "label": "音乐",
       "event_time": 1773734295
     },
     {
-      "rank": 9,
-      "word": "欧冠拜仁4:1亚特兰大",
-      "hot_value": 7805780,
-      "label": "新",
-      "event_time": 1773876762
-    },
-    {
-      "rank": 10,
-      "word": "全网寻找小火人的crush",
-      "hot_value": 7804067,
-      "label": "爆",
-      "event_time": 1773840536
-    },
-    {
-      "rank": 11,
-      "word": "欧冠马竞晋级8强",
-      "hot_value": 7803541,
-      "label": "",
-      "event_time": 1773875193
-    },
-    {
       "rank": 12,
-      "word": "樊长玉战场首杀",
-      "hot_value": 7788578,
-      "label": "荐",
-      "event_time": 1773837853
-    },
-    {
-      "rank": 13,
       "word": "滴血认亲舞蹈版",
-      "hot_value": 7781760,
+      "hot_value": 7802645,
       "label": "音乐",
       "event_time": 1773824236
     },
     {
+      "rank": 13,
+      "word": "欧冠马竞晋级8强",
+      "hot_value": 7790486,
+      "label": "",
+      "event_time": 1773875193
+    },
+    {
       "rank": 14,
-      "word": "蜘蛛侠崭新之日首支预告",
-      "hot_value": 7763855,
-      "label": "爆",
-      "event_time": 1773837580
+      "word": "樊长玉战场首杀",
+      "hot_value": 7778375,
+      "label": "荐",
+      "event_time": 1773837853
     },
     {
       "rank": 15,
-      "word": "林沐然一拳把我给帅懵了",
-      "hot_value": 7752789,
+      "word": "全网寻找小火人的crush",
+      "hot_value": 7777701,
       "label": "爆",
-      "event_time": 1773833400
+      "event_time": 1773840536
     },
     {
       "rank": 16,
+      "word": "突然get到张凌赫超绝舒适感",
+      "hot_value": 7758433,
+      "label": "爆",
+      "event_time": 1773804696
+    },
+    {
+      "rank": 17,
+      "word": "夜深忽梦少年事",
+      "hot_value": 7747029,
+      "label": "",
+      "event_time": 1773792992
+    },
+    {
+      "rank": 18,
       "word": "薛之谦万兽之王演唱会",
-      "hot_value": 7745700,
+      "hot_value": 7737554,
       "label": "爆",
       "event_time": 1773838232
     },
     {
-      "rank": 17,
+      "rank": 19,
       "word": "BLG 3:0 G2",
-      "hot_value": 7736337,
+      "hot_value": 7736802,
       "label": "",
       "event_time": 1773838170
     },
     {
-      "rank": 18,
-      "word": "网友是懂如何拍太阳的",
-      "hot_value": 7736178,
-      "label": "",
-      "event_time": 1773875467
-    },
-    {
-      "rank": 19,
-      "word": "逐玉谢五抱着升职报告来来去去",
-      "hot_value": 7728736,
-      "label": "爆",
-      "event_time": 1773829207
-    },
-    {
       "rank": 20,
-      "word": "为了罐罐用上毕生演技",
-      "hot_value": 7724712,
-      "label": "音乐",
-      "event_time": 1773826185
+      "word": "林沐然一拳把我给帅懵了",
+      "hot_value": 7728049,
+      "label": "爆",
+      "event_time": 1773833400
     }
   ],
-  "update_time": "2026-03-19 04:14:27",
+  "update_time": "2026-03-19 05:52:21",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
