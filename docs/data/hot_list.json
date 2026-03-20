@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "南昌舰逼退外舰细节公布",
-      "hot_value": 12122809,
+      "hot_value": 12125263,
       "label": "爆",
       "event_time": 1773969865
     },
     {
       "rank": 2,
       "word": "随手一拍都是春日大片",
-      "hot_value": 12091168,
+      "hot_value": 12082856,
       "label": "爆",
       "event_time": 1773976078
     },
     {
       "rank": 3,
       "word": "我国是全球增绿最多最快的国家",
-      "hot_value": 12041482,
-      "label": "",
+      "hot_value": 12050546,
+      "label": "爆",
       "event_time": 1773991885
     },
     {
       "rank": 4,
       "word": "万物皆可卷春味",
-      "hot_value": 11754844,
+      "hot_value": 11612311,
       "label": "爆",
       "event_time": 1773977113
     },
     {
       "rank": 5,
       "word": "把春天妆在脸上",
-      "hot_value": 10781737,
+      "hot_value": 10902943,
       "label": "爆",
       "event_time": 1773974851
     },
     {
       "rank": 6,
       "word": "芒果凤梨真的是芒果味吗",
-      "hot_value": 10639762,
+      "hot_value": 10634955,
       "label": "爆",
       "event_time": 1773989998
     },
     {
       "rank": 7,
+      "word": "这盘热带水果多巴胺爆棚",
+      "hot_value": 9443354,
+      "label": "爆",
+      "event_time": 1773987885
+    },
+    {
+      "rank": 8,
       "word": "校园标语不是越狠越励志",
-      "hot_value": 9431968,
+      "hot_value": 9370439,
       "label": "",
       "event_time": 1773999601
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "宇树科技IPO申请被受理",
-      "hot_value": 9422334,
+      "hot_value": 9242144,
       "label": "爆",
       "event_time": 1774001265
     },
     {
-      "rank": 9,
-      "word": "未来十年AI拼的是什么",
-      "hot_value": 9197051,
-      "label": "爆",
-      "event_time": 1773909791
-    },
-    {
       "rank": 10,
       "word": "CBA江苏三分绝杀广东",
-      "hot_value": 9187787,
+      "hot_value": 9199680,
       "label": "",
       "event_time": 1773998159
     },
     {
       "rank": 11,
-      "word": "这盘热带水果多巴胺爆棚",
-      "hot_value": 9126587,
+      "word": "未来十年AI拼的是什么",
+      "hot_value": 9189742,
       "label": "爆",
-      "event_time": 1773987885
+      "event_time": 1773909791
     },
     {
       "rank": 12,
-      "word": "大师赛薛珍麒战胜郑宇伯",
-      "hot_value": 9126587,
+      "word": "重庆市市长胡衡华被查",
+      "hot_value": 9184662,
       "label": "",
-      "event_time": 1774009713
+      "event_time": 1773986564
     },
     {
       "rank": 13,
-      "word": "奥沙利文单杆153分破世界纪录",
-      "hot_value": 9007596,
-      "label": "",
-      "event_time": 1773991768
+      "word": "大师赛薛珍麒战胜郑宇伯",
+      "hot_value": 9127648,
+      "label": "爆",
+      "event_time": 1774009713
     },
     {
       "rank": 14,
+      "word": "朝鲜痛批日本",
+      "hot_value": 9127620,
+      "label": "",
+      "event_time": 1773985537
+    },
+    {
+      "rank": 15,
       "word": "一半男性活不过67.7岁系谣言",
-      "hot_value": 8977427,
+      "hot_value": 9028201,
       "label": "谣言",
       "event_time": 1773981489
     },
     {
-      "rank": 15,
-      "word": "释永信被公诉",
-      "hot_value": 8480393,
-      "label": "",
-      "event_time": 1773997330
-    },
-    {
       "rank": 16,
       "word": "伊斯兰革命卫队发言人遇袭身亡",
-      "hot_value": 8474199,
+      "hot_value": 8991517,
       "label": "爆",
       "event_time": 1773992967
     },
     {
       "rank": 17,
-      "word": "重庆市市长胡衡华被查",
-      "hot_value": 8246751,
+      "word": "奥沙利文单杆153分破世界纪录",
+      "hot_value": 8759622,
       "label": "",
-      "event_time": 1773986564
+      "event_time": 1773991768
     },
     {
       "rank": 18,
       "word": "白日提灯定档0328",
-      "hot_value": 8185140,
+      "hot_value": 8565875,
       "label": "荐",
       "event_time": 1773977562
     },
     {
       "rank": 19,
       "word": "电影扫恶上线",
-      "hot_value": 7844661,
+      "hot_value": 8279736,
       "label": "荐",
       "event_time": 1773973967
     },
     {
       "rank": 20,
       "word": "东契奇60分创湖人生涯新高",
-      "hot_value": 7805046,
+      "hot_value": 7865860,
       "label": "爆",
       "event_time": 1773983998
     }
   ],
-  "update_time": "2026-03-20 15:35:13",
+  "update_time": "2026-03-20 16:32:46",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
