@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "人民网评“雪山救狐”演绎",
-      "hot_value": 11848920,
-      "label": "",
+      "hot_value": 12202441,
+      "label": "爆",
       "event_time": 1774338745
     },
     {
       "rank": 2,
       "word": "七彩云南万千气象",
-      "hot_value": 11077755,
+      "hot_value": 11442498,
       "label": "爆",
       "event_time": 1774363369
     },
     {
       "rank": 3,
       "word": "我国日均词元调用量超140万亿",
-      "hot_value": 10583129,
+      "hot_value": 10425973,
       "label": "",
       "event_time": 1774356214
     },
     {
       "rank": 4,
-      "word": "把春天穿出门",
-      "hot_value": 9935280,
-      "label": "",
-      "event_time": 1774340298
-    },
-    {
-      "rank": 5,
       "word": "晒出我的春日百搭开衫",
-      "hot_value": 9299854,
+      "hot_value": 10251441,
       "label": "",
       "event_time": 1774359246
     },
     {
+      "rank": 5,
+      "word": "把春天穿出门",
+      "hot_value": 9294252,
+      "label": "",
+      "event_time": 1774340298
+    },
+    {
       "rank": 6,
       "word": "张雪峰去世 年仅41岁",
-      "hot_value": 8618498,
+      "hot_value": 8644184,
       "label": "",
       "event_time": 1774360372
     },
     {
       "rank": 7,
       "word": "什么是心源性猝死",
-      "hot_value": 7705867,
+      "hot_value": 7715217,
       "label": "",
       "event_time": 1774364016
     },
     {
       "rank": 8,
       "word": "春茶奶茶大赛",
-      "hot_value": 7699166,
+      "hot_value": 7691084,
       "label": "",
       "event_time": 1774337762
     },
     {
       "rank": 9,
       "word": "那朵名叫张赞英的月季花",
-      "hot_value": 7676591,
+      "hot_value": 7687927,
       "label": "",
       "event_time": 1774330566
     },
     {
       "rank": 10,
+      "word": "平常心李观洋72:100白晶陈泽文",
+      "hot_value": 7672790,
+      "label": "",
+      "event_time": 1774344201
+    },
+    {
+      "rank": 11,
       "word": "西班牙首相或将于4月访华",
-      "hot_value": 7669481,
+      "hot_value": 7672599,
       "label": "",
       "event_time": 1774316301
     },
     {
-      "rank": 11,
-      "word": "WWDC26定档6月",
-      "hot_value": 7668322,
-      "label": "",
-      "event_time": 1774326673
-    },
-    {
       "rank": 12,
-      "word": "每当我稍微努力就开始幻想",
-      "hot_value": 7667158,
-      "label": "音乐",
-      "event_time": 1774324985
+      "word": "Token翻译为“词元”",
+      "hot_value": 7669794,
+      "label": "",
+      "event_time": 1774341177
     },
     {
       "rank": 13,
       "word": "吃苹果籽会导致氰化物中毒吗",
-      "hot_value": 7659452,
+      "hot_value": 7669018,
       "label": "谣言",
       "event_time": 1774366204
     },
     {
       "rank": 14,
       "word": "奋斗吧人生定档",
-      "hot_value": 7650636,
+      "hot_value": 7663412,
       "label": "爆",
       "event_time": 1774325114
     },
     {
       "rank": 15,
-      "word": "我要开始装帅了",
-      "hot_value": 7649739,
-      "label": "音乐",
-      "event_time": 1774265206
+      "word": "WWDC26定档6月",
+      "hot_value": 7653905,
+      "label": "",
+      "event_time": 1774326673
     },
     {
       "rank": 16,
       "word": "张雪峰曾谈自己人生目标",
-      "hot_value": 7646817,
+      "hot_value": 7651967,
       "label": "爆",
       "event_time": 1774361076
     },
     {
       "rank": 17,
       "word": "柳智敏唱中文歌",
-      "hot_value": 7644452,
+      "hot_value": 7650376,
       "label": "爆",
       "event_time": 1774357767
     },
     {
       "rank": 18,
-      "word": "平常心李观洋72:100白晶陈泽文",
-      "hot_value": 7643647,
-      "label": "",
-      "event_time": 1774344201
-    },
-    {
-      "rank": 19,
       "word": "周杰伦太阳之子MV",
-      "hot_value": 7641803,
+      "hot_value": 7643697,
       "label": "",
       "event_time": 1774334202
     },
     {
+      "rank": 19,
+      "word": "每当我稍微努力就开始幻想",
+      "hot_value": 7641848,
+      "label": "音乐",
+      "event_time": 1774324985
+    },
+    {
       "rank": 20,
-      "word": "甜妹的夏天是小白裙",
-      "hot_value": 7639870,
-      "label": "爆",
-      "event_time": 1774326593
+      "word": "不知火舞舞起来了",
+      "hot_value": 7641713,
+      "label": "音乐",
+      "event_time": 1774260411
     }
   ],
-  "update_time": "2026-03-24 22:21:32",
+  "update_time": "2026-03-24 23:23:19",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
