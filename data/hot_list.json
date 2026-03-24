@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "活塞终结湖人9连胜",
-      "hot_value": 11561216,
-      "label": "爆",
-      "event_time": 1774316962
-    },
-    {
-      "rank": 2,
       "word": "西班牙首相或将于4月访华",
-      "hot_value": 11466070,
+      "hot_value": 11614435,
       "label": "爆",
       "event_time": 1774316301
     },
     {
-      "rank": 3,
-      "word": "中国建成世界最大的气象观测体系",
-      "hot_value": 11200146,
+      "rank": 2,
+      "word": "实探“涨价潮”下的手机市场",
+      "hot_value": 11520062,
       "label": "爆",
-      "event_time": 1774319291
+      "event_time": 1774260440
+    },
+    {
+      "rank": 3,
+      "word": "中国发现世界第二大轻稀土矿",
+      "hot_value": 11422404,
+      "label": "新",
+      "event_time": 1774337111
     },
     {
       "rank": 4,
-      "word": "周杰伦太阳之子MV",
-      "hot_value": 11046849,
-      "label": "新",
-      "event_time": 1774334202
+      "word": "海边日落这样拍",
+      "hot_value": 11091343,
+      "label": "",
+      "event_time": 1774248491
     },
     {
       "rank": 5,
       "word": "美国得州一炼油厂发生爆炸",
-      "hot_value": 10447508,
+      "hot_value": 10297551,
       "label": "爆",
       "event_time": 1774314439
     },
     {
       "rank": 6,
-      "word": "实探“涨价潮”下的手机市场",
-      "hot_value": 10237418,
-      "label": "爆",
-      "event_time": 1774260440
+      "word": "那朵名叫张赞英的月季花",
+      "hot_value": 10203384,
+      "label": "新",
+      "event_time": 1774330566
     },
     {
       "rank": 7,
-      "word": "海边日落这样拍",
-      "hot_value": 9128297,
-      "label": "",
-      "event_time": 1774248491
-    },
-    {
-      "rank": 8,
       "word": "WWDC26定档6月",
-      "hot_value": 9128224,
+      "hot_value": 9128497,
       "label": "新",
       "event_time": 1774326673
     },
     {
+      "rank": 8,
+      "word": "周杰伦太阳之子MV",
+      "hot_value": 8834936,
+      "label": "新",
+      "event_time": 1774334202
+    },
+    {
       "rank": 9,
       "word": "穆迪受伤",
-      "hot_value": 7934784,
-      "label": "新",
+      "hot_value": 8200123,
+      "label": "",
       "event_time": 1774327190
     },
     {
       "rank": 10,
       "word": "网传梅姨本人照片是假的",
-      "hot_value": 7868288,
+      "hot_value": 7933475,
       "label": "谣言",
       "event_time": 1774327401
     },
     {
       "rank": 11,
-      "word": "环球时报评比利时首相涉华言论",
-      "hot_value": 7810625,
-      "label": "",
-      "event_time": 1774311734
-    },
-    {
-      "rank": 12,
-      "word": "杨瀚森4分3篮板",
-      "hot_value": 7774043,
-      "label": "新",
-      "event_time": 1774328177
-    },
-    {
-      "rank": 13,
-      "word": "逐玉宋砚的前途黑的睁不开眼",
-      "hot_value": 7764381,
-      "label": "爆",
-      "event_time": 1774276119
-    },
-    {
-      "rank": 14,
-      "word": "姐姐寻弟33年终团圆",
-      "hot_value": 7761666,
-      "label": "",
-      "event_time": 1774275385
-    },
-    {
-      "rank": 15,
-      "word": "海绵宝宝抽象舞",
-      "hot_value": 7748824,
-      "label": "音乐",
-      "event_time": 1774257146
-    },
-    {
-      "rank": 16,
       "word": "《怦然心动20岁冬季》开播",
-      "hot_value": 7738156,
+      "hot_value": 7883453,
       "label": "新",
       "event_time": 1774328258
     },
     {
-      "rank": 17,
-      "word": "谢征樊长玉窗户吻来了",
-      "hot_value": 7730781,
+      "rank": 12,
+      "word": "活塞终结湖人9连胜",
+      "hot_value": 7803533,
+      "label": "",
+      "event_time": 1774316962
+    },
+    {
+      "rank": 13,
+      "word": "杨瀚森4分3篮板",
+      "hot_value": 7782656,
+      "label": "",
+      "event_time": 1774328177
+    },
+    {
+      "rank": 14,
+      "word": "环球时报评比利时首相涉华言论",
+      "hot_value": 7765611,
+      "label": "",
+      "event_time": 1774311734
+    },
+    {
+      "rank": 15,
+      "word": "逐玉宋砚的前途黑的睁不开眼",
+      "hot_value": 7751947,
       "label": "爆",
-      "event_time": 1774252705
+      "event_time": 1774276119
+    },
+    {
+      "rank": 16,
+      "word": "姐姐寻弟33年终团圆",
+      "hot_value": 7747942,
+      "label": "",
+      "event_time": 1774275385
+    },
+    {
+      "rank": 17,
+      "word": "贺思慕段胥初遇全是试探",
+      "hot_value": 7742063,
+      "label": "荐",
+      "event_time": 1774332627
     },
     {
       "rank": 18,
-      "word": "李维刚帮助处理麻阳滞销冰糖橙",
-      "hot_value": 7729881,
-      "label": "爆",
-      "event_time": 1774267372
+      "word": "海绵宝宝抽象舞",
+      "hot_value": 7739335,
+      "label": "音乐",
+      "event_time": 1774257146
     },
     {
       "rank": 19,
-      "word": "隐身的名字全女阵容线下剧宣",
-      "hot_value": 7725800,
-      "label": "热议",
-      "event_time": 1774278239
+      "word": "对国内成品油价格采取临时调控",
+      "hot_value": 7721075,
+      "label": "",
+      "event_time": 1774249444
     },
     {
       "rank": 20,
-      "word": "对国内成品油价格采取临时调控",
-      "hot_value": 7724766,
-      "label": "",
-      "event_time": 1774249444
+      "word": "齐旻最后一滴眼泪是在想妈妈",
+      "hot_value": 7711880,
+      "label": "爆",
+      "event_time": 1774277544
     }
   ],
-  "update_time": "2026-03-24 06:54:08",
+  "update_time": "2026-03-24 07:49:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
