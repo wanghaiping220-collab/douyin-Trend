@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "AI时代最离谱的KPI",
-      "hot_value": 12103075,
-      "label": "",
-      "event_time": 1774341478
-    },
-    {
-      "rank": 2,
-      "word": "晒出我的春日百搭开衫",
-      "hot_value": 12088699,
-      "label": "爆",
-      "event_time": 1774359246
-    },
-    {
-      "rank": 3,
-      "word": "我国日均词元调用量超140万亿",
-      "hot_value": 11599660,
-      "label": "爆",
-      "event_time": 1774356214
-    },
-    {
-      "rank": 4,
       "word": "吃一口春花尝尝春天的味道",
-      "hot_value": 11474664,
-      "label": "",
+      "hot_value": 11361654,
+      "label": "爆",
       "event_time": 1774334155
     },
     {
-      "rank": 5,
+      "rank": 2,
       "word": "离别是为了更好的相遇",
-      "hot_value": 10210286,
-      "label": "",
+      "hot_value": 11199012,
+      "label": "爆",
       "event_time": 1774283825
     },
     {
+      "rank": 3,
+      "word": "中国在欧洲专利申请量升至第三",
+      "hot_value": 11096333,
+      "label": "",
+      "event_time": 1774403346
+    },
+    {
+      "rank": 4,
+      "word": "Sora关停背后",
+      "hot_value": 10767978,
+      "label": "新",
+      "event_time": 1774404935
+    },
+    {
+      "rank": 5,
+      "word": "南通队多名球员获禁赛处罚",
+      "hot_value": 10200624,
+      "label": "新",
+      "event_time": 1774403749
+    },
+    {
       "rank": 6,
-      "word": "央行开展5000亿元MLF操作",
-      "hot_value": 10040160,
-      "label": "爆",
-      "event_time": 1774346563
-    },
-    {
-      "rank": 7,
-      "word": "贺希宁极限压哨2+1",
-      "hot_value": 8963618,
-      "label": "",
-      "event_time": 1774360713
-    },
-    {
-      "rank": 8,
-      "word": "WWDC26定档6月",
-      "hot_value": 8396679,
-      "label": "爆",
-      "event_time": 1774326673
-    },
-    {
-      "rank": 9,
-      "word": "学术期刊评价有了中国标准",
-      "hot_value": 7748662,
-      "label": "",
-      "event_time": 1774327868
-    },
-    {
-      "rank": 10,
       "word": "U23国足主场亮剑",
-      "hot_value": 7734818,
+      "hot_value": 10187202,
       "label": "爆",
       "event_time": 1774349454
     },
     {
-      "rank": 11,
-      "word": "AC米兰悼念张雪峰",
-      "hot_value": 7731984,
+      "rank": 7,
+      "word": "张云勇谈为何要审慎“养龙虾”",
+      "hot_value": 8957532,
+      "label": "爆",
+      "event_time": 1774355546
+    },
+    {
+      "rank": 8,
+      "word": "Token翻译为“词元”",
+      "hot_value": 8794430,
+      "label": "爆",
+      "event_time": 1774341177
+    },
+    {
+      "rank": 9,
+      "word": "俄军蚕食顿巴斯",
+      "hot_value": 8681952,
+      "label": "爆",
+      "event_time": 1774354927
+    },
+    {
+      "rank": 10,
+      "word": "郑大校友会发文悼念张雪峰",
+      "hot_value": 7788488,
       "label": "新",
-      "event_time": 1774400509
+      "event_time": 1774405271
+    },
+    {
+      "rank": 11,
+      "word": "商品条码谣言揭秘",
+      "hot_value": 7774278,
+      "label": "谣言",
+      "event_time": 1774404496
     },
     {
       "rank": 12,
+      "word": "张雪峰最后一次直播画面",
+      "hot_value": 7758921,
+      "label": "",
+      "event_time": 1774393427
+    },
+    {
+      "rank": 13,
+      "word": "正义女神男童坠亡案反转不断",
+      "hot_value": 7740641,
+      "label": "游戏",
+      "event_time": 1774404063
+    },
+    {
+      "rank": 14,
       "word": "柳智敏唱中文歌",
-      "hot_value": 7730358,
+      "hot_value": 7727174,
       "label": "爆",
       "event_time": 1774357767
     },
     {
-      "rank": 13,
-      "word": "吃苹果籽会导致氰化物中毒吗",
-      "hot_value": 7730210,
-      "label": "谣言",
-      "event_time": 1774366204
+      "rank": 15,
+      "word": "日本人闯入中国大使馆 中方表态",
+      "hot_value": 7725214,
+      "label": "",
+      "event_time": 1774338879
     },
     {
-      "rank": 14,
+      "rank": 16,
       "word": "奋斗吧人生定档",
-      "hot_value": 7729877,
+      "hot_value": 7718127,
       "label": "爆",
       "event_time": 1774325114
     },
     {
-      "rank": 15,
-      "word": "张云勇谈为何要审慎“养龙虾”",
-      "hot_value": 7714907,
-      "label": "",
-      "event_time": 1774355546
-    },
-    {
-      "rank": 16,
-      "word": "俄军蚕食顿巴斯",
-      "hot_value": 7696031,
-      "label": "",
-      "event_time": 1774354927
-    },
-    {
       "rank": 17,
-      "word": "Token翻译为“词元”",
-      "hot_value": 7695479,
+      "word": "心源性猝死有哪些先兆性症状",
+      "hot_value": 7717733,
       "label": "",
-      "event_time": 1774341177
+      "event_time": 1774366784
     },
     {
       "rank": 18,
-      "word": "西班牙首相或将于4月访华",
-      "hot_value": 7694194,
+      "word": "晒出我的春日百搭开衫",
+      "hot_value": 7707874,
       "label": "",
-      "event_time": 1774316301
+      "event_time": 1774359246
     },
     {
       "rank": 19,
-      "word": "平常心李观洋72:100白晶陈泽文",
-      "hot_value": 7685761,
-      "label": "",
-      "event_time": 1774344201
+      "word": "这么情绪稳定的猫你居然有两个",
+      "hot_value": 7707014,
+      "label": "爆",
+      "event_time": 1774326643
     },
     {
       "rank": 20,
-      "word": "朱志鑫所有人感受",
-      "hot_value": 7684152,
+      "word": "张真源唱了小半",
+      "hot_value": 7700944,
       "label": "娱乐",
-      "event_time": 1774357841
+      "event_time": 1774357805
     }
   ],
-  "update_time": "2026-03-25 01:19:37",
+  "update_time": "2026-03-25 04:11:32",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
