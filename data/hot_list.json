@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "内存条降价",
+      "hot_value": 12096725,
+      "label": "爆",
+      "event_time": 1774516210
+    },
+    {
+      "rank": 2,
       "word": "我的春日粉彩妆容公式",
-      "hot_value": 12104479,
+      "hot_value": 11743159,
       "label": "热议",
       "event_time": 1774505633
     },
     {
-      "rank": 2,
-      "word": "内存条降价",
-      "hot_value": 11664929,
-      "label": "",
-      "event_time": 1774516210
-    },
-    {
       "rank": 3,
       "word": "赴一场山河之约",
-      "hot_value": 11388759,
+      "hot_value": 11494295,
       "label": "爆",
       "event_time": 1774501413
     },
     {
       "rank": 4,
-      "word": "原正部长级官员刘慧被开除党籍",
-      "hot_value": 11382219,
-      "label": "",
-      "event_time": 1774515719
+      "word": "中国机器狼群巷战画面首次公开",
+      "hot_value": 11208921,
+      "label": "爆",
+      "event_time": 1774494858
     },
     {
       "rank": 5,
-      "word": "中国机器狼群巷战画面首次公开",
-      "hot_value": 10757102,
-      "label": "",
-      "event_time": 1774494858
+      "word": "狮子洋大桥双主塔封顶",
+      "hot_value": 10579151,
+      "label": "爆",
+      "event_time": 1774481403
     },
     {
       "rank": 6,
       "word": "洛克王国新手攻略",
-      "hot_value": 10540007,
+      "hot_value": 10540372,
       "label": "荐",
       "event_time": 1774529191
     },
     {
       "rank": 7,
       "word": "柯文哲被判17年",
-      "hot_value": 9243818,
+      "hot_value": 9402497,
       "label": "",
       "event_time": 1774507144
     },
     {
       "rank": 8,
-      "word": "狮子洋大桥双主塔封顶",
-      "hot_value": 9180583,
-      "label": "",
-      "event_time": 1774481403
-    },
-    {
-      "rank": 9,
-      "word": "王毅：只要谈起来和平就有希望",
-      "hot_value": 9173423,
-      "label": "",
-      "event_time": 1774482882
-    },
-    {
-      "rank": 10,
       "word": "一个视频彻底搞懂Token",
-      "hot_value": 9122077,
+      "hot_value": 9240036,
       "label": "",
       "event_time": 1774409879
     },
     {
-      "rank": 11,
-      "word": "嘴唇发紫是心脏出问题了吗",
-      "hot_value": 9053956,
-      "label": "谣言",
-      "event_time": 1774525420
-    },
-    {
-      "rank": 12,
-      "word": "马杜罗再次出庭",
-      "hot_value": 8943189,
-      "label": "爆",
-      "event_time": 1774489372
-    },
-    {
-      "rank": 13,
-      "word": "首都经济贸易大学校园歌手大赛",
-      "hot_value": 8878339,
-      "label": "爆",
-      "event_time": 1774503602
-    },
-    {
-      "rank": 14,
-      "word": "扎哈罗娃警告日本勿向乌提供武器",
-      "hot_value": 8714577,
-      "label": "爆",
-      "event_time": 1774502368
-    },
-    {
-      "rank": 15,
-      "word": "洛克王国开局三宠选什么",
-      "hot_value": 8574030,
-      "label": "荐",
-      "event_time": 1774497515
-    },
-    {
-      "rank": 16,
-      "word": "开春必跳的果子流星摇手势舞",
-      "hot_value": 8270857,
-      "label": "音乐",
-      "event_time": 1774524628
-    },
-    {
-      "rank": 17,
+      "rank": 9,
       "word": "罗技回应发布侮辱性广告",
-      "hot_value": 8062956,
+      "hot_value": 9222835,
       "label": "",
       "event_time": 1774522271
     },
     {
-      "rank": 18,
-      "word": "杨瀚森G联赛9投全中",
-      "hot_value": 8035541,
-      "label": "爆",
-      "event_time": 1774496559
+      "rank": 10,
+      "word": "王毅：只要谈起来和平就有希望",
+      "hot_value": 9168777,
+      "label": "",
+      "event_time": 1774482882
     },
     {
-      "rank": 19,
+      "rank": 11,
+      "word": "原正部长级官员刘慧被开除党籍",
+      "hot_value": 9154970,
+      "label": "",
+      "event_time": 1774515719
+    },
+    {
+      "rank": 12,
+      "word": "嘴唇发紫是心脏出问题了吗",
+      "hot_value": 9141904,
+      "label": "谣言",
+      "event_time": 1774525420
+    },
+    {
+      "rank": 13,
+      "word": "日本民众冒雨参加反战集会",
+      "hot_value": 9122931,
+      "label": "",
+      "event_time": 1774488257
+    },
+    {
+      "rank": 14,
+      "word": "洛克王国开局三宠选什么",
+      "hot_value": 9056425,
+      "label": "荐",
+      "event_time": 1774497515
+    },
+    {
+      "rank": 15,
+      "word": "扎哈罗娃警告日本勿向乌提供武器",
+      "hot_value": 8983054,
+      "label": "爆",
+      "event_time": 1774502368
+    },
+    {
+      "rank": 16,
       "word": "你是迟来的欢喜开播",
-      "hot_value": 7856530,
+      "hot_value": 8549216,
       "label": "热议",
       "event_time": 1774494053
     },
     {
-      "rank": 20,
-      "word": "日本民众冒雨参加反战集会",
-      "hot_value": 7819754,
+      "rank": 17,
+      "word": "马杜罗再次出庭",
+      "hot_value": 7934308,
       "label": "",
-      "event_time": 1774488257
+      "event_time": 1774489372
+    },
+    {
+      "rank": 18,
+      "word": "首都经济贸易大学校园歌手大赛",
+      "hot_value": 7909652,
+      "label": "爆",
+      "event_time": 1774503602
+    },
+    {
+      "rank": 19,
+      "word": "杨瀚森G联赛9投全中",
+      "hot_value": 7845445,
+      "label": "",
+      "event_time": 1774496559
+    },
+    {
+      "rank": 20,
+      "word": "何润东近7日涨粉25.6万",
+      "hot_value": 7794373,
+      "label": "爆",
+      "event_time": 1774490173
     }
   ],
-  "update_time": "2026-03-26 16:03:59",
+  "update_time": "2026-03-26 17:53:41",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
