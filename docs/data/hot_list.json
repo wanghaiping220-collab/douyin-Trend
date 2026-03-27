@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "春天需要一点粉彩",
-      "hot_value": 12103902,
+      "hot_value": 12102264,
       "label": "爆",
       "event_time": 1774592458
     },
     {
       "rank": 2,
       "word": "生活是一本充满故事的书",
-      "hot_value": 11800483,
+      "hot_value": 11823472,
       "label": "爆",
       "event_time": 1774581357
     },
     {
       "rank": 3,
       "word": "我国打造商业航天增长极",
-      "hot_value": 11792226,
+      "hot_value": 11657223,
       "label": "爆",
       "event_time": 1774596646
     },
     {
       "rank": 4,
-      "word": "外交部：日方表示遗憾远远不够",
-      "hot_value": 11096648,
-      "label": "爆",
-      "event_time": 1774599347
-    },
-    {
-      "rank": 5,
       "word": "中国的海陆空“无人军团”亮相",
-      "hot_value": 10488929,
+      "hot_value": 11099054,
       "label": "",
       "event_time": 1774588906
     },
     {
+      "rank": 5,
+      "word": "外交部：日方表示遗憾远远不够",
+      "hot_value": 10350921,
+      "label": "爆",
+      "event_time": 1774599347
+    },
+    {
       "rank": 6,
       "word": "严禁幼儿园小学化教育",
-      "hot_value": 10382810,
+      "hot_value": 10313966,
       "label": "",
       "event_time": 1774598167
     },
     {
       "rank": 7,
-      "word": "经济学家：房地产有止跌回暖迹象",
-      "hot_value": 9260558,
-      "label": "爆",
-      "event_time": 1774582604
-    },
-    {
-      "rank": 8,
       "word": "中方对美发起两项贸易壁垒调查",
-      "hot_value": 9207289,
+      "hot_value": 9218060,
       "label": "爆",
       "event_time": 1774599918
     },
     {
+      "rank": 8,
+      "word": "经济学家：房地产有止跌回暖迹象",
+      "hot_value": 9208815,
+      "label": "爆",
+      "event_time": 1774582604
+    },
+    {
       "rank": 9,
       "word": "大疆影石之争",
-      "hot_value": 9184379,
+      "hot_value": 9182742,
       "label": "爆",
       "event_time": 1774515243
     },
     {
       "rank": 10,
       "word": "就持刀强闯我使馆六问日本当局",
-      "hot_value": 9122580,
+      "hot_value": 9154993,
       "label": "爆",
       "event_time": 1774593668
     },
     {
       "rank": 11,
       "word": "小米大模型负责人谈未来竞争",
-      "hot_value": 9122554,
+      "hot_value": 9122361,
       "label": "爆",
       "event_time": 1774589045
     },
     {
       "rank": 12,
       "word": "“46亿稀土走私案”系谣言",
-      "hot_value": 9120448,
+      "hot_value": 9122355,
       "label": "谣言",
       "event_time": 1774610945
     },
     {
       "rank": 13,
-      "word": "Naiyou终身禁赛",
-      "hot_value": 9120124,
-      "label": "",
-      "event_time": 1774609933
-    },
-    {
-      "rank": 14,
       "word": "国足2:0库拉索",
-      "hot_value": 9107351,
+      "hot_value": 9110804,
       "label": "",
       "event_time": 1774577492
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "鞋子加点粉彩风更抢眼",
-      "hot_value": 9074047,
+      "hot_value": 9106060,
       "label": "",
       "event_time": 1774505921
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "CBA北京20分大逆转双杀广东",
-      "hot_value": 8410537,
+      "hot_value": 8756466,
       "label": "爆",
       "event_time": 1774603266
     },
     {
-      "rank": 17,
+      "rank": 16,
       "word": "日本商场发生持刀伤人事件致2死",
-      "hot_value": 7919756,
+      "hot_value": 8484490,
       "label": "",
       "event_time": 1774597469
     },
     {
-      "rank": 18,
+      "rank": 17,
       "word": "张杰北京鸟巢演唱会",
-      "hot_value": 7848322,
+      "hot_value": 8453213,
       "label": "爆",
       "event_time": 1774569526
     },
     {
+      "rank": 18,
+      "word": "Naiyou终身禁赛",
+      "hot_value": 7834444,
+      "label": "",
+      "event_time": 1774609933
+    },
+    {
       "rank": 19,
-      "word": "公孙鄞终于约到长公主了",
-      "hot_value": 7784533,
+      "word": "乐华宣布与王一博完成续约",
+      "hot_value": 7787502,
       "label": "爆",
-      "event_time": 1774612303
+      "event_time": 1774603469
     },
     {
       "rank": 20,
-      "word": "秦利文17:13战胜孔德京",
-      "hot_value": 7782378,
-      "label": "",
-      "event_time": 1774603724
+      "word": "公孙鄞终于约到长公主了",
+      "hot_value": 7771356,
+      "label": "爆",
+      "event_time": 1774612303
     }
   ],
-  "update_time": "2026-03-27 18:44:06",
+  "update_time": "2026-03-27 19:36:18",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
