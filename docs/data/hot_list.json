@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "U23国足1:1朝鲜",
-      "hot_value": 12089466,
+      "hot_value": 12100661,
       "label": "爆",
       "event_time": 1774697801
     },
     {
       "rank": 2,
       "word": "俄罗斯4月起禁止汽油出口",
-      "hot_value": 11512690,
+      "hot_value": 11588954,
       "label": "爆",
       "event_time": 1774685295
     },
     {
       "rank": 3,
       "word": "2026中国网络媒体论坛",
-      "hot_value": 11094105,
+      "hot_value": 11066744,
       "label": "爆",
       "event_time": 1774669471
     },
     {
       "rank": 4,
       "word": "焦泊乔暂时离队",
-      "hot_value": 11046086,
+      "hot_value": 10893550,
       "label": "",
       "event_time": 1774680867
     },
     {
       "rank": 5,
-      "word": "鄂赣湘互换周末正在进行时",
-      "hot_value": 10286233,
-      "label": "",
-      "event_time": 1774673285
-    },
-    {
-      "rank": 6,
-      "word": "TIM与白日梦想家梦幻联动",
-      "hot_value": 10255278,
-      "label": "",
-      "event_time": 1774626353
-    },
-    {
-      "rank": 7,
       "word": "镜换位和双惩是bug吗",
-      "hot_value": 9165947,
+      "hot_value": 10294291,
       "label": "",
       "event_time": 1774654083
     },
     {
+      "rank": 6,
+      "word": "鄂赣湘互换周末正在进行时",
+      "hot_value": 10293355,
+      "label": "",
+      "event_time": 1774673285
+    },
+    {
+      "rank": 7,
+      "word": "TIM与白日梦想家梦幻联动",
+      "hot_value": 9183337,
+      "label": "",
+      "event_time": 1774626353
+    },
+    {
       "rank": 8,
       "word": "高科技这块也是让三轮闯进来了",
-      "hot_value": 9163629,
+      "hot_value": 9183012,
       "label": "",
       "event_time": 1774653611
     },
     {
       "rank": 9,
+      "word": "2026上海时装周",
+      "hot_value": 9126911,
+      "label": "爆",
+      "event_time": 1774577282
+    },
+    {
+      "rank": 10,
       "word": "赴一场春日轻户外露营局",
-      "hot_value": 9125638,
+      "hot_value": 9126911,
       "label": "",
       "event_time": 1774591303
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "李昌钰子女发声",
-      "hot_value": 9125637,
+      "hot_value": 9083481,
       "label": "爆",
       "event_time": 1774694017
     },
     {
-      "rank": 11,
-      "word": "中国军号发布视频：真正的史诗",
-      "hot_value": 9112549,
-      "label": "爆",
-      "event_time": 1774685603
-    },
-    {
       "rank": 12,
       "word": "专家辟谣鱼腥草致癌传言",
-      "hot_value": 9074987,
+      "hot_value": 9032867,
       "label": "谣言",
       "event_time": 1774696094
     },
     {
       "rank": 13,
       "word": "秦利文遗憾出局",
-      "hot_value": 9026721,
+      "hot_value": 8999130,
       "label": "",
       "event_time": 1774685548
     },
     {
       "rank": 14,
       "word": "洛克王国30级炫彩蛋选什么",
-      "hot_value": 8753695,
+      "hot_value": 8610122,
       "label": "",
       "event_time": 1774686130
     },
     {
       "rank": 15,
       "word": "国足被FIFA点名表扬",
-      "hot_value": 8742273,
+      "hot_value": 8550127,
       "label": "",
       "event_time": 1774673645
     },
     {
       "rank": 16,
       "word": "李昌钰去世",
-      "hot_value": 8648174,
+      "hot_value": 8457687,
       "label": "",
       "event_time": 1774652449
     },
     {
       "rank": 17,
-      "word": "单依纯深圳演唱会",
-      "hot_value": 8552489,
-      "label": "爆",
-      "event_time": 1774693696
+      "word": "中国军号发布视频：真正的史诗",
+      "hot_value": 8160735,
+      "label": "",
+      "event_time": 1774685603
     },
     {
       "rank": 18,
-      "word": "苹果停产Mac Pro",
-      "hot_value": 7853126,
-      "label": "",
-      "event_time": 1774682666
-    },
-    {
-      "rank": 19,
       "word": "白日提灯观后感",
-      "hot_value": 7834198,
+      "hot_value": 7830532,
       "label": "热议",
       "event_time": 1774688125
     },
     {
+      "rank": 19,
+      "word": "单依纯深圳演唱会",
+      "hot_value": 7784080,
+      "label": "",
+      "event_time": 1774693696
+    },
+    {
       "rank": 20,
       "word": "张泰艺晋级中式八球大师赛16强",
-      "hot_value": 7793355,
+      "hot_value": 7771446,
       "label": "爆",
       "event_time": 1774690562
     }
   ],
-  "update_time": "2026-03-28 21:21:46",
+  "update_time": "2026-03-28 22:19:41",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
