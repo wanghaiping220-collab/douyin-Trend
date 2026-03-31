@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "国足vs喀麦隆",
-      "hot_value": 12008403,
+      "word": "国足0:2喀麦隆",
+      "hot_value": 12115389,
       "label": "爆",
       "event_time": 1774916267
     },
     {
       "rank": 2,
       "word": "苹果客服回应撤回国行AI",
-      "hot_value": 11569582,
+      "hot_value": 11761530,
       "label": "爆",
       "event_time": 1774924504
     },
     {
       "rank": 3,
       "word": "力箭二号遥一运载火箭成功发射",
-      "hot_value": 11473767,
+      "hot_value": 11102096,
       "label": "爆",
       "event_time": 1774875304
     },
     {
       "rank": 4,
-      "word": "G7外长会因俄乌问题激烈争吵",
-      "hot_value": 11202832,
-      "label": "爆",
-      "event_time": 1774864875
-    },
-    {
-      "rank": 5,
-      "word": "贵州茅台宣布涨价",
-      "hot_value": 10569318,
-      "label": "",
-      "event_time": 1774870260
-    },
-    {
-      "rank": 6,
       "word": "人生何止有终不似少年游",
-      "hot_value": 10298792,
-      "label": "新",
+      "hot_value": 10798824,
+      "label": "爆",
       "event_time": 1774926035
     },
     {
-      "rank": 7,
-      "word": "春夏裙子搭配公式",
-      "hot_value": 9190371,
+      "rank": 5,
+      "word": "三月再见四月你好",
+      "hot_value": 10198704,
       "label": "",
+      "event_time": 1774925105
+    },
+    {
+      "rank": 6,
+      "word": "春夏裙子搭配公式",
+      "hot_value": 10190667,
+      "label": "爆",
       "event_time": 1774850659
+    },
+    {
+      "rank": 7,
+      "word": "长鹰8成功首飞",
+      "hot_value": 9083831,
+      "label": "",
+      "event_time": 1774926599
     },
     {
       "rank": 8,
       "word": "香港演员施明去世",
-      "hot_value": 9129854,
-      "label": "新",
+      "hot_value": 9064228,
+      "label": "爆",
       "event_time": 1774926477
     },
     {
       "rank": 9,
       "word": "40秒了解花朝节从古至今的习俗",
-      "hot_value": 9128413,
+      "hot_value": 8961100,
       "label": "",
       "event_time": 1774871440
     },
     {
       "rank": 10,
-      "word": "长鹰8成功首飞",
-      "hot_value": 9128150,
-      "label": "新",
-      "event_time": 1774926599
+      "word": "G7外长会因俄乌问题激烈争吵",
+      "hot_value": 8767919,
+      "label": "",
+      "event_time": 1774864875
     },
     {
       "rank": 11,
-      "word": "张雪妻子讲述其创业故事",
-      "hot_value": 9125118,
-      "label": "新",
-      "event_time": 1774927077
+      "word": "贵州茅台宣布涨价",
+      "hot_value": 8001064,
+      "label": "",
+      "event_time": 1774870260
     },
     {
       "rank": 12,
-      "word": "张雪的逆袭是一部奋斗史",
-      "hot_value": 8729707,
-      "label": "新",
-      "event_time": 1774928646
+      "word": "张雪妻子讲述其创业故事",
+      "hot_value": 7816141,
+      "label": "",
+      "event_time": 1774927077
     },
     {
       "rank": 13,
-      "word": "3月科学流言榜",
-      "hot_value": 8425838,
-      "label": "谣言",
-      "event_time": 1774936536
+      "word": "张雪的逆袭是一部奋斗史",
+      "hot_value": 7787208,
+      "label": "",
+      "event_time": 1774928646
     },
     {
       "rank": 14,
-      "word": "054B型有多强",
-      "hot_value": 8352586,
-      "label": "爆",
-      "event_time": 1774782026
-    },
-    {
-      "rank": 15,
       "word": "月鳞绮纪定档0401",
-      "hot_value": 8350859,
-      "label": "",
+      "hot_value": 7784781,
+      "label": "爆",
       "event_time": 1774925692
     },
     {
+      "rank": 15,
+      "word": "054B型有多强",
+      "hot_value": 7767926,
+      "label": "",
+      "event_time": 1774782026
+    },
+    {
       "rank": 16,
-      "word": "电影寒战1994定档五一",
-      "hot_value": 8101325,
-      "label": "",
-      "event_time": 1774923105
-    },
-    {
-      "rank": 17,
-      "word": "孙颖莎3:0李昱谆迎开门红",
-      "hot_value": 7836470,
-      "label": "",
-      "event_time": 1774912223
-    },
-    {
-      "rank": 18,
       "word": "白日提灯第八集剧情太夯了",
-      "hot_value": 7750137,
+      "hot_value": 7738264,
       "label": "热议",
       "event_time": 1774924809
     },
     {
-      "rank": 19,
+      "rank": 17,
       "word": "白日提灯贺思慕残血反杀看爽了",
-      "hot_value": 7736913,
+      "hot_value": 7733436,
       "label": "荐",
       "event_time": 1774926526
     },
     {
-      "rank": 20,
+      "rank": 18,
       "word": "冰湖重生定档0408",
-      "hot_value": 7735650,
+      "hot_value": 7728714,
       "label": "热议",
       "event_time": 1774920098
+    },
+    {
+      "rank": 19,
+      "word": "你是否在抖音上刷到过一只酱板鸭",
+      "hot_value": 7727703,
+      "label": "音乐",
+      "event_time": 1774870992
+    },
+    {
+      "rank": 20,
+      "word": "王者荣耀世界抢注昵称",
+      "hot_value": 7720742,
+      "label": "爆",
+      "event_time": 1774867018
     }
   ],
-  "update_time": "2026-03-31 06:11:21",
+  "update_time": "2026-03-31 08:02:31",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
