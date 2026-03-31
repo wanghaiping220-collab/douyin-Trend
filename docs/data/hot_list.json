@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国足0:2喀麦隆",
-      "hot_value": 11732944,
+      "hot_value": 11751384,
       "label": "爆",
       "event_time": 1774916267
     },
     {
       "rank": 2,
       "word": "苹果客服回应撤回国行AI",
-      "hot_value": 11515385,
+      "hot_value": 11702749,
       "label": "爆",
       "event_time": 1774924504
     },
     {
       "rank": 3,
       "word": "银发经济市场规模预期超30万亿",
-      "hot_value": 11184582,
-      "label": "新",
+      "hot_value": 11243945,
+      "label": "",
       "event_time": 1774944418
     },
     {
       "rank": 4,
       "word": "长鹰8成功首飞",
-      "hot_value": 11101610,
+      "hot_value": 11168732,
       "label": "爆",
       "event_time": 1774926599
     },
     {
       "rank": 5,
       "word": "人生何止有终不似少年游",
-      "hot_value": 10376898,
+      "hot_value": 10547450,
       "label": "爆",
       "event_time": 1774926035
     },
     {
       "rank": 6,
       "word": "三月再见四月你好",
-      "hot_value": 10340404,
+      "hot_value": 10481810,
       "label": "爆",
       "event_time": 1774925105
     },
     {
       "rank": 7,
       "word": "女科学家硬核跨界做短剧课堂",
-      "hot_value": 9201891,
-      "label": "新",
+      "hot_value": 9353980,
+      "label": "",
       "event_time": 1774935046
     },
     {
       "rank": 8,
       "word": "香港演员施明去世",
-      "hot_value": 9167655,
+      "hot_value": 9281577,
       "label": "爆",
       "event_time": 1774926477
     },
     {
       "rank": 9,
       "word": "春夏裙子搭配公式",
-      "hot_value": 9160315,
+      "hot_value": 9202083,
       "label": "",
       "event_time": 1774850659
     },
     {
       "rank": 10,
       "word": "40秒了解花朝节从古至今的习俗",
-      "hot_value": 9126561,
+      "hot_value": 9184102,
       "label": "",
       "event_time": 1774871440
     },
     {
       "rank": 11,
-      "word": "G7外长会因俄乌问题激烈争吵",
-      "hot_value": 9125459,
-      "label": "",
-      "event_time": 1774864875
-    },
-    {
-      "rank": 12,
       "word": "贵州茅台宣布涨价",
-      "hot_value": 9125066,
+      "hot_value": 9170727,
       "label": "",
       "event_time": 1774870260
     },
     {
-      "rank": 13,
+      "rank": 12,
       "word": "张雪妻子讲述其创业故事",
-      "hot_value": 8384509,
+      "hot_value": 9125177,
       "label": "爆",
       "event_time": 1774927077
     },
     {
-      "rank": 14,
-      "word": "央视新闻专访张雪",
-      "hot_value": 8356637,
-      "label": "",
-      "event_time": 1774931852
-    },
-    {
-      "rank": 15,
-      "word": "月鳞绮纪定档0401",
-      "hot_value": 8192695,
-      "label": "爆",
-      "event_time": 1774925692
-    },
-    {
-      "rank": 16,
-      "word": "电影寒战1994定档五一",
-      "hot_value": 8043759,
-      "label": "爆",
-      "event_time": 1774923105
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "word": "张雪的逆袭是一部奋斗史",
-      "hot_value": 8030190,
+      "hot_value": 8813746,
       "label": "爆",
       "event_time": 1774928646
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "word": "月鳞绮纪定档0401",
+      "hot_value": 8483312,
+      "label": "爆",
+      "event_time": 1774925692
+    },
+    {
+      "rank": 15,
+      "word": "韩国向中国14城发放十年签",
+      "hot_value": 8464057,
+      "label": "",
+      "event_time": 1774924512
+    },
+    {
+      "rank": 16,
       "word": "054B型有多强",
-      "hot_value": 7947001,
+      "hot_value": 8440089,
       "label": "爆",
       "event_time": 1774782026
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "word": "电影寒战1994定档五一",
+      "hot_value": 7855698,
+      "label": "爆",
+      "event_time": 1774923105
+    },
+    {
+      "rank": 18,
       "word": "蔡磊发文透露近况",
-      "hot_value": 7824370,
+      "hot_value": 7825262,
       "label": "爆",
       "event_time": 1774845669
     },
     {
+      "rank": 19,
+      "word": "全网狙击陈泽",
+      "hot_value": 7743633,
+      "label": "爆",
+      "event_time": 1774937370
+    },
+    {
       "rank": 20,
       "word": "古天乐周润发首次合作",
-      "hot_value": 7750987,
-      "label": "新",
+      "hot_value": 7737037,
+      "label": "",
       "event_time": 1774944145
     }
   ],
-  "update_time": "2026-03-31 09:56:03",
+  "update_time": "2026-03-31 10:47:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
