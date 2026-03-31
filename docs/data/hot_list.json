@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "长鹰8成功首飞",
+      "hot_value": 11912307,
+      "label": "爆",
+      "event_time": 1774926599
+    },
+    {
+      "rank": 2,
       "word": "三月再见四月你好",
-      "hot_value": 12085497,
+      "hot_value": 11802363,
       "label": "爆",
       "event_time": 1774925105
     },
     {
-      "rank": 2,
-      "word": "女科学家硬核跨界做短剧课堂",
-      "hot_value": 11818157,
-      "label": "爆",
-      "event_time": 1774935046
-    },
-    {
       "rank": 3,
       "word": "3月中国制造业PMI重返扩张区间",
-      "hot_value": 11201157,
+      "hot_value": 11532448,
       "label": "爆",
       "event_time": 1774960853
     },
     {
       "rank": 4,
+      "word": "女科学家硬核跨界做短剧课堂",
+      "hot_value": 11249461,
+      "label": "爆",
+      "event_time": 1774935046
+    },
+    {
+      "rank": 5,
       "word": "我的春日搭子",
-      "hot_value": 11100009,
+      "hot_value": 10545124,
       "label": "",
       "event_time": 1774953947
     },
     {
-      "rank": 5,
-      "word": "长鹰8成功首飞",
-      "hot_value": 10333675,
-      "label": "",
-      "event_time": 1774926599
-    },
-    {
       "rank": 6,
       "word": "张雪机车为什么能成功",
-      "hot_value": 10289175,
+      "hot_value": 10458498,
       "label": "爆",
       "event_time": 1774955789
     },
     {
       "rank": 7,
       "word": "碘伏洗头能控油去屑吗",
-      "hot_value": 9093164,
+      "hot_value": 9112362,
       "label": "谣言",
       "event_time": 1774959769
     },
     {
       "rank": 8,
-      "word": "逐玉大结局的门是我关的",
-      "hot_value": 7798414,
-      "label": "爆",
-      "event_time": 1774938346
-    },
-    {
-      "rank": 9,
-      "word": "人生何止有终不似少年游",
-      "hot_value": 7769134,
-      "label": "",
-      "event_time": 1774926035
-    },
-    {
-      "rank": 10,
       "word": "苹果客服回应撤回国行AI",
-      "hot_value": 7748432,
+      "hot_value": 7822305,
       "label": "",
       "event_time": 1774924504
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "word": "逐玉大结局的门是我关的",
+      "hot_value": 7801606,
+      "label": "爆",
+      "event_time": 1774938346
+    },
+    {
+      "rank": 10,
       "word": "陈妍希工作室发文",
-      "hot_value": 7748336,
-      "label": "",
+      "hot_value": 7785327,
+      "label": "爆",
       "event_time": 1774949432
+    },
+    {
+      "rank": 11,
+      "word": "全网狙击陈泽",
+      "hot_value": 7753356,
+      "label": "爆",
+      "event_time": 1774937370
     },
     {
       "rank": 12,
       "word": "一条娱评细品白日提灯里的细糠",
-      "hot_value": 7736057,
+      "hot_value": 7747978,
       "label": "热议",
       "event_time": 1774940381
     },
     {
       "rank": 13,
-      "word": "全网狙击陈泽",
-      "hot_value": 7735374,
-      "label": "爆",
-      "event_time": 1774937370
+      "word": "人生何止有终不似少年游",
+      "hot_value": 7742343,
+      "label": "",
+      "event_time": 1774926035
     },
     {
       "rank": 14,
       "word": "徐良把演唱会办成年会第一人",
-      "hot_value": 7732243,
+      "hot_value": 7731145,
       "label": "爆",
       "event_time": 1774873664
     },
     {
       "rank": 15,
-      "word": "白日提灯第八集剧情太夯了",
-      "hot_value": 7724336,
-      "label": "热议",
-      "event_time": 1774924809
-    },
-    {
-      "rank": 16,
-      "word": "王者荣耀世界英雄PV",
-      "hot_value": 7714317,
-      "label": "爆",
-      "event_time": 1774940267
-    },
-    {
-      "rank": 17,
-      "word": "你就天天发你的小猫",
-      "hot_value": 7708267,
-      "label": "音乐",
-      "event_time": 1774859293
-    },
-    {
-      "rank": 18,
-      "word": "白日提灯贺思慕残血反杀看爽了",
-      "hot_value": 7704063,
-      "label": "荐",
-      "event_time": 1774926526
-    },
-    {
-      "rank": 19,
       "word": "香港演员施明去世",
-      "hot_value": 7700820,
+      "hot_value": 7714127,
       "label": "",
       "event_time": 1774926477
     },
     {
-      "rank": 20,
+      "rank": 16,
+      "word": "白日提灯第八集剧情太夯了",
+      "hot_value": 7710946,
+      "label": "热议",
+      "event_time": 1774924809
+    },
+    {
+      "rank": 17,
       "word": "月鳞绮纪定档0401",
-      "hot_value": 7699030,
+      "hot_value": 7709017,
       "label": "",
       "event_time": 1774925692
+    },
+    {
+      "rank": 18,
+      "word": "你就天天发你的小猫",
+      "hot_value": 7703646,
+      "label": "音乐",
+      "event_time": 1774859293
+    },
+    {
+      "rank": 19,
+      "word": "抖音荒野垂钓季",
+      "hot_value": 7702245,
+      "label": "",
+      "event_time": 1774852744
+    },
+    {
+      "rank": 20,
+      "word": "电影寒战1994定档五一",
+      "hot_value": 7700277,
+      "label": "爆",
+      "event_time": 1774923105
     }
   ],
-  "update_time": "2026-03-31 20:34:35",
+  "update_time": "2026-03-31 21:30:11",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
