@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "抖音创作者关爱孤独症集结出动",
-      "hot_value": 11599693,
+      "hot_value": 11742586,
       "label": "荐",
       "event_time": 1775111131
     },
     {
       "rank": 2,
-      "word": "这里的美食夯得没边",
-      "hot_value": 11468164,
+      "word": "用洛克王国跑遍河南地图",
+      "hot_value": 11706716,
       "label": "爆",
-      "event_time": 1775099212
+      "event_time": 1775100538
     },
     {
       "rank": 3,
       "word": "“奋楫号”盾构机顺利下线",
-      "hot_value": 11079887,
+      "hot_value": 11077429,
       "label": "爆",
       "event_time": 1775132995
     },
     {
       "rank": 4,
       "word": "年少的渴望在这一刻得到回应",
-      "hot_value": 11078625,
+      "hot_value": 10845182,
       "label": "爆",
       "event_time": 1775124220
     },
     {
       "rank": 5,
-      "word": "用洛克王国跑遍河南地图",
-      "hot_value": 10277493,
+      "word": "这里的美食夯得没边",
+      "hot_value": 10213765,
       "label": "",
-      "event_time": 1775100538
+      "event_time": 1775099212
     },
     {
       "rank": 6,
       "word": "那些被家人记录的最珍贵画面",
-      "hot_value": 10216884,
+      "hot_value": 10197483,
       "label": "",
       "event_time": 1775100161
     },
     {
       "rank": 7,
       "word": "春天的味道都在山上",
-      "hot_value": 9140259,
+      "hot_value": 9124064,
       "label": "",
       "event_time": 1775113023
     },
     {
       "rank": 8,
       "word": "来重庆“吃”个轻轨再走吧",
-      "hot_value": 9129841,
+      "hot_value": 9119927,
       "label": "",
       "event_time": 1775050200
     },
     {
       "rank": 9,
       "word": "有线耳机怎么选",
-      "hot_value": 9126562,
+      "hot_value": 9116987,
       "label": "",
       "event_time": 1775122068
     },
     {
       "rank": 10,
-      "word": "说唱歌手J Cole加盟CBA",
-      "hot_value": 9125764,
-      "label": "",
-      "event_time": 1775100869
+      "word": "清明糯叽叽邪修大法",
+      "hot_value": 9091372,
+      "label": "爆",
+      "event_time": 1775105803
     },
     {
       "rank": 11,
       "word": "SpaceX被曝已秘密提交IPO申请",
-      "hot_value": 9125763,
+      "hot_value": 9083971,
       "label": "",
       "event_time": 1775092226
     },
     {
       "rank": 12,
       "word": "4月1日起严查后排安全带系谣言",
-      "hot_value": 9124618,
+      "hot_value": 9028853,
       "label": "谣言",
       "event_time": 1775024912
     },
     {
       "rank": 13,
       "word": "军报：日本具备制造核武器条件",
-      "hot_value": 9086511,
+      "hot_value": 8938132,
       "label": "",
       "event_time": 1775086808
     },
     {
       "rank": 14,
+      "word": "多国央行大幅减持美债",
+      "hot_value": 8924581,
+      "label": "",
+      "event_time": 1775095381
+    },
+    {
+      "rank": 15,
       "word": "乘风2026初见面",
-      "hot_value": 8980570,
+      "hot_value": 8858968,
       "label": "热议",
       "event_time": 1775127281
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "王浩文为何被判死刑",
-      "hot_value": 8967965,
+      "hot_value": 8726935,
       "label": "",
       "event_time": 1775118065
     },
     {
-      "rank": 16,
-      "word": "人民日报评张雪回答引误读",
-      "hot_value": 8936532,
-      "label": "爆",
-      "event_time": 1775091900
-    },
-    {
       "rank": 17,
       "word": "张雪机车客服回应商标被抢注",
-      "hot_value": 8684764,
+      "hot_value": 8586001,
       "label": "",
       "event_time": 1775113204
     },
     {
       "rank": 18,
-      "word": "开拓者因违规接触杨瀚森被罚款",
-      "hot_value": 8509625,
+      "word": "说唱歌手J Cole加盟CBA",
+      "hot_value": 8470171,
       "label": "",
-      "event_time": 1775087902
+      "event_time": 1775100869
     },
     {
       "rank": 19,
       "word": "印尼马鲁古海峡发生7.4级强震",
-      "hot_value": 8453449,
+      "hot_value": 8303165,
       "label": "",
       "event_time": 1775085373
     },
     {
       "rank": 20,
       "word": "公安部发声力挺张雪",
-      "hot_value": 8094513,
+      "hot_value": 7826082,
       "label": "",
       "event_time": 1775098082
     }
   ],
-  "update_time": "2026-04-02 20:26:21",
+  "update_time": "2026-04-02 21:28:31",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
