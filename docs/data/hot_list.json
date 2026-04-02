@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "抖音创作者关爱孤独症集结出动",
-      "hot_value": 11715106,
+      "hot_value": 11707372,
       "label": "荐",
       "event_time": 1775111131
     },
     {
       "rank": 2,
       "word": "这里的美食夯得没边",
-      "hot_value": 11656184,
+      "hot_value": 11488760,
       "label": "爆",
       "event_time": 1775099212
     },
     {
       "rank": 3,
       "word": "“奋楫号”盾构机顺利下线",
-      "hot_value": 11337173,
+      "hot_value": 10905296,
       "label": "爆",
       "event_time": 1775132995
     },
     {
       "rank": 4,
-      "word": "那些被家人记录的最珍贵画面",
-      "hot_value": 10936424,
-      "label": "爆",
-      "event_time": 1775100161
-    },
-    {
-      "rank": 5,
       "word": "用洛克王国跑遍河南地图",
-      "hot_value": 10339208,
+      "hot_value": 10889495,
       "label": "爆",
       "event_time": 1775100538
     },
     {
-      "rank": 6,
+      "rank": 5,
       "word": "年少的渴望在这一刻得到回应",
-      "hot_value": 10302074,
-      "label": "",
+      "hot_value": 10338534,
+      "label": "爆",
       "event_time": 1775124220
     },
     {
+      "rank": 6,
+      "word": "有线耳机怎么选",
+      "hot_value": 10278888,
+      "label": "",
+      "event_time": 1775122068
+    },
+    {
       "rank": 7,
+      "word": "那些被家人记录的最珍贵画面",
+      "hot_value": 9174208,
+      "label": "",
+      "event_time": 1775100161
+    },
+    {
+      "rank": 8,
       "word": "来重庆“吃”个轻轨再走吧",
-      "hot_value": 9202190,
+      "hot_value": 9156441,
       "label": "",
       "event_time": 1775050200
     },
     {
-      "rank": 8,
-      "word": "说唱歌手J Cole加盟CBA",
-      "hot_value": 9181253,
-      "label": "",
-      "event_time": 1775100869
-    },
-    {
       "rank": 9,
       "word": "春天的味道都在山上",
-      "hot_value": 9174407,
+      "hot_value": 9124721,
       "label": "爆",
       "event_time": 1775113023
     },
     {
       "rank": 10,
-      "word": "有线耳机怎么选",
-      "hot_value": 9136648,
+      "word": "说唱歌手J Cole加盟CBA",
+      "hot_value": 9124688,
       "label": "",
-      "event_time": 1775122068
+      "event_time": 1775100869
     },
     {
       "rank": 11,
       "word": "SpaceX被曝已秘密提交IPO申请",
-      "hot_value": 9129109,
+      "hot_value": 9121095,
       "label": "",
       "event_time": 1775092226
     },
     {
       "rank": 12,
       "word": "4月1日起严查后排安全带系谣言",
-      "hot_value": 9125253,
+      "hot_value": 9115645,
       "label": "谣言",
       "event_time": 1775024912
     },
     {
       "rank": 13,
       "word": "军报：日本具备制造核武器条件",
-      "hot_value": 9125252,
+      "hot_value": 9078963,
       "label": "",
       "event_time": 1775086808
     },
     {
       "rank": 14,
       "word": "乘风2026初见面",
-      "hot_value": 9122003,
+      "hot_value": 9068388,
       "label": "热议",
       "event_time": 1775127281
     },
     {
       "rank": 15,
       "word": "人民日报评张雪回答引误读",
-      "hot_value": 9111137,
+      "hot_value": 9001536,
       "label": "爆",
       "event_time": 1775091900
     },
     {
       "rank": 16,
-      "word": "特朗普讲话后金银直线跳水",
-      "hot_value": 9032397,
-      "label": "爆",
-      "event_time": 1775100539
-    },
-    {
-      "rank": 17,
-      "word": "王曼昱横扫伊藤美诚",
-      "hot_value": 8954716,
-      "label": "爆",
-      "event_time": 1775109216
-    },
-    {
-      "rank": 18,
       "word": "开拓者因违规接触杨瀚森被罚款",
-      "hot_value": 8916932,
+      "hot_value": 8968906,
       "label": "",
       "event_time": 1775087902
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "word": "张雪机车客服回应商标被抢注",
+      "hot_value": 8943247,
+      "label": "",
+      "event_time": 1775113204
+    },
+    {
+      "rank": 18,
       "word": "王浩文为何被判死刑",
-      "hot_value": 8916635,
+      "hot_value": 8382077,
       "label": "",
       "event_time": 1775118065
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "正义女神大结局",
-      "hot_value": 8702391,
+      "hot_value": 8111551,
       "label": "荐",
       "event_time": 1775113904
+    },
+    {
+      "rank": 20,
+      "word": "公安部发声力挺张雪",
+      "hot_value": 8028238,
+      "label": "",
+      "event_time": 1775098082
     }
   ],
-  "update_time": "2026-04-02 15:52:18",
+  "update_time": "2026-04-02 16:46:53",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
