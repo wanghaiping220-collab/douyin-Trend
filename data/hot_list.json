@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "雷霆43分大胜湖人",
-      "hot_value": 11706257,
-      "label": "新",
-      "event_time": 1775188497
-    },
-    {
-      "rank": 2,
       "word": "抖音创作者关爱孤独症集结出动",
-      "hot_value": 11216584,
+      "hot_value": 11424682,
       "label": "荐",
       "event_time": 1775111131
     },
     {
+      "rank": 2,
+      "word": "赵心童晋级四强",
+      "hot_value": 11081144,
+      "label": "新",
+      "event_time": 1775182699
+    },
+    {
       "rank": 3,
       "word": "银幕内外皆是好春光",
-      "hot_value": 11210602,
+      "hot_value": 10906565,
       "label": "",
       "event_time": 1775186637
     },
     {
       "rank": 4,
       "word": "年少的渴望在这一刻得到回应",
-      "hot_value": 10933071,
+      "hot_value": 10902620,
       "label": "爆",
       "event_time": 1775124220
     },
     {
       "rank": 5,
       "word": "高中老师的知识储备量有多强",
-      "hot_value": 10246955,
+      "hot_value": 10313327,
       "label": "爆",
       "event_time": 1775098609
     },
     {
       "rank": 6,
-      "word": "赵心童晋级四强",
-      "hot_value": 10231025,
-      "label": "新",
-      "event_time": 1775182699
-    },
-    {
-      "rank": 7,
-      "word": "贵阳冰雹",
-      "hot_value": 9141603,
-      "label": "新",
-      "event_time": 1775176032
-    },
-    {
-      "rank": 8,
-      "word": "王浩文为何被判死刑",
-      "hot_value": 9137072,
-      "label": "",
-      "event_time": 1775118065
-    },
-    {
-      "rank": 9,
       "word": "油价或将迎来6连涨",
-      "hot_value": 9128266,
+      "hot_value": 9181290,
       "label": "爆",
       "event_time": 1775114526
     },
     {
-      "rank": 10,
-      "word": "WSBK含金量有多高",
-      "hot_value": 9127984,
-      "label": "爆",
-      "event_time": 1775133460
-    },
-    {
-      "rank": 11,
-      "word": "李荣浩方回应恋人抄袭争议",
-      "hot_value": 9127983,
-      "label": "爆",
-      "event_time": 1775122425
-    },
-    {
-      "rank": 12,
-      "word": "应县木塔将全拆大修系谣言",
-      "hot_value": 9099760,
-      "label": "谣言",
-      "event_time": 1775185741
-    },
-    {
-      "rank": 13,
-      "word": "东契奇伤退",
-      "hot_value": 8990869,
-      "label": "新",
-      "event_time": 1775186738
-    },
-    {
-      "rank": 14,
-      "word": "美载人绕月任务火箭发射升空",
-      "hot_value": 8834174,
-      "label": "",
-      "event_time": 1775085298
-    },
-    {
-      "rank": 15,
-      "word": "乘风2026初见面",
-      "hot_value": 8006661,
-      "label": "热议",
-      "event_time": 1775127281
-    },
-    {
-      "rank": 16,
-      "word": "正义女神大结局",
-      "hot_value": 7813183,
-      "label": "荐",
-      "event_time": 1775113904
-    },
-    {
-      "rank": 17,
-      "word": "迪丽热巴第一次共创是和陈飞宇",
-      "hot_value": 7745965,
-      "label": "热议",
-      "event_time": 1775137659
-    },
-    {
-      "rank": 18,
+      "rank": 7,
       "word": "沧元图第三季开播",
-      "hot_value": 7734674,
+      "hot_value": 9147424,
       "label": "荐",
       "event_time": 1775187303
     },
     {
-      "rank": 19,
+      "rank": 8,
+      "word": "贵阳冰雹",
+      "hot_value": 9137047,
+      "label": "",
+      "event_time": 1775176032
+    },
+    {
+      "rank": 9,
+      "word": "李荣浩方回应恋人抄袭争议",
+      "hot_value": 9124005,
+      "label": "爆",
+      "event_time": 1775122425
+    },
+    {
+      "rank": 10,
+      "word": "长春辟谣异地就医免备案",
+      "hot_value": 9123977,
+      "label": "谣言",
+      "event_time": 1775105093
+    },
+    {
+      "rank": 11,
+      "word": "雷霆43分大胜湖人",
+      "hot_value": 9118539,
+      "label": "新",
+      "event_time": 1775188497
+    },
+    {
+      "rank": 12,
+      "word": "王浩文为何被判死刑",
+      "hot_value": 8427013,
+      "label": "",
+      "event_time": 1775118065
+    },
+    {
+      "rank": 13,
+      "word": "美载人绕月任务火箭发射升空",
+      "hot_value": 8379701,
+      "label": "",
+      "event_time": 1775085298
+    },
+    {
+      "rank": 14,
+      "word": "迪丽热巴第一次共创是和陈飞宇",
+      "hot_value": 7754340,
+      "label": "热议",
+      "event_time": 1775137659
+    },
+    {
+      "rank": 15,
+      "word": "女儿情舞蹈挑战",
+      "hot_value": 7739896,
+      "label": "音乐",
+      "event_time": 1775174927
+    },
+    {
+      "rank": 16,
+      "word": "月鳞绮纪九尾狐以命换命",
+      "hot_value": 7723445,
+      "label": "游戏",
+      "event_time": 1775112999
+    },
+    {
+      "rank": 17,
+      "word": "乘风2026初见面",
+      "hot_value": 7721941,
+      "label": "热议",
+      "event_time": 1775127281
+    },
+    {
+      "rank": 18,
       "word": "美国为何突然重启登月",
-      "hot_value": 7732430,
+      "hot_value": 7721777,
       "label": "",
       "event_time": 1775116558
     },
     {
-      "rank": 20,
-      "word": "喜欢自己比喜欢这个世界更重要",
-      "hot_value": 7718480,
+      "rank": 19,
+      "word": "蛋糕店里卖蛋糕改编大赛",
+      "hot_value": 7718575,
       "label": "音乐",
-      "event_time": 1775122884
+      "event_time": 1775120253
+    },
+    {
+      "rank": 20,
+      "word": "全网最不想红的鸡煲红了",
+      "hot_value": 7718526,
+      "label": "爆",
+      "event_time": 1775104923
     }
   ],
-  "update_time": "2026-04-03 04:22:42",
+  "update_time": "2026-04-03 06:07:08",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
