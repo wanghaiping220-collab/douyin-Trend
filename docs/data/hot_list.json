@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "东部战区发布海报",
-      "hot_value": 12114163,
+      "hot_value": 12109189,
       "label": "爆",
       "event_time": 1775270421
     },
     {
       "rank": 2,
       "word": "清明至春意生",
-      "hot_value": 11992487,
+      "hot_value": 12031777,
       "label": "爆",
       "event_time": 1775271331
     },
     {
       "rank": 3,
       "word": "假期首日交通出行近3亿人次",
-      "hot_value": 10964027,
+      "hot_value": 11019008,
       "label": "爆",
       "event_time": 1775309848
     },
     {
       "rank": 4,
       "word": "中国人的清明仪式感",
-      "hot_value": 10774708,
-      "label": "爆",
+      "hot_value": 10792209,
+      "label": "",
       "event_time": 1775270925
     },
     {
       "rank": 5,
       "word": "从房子走出去站在春天中间",
-      "hot_value": 10149743,
+      "hot_value": 10241820,
       "label": "",
       "event_time": 1775220964
     },
     {
       "rank": 6,
-      "word": "国安部：踏青出游莫忘安全",
-      "hot_value": 9978305,
-      "label": "爆",
-      "event_time": 1775279898
-    },
-    {
-      "rank": 7,
       "word": "NASA登月为何死磕SLS",
-      "hot_value": 8759454,
-      "label": "",
+      "hot_value": 10171492,
+      "label": "爆",
       "event_time": 1775285693
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "到了广东先吃鸡煲",
-      "hot_value": 8704099,
+      "hot_value": 8813410,
       "label": "爆",
       "event_time": 1775206188
     },
     {
+      "rank": 8,
+      "word": "国安部：踏青出游莫忘安全",
+      "hot_value": 8597140,
+      "label": "",
+      "event_time": 1775279898
+    },
+    {
       "rank": 9,
       "word": "交出你的春日ootd",
-      "hot_value": 8410778,
+      "hot_value": 8296150,
       "label": "",
       "event_time": 1775271703
     },
     {
       "rank": 10,
       "word": "水果越来越甜是打了甜蜜素吗",
-      "hot_value": 7835959,
+      "hot_value": 7940856,
       "label": "谣言",
       "event_time": 1775279690
     },
     {
       "rank": 11,
       "word": "美媒：伊朗正式回复调解方",
-      "hot_value": 7793848,
+      "hot_value": 7815155,
       "label": "",
       "event_time": 1775262321
     },
     {
       "rank": 12,
       "word": "苹果设备被曝存在高危漏洞",
-      "hot_value": 7790270,
+      "hot_value": 7767419,
       "label": "",
       "event_time": 1775263273
     },
     {
       "rank": 13,
-      "word": "乘风2026初舞台总排名",
-      "hot_value": 7749243,
-      "label": "",
-      "event_time": 1775233953
-    },
-    {
-      "rank": 14,
       "word": "张雪晒最新量产车",
-      "hot_value": 7748522,
+      "hot_value": 7754272,
       "label": "",
       "event_time": 1775311534
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "曾沛慈乘风一个人想着一个人舞台",
-      "hot_value": 7731991,
-      "label": "爆",
+      "hot_value": 7745253,
+      "label": "",
       "event_time": 1775306848
+    },
+    {
+      "rank": 15,
+      "word": "用一篇长文追忆你",
+      "hot_value": 7742701,
+      "label": "",
+      "event_time": 1775272304
     },
     {
       "rank": 16,
       "word": "每当我找不到存在的意义",
-      "hot_value": 7712422,
+      "hot_value": 7723179,
       "label": "音乐",
       "event_time": 1775305213
     },
     {
       "rank": 17,
-      "word": "用一篇长文追忆你",
-      "hot_value": 7711587,
+      "word": "乘风2026初舞台总排名",
+      "hot_value": 7718051,
       "label": "",
-      "event_time": 1775272304
+      "event_time": 1775233953
     },
     {
       "rank": 18,
       "word": "张月乘风初舞台505票",
-      "hot_value": 7707708,
+      "hot_value": 7708706,
       "label": "",
       "event_time": 1775312383
     },
     {
       "rank": 19,
-      "word": "把手圈起来只看自己喜欢的",
-      "hot_value": 7702717,
-      "label": "游戏",
-      "event_time": 1775293874
+      "word": "山西人中午都在干嘛",
+      "hot_value": 7708215,
+      "label": "爆",
+      "event_time": 1775305783
     },
     {
       "rank": 20,
-      "word": "陈美嘉仿妆挑战",
-      "hot_value": 7699783,
-      "label": "音乐",
-      "event_time": 1775288694
+      "word": "把手圈起来只看自己喜欢的",
+      "hot_value": 7707805,
+      "label": "游戏",
+      "event_time": 1775293874
     }
   ],
-  "update_time": "2026-04-04 19:25:14",
+  "update_time": "2026-04-04 20:19:31",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
