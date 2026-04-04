@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "东部战区发布海报",
-      "hot_value": 11798603,
+      "hot_value": 12017961,
       "label": "爆",
       "event_time": 1775270421
     },
     {
       "rank": 2,
       "word": "清明至春意生",
-      "hot_value": 11230406,
+      "hot_value": 11740137,
       "label": "爆",
       "event_time": 1775271331
     },
     {
       "rank": 3,
       "word": "文旅体验刷新背后有项大部署",
-      "hot_value": 11145011,
+      "hot_value": 11116321,
       "label": "新",
       "event_time": 1775286942
     },
     {
       "rank": 4,
       "word": "用一篇长文追忆你",
-      "hot_value": 11123814,
-      "label": "",
+      "hot_value": 11053428,
+      "label": "爆",
       "event_time": 1775272304
     },
     {
       "rank": 5,
       "word": "中国人的清明仪式感",
-      "hot_value": 10419131,
+      "hot_value": 10324969,
       "label": "爆",
       "event_time": 1775270925
     },
     {
       "rank": 6,
       "word": "把我交给春天",
-      "hot_value": 10220878,
+      "hot_value": 10223200,
       "label": "爆",
       "event_time": 1775275047
     },
     {
       "rank": 7,
       "word": "弗拉格51分生涯新高",
-      "hot_value": 9137854,
+      "hot_value": 9134851,
       "label": "爆",
       "event_time": 1775273206
     },
     {
       "rank": 8,
       "word": "到了广东先吃鸡煲",
-      "hot_value": 9136372,
-      "label": "",
+      "hot_value": 9134836,
+      "label": "爆",
       "event_time": 1775206188
     },
     {
       "rank": 9,
       "word": "NASA登月为何死磕SLS",
-      "hot_value": 9136284,
+      "hot_value": 9132076,
       "label": "新",
       "event_time": 1775285693
     },
     {
       "rank": 10,
       "word": "孙颖莎4:3汉娜高达",
-      "hot_value": 9051721,
+      "hot_value": 9110220,
       "label": "新",
       "event_time": 1775281984
     },
     {
       "rank": 11,
       "word": "一周谣言盘点",
-      "hot_value": 8509851,
+      "hot_value": 8832094,
       "label": "谣言",
       "event_time": 1775268616
     },
     {
       "rank": 12,
       "word": "镜双惩戒真的没了",
-      "hot_value": 8476953,
+      "hot_value": 8665878,
       "label": "",
       "event_time": 1775217801
     },
     {
       "rank": 13,
       "word": "苹果设备被曝存在高危漏洞",
-      "hot_value": 8307406,
+      "hot_value": 8608551,
       "label": "",
       "event_time": 1775263273
     },
     {
       "rank": 14,
-      "word": "乘风2026初舞台排名",
-      "hot_value": 7768765,
-      "label": "",
-      "event_time": 1775233953
-    },
-    {
-      "rank": 15,
-      "word": "电影我许可一次新的勇敢突破",
-      "hot_value": 7713455,
-      "label": "荐",
-      "event_time": 1775280381
-    },
-    {
-      "rank": 16,
       "word": "东契奇常规赛赛季报销",
-      "hot_value": 7712187,
+      "hot_value": 7707894,
       "label": "",
       "event_time": 1775264850
     },
     {
-      "rank": 17,
+      "rank": 15,
       "word": "黎夏与妈妈搭起了勇气的方舟",
-      "hot_value": 7689396,
+      "hot_value": 7707882,
       "label": "",
       "event_time": 1775262664
     },
     {
+      "rank": 16,
+      "word": "乘风2026初舞台排名",
+      "hot_value": 7706917,
+      "label": "",
+      "event_time": 1775233953
+    },
+    {
+      "rank": 17,
+      "word": "电影我许可一次新的勇敢突破",
+      "hot_value": 7701768,
+      "label": "荐",
+      "event_time": 1775280381
+    },
+    {
       "rank": 18,
-      "word": "我明白要你爱是荒谬的要求",
-      "hot_value": 7679996,
-      "label": "音乐",
-      "event_time": 1775264320
+      "word": "武拾光雾妄言养你老己",
+      "hot_value": 7693881,
+      "label": "游戏",
+      "event_time": 1775286841
     },
     {
       "rank": 19,
-      "word": "阚清子：我尊重游戏规则",
-      "hot_value": 7673380,
-      "label": "爆",
-      "event_time": 1775234115
+      "word": "广东清明大塞车",
+      "hot_value": 7690999,
+      "label": "新",
+      "event_time": 1775283081
     },
     {
       "rank": 20,
       "word": "诶 这张绝了",
-      "hot_value": 7673307,
+      "hot_value": 7687298,
       "label": "音乐",
       "event_time": 1775224611
     }
   ],
-  "update_time": "2026-04-04 07:43:01",
+  "update_time": "2026-04-04 08:31:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
