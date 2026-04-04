@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "东部战区发布海报",
-      "hot_value": 11993992,
+      "hot_value": 11798603,
       "label": "爆",
       "event_time": 1775270421
     },
     {
       "rank": 2,
-      "word": "山河念英烈",
-      "hot_value": 11858311,
+      "word": "清明至春意生",
+      "hot_value": 11230406,
       "label": "爆",
-      "event_time": 1775210156
+      "event_time": 1775271331
     },
     {
       "rank": 3,
-      "word": "我国成立太空算力产业协同平台",
-      "hot_value": 11482130,
-      "label": "爆",
-      "event_time": 1775271640
+      "word": "文旅体验刷新背后有项大部署",
+      "hot_value": 11145011,
+      "label": "新",
+      "event_time": 1775286942
     },
     {
       "rank": 4,
-      "word": "清明至春意生",
-      "hot_value": 11336654,
+      "word": "用一篇长文追忆你",
+      "hot_value": 11123814,
       "label": "",
-      "event_time": 1775271331
+      "event_time": 1775272304
     },
     {
       "rank": 5,
       "word": "中国人的清明仪式感",
-      "hot_value": 10337012,
-      "label": "",
+      "hot_value": 10419131,
+      "label": "爆",
       "event_time": 1775270925
     },
     {
       "rank": 6,
       "word": "把我交给春天",
-      "hot_value": 10287449,
-      "label": "",
+      "hot_value": 10220878,
+      "label": "爆",
       "event_time": 1775275047
     },
     {
       "rank": 7,
-      "word": "孙颖莎4:3汉娜高达",
-      "hot_value": 9199569,
-      "label": "新",
-      "event_time": 1775281984
-    },
-    {
-      "rank": 8,
       "word": "弗拉格51分生涯新高",
-      "hot_value": 9174422,
-      "label": "",
+      "hot_value": 9137854,
+      "label": "爆",
       "event_time": 1775273206
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "到了广东先吃鸡煲",
-      "hot_value": 9136942,
+      "hot_value": 9136372,
       "label": "",
       "event_time": 1775206188
     },
     {
-      "rank": 10,
-      "word": "用一篇长文追忆你",
-      "hot_value": 9136859,
+      "rank": 9,
+      "word": "NASA登月为何死磕SLS",
+      "hot_value": 9136284,
       "label": "新",
-      "event_time": 1775272304
+      "event_time": 1775285693
+    },
+    {
+      "rank": 10,
+      "word": "孙颖莎4:3汉娜高达",
+      "hot_value": 9051721,
+      "label": "新",
+      "event_time": 1775281984
     },
     {
       "rank": 11,
-      "word": "交出你的春日ootd",
-      "hot_value": 9135212,
-      "label": "",
-      "event_time": 1775271703
-    },
-    {
-      "rank": 12,
-      "word": "短线交易新规4月7日起施行",
-      "hot_value": 9135207,
-      "label": "",
-      "event_time": 1775200851
-    },
-    {
-      "rank": 13,
       "word": "一周谣言盘点",
-      "hot_value": 9048933,
+      "hot_value": 8509851,
       "label": "谣言",
       "event_time": 1775268616
     },
     {
-      "rank": 14,
-      "word": "东契奇常规赛赛季报销",
-      "hot_value": 9017268,
-      "label": "爆",
-      "event_time": 1775264850
-    },
-    {
-      "rank": 15,
-      "word": "苹果设备被曝存在高危漏洞",
-      "hot_value": 8975916,
-      "label": "",
-      "event_time": 1775263273
-    },
-    {
-      "rank": 16,
+      "rank": 12,
       "word": "镜双惩戒真的没了",
-      "hot_value": 8387501,
+      "hot_value": 8476953,
       "label": "",
       "event_time": 1775217801
     },
     {
-      "rank": 17,
+      "rank": 13,
+      "word": "苹果设备被曝存在高危漏洞",
+      "hot_value": 8307406,
+      "label": "",
+      "event_time": 1775263273
+    },
+    {
+      "rank": 14,
       "word": "乘风2026初舞台排名",
-      "hot_value": 7762022,
+      "hot_value": 7768765,
       "label": "",
       "event_time": 1775233953
     },
     {
+      "rank": 15,
+      "word": "电影我许可一次新的勇敢突破",
+      "hot_value": 7713455,
+      "label": "荐",
+      "event_time": 1775280381
+    },
+    {
+      "rank": 16,
+      "word": "东契奇常规赛赛季报销",
+      "hot_value": 7712187,
+      "label": "",
+      "event_time": 1775264850
+    },
+    {
+      "rank": 17,
+      "word": "黎夏与妈妈搭起了勇气的方舟",
+      "hot_value": 7689396,
+      "label": "",
+      "event_time": 1775262664
+    },
+    {
       "rank": 18,
+      "word": "我明白要你爱是荒谬的要求",
+      "hot_value": 7679996,
+      "label": "音乐",
+      "event_time": 1775264320
+    },
+    {
+      "rank": 19,
       "word": "阚清子：我尊重游戏规则",
-      "hot_value": 7706741,
+      "hot_value": 7673380,
       "label": "爆",
       "event_time": 1775234115
     },
     {
-      "rank": 19,
-      "word": "用喜鹊谋杀案的方式打开云初令",
-      "hot_value": 7701120,
-      "label": "爆",
-      "event_time": 1775259939
-    },
-    {
       "rank": 20,
-      "word": "黎夏与妈妈搭起了勇气的方舟",
-      "hot_value": 7691076,
-      "label": "",
-      "event_time": 1775262664
+      "word": "诶 这张绝了",
+      "hot_value": 7673307,
+      "label": "音乐",
+      "event_time": 1775224611
     }
   ],
-  "update_time": "2026-04-04 06:49:30",
+  "update_time": "2026-04-04 07:43:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
