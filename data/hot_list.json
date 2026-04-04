@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "东部战区发布海报",
-      "hot_value": 12017961,
+      "hot_value": 12072904,
       "label": "爆",
       "event_time": 1775270421
     },
     {
       "rank": 2,
       "word": "清明至春意生",
-      "hot_value": 11740137,
+      "hot_value": 11347857,
       "label": "爆",
       "event_time": 1775271331
     },
     {
       "rank": 3,
       "word": "文旅体验刷新背后有项大部署",
-      "hot_value": 11116321,
-      "label": "新",
+      "hot_value": 11053565,
+      "label": "",
       "event_time": 1775286942
     },
     {
       "rank": 4,
-      "word": "用一篇长文追忆你",
-      "hot_value": 11053428,
-      "label": "爆",
-      "event_time": 1775272304
-    },
-    {
-      "rank": 5,
       "word": "中国人的清明仪式感",
-      "hot_value": 10324969,
+      "hot_value": 10823593,
       "label": "爆",
       "event_time": 1775270925
     },
     {
+      "rank": 5,
+      "word": "从房子走出去站在春天中间",
+      "hot_value": 10273714,
+      "label": "",
+      "event_time": 1775220964
+    },
+    {
       "rank": 6,
       "word": "把我交给春天",
-      "hot_value": 10223200,
+      "hot_value": 10243619,
       "label": "爆",
       "event_time": 1775275047
     },
     {
       "rank": 7,
       "word": "弗拉格51分生涯新高",
-      "hot_value": 9134851,
+      "hot_value": 9147305,
       "label": "爆",
       "event_time": 1775273206
     },
     {
       "rank": 8,
       "word": "到了广东先吃鸡煲",
-      "hot_value": 9134836,
+      "hot_value": 9136466,
       "label": "爆",
       "event_time": 1775206188
     },
     {
       "rank": 9,
       "word": "NASA登月为何死磕SLS",
-      "hot_value": 9132076,
+      "hot_value": 9135500,
       "label": "新",
       "event_time": 1775285693
     },
     {
       "rank": 10,
       "word": "孙颖莎4:3汉娜高达",
-      "hot_value": 9110220,
-      "label": "新",
+      "hot_value": 9014764,
+      "label": "",
       "event_time": 1775281984
     },
     {
       "rank": 11,
       "word": "一周谣言盘点",
-      "hot_value": 8832094,
+      "hot_value": 8799517,
       "label": "谣言",
       "event_time": 1775268616
     },
     {
       "rank": 12,
       "word": "镜双惩戒真的没了",
-      "hot_value": 8665878,
+      "hot_value": 8781350,
       "label": "",
       "event_time": 1775217801
     },
     {
       "rank": 13,
       "word": "苹果设备被曝存在高危漏洞",
-      "hot_value": 8608551,
+      "hot_value": 8741209,
       "label": "",
       "event_time": 1775263273
     },
     {
       "rank": 14,
       "word": "东契奇常规赛赛季报销",
-      "hot_value": 7707894,
+      "hot_value": 7736549,
       "label": "",
       "event_time": 1775264850
     },
     {
       "rank": 15,
-      "word": "黎夏与妈妈搭起了勇气的方舟",
-      "hot_value": 7707882,
-      "label": "",
-      "event_time": 1775262664
-    },
-    {
-      "rank": 16,
       "word": "乘风2026初舞台排名",
-      "hot_value": 7706917,
+      "hot_value": 7727355,
       "label": "",
       "event_time": 1775233953
     },
     {
+      "rank": 16,
+      "word": "用一篇长文追忆你",
+      "hot_value": 7712200,
+      "label": "",
+      "event_time": 1775272304
+    },
+    {
       "rank": 17,
+      "word": "林昀儒4:1战胜张本智和",
+      "hot_value": 7711272,
+      "label": "新",
+      "event_time": 1775280972
+    },
+    {
+      "rank": 18,
       "word": "电影我许可一次新的勇敢突破",
-      "hot_value": 7701768,
+      "hot_value": 7694294,
       "label": "荐",
       "event_time": 1775280381
     },
     {
-      "rank": 18,
-      "word": "武拾光雾妄言养你老己",
-      "hot_value": 7693881,
-      "label": "游戏",
-      "event_time": 1775286841
-    },
-    {
       "rank": 19,
-      "word": "广东清明大塞车",
-      "hot_value": 7690999,
-      "label": "新",
-      "event_time": 1775283081
+      "word": "黎夏与妈妈搭起了勇气的方舟",
+      "hot_value": 7689370,
+      "label": "",
+      "event_time": 1775262664
     },
     {
       "rank": 20,
-      "word": "诶 这张绝了",
-      "hot_value": 7687298,
-      "label": "音乐",
-      "event_time": 1775224611
+      "word": "爱下去才了不起",
+      "hot_value": 7685356,
+      "label": "爆",
+      "event_time": 1775221226
     }
   ],
-  "update_time": "2026-04-04 08:31:34",
+  "update_time": "2026-04-04 09:29:11",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
