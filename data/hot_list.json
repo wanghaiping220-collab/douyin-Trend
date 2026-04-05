@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "一口气讲清楚清明那些事儿",
-      "hot_value": 12005151,
+      "hot_value": 12111877,
       "label": "爆",
       "event_time": 1775295424
     },
     {
       "rank": 2,
       "word": "王楚钦首夺世界杯男单冠军",
-      "hot_value": 11955457,
+      "hot_value": 12101470,
       "label": "爆",
       "event_time": 1775375089
     },
     {
       "rank": 3,
       "word": "山河有念 烟火勿忘",
-      "hot_value": 11886604,
+      "hot_value": 11962855,
       "label": "爆",
       "event_time": 1775393627
     },
     {
       "rank": 4,
       "word": "郭艾伦遭熟人诈骗千万元",
-      "hot_value": 11842162,
+      "hot_value": 11860717,
       "label": "",
       "event_time": 1775395699
     },
     {
       "rank": 5,
       "word": "苹果密码泄露在哪查看",
-      "hot_value": 10373122,
+      "hot_value": 10542360,
       "label": "",
       "event_time": 1775373537
     },
     {
       "rank": 6,
       "word": "交出你的春日ootd",
-      "hot_value": 9100343,
+      "hot_value": 9124910,
       "label": "",
       "event_time": 1775271703
     },
     {
       "rank": 7,
       "word": "孙颖莎世界杯单打3连冠",
-      "hot_value": 9045855,
+      "hot_value": 9110015,
       "label": "",
       "event_time": 1775389162
     },
     {
       "rank": 8,
       "word": "土耳其大量抛售黄金",
-      "hot_value": 7801092,
+      "hot_value": 7950136,
       "label": "",
       "event_time": 1775353237
     },
     {
       "rank": 9,
-      "word": "浪姐的七年之痒",
-      "hot_value": 7762156,
-      "label": "爆",
-      "event_time": 1775367653
+      "word": "赖清德满意度下滑",
+      "hot_value": 7756260,
+      "label": "",
+      "event_time": 1775370334
     },
     {
       "rank": 10,
-      "word": "如果说要我选出代表青春那个画面",
-      "hot_value": 7757518,
-      "label": "音乐",
-      "event_time": 1775379152
-    },
-    {
-      "rank": 11,
       "word": "26岁网红拳手突然离世",
-      "hot_value": 7755605,
+      "hot_value": 7747087,
       "label": "",
       "event_time": 1775382067
     },
     {
+      "rank": 11,
+      "word": "浪姐的七年之痒",
+      "hot_value": 7739706,
+      "label": "爆",
+      "event_time": 1775367653
+    },
+    {
       "rank": 12,
-      "word": "武汉草莓音乐节",
-      "hot_value": 7748479,
-      "label": "",
-      "event_time": 1775365661
+      "word": "文淇解读电影我许可母女关系",
+      "hot_value": 7733243,
+      "label": "热议",
+      "event_time": 1775359980
     },
     {
       "rank": 13,
-      "word": "当年轻人开始拜山",
-      "hot_value": 7743875,
-      "label": "爆",
-      "event_time": 1775362630
+      "word": "如果说要我选出代表青春那个画面",
+      "hot_value": 7728029,
+      "label": "音乐",
+      "event_time": 1775379152
     },
     {
       "rank": 14,
       "word": "每当我找不到存在的意义",
-      "hot_value": 7742916,
+      "hot_value": 7727209,
       "label": "音乐",
       "event_time": 1775305213
     },
     {
       "rank": 15,
       "word": "周杰伦：来吧女儿殿下们",
-      "hot_value": 7739845,
+      "hot_value": 7725084,
       "label": "爆",
       "event_time": 1775290412
     },
     {
       "rank": 16,
-      "word": "无限超越班4名场面大赏",
-      "hot_value": 7720937,
-      "label": "爆",
-      "event_time": 1775390213
+      "word": "声乐老师解析曾沛慈初舞台",
+      "hot_value": 7701753,
+      "label": "",
+      "event_time": 1775370131
     },
     {
       "rank": 17,
-      "word": "当我用彩色故障风打开春天",
-      "hot_value": 7714278,
-      "label": "音乐",
-      "event_time": 1775370237
-    },
-    {
-      "rank": 18,
       "word": "我爱你手势舞",
-      "hot_value": 7703419,
+      "hot_value": 7701708,
       "label": "音乐",
       "event_time": 1775375954
     },
     {
-      "rank": 19,
+      "rank": 18,
       "word": "SEVENTEEN全员续约",
-      "hot_value": 7700777,
+      "hot_value": 7693311,
       "label": "",
       "event_time": 1775399718
     },
     {
+      "rank": 19,
+      "word": "当我用彩色故障风打开春天",
+      "hot_value": 7690792,
+      "label": "音乐",
+      "event_time": 1775370237
+    },
+    {
       "rank": 20,
-      "word": "马思唯乐透人生演唱会",
-      "hot_value": 7694556,
+      "word": "武汉草莓音乐节",
+      "hot_value": 7688849,
       "label": "爆",
-      "event_time": 1775345747
+      "event_time": 1775365661
     }
   ],
-  "update_time": "2026-04-05 19:27:39",
+  "update_time": "2026-04-05 20:22:32",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
