@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "把广角打开这一球会很帅",
+      "hot_value": 12125184,
+      "label": "新",
+      "event_time": 1775630609
+    },
+    {
+      "rank": 2,
       "word": "我用摄影看世界",
-      "hot_value": 12154771,
+      "hot_value": 12119319,
       "label": "爆",
       "event_time": 1775544372
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "word": "一箭十八星发射成功",
+      "hot_value": 12106917,
+      "label": "",
+      "event_time": 1775605008
+    },
+    {
+      "rank": 4,
       "word": "开始期待五一假期了",
-      "hot_value": 12110299,
+      "hot_value": 11106165,
       "label": "爆",
       "event_time": 1775542098
     },
     {
-      "rank": 3,
-      "word": "春季消费热起来了",
-      "hot_value": 12104024,
-      "label": "爆",
-      "event_time": 1775613687
-    },
-    {
-      "rank": 4,
-      "word": "A股",
-      "hot_value": 11999740,
-      "label": "爆",
-      "event_time": 1775612909
-    },
-    {
       "rank": 5,
       "word": "我就这样美美走进春夏",
-      "hot_value": 11125811,
-      "label": "爆",
+      "hot_value": 10279694,
+      "label": "",
       "event_time": 1775552574
     },
     {
       "rank": 6,
-      "word": "千禧年复古手机开箱",
-      "hot_value": 10273575,
-      "label": "爆",
-      "event_time": 1775545998
-    },
-    {
-      "rank": 7,
       "word": "女生买衣服一定要学会看细节",
-      "hot_value": 9185092,
+      "hot_value": 10261095,
       "label": "爆",
       "event_time": 1775477190
     },
     {
-      "rank": 8,
-      "word": "国际现货金银齐拉升",
-      "hot_value": 8506715,
-      "label": "爆",
-      "event_time": 1775609204
-    },
-    {
-      "rank": 9,
-      "word": "伊美双方停火生效",
-      "hot_value": 8455965,
-      "label": "爆",
-      "event_time": 1775607518
-    },
-    {
-      "rank": 10,
-      "word": "伊朗接受停火提议",
-      "hot_value": 7904427,
-      "label": "",
-      "event_time": 1775603162
-    },
-    {
-      "rank": 11,
-      "word": "阿森纳客场1:0绝杀葡体",
-      "hot_value": 7886308,
-      "label": "",
-      "event_time": 1775605256
-    },
-    {
-      "rank": 12,
+      "rank": 7,
       "word": "皇马1:2拜仁",
-      "hot_value": 7795238,
+      "hot_value": 9173680,
       "label": "",
       "event_time": 1775602826
     },
     {
-      "rank": 13,
-      "word": "10万亿中央转移支付流向了哪里",
-      "hot_value": 7787683,
-      "label": "",
-      "event_time": 1775557317
-    },
-    {
-      "rank": 14,
-      "word": "乘风2026一公小考",
-      "hot_value": 7787028,
+      "rank": 8,
+      "word": "王毅将访问朝鲜",
+      "hot_value": 9094019,
       "label": "新",
-      "event_time": 1775623271
+      "event_time": 1775632330
     },
     {
-      "rank": 15,
-      "word": "当我打电话说没钱吃饭时",
-      "hot_value": 7779509,
-      "label": "音乐",
-      "event_time": 1775555369
+      "rank": 9,
+      "word": "老人发传单致女孩晕倒系谣言",
+      "hot_value": 8903625,
+      "label": "谣言",
+      "event_time": 1775629354
     },
     {
-      "rank": 16,
-      "word": "田嘉瑞现场戏腔清唱ost",
-      "hot_value": 7767349,
-      "label": "热议",
-      "event_time": 1775562434
-    },
-    {
-      "rank": 17,
-      "word": "各地特色美食花海大赏",
-      "hot_value": 7759122,
-      "label": "音乐",
-      "event_time": 1775547158
-    },
-    {
-      "rank": 18,
+      "rank": 10,
       "word": "冰湖重生开播",
-      "hot_value": 7723780,
+      "hot_value": 8265720,
       "label": "游戏",
       "event_time": 1775622159
     },
     {
-      "rank": 19,
-      "word": "怦然心动冬夜漫漫手势舞",
-      "hot_value": 7723553,
+      "rank": 11,
+      "word": "伊朗接受停火提议",
+      "hot_value": 8207419,
+      "label": "",
+      "event_time": 1775603162
+    },
+    {
+      "rank": 12,
+      "word": "沪指百点长阳逼近4000点",
+      "hot_value": 7779336,
+      "label": "",
+      "event_time": 1775612909
+    },
+    {
+      "rank": 13,
+      "word": "乘风2026一公小考",
+      "hot_value": 7774074,
+      "label": "",
+      "event_time": 1775623271
+    },
+    {
+      "rank": 14,
+      "word": "10万亿中央转移支付流向了哪里",
+      "hot_value": 7768726,
+      "label": "",
+      "event_time": 1775557317
+    },
+    {
+      "rank": 15,
+      "word": "阿森纳客场1:0绝杀葡体",
+      "hot_value": 7759468,
+      "label": "爆",
+      "event_time": 1775605256
+    },
+    {
+      "rank": 16,
+      "word": "当我打电话说没钱吃饭时",
+      "hot_value": 7758982,
       "label": "音乐",
-      "event_time": 1775553867
+      "event_time": 1775555369
+    },
+    {
+      "rank": 17,
+      "word": "寄灵再用言灵控制露芜衣",
+      "hot_value": 7753450,
+      "label": "荐",
+      "event_time": 1775628762
+    },
+    {
+      "rank": 18,
+      "word": "杨紫复仇摇一键上头",
+      "hot_value": 7742052,
+      "label": "新",
+      "event_time": 1775628531
+    },
+    {
+      "rank": 19,
+      "word": "伊美双方停火生效",
+      "hot_value": 7731577,
+      "label": "爆",
+      "event_time": 1775607518
     },
     {
       "rank": 20,
-      "word": "一代人有一代人的神兵利器",
-      "hot_value": 7722235,
-      "label": "",
-      "event_time": 1775542231
+      "word": "田嘉瑞现场戏腔清唱ost",
+      "hot_value": 7725406,
+      "label": "热议",
+      "event_time": 1775562434
     }
   ],
-  "update_time": "2026-04-08 06:16:13",
+  "update_time": "2026-04-08 08:06:41",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
