@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "抖音第0届拼豆大赛",
-      "hot_value": 11986796,
+      "hot_value": 12080469,
       "label": "热议",
       "event_time": 1775716373
     },
     {
       "rank": 2,
       "word": "如果春风有形状",
-      "hot_value": 11828678,
+      "hot_value": 11780241,
       "label": "爆",
       "event_time": 1775720000
     },
     {
       "rank": 3,
       "word": "一镜到底看“十五五”重大工程",
-      "hot_value": 11786453,
+      "hot_value": 11770431,
       "label": "",
       "event_time": 1775739207
     },
     {
       "rank": 4,
       "word": "体验西双版纳的泼水文化",
-      "hot_value": 11194561,
+      "hot_value": 11247978,
       "label": "爆",
       "event_time": 1775620023
     },
     {
       "rank": 5,
       "word": "国防部回应日本部署远程导弹",
-      "hot_value": 10525232,
+      "hot_value": 10445306,
       "label": "",
       "event_time": 1775723084
     },
     {
       "rank": 6,
       "word": "河南三地招商数据造假",
-      "hot_value": 10392768,
+      "hot_value": 10269239,
       "label": "",
       "event_time": 1775694780
     },
     {
       "rank": 7,
       "word": "南海海域进行重大活动禁止驶入",
-      "hot_value": 9290450,
+      "hot_value": 9174610,
       "label": "爆",
       "event_time": 1775719053
     },
     {
       "rank": 8,
       "word": "陈丽华告别仪式",
-      "hot_value": 9130651,
+      "hot_value": 9135991,
       "label": "爆",
       "event_time": 1775704024
     },
     {
       "rank": 9,
       "word": "被SBTI测试刷屏了",
-      "hot_value": 8893142,
+      "hot_value": 8804539,
       "label": "娱乐",
       "event_time": 1775748347
     },
     {
       "rank": 10,
       "word": "半岛电视台记者在加沙遭袭身亡",
-      "hot_value": 8441657,
+      "hot_value": 8716668,
       "label": "爆",
       "event_time": 1775701910
     },
     {
       "rank": 11,
-      "word": "邓紫棋台北演唱会",
-      "hot_value": 7746944,
-      "label": "爆",
-      "event_time": 1775737228
+      "word": "张镇麟回应把贝兹利打失业",
+      "hot_value": 7968672,
+      "label": "新",
+      "event_time": 1775740304
     },
     {
       "rank": 12,
       "word": "我还不想做一个大人",
-      "hot_value": 7746470,
+      "hot_value": 7729213,
       "label": "",
       "event_time": 1775727309
     },
     {
       "rank": 13,
-      "word": "拨开天空的乌云手势舞挑战",
-      "hot_value": 7735774,
-      "label": "音乐",
-      "event_time": 1775743323
-    },
-    {
-      "rank": 14,
       "word": "我见识到我自己的厉害了",
-      "hot_value": 7727409,
+      "hot_value": 7724158,
       "label": "爆",
       "event_time": 1775704697
     },
     {
+      "rank": 14,
+      "word": "拨开天空的乌云手势舞挑战",
+      "hot_value": 7703799,
+      "label": "音乐",
+      "event_time": 1775743323
+    },
+    {
       "rank": 15,
+      "word": "Wait清唱挑战",
+      "hot_value": 7691216,
+      "label": "音乐",
+      "event_time": 1775731505
+    },
+    {
+      "rank": 16,
       "word": "销声匿迹的女孩们都在打一场硬仗",
-      "hot_value": 7711333,
+      "hot_value": 7690699,
       "label": "音乐",
       "event_time": 1775726168
     },
     {
-      "rank": 16,
-      "word": "虞书欣跳马来西亚进行曲",
-      "hot_value": 7697745,
-      "label": "爆",
-      "event_time": 1775723867
-    },
-    {
       "rank": 17,
-      "word": "冰湖重生观后感",
-      "hot_value": 7691062,
-      "label": "爆",
-      "event_time": 1775719995
-    },
-    {
-      "rank": 18,
-      "word": "武拾光阻拦雾妄言断尾",
-      "hot_value": 7688842,
-      "label": "荐",
-      "event_time": 1775714583
-    },
-    {
-      "rank": 19,
       "word": "BTS演唱会",
-      "hot_value": 7687150,
+      "hot_value": 7683932,
       "label": "",
       "event_time": 1775743196
     },
     {
-      "rank": 20,
+      "rank": 18,
       "word": "这世界突然填满色彩",
-      "hot_value": 7677612,
+      "hot_value": 7679466,
       "label": "音乐",
       "event_time": 1775724492
+    },
+    {
+      "rank": 19,
+      "word": "邓紫棋台北演唱会",
+      "hot_value": 7679067,
+      "label": "爆",
+      "event_time": 1775737228
+    },
+    {
+      "rank": 20,
+      "word": "虞书欣跳马来西亚进行曲",
+      "hot_value": 7676469,
+      "label": "爆",
+      "event_time": 1775723867
     }
   ],
-  "update_time": "2026-04-09 16:57:28",
+  "update_time": "2026-04-09 17:57:19",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
