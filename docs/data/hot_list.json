@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "常州暂时改名常洲",
+      "hot_value": 12119206,
+      "label": "新",
+      "event_time": 1775982091
+    },
+    {
+      "rank": 2,
       "word": "穿漂亮的裙子去有风的地方",
-      "hot_value": 12126123,
+      "hot_value": 11888691,
       "label": "爆",
       "event_time": 1775952382
     },
     {
-      "rank": 2,
-      "word": "在搞一种很新的旅行vlog",
-      "hot_value": 12093850,
-      "label": "",
-      "event_time": 1775957121
-    },
-    {
       "rank": 3,
       "word": "我国把多余电力藏在了地底下",
-      "hot_value": 11855728,
+      "hot_value": 11841885,
       "label": "爆",
       "event_time": 1775975985
     },
     {
       "rank": 4,
-      "word": "人生中第一场演唱会是苏超给的",
-      "hot_value": 11086453,
-      "label": "爆",
-      "event_time": 1775919235
+      "word": "在搞一种很新的旅行vlog",
+      "hot_value": 11794522,
+      "label": "",
+      "event_time": 1775957121
     },
     {
       "rank": 5,
+      "word": "人生中第一场演唱会是苏超给的",
+      "hot_value": 9932683,
+      "label": "",
+      "event_time": 1775919235
+    },
+    {
+      "rank": 6,
       "word": "一张图证明你是养宠人",
-      "hot_value": 9757083,
+      "hot_value": 8571413,
       "label": "",
       "event_time": 1775878388
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "十项促进两岸交流合作措施发布",
-      "hot_value": 9410301,
-      "label": "爆",
+      "hot_value": 8259081,
+      "label": "",
       "event_time": 1775959719
     },
     {
-      "rank": 7,
+      "rank": 8,
       "word": "人形机器人半马完成全流程测试",
-      "hot_value": 8201505,
+      "hot_value": 8118906,
       "label": "",
       "event_time": 1775971972
     },
     {
-      "rank": 8,
-      "word": "捷龙三号运载火箭发射成功",
-      "hot_value": 7826545,
-      "label": "",
-      "event_time": 1775919009
-    },
-    {
       "rank": 9,
-      "word": "常州队今年守住了笔画",
-      "hot_value": 7806298,
-      "label": "",
-      "event_time": 1775918857
+      "word": "捷龙三号运载火箭发射成功",
+      "hot_value": 8086647,
+      "label": "爆",
+      "event_time": 1775919009
     },
     {
       "rank": 10,
       "word": "三角洲S9新赛季前瞻爆料",
-      "hot_value": 7801604,
-      "label": "",
+      "hot_value": 7958280,
+      "label": "爆",
       "event_time": 1775970242
     },
     {
       "rank": 11,
       "word": "解放碑禁止商拍系谣言",
-      "hot_value": 7776956,
+      "hot_value": 7835159,
       "label": "谣言",
       "event_time": 1775972935
     },
     {
       "rank": 12,
-      "word": "抖音直播繁花盛典",
-      "hot_value": 7750248,
-      "label": "热议",
-      "event_time": 1775968346
+      "word": "钢铁森林大结局",
+      "hot_value": 7782218,
+      "label": "荐",
+      "event_time": 1775988011
     },
     {
       "rank": 13,
-      "word": "这是我短发的所有样子",
-      "hot_value": 7738519,
-      "label": "音乐",
-      "event_time": 1775918891
-    },
-    {
-      "rank": 14,
-      "word": "乘风2026一公观后感",
-      "hot_value": 7735774,
-      "label": "热议",
-      "event_time": 1775978911
-    },
-    {
-      "rank": 15,
-      "word": "我独爱平凡的照片",
-      "hot_value": 7735653,
-      "label": "音乐",
-      "event_time": 1775982572
-    },
-    {
-      "rank": 16,
-      "word": "双脚起跳 甩开烦恼",
-      "hot_value": 7730888,
-      "label": "新",
-      "event_time": 1775978548
-    },
-    {
-      "rank": 17,
       "word": "伊美伊斯兰堡谈判结束",
-      "hot_value": 7730796,
+      "hot_value": 7766945,
       "label": "",
       "event_time": 1775959347
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "word": "何秋亊红毯春日氛围感拉满",
+      "hot_value": 7760102,
+      "label": "热议",
+      "event_time": 1775987760
+    },
+    {
+      "rank": 15,
+      "word": "这是我短发的所有样子",
+      "hot_value": 7753208,
+      "label": "音乐",
+      "event_time": 1775918891
+    },
+    {
+      "rank": 16,
       "word": "爱情鸟舞蹈挑战",
-      "hot_value": 7724448,
+      "hot_value": 7750931,
       "label": "音乐",
       "event_time": 1775879823
     },
     {
+      "rank": 17,
+      "word": "我独爱平凡的照片",
+      "hot_value": 7741318,
+      "label": "音乐",
+      "event_time": 1775982572
+    },
+    {
+      "rank": 18,
+      "word": "抖音直播繁花盛典",
+      "hot_value": 7736160,
+      "label": "热议",
+      "event_time": 1775968346
+    },
+    {
       "rank": 19,
-      "word": "苏嘟嘟亮相苏超开幕式",
-      "hot_value": 7723657,
+      "word": "谢娜官宣个人首场演唱会",
+      "hot_value": 7733586,
       "label": "爆",
-      "event_time": 1775919140
+      "event_time": 1775917585
     },
     {
       "rank": 20,
-      "word": "何秋亊红毯春日氛围感拉满",
-      "hot_value": 7714637,
-      "label": "热议",
-      "event_time": 1775987760
+      "word": "她的眼里没有胜负只有心疼",
+      "hot_value": 7732826,
+      "label": "爆",
+      "event_time": 1775975204
     }
   ],
-  "update_time": "2026-04-12 10:30:13",
+  "update_time": "2026-04-12 11:27:17",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
