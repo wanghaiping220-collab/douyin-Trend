@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "常州暂时改名常洲",
-      "hot_value": 12114509,
+      "hot_value": 12114810,
       "label": "爆",
       "event_time": 1775982091
     },
     {
       "rank": 2,
       "word": "穿漂亮的裙子去有风的地方",
-      "hot_value": 11887632,
+      "hot_value": 12026131,
       "label": "爆",
       "event_time": 1775952382
     },
     {
       "rank": 3,
       "word": "中国航天事业跑出加速度",
-      "hot_value": 11620884,
-      "label": "新",
+      "hot_value": 11992326,
+      "label": "",
       "event_time": 1775996166
     },
     {
       "rank": 4,
       "word": "在搞一种很新的旅行vlog",
-      "hot_value": 11528324,
+      "hot_value": 11781879,
       "label": "爆",
       "event_time": 1775957121
     },
     {
       "rank": 5,
       "word": "人生中第一场演唱会是苏超给的",
-      "hot_value": 10632970,
+      "hot_value": 10540307,
       "label": "",
       "event_time": 1775919235
     },
     {
       "rank": 6,
       "word": "石宇奇首夺羽毛球亚锦赛男单冠军",
-      "hot_value": 10341587,
+      "hot_value": 10382904,
       "label": "",
       "event_time": 1775990879
     },
     {
       "rank": 7,
       "word": "一张图证明你是养宠人",
-      "hot_value": 9183383,
+      "hot_value": 9251462,
       "label": "",
       "event_time": 1775878388
     },
     {
       "rank": 8,
       "word": "十项促进两岸交流合作措施发布",
-      "hot_value": 9111847,
+      "hot_value": 9065764,
       "label": "",
       "event_time": 1775959719
     },
     {
       "rank": 9,
+      "word": "阿联酋阿布扎比王储哈立德访华",
+      "hot_value": 8967328,
+      "label": "",
+      "event_time": 1775974863
+    },
+    {
+      "rank": 10,
       "word": "人形机器人半马完成全流程测试",
-      "hot_value": 9023924,
+      "hot_value": 8838185,
       "label": "爆",
       "event_time": 1775971972
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "捷龙三号运载火箭发射成功",
-      "hot_value": 8795284,
+      "hot_value": 8565125,
       "label": "爆",
       "event_time": 1775919009
     },
     {
-      "rank": 11,
+      "rank": 12,
       "word": "“营养点滴”是黑科技还是新套路",
-      "hot_value": 8352694,
+      "hot_value": 8256741,
       "label": "谣言",
       "event_time": 1775997756
     },
     {
-      "rank": 12,
+      "rank": 13,
       "word": "建群辱骂离世女孩群主被拘9日",
-      "hot_value": 8265189,
+      "hot_value": 8064991,
       "label": "",
       "event_time": 1775972854
     },
     {
-      "rank": 13,
-      "word": "王石否认“被抓”",
-      "hot_value": 7794030,
-      "label": "新",
-      "event_time": 1775993939
-    },
-    {
       "rank": 14,
       "word": "三角洲S9新赛季前瞻爆料",
-      "hot_value": 7793909,
-      "label": "",
+      "hot_value": 7961020,
+      "label": "爆",
       "event_time": 1775970242
     },
     {
       "rank": 15,
-      "word": "拍手变装",
-      "hot_value": 7773867,
-      "label": "音乐",
-      "event_time": 1775993332
-    },
-    {
-      "rank": 16,
       "word": "钢铁森林大结局",
-      "hot_value": 7771999,
+      "hot_value": 7762044,
       "label": "荐",
       "event_time": 1775988011
     },
     {
+      "rank": 16,
+      "word": "王石否认“被抓”",
+      "hot_value": 7757415,
+      "label": "新",
+      "event_time": 1775993939
+    },
+    {
       "rank": 17,
+      "word": "拍手变装",
+      "hot_value": 7754704,
+      "label": "音乐",
+      "event_time": 1775993332
+    },
+    {
+      "rank": 18,
       "word": "伊美伊斯兰堡谈判结束",
-      "hot_value": 7765905,
+      "hot_value": 7754340,
       "label": "",
       "event_time": 1775959347
     },
     {
-      "rank": 18,
-      "word": "这是我短发的所有样子",
-      "hot_value": 7761700,
-      "label": "音乐",
-      "event_time": 1775918891
-    },
-    {
       "rank": 19,
-      "word": "何秋亊红毯春日氛围感拉满",
-      "hot_value": 7760624,
-      "label": "热议",
-      "event_time": 1775987760
+      "word": "谢娜官宣个人首场演唱会",
+      "hot_value": 7751957,
+      "label": "爆",
+      "event_time": 1775917585
     },
     {
       "rank": 20,
-      "word": "我独爱平凡的照片",
-      "hot_value": 7748076,
-      "label": "音乐",
-      "event_time": 1775982572
+      "word": "乘风2026一公观后感",
+      "hot_value": 7748175,
+      "label": "热议",
+      "event_time": 1775978911
     }
   ],
-  "update_time": "2026-04-12 13:54:28",
+  "update_time": "2026-04-12 14:34:31",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
