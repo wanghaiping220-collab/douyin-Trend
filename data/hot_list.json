@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中纪委连打“三虎”",
-      "hot_value": 11879765,
+      "hot_value": 12106911,
       "label": "爆",
       "event_time": 1776052946
     },
     {
       "rank": 2,
       "word": "五一出游穿搭",
-      "hot_value": 11796554,
+      "hot_value": 11897067,
       "label": "爆",
       "event_time": 1776052649
     },
     {
       "rank": 3,
       "word": "我国一季度多领域成绩单亮眼",
-      "hot_value": 11638114,
+      "hot_value": 11871052,
       "label": "爆",
       "event_time": 1776083284
     },
     {
       "rank": 4,
       "word": "这夏放心去野吧",
-      "hot_value": 11204628,
+      "hot_value": 11553597,
       "label": "爆",
       "event_time": 1776067727
     },
     {
       "rank": 5,
+      "word": "给第一次中国行写首歌",
+      "hot_value": 10645626,
+      "label": "",
+      "event_time": 1776088970
+    },
+    {
+      "rank": 6,
       "word": "自带丁达尔滤镜的春日OOTD",
-      "hot_value": 10625760,
+      "hot_value": 10609014,
       "label": "",
       "event_time": 1776049896
     },
     {
-      "rank": 6,
-      "word": "给第一次中国行写首歌",
-      "hot_value": 10342677,
-      "label": "新",
-      "event_time": 1776088970
-    },
-    {
       "rank": 7,
       "word": "过泼水节还得来德宏",
-      "hot_value": 9208247,
+      "hot_value": 9323435,
       "label": "",
       "event_time": 1775994317
     },
     {
       "rank": 8,
       "word": "长大后再看一次蜡笔小新",
-      "hot_value": 9189817,
-      "label": "新",
+      "hot_value": 9208132,
+      "label": "",
       "event_time": 1776091536
     },
     {
       "rank": 9,
       "word": "最权威的春日仙品来了",
-      "hot_value": 9123002,
+      "hot_value": 9123662,
       "label": "",
       "event_time": 1776048875
     },
     {
       "rank": 10,
+      "word": "CBA辽宁80:75力克山东",
+      "hot_value": 9113768,
+      "label": "爆",
+      "event_time": 1776079455
+    },
+    {
+      "rank": 11,
       "word": "西班牙首相称世界离不开中国",
-      "hot_value": 9054636,
+      "hot_value": 9018938,
       "label": "",
       "event_time": 1776065515
     },
     {
-      "rank": 11,
-      "word": "蜜语纪开播",
-      "hot_value": 8933520,
-      "label": "热议",
-      "event_time": 1776060161
-    },
-    {
       "rank": 12,
       "word": "洛克王国补偿",
-      "hot_value": 8679256,
+      "hot_value": 8713832,
       "label": "",
       "event_time": 1776088251
     },
     {
       "rank": 13,
+      "word": "蜜语纪开播",
+      "hot_value": 8664683,
+      "label": "热议",
+      "event_time": 1776060161
+    },
+    {
+      "rank": 14,
       "word": "比伯一开口全是青春",
-      "hot_value": 8414630,
+      "hot_value": 8293483,
       "label": "爆",
       "event_time": 1776066353
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "举起手来3开拍",
-      "hot_value": 8343718,
+      "hot_value": 8238670,
       "label": "爆",
       "event_time": 1776056914
     },
     {
-      "rank": 15,
-      "word": "何猷君悼念何超蕸",
-      "hot_value": 8279230,
-      "label": "爆",
-      "event_time": 1776048059
-    },
-    {
       "rank": 16,
       "word": "华为Pura X Max正式官宣",
-      "hot_value": 8177705,
+      "hot_value": 8102587,
       "label": "爆",
       "event_time": 1776070896
     },
     {
       "rank": 17,
       "word": "张雪机车竞拍者拒绝加价转售",
-      "hot_value": 8107958,
+      "hot_value": 8030834,
       "label": "",
       "event_time": 1776048391
     },
     {
       "rank": 18,
-      "word": "CBA辽宁80:75力克山东",
-      "hot_value": 7816645,
-      "label": "爆",
-      "event_time": 1776079455
+      "word": "何猷君悼念何超蕸",
+      "hot_value": 7875985,
+      "label": "",
+      "event_time": 1776048059
     },
     {
       "rank": 19,
       "word": "金饰价格一夜跌了11元",
-      "hot_value": 7742412,
+      "hot_value": 7738252,
       "label": "",
       "event_time": 1776070185
     },
     {
       "rank": 20,
-      "word": "我见识到自己的厉害了",
-      "hot_value": 7735810,
+      "word": "长大后才懂阿凡提的精神状态",
+      "hot_value": 7737319,
       "label": "音乐",
-      "event_time": 1776051585
+      "event_time": 1776052372
     }
   ],
-  "update_time": "2026-04-13 16:55:05",
+  "update_time": "2026-04-13 17:52:37",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
