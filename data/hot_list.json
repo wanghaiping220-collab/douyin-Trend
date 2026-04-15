@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "法国全票通过“文物归还法案”",
-      "hot_value": 11721370,
-      "label": "爆",
-      "event_time": 1776228569
-    },
-    {
-      "rank": 2,
       "word": "U20女足中国vs日本",
-      "hot_value": 11535597,
+      "hot_value": 11614278,
       "label": "爆",
       "event_time": 1776230633
     },
     {
+      "rank": 2,
+      "word": "法国全票通过“文物归还法案”",
+      "hot_value": 11325524,
+      "label": "爆",
+      "event_time": 1776228569
+    },
+    {
       "rank": 3,
-      "word": "我国网络视听用户规模达10.99亿人",
-      "hot_value": 11500143,
+      "word": "第139届广交会开幕",
+      "hot_value": 11271355,
       "label": "",
-      "event_time": 1776224025
+      "event_time": 1776235514
     },
     {
       "rank": 4,
-      "word": "第一批五一玩家已出发",
-      "hot_value": 11330322,
+      "word": "2026软科中国大学排名发布",
+      "hot_value": 11125576,
       "label": "",
-      "event_time": 1776242713
+      "event_time": 1776234792
     },
     {
       "rank": 5,
+      "word": "第一批五一玩家已出发",
+      "hot_value": 10553159,
+      "label": "爆",
+      "event_time": 1776242713
+    },
+    {
+      "rank": 6,
       "word": "南极游轮时间胶囊",
-      "hot_value": 10548231,
+      "hot_value": 10463250,
       "label": "娱乐",
       "event_time": 1776157643
     },
     {
-      "rank": 6,
-      "word": "版纳泼水节游街场面太震撼了",
-      "hot_value": 10477934,
-      "label": "爆",
-      "event_time": 1776223473
-    },
-    {
       "rank": 7,
-      "word": "多国政要密集访华很说明问题",
-      "hot_value": 9269993,
+      "word": "版纳泼水节游街场面太震撼了",
+      "hot_value": 9278978,
       "label": "",
-      "event_time": 1776237435
+      "event_time": 1776223473
     },
     {
       "rank": 8,
       "word": "安赛龙退役",
-      "hot_value": 9193793,
+      "hot_value": 9188872,
       "label": "爆",
       "event_time": 1776233276
     },
     {
       "rank": 9,
-      "word": "2026软科中国大学排名发布",
-      "hot_value": 9159942,
+      "word": "多国政要密集访华很说明问题",
+      "hot_value": 9180209,
       "label": "",
-      "event_time": 1776234792
+      "event_time": 1776237435
     },
     {
       "rank": 10,
       "word": "NBA附加赛能赚多少钱",
-      "hot_value": 9141948,
-      "label": "",
+      "hot_value": 9138765,
+      "label": "爆",
       "event_time": 1776237670
     },
     {
       "rank": 11,
       "word": "机器人跑马拉松也穿跑鞋了",
-      "hot_value": 9134487,
+      "hot_value": 9122980,
       "label": "",
       "event_time": 1776165491
     },
     {
       "rank": 12,
       "word": "内蒙古羊肉火锅鲜得很",
-      "hot_value": 9124567,
-      "label": "",
+      "hot_value": 9116442,
+      "label": "爆",
       "event_time": 1776242236
     },
     {
       "rank": 13,
+      "word": "“重庆铜梁地震引发灾情”不实",
+      "hot_value": 9060610,
+      "label": "谣言",
+      "event_time": 1776256209
+    },
+    {
+      "rank": 14,
       "word": "欧冠马竞淘汰巴萨进四强",
-      "hot_value": 9118908,
+      "hot_value": 9043504,
       "label": "",
       "event_time": 1776207952
     },
     {
-      "rank": 14,
-      "word": "交管部门回应绿牌变白牌",
-      "hot_value": 9054086,
-      "label": "谣言",
-      "event_time": 1776136959
-    },
-    {
       "rank": 15,
-      "word": "山东临沂回应农业基地不干农业",
-      "hot_value": 8884818,
+      "word": "欧冠大巴黎总比分4:0利物浦",
+      "hot_value": 8890647,
       "label": "爆",
-      "event_time": 1776216061
+      "event_time": 1776208409
     },
     {
       "rank": 16,
       "word": "蜜语纪看解气了",
-      "hot_value": 8668118,
+      "hot_value": 8796998,
       "label": "荐",
       "event_time": 1776235826
     },
     {
       "rank": 17,
-      "word": "欧冠大巴黎总比分4:0利物浦",
-      "hot_value": 8473203,
-      "label": "爆",
-      "event_time": 1776208409
-    },
-    {
-      "rank": 18,
       "word": "专家谈五一国际航班部分取消",
-      "hot_value": 8210532,
+      "hot_value": 8123232,
       "label": "爆",
       "event_time": 1776173624
     },
     {
-      "rank": 19,
+      "rank": 18,
       "word": "苹果发风险提示",
-      "hot_value": 7965389,
+      "hot_value": 7833783,
       "label": "",
       "event_time": 1776215146
     },
     {
+      "rank": 19,
+      "word": "CBA山西汾酒vs浙江广厦",
+      "hot_value": 7812392,
+      "label": "新",
+      "event_time": 1776243985
+    },
+    {
       "rank": 20,
-      "word": "男孩被绳子锁喉案涉案者被刑拘",
-      "hot_value": 7861147,
-      "label": "",
-      "event_time": 1776225336
+      "word": "何润东cos项羽霸王本色",
+      "hot_value": 7787043,
+      "label": "爆",
+      "event_time": 1776231455
     }
   ],
-  "update_time": "2026-04-15 11:49:31",
+  "update_time": "2026-04-15 13:03:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
