@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "苏林从北京乘高铁赴广西参访",
-      "hot_value": 11548370,
+      "hot_value": 11766727,
       "label": "爆",
       "event_time": 1776308469
     },
     {
       "rank": 2,
       "word": "交换你镜头里的春天",
-      "hot_value": 11250130,
+      "hot_value": 11218724,
       "label": "",
       "event_time": 1776309337
     },
     {
       "rank": 3,
       "word": "一季度经济“成绩单”里的新变化",
-      "hot_value": 11099180,
+      "hot_value": 11100570,
       "label": "",
       "event_time": 1776347730
     },
     {
       "rank": 4,
       "word": "中国驻日大使馆接连遭恐怖威胁",
-      "hot_value": 10989630,
+      "hot_value": 11011578,
       "label": "",
       "event_time": 1776325044
     },
     {
       "rank": 5,
       "word": "TES战胜BLG",
-      "hot_value": 10379706,
+      "hot_value": 10350609,
       "label": "爆",
       "event_time": 1776346007
     },
     {
       "rank": 6,
       "word": "欧冠半决赛对阵出炉",
-      "hot_value": 10331128,
+      "hot_value": 10334127,
       "label": "",
       "event_time": 1776310034
     },
     {
       "rank": 7,
       "word": "中国海洋采油技术有多牛",
-      "hot_value": 9123192,
+      "hot_value": 9233312,
       "label": "热议",
       "event_time": 1776337013
     },
     {
       "rank": 8,
       "word": "我的弹簧裙摆很曼妙",
-      "hot_value": 9121112,
+      "hot_value": 9169572,
       "label": "",
       "event_time": 1776321188
     },
     {
       "rank": 9,
       "word": "杀害罗大美主犯被执行死刑",
-      "hot_value": 9094078,
+      "hot_value": 9135754,
       "label": "",
       "event_time": 1776321182
     },
     {
       "rank": 10,
       "word": "斯诺克世锦赛正赛签表出炉",
-      "hot_value": 9004902,
+      "hot_value": 9127811,
       "label": "",
       "event_time": 1776346697
     },
     {
       "rank": 11,
-      "word": "CBA福建84:76力克江苏",
-      "hot_value": 8842809,
-      "label": "爆",
-      "event_time": 1776334817
-    },
-    {
-      "rank": 12,
       "word": "中国驻布基纳法索使馆发布提醒",
-      "hot_value": 8759141,
+      "hot_value": 9101533,
       "label": "",
       "event_time": 1776316175
     },
     {
-      "rank": 13,
+      "rank": 12,
       "word": "网约车司机智斗境外间谍获奖励",
-      "hot_value": 8654284,
+      "hot_value": 8848459,
       "label": "",
       "event_time": 1776302314
     },
     {
+      "rank": 13,
+      "word": "3月70城房价出炉",
+      "hot_value": 8556518,
+      "label": "",
+      "event_time": 1776312860
+    },
+    {
       "rank": 14,
       "word": "勇士淘汰快船将战太阳",
-      "hot_value": 8173370,
+      "hot_value": 8387806,
       "label": "爆",
       "event_time": 1776314980
     },
     {
       "rank": 15,
       "word": "逆天邪神年番开播",
-      "hot_value": 7813893,
+      "hot_value": 8364468,
       "label": "荐",
       "event_time": 1776303780
     },
     {
       "rank": 16,
       "word": "一季度GDP同比增长5.0%",
-      "hot_value": 7800331,
+      "hot_value": 8187551,
       "label": "",
       "event_time": 1776304919
     },
     {
       "rank": 17,
-      "word": "3月70城房价出炉",
-      "hot_value": 7773584,
+      "word": "CBA福建84:76力克江苏",
+      "hot_value": 7822667,
       "label": "",
-      "event_time": 1776312860
+      "event_time": 1776334817
     },
     {
       "rank": 18,
       "word": "文明泼水开心过节",
-      "hot_value": 7746697,
-      "label": "",
+      "hot_value": 7794890,
+      "label": "爆",
       "event_time": 1776227901
     },
     {
       "rank": 19,
-      "word": "三角洲S9回声新赛季33攻略",
-      "hot_value": 7741426,
-      "label": "爆",
-      "event_time": 1776329184
+      "word": "中国11人参加斯诺克世锦赛",
+      "hot_value": 7766306,
+      "label": "",
+      "event_time": 1776304943
     },
     {
       "rank": 20,
-      "word": "中国11人参加斯诺克世锦赛",
-      "hot_value": 7734009,
+      "word": "一季度全国居民人均可支配收入",
+      "hot_value": 7763558,
       "label": "",
-      "event_time": 1776304943
+      "event_time": 1776306518
     }
   ],
-  "update_time": "2026-04-16 21:35:03",
+  "update_time": "2026-04-16 22:31:47",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
