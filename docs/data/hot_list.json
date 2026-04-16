@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "我的弹簧裙摆很曼妙",
-      "hot_value": 12159205,
-      "label": "新",
-      "event_time": 1776321188
+      "word": "交换你镜头里的春天",
+      "hot_value": 11944634,
+      "label": "爆",
+      "event_time": 1776309337
     },
     {
       "rank": 2,
-      "word": "第一批五一玩家已出发",
-      "hot_value": 11134724,
-      "label": "爆",
-      "event_time": 1776242713
-    },
-    {
-      "rank": 3,
-      "word": "速览中国经济一季报亮点",
-      "hot_value": 11101179,
-      "label": "新",
-      "event_time": 1776323700
-    },
-    {
-      "rank": 4,
       "word": "苏林从北京乘高铁赴广西参访",
-      "hot_value": 10865822,
+      "hot_value": 11234757,
       "label": "爆",
       "event_time": 1776308469
     },
     {
-      "rank": 5,
-      "word": "欧冠半决赛对阵出炉",
-      "hot_value": 10311280,
+      "rank": 3,
+      "word": "速览中国经济一季报亮点",
+      "hot_value": 11109347,
       "label": "",
+      "event_time": 1776323700
+    },
+    {
+      "rank": 4,
+      "word": "欧冠半决赛对阵出炉",
+      "hot_value": 10899047,
+      "label": "爆",
       "event_time": 1776310034
     },
     {
+      "rank": 5,
+      "word": "中国驻日大使馆接连遭恐怖威胁",
+      "hot_value": 10275001,
+      "label": "新",
+      "event_time": 1776325044
+    },
+    {
       "rank": 6,
-      "word": "交换你镜头里的春天",
-      "hot_value": 10212361,
+      "word": "杀害罗大美主犯被执行死刑",
+      "hot_value": 10266402,
       "label": "",
-      "event_time": 1776309337
+      "event_time": 1776321182
     },
     {
       "rank": 7,
       "word": "网约车司机智斗境外间谍获奖励",
-      "hot_value": 9134194,
+      "hot_value": 9147597,
       "label": "",
       "event_time": 1776302314
     },
     {
       "rank": 8,
+      "word": "我的弹簧裙摆很曼妙",
+      "hot_value": 9135494,
+      "label": "",
+      "event_time": 1776321188
+    },
+    {
+      "rank": 9,
       "word": "武汉市原市长周先旺被起诉",
-      "hot_value": 9099403,
+      "hot_value": 9019286,
       "label": "",
       "event_time": 1776305034
     },
     {
-      "rank": 9,
+      "rank": 10,
       "word": "中国11人参加斯诺克世锦赛",
-      "hot_value": 8834110,
+      "hot_value": 8873202,
       "label": "",
       "event_time": 1776304943
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "一季度GDP同比增长5.0%",
-      "hot_value": 8778018,
+      "hot_value": 8697998,
       "label": "",
       "event_time": 1776304919
     },
     {
-      "rank": 11,
-      "word": "3月一线城市商品房售价环比上涨",
-      "hot_value": 8613130,
-      "label": "",
-      "event_time": 1776304694
-    },
-    {
       "rank": 12,
       "word": "多家航司大批取消五一航班",
-      "hot_value": 8409145,
+      "hot_value": 8564205,
       "label": "爆",
       "event_time": 1776255228
     },
     {
       "rank": 13,
-      "word": "“苏超”的“足球野心”",
-      "hot_value": 8373322,
+      "word": "一季度全国居民人均可支配收入",
+      "hot_value": 8501478,
       "label": "",
-      "event_time": 1776227671
+      "event_time": 1776306518
     },
     {
       "rank": 14,
-      "word": "三角洲藏宝堆点位攻略",
-      "hot_value": 8170350,
-      "label": "新",
-      "event_time": 1776319636
+      "word": "3月一线城市商品房售价环比上涨",
+      "hot_value": 8269309,
+      "label": "",
+      "event_time": 1776304694
     },
     {
       "rank": 15,
       "word": "杨柳絮漫天飞为啥不把树都砍了",
-      "hot_value": 8157794,
+      "hot_value": 8091813,
       "label": "谣言",
       "event_time": 1776316948
     },
     {
       "rank": 16,
       "word": "勇士淘汰快船将战太阳",
-      "hot_value": 8076413,
-      "label": "",
+      "hot_value": 7948226,
+      "label": "爆",
       "event_time": 1776314980
     },
     {
       "rank": 17,
       "word": "电影四渡定档6月26日",
-      "hot_value": 7928646,
-      "label": "",
+      "hot_value": 7829656,
+      "label": "爆",
       "event_time": 1776308763
     },
     {
       "rank": 18,
-      "word": "逆天邪神年番开播",
-      "hot_value": 7817187,
-      "label": "荐",
-      "event_time": 1776303780
-    },
-    {
-      "rank": 19,
       "word": "美国将启动关税退款",
-      "hot_value": 7807718,
+      "hot_value": 7816776,
       "label": "",
       "event_time": 1776254091
     },
     {
+      "rank": 19,
+      "word": "“苏超”的“足球野心”",
+      "hot_value": 7741003,
+      "label": "",
+      "event_time": 1776227671
+    },
+    {
       "rank": 20,
-      "word": "杀害罗大美主犯被执行死刑",
-      "hot_value": 7726235,
-      "label": "新",
-      "event_time": 1776321182
+      "word": "心愿便利贴激起的翻唱挑战欲",
+      "hot_value": 7726497,
+      "label": "音乐",
+      "event_time": 1776254917
     }
   ],
-  "update_time": "2026-04-16 08:22:56",
+  "update_time": "2026-04-16 10:08:11",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
