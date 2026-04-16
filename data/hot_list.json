@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "苏林从北京乘高铁赴广西参访",
-      "hot_value": 11202543,
-      "label": "爆",
-      "event_time": 1776308469
-    },
-    {
-      "rank": 2,
       "word": "交换你镜头里的春天",
-      "hot_value": 11105721,
+      "hot_value": 11101802,
       "label": "爆",
       "event_time": 1776309337
     },
     {
+      "rank": 2,
+      "word": "苏林从北京乘高铁赴广西参访",
+      "hot_value": 11058779,
+      "label": "爆",
+      "event_time": 1776308469
+    },
+    {
       "rank": 3,
       "word": "一季度经济“成绩单”里的新变化",
-      "hot_value": 10934204,
+      "hot_value": 10825757,
       "label": "",
       "event_time": 1776347730
     },
     {
       "rank": 4,
-      "word": "欧冠半决赛对阵出炉",
-      "hot_value": 10866876,
+      "word": "中国驻日大使馆接连遭恐怖威胁",
+      "hot_value": 10803514,
       "label": "爆",
-      "event_time": 1776310034
+      "event_time": 1776325044
     },
     {
       "rank": 5,
-      "word": "中国驻布基纳法索使馆发布提醒",
-      "hot_value": 10265339,
-      "label": "",
-      "event_time": 1776316175
-    },
-    {
-      "rank": 6,
-      "word": "斯诺克世锦赛正赛签表出炉",
-      "hot_value": 10252897,
-      "label": "新",
-      "event_time": 1776346697
-    },
-    {
-      "rank": 7,
-      "word": "中国11人参加斯诺克世锦赛",
-      "hot_value": 9170840,
-      "label": "",
-      "event_time": 1776304943
-    },
-    {
-      "rank": 8,
       "word": "TES战胜BLG",
-      "hot_value": 9111399,
-      "label": "新",
+      "hot_value": 10236945,
+      "label": "",
       "event_time": 1776346007
     },
     {
-      "rank": 9,
-      "word": "我的弹簧裙摆很曼妙",
-      "hot_value": 8978555,
-      "label": "",
-      "event_time": 1776321188
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "word": "中国海洋采油技术有多牛",
-      "hot_value": 8740250,
+      "hot_value": 10216459,
       "label": "热议",
       "event_time": 1776337013
     },
     {
+      "rank": 7,
+      "word": "欧冠半决赛对阵出炉",
+      "hot_value": 9115373,
+      "label": "",
+      "event_time": 1776310034
+    },
+    {
+      "rank": 8,
+      "word": "我的弹簧裙摆很曼妙",
+      "hot_value": 9091537,
+      "label": "",
+      "event_time": 1776321188
+    },
+    {
+      "rank": 9,
+      "word": "斯诺克世锦赛正赛签表出炉",
+      "hot_value": 8956119,
+      "label": "",
+      "event_time": 1776346697
+    },
+    {
+      "rank": 10,
+      "word": "CBA福建84:76力克江苏",
+      "hot_value": 8687052,
+      "label": "爆",
+      "event_time": 1776334817
+    },
+    {
       "rank": 11,
       "word": "一季度GDP同比增长5.0%",
-      "hot_value": 8231069,
+      "hot_value": 8650531,
       "label": "",
       "event_time": 1776304919
     },
     {
       "rank": 12,
-      "word": "中国驻日大使馆接连遭恐怖威胁",
-      "hot_value": 8037392,
+      "word": "中国驻布基纳法索使馆发布提醒",
+      "hot_value": 8086557,
       "label": "",
-      "event_time": 1776325044
+      "event_time": 1776316175
     },
     {
       "rank": 13,
-      "word": "杀害罗大美主犯被执行死刑",
-      "hot_value": 7839690,
-      "label": "",
-      "event_time": 1776321182
-    },
-    {
-      "rank": 14,
-      "word": "勇士淘汰快船将战太阳",
-      "hot_value": 7792614,
-      "label": "爆",
-      "event_time": 1776314980
-    },
-    {
-      "rank": 15,
-      "word": "逆天邪神年番开播",
-      "hot_value": 7779908,
-      "label": "荐",
-      "event_time": 1776303780
-    },
-    {
-      "rank": 16,
       "word": "网约车司机智斗境外间谍获奖励",
-      "hot_value": 7754781,
+      "hot_value": 7927104,
       "label": "",
       "event_time": 1776302314
     },
     {
-      "rank": 17,
-      "word": "电影四渡定档6月26日",
-      "hot_value": 7745966,
+      "rank": 14,
+      "word": "杀害罗大美主犯被执行死刑",
+      "hot_value": 7810958,
+      "label": "",
+      "event_time": 1776321182
+    },
+    {
+      "rank": 15,
+      "word": "勇士淘汰快船将战太阳",
+      "hot_value": 7771568,
       "label": "爆",
-      "event_time": 1776308763
+      "event_time": 1776314980
+    },
+    {
+      "rank": 16,
+      "word": "逆天邪神年番开播",
+      "hot_value": 7758599,
+      "label": "荐",
+      "event_time": 1776303780
+    },
+    {
+      "rank": 17,
+      "word": "中国11人参加斯诺克世锦赛",
+      "hot_value": 7752094,
+      "label": "",
+      "event_time": 1776304943
     },
     {
       "rank": 18,
-      "word": "我也像阿凡提一样天天开心",
-      "hot_value": 7745476,
-      "label": "音乐",
-      "event_time": 1776237957
+      "word": "文明泼水开心过节",
+      "hot_value": 7748800,
+      "label": "",
+      "event_time": 1776227901
     },
     {
       "rank": 19,
-      "word": "Claude身份验证背后的博弈",
-      "hot_value": 7741807,
-      "label": "新",
-      "event_time": 1776335293
+      "word": "三角洲S9回声新赛季33攻略",
+      "hot_value": 7748798,
+      "label": "爆",
+      "event_time": 1776329184
     },
     {
       "rank": 20,
-      "word": "三角洲S9回声新赛季33攻略",
-      "hot_value": 7739509,
+      "word": "电影四渡定档6月26日",
+      "hot_value": 7744636,
       "label": "爆",
-      "event_time": 1776329184
+      "event_time": 1776308763
     }
   ],
-  "update_time": "2026-04-16 15:19:08",
+  "update_time": "2026-04-16 17:04:10",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
