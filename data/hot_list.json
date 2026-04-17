@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "日舰艇进入台湾海峡 中方回应",
-      "hot_value": 12055947,
+      "hot_value": 11846167,
       "label": "爆",
       "event_time": 1776411274
     },
     {
       "rank": 2,
       "word": "雷军回应是否做10万以内车型",
-      "hot_value": 11836243,
+      "hot_value": 11814887,
       "label": "爆",
       "event_time": 1776389188
     },
     {
       "rank": 3,
       "word": "智能产品解锁生活新体验",
-      "hot_value": 11819589,
+      "hot_value": 11808678,
       "label": "爆",
       "event_time": 1776414820
     },
     {
       "rank": 4,
       "word": "苏林乘火车离开南宁回国",
-      "hot_value": 11676984,
+      "hot_value": 11628090,
       "label": "爆",
       "event_time": 1776397900
     },
     {
       "rank": 5,
       "word": "郑丽文再谈访陆感受",
-      "hot_value": 10989628,
+      "hot_value": 10942866,
       "label": "爆",
       "event_time": 1776381742
     },
     {
       "rank": 6,
       "word": "事有轻重缓急具象化了",
-      "hot_value": 10967931,
+      "hot_value": 10884223,
       "label": "爆",
       "event_time": 1776396522
     },
     {
       "rank": 7,
       "word": "韩媒警告：日本已着手战备举措",
-      "hot_value": 9791210,
+      "hot_value": 9686124,
       "label": "",
       "event_time": 1776397590
     },
     {
       "rank": 8,
       "word": "朝鲜媒体发文批驳日本",
-      "hot_value": 9774229,
+      "hot_value": 9629716,
       "label": "爆",
       "event_time": 1776392435
     },
     {
       "rank": 9,
       "word": "中越联合声明推动电力互联互通",
-      "hot_value": 9436633,
+      "hot_value": 9569307,
       "label": "",
       "event_time": 1776395357
     },
     {
       "rank": 10,
       "word": "当我的男友解说化妆",
-      "hot_value": 9368447,
+      "hot_value": 9356786,
       "label": "热议",
       "event_time": 1776400666
     },
     {
       "rank": 11,
-      "word": "什么是幽灵外卖",
-      "hot_value": 8893691,
-      "label": "爆",
-      "event_time": 1776430693
-    },
-    {
-      "rank": 12,
       "word": "泰国泼水节交通事故致242死",
-      "hot_value": 8882399,
+      "hot_value": 9113817,
       "label": "",
       "event_time": 1776411395
     },
     {
-      "rank": 13,
-      "word": "我在海底小纵队开鲨鱼艇",
-      "hot_value": 8838657,
-      "label": "",
-      "event_time": 1776402878
+      "rank": 12,
+      "word": "什么是幽灵外卖",
+      "hot_value": 9094510,
+      "label": "爆",
+      "event_time": 1776430693
     },
     {
-      "rank": 14,
+      "rank": 13,
       "word": "曼宁格因火车撞击去世",
-      "hot_value": 8641979,
+      "hot_value": 8949261,
       "label": "爆",
       "event_time": 1776385914
     },
     {
+      "rank": 14,
+      "word": "爱美是一辈子的事",
+      "hot_value": 8567802,
+      "label": "",
+      "event_time": 1776323289
+    },
+    {
       "rank": 15,
       "word": "香港演员潘宏彬已离世",
-      "hot_value": 8609067,
+      "hot_value": 8534949,
       "label": "爆",
       "event_time": 1776391294
     },
     {
       "rank": 16,
       "word": "伊朗宣布开放霍尔木兹海峡",
-      "hot_value": 8413690,
+      "hot_value": 8526619,
       "label": "",
       "event_time": 1776432711
     },
     {
       "rank": 17,
-      "word": "李小冉回应乘风值第一",
-      "hot_value": 8328554,
-      "label": "美食",
-      "event_time": 1776408915
-    },
-    {
-      "rank": 18,
       "word": "王者荣耀世界移动端上线",
-      "hot_value": 7854049,
+      "hot_value": 8274661,
       "label": "",
       "event_time": 1776388740
     },
     {
+      "rank": 18,
+      "word": "上抖音看斯诺克世锦赛",
+      "hot_value": 7842785,
+      "label": "",
+      "event_time": 1776419189
+    },
+    {
       "rank": 19,
-      "word": "钟汉良回忆和9岁郭晓婷一搭",
-      "hot_value": 7843033,
-      "label": "热议",
-      "event_time": 1776393214
+      "word": "李小冉回应乘风值第一",
+      "hot_value": 7818134,
+      "label": "美食",
+      "event_time": 1776408915
     },
     {
       "rank": 20,
-      "word": "爱美是一辈子的事",
-      "hot_value": 7819203,
-      "label": "",
-      "event_time": 1776323289
+      "word": "钟汉良回忆和9岁郭晓婷一搭",
+      "hot_value": 7811250,
+      "label": "热议",
+      "event_time": 1776393214
     }
   ],
-  "update_time": "2026-04-17 18:44:34",
+  "update_time": "2026-04-17 19:52:35",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
