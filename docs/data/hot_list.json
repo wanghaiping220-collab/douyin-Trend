@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "是时候展现真正的技术了",
-      "hot_value": 12142052,
+      "hot_value": 12132133,
       "label": "爆",
       "event_time": 1776478984
     },
     {
       "rank": 2,
       "word": "苏超宿迁2:0南京",
-      "hot_value": 12106024,
+      "hot_value": 12103989,
       "label": "爆",
       "event_time": 1776497418
     },
     {
       "rank": 3,
       "word": "消博会告诉你封关有多香",
-      "hot_value": 12069882,
+      "hot_value": 11807185,
       "label": "爆",
       "event_time": 1776518762
     },
     {
       "rank": 4,
-      "word": "此刻风景真美",
-      "hot_value": 12067774,
+      "word": "郑丽文再约赖清德见面",
+      "hot_value": 11649973,
       "label": "爆",
-      "event_time": 1776496246
+      "event_time": 1776484080
     },
     {
       "rank": 5,
       "word": "被广西的文化底蕴硬控了",
-      "hot_value": 11083982,
+      "hot_value": 10907679,
       "label": "热议",
       "event_time": 1776484363
     },
     {
       "rank": 6,
-      "word": "郑丽文再约赖清德见面",
-      "hot_value": 10591229,
-      "label": "爆",
-      "event_time": 1776484080
+      "word": "此刻风景真美",
+      "hot_value": 10511894,
+      "label": "",
+      "event_time": 1776496246
     },
     {
       "rank": 7,
-      "word": "维斯塔潘征战纽博格林24小时",
-      "hot_value": 9355383,
-      "label": "",
-      "event_time": 1776505049
-    },
-    {
-      "rank": 8,
       "word": "潮流舞蹈大赛舞上门了",
-      "hot_value": 9320309,
+      "hot_value": 9282893,
       "label": "",
       "event_time": 1776409393
     },
     {
+      "rank": 8,
+      "word": "维斯塔潘征战纽博格林24小时",
+      "hot_value": 9244055,
+      "label": "",
+      "event_time": 1776505049
+    },
+    {
       "rank": 9,
       "word": "这个春天抬头看树",
-      "hot_value": 9251987,
+      "hot_value": 9153803,
       "label": "",
       "event_time": 1776407527
     },
     {
       "rank": 10,
       "word": "平静的幸福贯穿我的每分每秒",
-      "hot_value": 9201435,
+      "hot_value": 9131305,
       "label": "",
       "event_time": 1776415294
     },
     {
       "rank": 11,
       "word": "京中有善口技者真没骗我啊",
-      "hot_value": 9183116,
+      "hot_value": 9129332,
       "label": "爆",
       "event_time": 1776481728
     },
     {
       "rank": 12,
-      "word": "实测Claude Opus 4.7",
-      "hot_value": 9140090,
+      "word": "已经跟不上拼豆人的脑洞了",
+      "hot_value": 9113550,
       "label": "爆",
-      "event_time": 1776406746
+      "event_time": 1776482371
     },
     {
       "rank": 13,
       "word": "街头回收CT片或涉嫌违法",
-      "hot_value": 9133357,
+      "hot_value": 9059011,
       "label": "谣言",
       "event_time": 1776518417
     },
     {
       "rank": 14,
       "word": "苏超徐州3:0泰州",
-      "hot_value": 9113686,
+      "hot_value": 9052573,
       "label": "",
       "event_time": 1776507968
     },
     {
       "rank": 15,
-      "word": "乘风2026二公小考",
-      "hot_value": 9109389,
-      "label": "爆",
-      "event_time": 1776487258
+      "word": "壮锦可是我的时尚单品",
+      "hot_value": 8960073,
+      "label": "",
+      "event_time": 1776404494
     },
     {
       "rank": 16,
+      "word": "重庆的火锅店已经发展成这样了",
+      "hot_value": 8943584,
+      "label": "爆",
+      "event_time": 1776406576
+    },
+    {
+      "rank": 17,
       "word": "Sora之父宣布离职",
-      "hot_value": 9108661,
+      "hot_value": 8848867,
       "label": "",
       "event_time": 1776484962
     },
     {
-      "rank": 17,
-      "word": "已经跟不上拼豆人的脑洞了",
-      "hot_value": 9072594,
-      "label": "爆",
-      "event_time": 1776482371
-    },
-    {
       "rank": 18,
       "word": "伊朗恢复对霍尔木兹海峡控制",
-      "hot_value": 8968758,
+      "hot_value": 8766524,
       "label": "爆",
       "event_time": 1776500124
     },
     {
       "rank": 19,
       "word": "威姆斯100:93赖益烨",
-      "hot_value": 8665317,
+      "hot_value": 8643936,
       "label": "",
       "event_time": 1776521488
     },
     {
       "rank": 20,
-      "word": "壮锦可是我的时尚单品",
-      "hot_value": 7818832,
+      "word": "乘风2026二公小考",
+      "hot_value": 7806837,
       "label": "",
-      "event_time": 1776404494
+      "event_time": 1776487258
     }
   ],
-  "update_time": "2026-04-18 20:27:08",
+  "update_time": "2026-04-18 21:25:23",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
