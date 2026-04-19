@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "国内油价将迎来新一轮调整",
-      "hot_value": 12000354,
+      "word": "国防部回应日舰过航台湾海峡",
+      "hot_value": 11695422,
       "label": "爆",
-      "event_time": 1776572826
+      "event_time": 1776558311
     },
     {
       "rank": 2,
-      "word": "丁俊晖迎战吉尔伯特",
-      "hot_value": 11817405,
-      "label": "新",
-      "event_time": 1776594473
+      "word": "今年的小龙虾为啥便宜",
+      "hot_value": 11359440,
+      "label": "",
+      "event_time": 1776507134
     },
     {
       "rank": 3,
       "word": "看清洁能源如何点亮绿色经济",
-      "hot_value": 11763865,
+      "hot_value": 11292714,
       "label": "爆",
       "event_time": 1776582374
     },
     {
       "rank": 4,
-      "word": "国防部回应日舰过航台湾海峡",
-      "hot_value": 11456066,
-      "label": "爆",
-      "event_time": 1776558311
-    },
-    {
-      "rank": 5,
-      "word": "赵心童斯诺克世锦赛开门红",
-      "hot_value": 10743159,
-      "label": "",
-      "event_time": 1776526231
-    },
-    {
-      "rank": 6,
       "word": "已经跟不上拼豆人的脑洞了",
-      "hot_value": 9523040,
-      "label": "",
+      "hot_value": 11108807,
+      "label": "爆",
       "event_time": 1776482371
     },
     {
-      "rank": 7,
+      "rank": 5,
       "word": "三月三机器人来广西也要跳竹竿舞",
-      "hot_value": 9432438,
-      "label": "",
+      "hot_value": 10514858,
+      "label": "爆",
       "event_time": 1776430177
     },
     {
-      "rank": 8,
-      "word": "三月三荠菜煮鸡蛋",
-      "hot_value": 9263538,
-      "label": "爆",
-      "event_time": 1776564538
+      "rank": 6,
+      "word": "东部战区舰艇编队过航横当水道",
+      "hot_value": 10485015,
+      "label": "新",
+      "event_time": 1776594084
     },
     {
-      "rank": 9,
-      "word": "湖人107:98战胜火箭",
-      "hot_value": 9263298,
-      "label": "",
-      "event_time": 1776569031
-    },
-    {
-      "rank": 10,
-      "word": "后湖煎饼也是吃上了",
-      "hot_value": 9216950,
-      "label": "爆",
-      "event_time": 1776563612
-    },
-    {
-      "rank": 11,
+      "rank": 7,
       "word": "苏超积分榜乱成一锅粥了",
-      "hot_value": 9203202,
-      "label": "爆",
+      "hot_value": 9367612,
+      "label": "",
       "event_time": 1776580073
     },
     {
-      "rank": 12,
-      "word": "“环保新规致蛋价上涨”系谣言",
-      "hot_value": 9159749,
-      "label": "谣言",
-      "event_time": 1776575775
-    },
-    {
-      "rank": 13,
-      "word": "中国军号发布视频枕戈待旦",
-      "hot_value": 9080229,
-      "label": "爆",
-      "event_time": 1776513417
-    },
-    {
-      "rank": 14,
-      "word": "詹姆斯再现死亡之瞳",
-      "hot_value": 9072281,
-      "label": "爆",
-      "event_time": 1776573345
-    },
-    {
-      "rank": 15,
+      "rank": 8,
       "word": "今年机器人跑半马也太快了",
-      "hot_value": 9056525,
+      "hot_value": 9354839,
       "label": "爆",
       "event_time": 1776560726
     },
     {
-      "rank": 16,
-      "word": "王者荣耀与哪吒2联动",
-      "hot_value": 8314326,
+      "rank": 9,
+      "word": "三月三荠菜煮鸡蛋",
+      "hot_value": 9245780,
       "label": "爆",
-      "event_time": 1776569800
+      "event_time": 1776564538
+    },
+    {
+      "rank": 10,
+      "word": "丁俊晖半场7:2吉尔伯特",
+      "hot_value": 9236135,
+      "label": "新",
+      "event_time": 1776594473
+    },
+    {
+      "rank": 11,
+      "word": "CBA青岛国信vs北京首钢",
+      "hot_value": 9231433,
+      "label": "",
+      "event_time": 1776580362
+    },
+    {
+      "rank": 12,
+      "word": "后湖煎饼也是吃上了",
+      "hot_value": 9207954,
+      "label": "爆",
+      "event_time": 1776563612
+    },
+    {
+      "rank": 13,
+      "word": "“环保新规致蛋价上涨”系谣言",
+      "hot_value": 9193976,
+      "label": "谣言",
+      "event_time": 1776575775
+    },
+    {
+      "rank": 14,
+      "word": "湖人107:98战胜火箭",
+      "hot_value": 8879536,
+      "label": "",
+      "event_time": 1776569031
+    },
+    {
+      "rank": 15,
+      "word": "国产光纤全球爆单 价格涨650%",
+      "hot_value": 8558314,
+      "label": "",
+      "event_time": 1776566240
+    },
+    {
+      "rank": 16,
+      "word": "赵心童斯诺克世锦赛开门红",
+      "hot_value": 7946213,
+      "label": "",
+      "event_time": 1776526231
     },
     {
       "rank": 17,
+      "word": "周深广州演唱会",
+      "hot_value": 7797658,
+      "label": "爆",
+      "event_time": 1776436956
+    },
+    {
+      "rank": 18,
       "word": "闽超揭幕战",
-      "hot_value": 7782471,
+      "hot_value": 7782081,
       "label": "",
       "event_time": 1776571817
     },
     {
-      "rank": 18,
-      "word": "日本启动十二年来最重大军售",
-      "hot_value": 7782094,
-      "label": "",
-      "event_time": 1776567303
-    },
-    {
       "rank": 19,
-      "word": "三月三拜轩辕",
-      "hot_value": 7768349,
-      "label": "爆",
-      "event_time": 1776560999
+      "word": "王者荣耀与哪吒2联动",
+      "hot_value": 7775086,
+      "label": "",
+      "event_time": 1776569800
     },
     {
       "rank": 20,
-      "word": "何润东项羽造型亮相苏超",
-      "hot_value": 7733928,
-      "label": "",
-      "event_time": 1776513468
+      "word": "日本启动十二年来最重大军售",
+      "hot_value": 7766657,
+      "label": "爆",
+      "event_time": 1776567303
     }
   ],
-  "update_time": "2026-04-19 11:28:19",
+  "update_time": "2026-04-19 12:39:35",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
