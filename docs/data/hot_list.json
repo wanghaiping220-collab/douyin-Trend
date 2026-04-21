@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "国内油价迎2026年首次下调",
-      "hot_value": 12158574,
-      "label": "爆",
-      "event_time": 1776737053
-    },
-    {
-      "rank": 2,
       "word": "非遗穿进日常的N种方式",
-      "hot_value": 11981359,
+      "hot_value": 12169268,
       "label": "爆",
       "event_time": 1776742955
     },
     {
+      "rank": 2,
+      "word": "江苏为什么能把苏超玩出新花样",
+      "hot_value": 11778708,
+      "label": "爆",
+      "event_time": 1776738432
+    },
+    {
       "rank": 3,
       "word": "全国5G基站总数已达495.8万个",
-      "hot_value": 11945373,
-      "label": "",
+      "hot_value": 11323491,
+      "label": "爆",
       "event_time": 1776762178
     },
     {
       "rank": 4,
-      "word": "第13批在韩志愿军烈士遗骸将回国",
-      "hot_value": 11337579,
-      "label": "爆",
-      "event_time": 1776732355
-    },
-    {
-      "rank": 5,
-      "word": "中国代表当场驳斥美方攻击抹黑",
-      "hot_value": 10754012,
-      "label": "爆",
-      "event_time": 1776730024
-    },
-    {
-      "rank": 6,
       "word": "云南的目瑙纵歌节场面太震撼了",
-      "hot_value": 10312564,
+      "hot_value": 10812290,
       "label": "爆",
       "event_time": 1776656812
     },
     {
-      "rank": 7,
-      "word": "江苏为什么能把苏超玩出新花样",
-      "hot_value": 9194821,
-      "label": "",
-      "event_time": 1776738432
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "word": "山城的巷子里满是人间烟火",
-      "hot_value": 9121733,
+      "hot_value": 10201433,
       "label": "",
       "event_time": 1776650019
     },
     {
-      "rank": 9,
-      "word": "裙摆一扬夏天登场",
-      "hot_value": 9109815,
-      "label": "爆",
-      "event_time": 1776662917
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "word": "大湾区首台华龙核电机组投运",
-      "hot_value": 8998268,
+      "hot_value": 10193009,
       "label": "热议",
       "event_time": 1776745827
     },
     {
+      "rank": 7,
+      "word": "第13批在韩志愿军烈士遗骸将回国",
+      "hot_value": 9111005,
+      "label": "",
+      "event_time": 1776732355
+    },
+    {
+      "rank": 8,
+      "word": "裙摆一扬夏天登场",
+      "hot_value": 8997279,
+      "label": "爆",
+      "event_time": 1776662917
+    },
+    {
+      "rank": 9,
+      "word": "石油价格上涨或导致维生素变贵",
+      "hot_value": 8440630,
+      "label": "爆",
+      "event_time": 1776738308
+    },
+    {
+      "rank": 10,
+      "word": "王毅将访问柬埔寨泰国缅甸",
+      "hot_value": 8424579,
+      "label": "爆",
+      "event_time": 1776756173
+    },
+    {
       "rank": 11,
       "word": "湖北涉黑头目黄大发被判死刑",
-      "hot_value": 8657717,
+      "hot_value": 8422330,
       "label": "爆",
       "event_time": 1776753645
     },
     {
       "rank": 12,
       "word": "日本10式坦克炸膛事故细节公布",
-      "hot_value": 8188689,
-      "label": "",
+      "hot_value": 8113651,
+      "label": "爆",
       "event_time": 1776772494
     },
     {
       "rank": 13,
       "word": "独牙传奇赛：杨绍杰战胜薛珍麒",
-      "hot_value": 7905078,
+      "hot_value": 8099201,
       "label": "爆",
       "event_time": 1776761103
     },
     {
       "rank": 14,
-      "word": "印度加快推进苹果反垄断案",
-      "hot_value": 7892493,
-      "label": "爆",
-      "event_time": 1776739752
-    },
-    {
-      "rank": 15,
-      "word": "猪价开启“回暖”模式",
-      "hot_value": 7864721,
-      "label": "爆",
-      "event_time": 1776740251
-    },
-    {
-      "rank": 16,
-      "word": "石油价格上涨或导致维生素变贵",
-      "hot_value": 7839506,
-      "label": "爆",
-      "event_time": 1776738308
-    },
-    {
-      "rank": 17,
-      "word": "王毅将访问柬埔寨泰国缅甸",
-      "hot_value": 7832459,
-      "label": "爆",
-      "event_time": 1776756173
-    },
-    {
-      "rank": 18,
       "word": "媒体评日本军舰穿越台湾海峡",
-      "hot_value": 7791168,
+      "hot_value": 7953781,
       "label": "",
       "event_time": 1776691421
     },
     {
-      "rank": 19,
+      "rank": 15,
+      "word": "方圆八百米真假焦玉芹迷局揭开",
+      "hot_value": 7821591,
+      "label": "",
+      "event_time": 1776763571
+    },
+    {
+      "rank": 16,
+      "word": "猪价开启“回暖”模式",
+      "hot_value": 7817178,
+      "label": "爆",
+      "event_time": 1776740251
+    },
+    {
+      "rank": 17,
       "word": "女朋友唱的专属bgm",
-      "hot_value": 7772467,
+      "hot_value": 7797713,
       "label": "音乐",
       "event_time": 1776743802
     },
     {
+      "rank": 18,
+      "word": "印度加快推进苹果反垄断案",
+      "hot_value": 7778542,
+      "label": "",
+      "event_time": 1776739752
+    },
+    {
+      "rank": 19,
+      "word": "何润东项羽造型亮相苏超观后感",
+      "hot_value": 7739570,
+      "label": "爆",
+      "event_time": 1776659454
+    },
+    {
       "rank": 20,
       "word": "星铁银狼角色动画",
-      "hot_value": 7757611,
+      "hot_value": 7738300,
       "label": "爆",
       "event_time": 1776756900
     }
   ],
-  "update_time": "2026-04-21 15:04:25",
+  "update_time": "2026-04-21 16:49:02",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
