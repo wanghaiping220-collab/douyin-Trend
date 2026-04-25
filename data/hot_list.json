@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "苏超积分榜更新",
+      "hot_value": 12101939,
+      "label": "爆",
+      "event_time": 1777127439
+    },
+    {
+      "rank": 2,
       "word": "四川女篮夺冠",
-      "hot_value": 12099695,
+      "hot_value": 12094626,
       "label": "爆",
       "event_time": 1777125657
     },
     {
-      "rank": 2,
-      "word": "苏超南通0:0徐州",
-      "hot_value": 11854040,
-      "label": "爆",
-      "event_time": 1777099901
-    },
-    {
       "rank": 3,
       "word": "消费品以旧换新惠及近7500万人次",
-      "hot_value": 11799299,
+      "hot_value": 11992348,
       "label": "爆",
       "event_time": 1777121642
     },
     {
       "rank": 4,
-      "word": "苏超积分榜更新",
-      "hot_value": 11774300,
+      "word": "苏超南通0:0徐州",
+      "hot_value": 11552731,
       "label": "爆",
-      "event_time": 1777127439
+      "event_time": 1777099901
     },
     {
       "rank": 5,
       "word": "在海上看日落有多浪漫",
-      "hot_value": 11041794,
-      "label": "爆",
+      "hot_value": 10848283,
+      "label": "",
       "event_time": 1777096548
     },
     {
       "rank": 6,
       "word": "普通人如何参与超长期特别国债",
-      "hot_value": 10816524,
+      "hot_value": 10691112,
       "label": "爆",
       "event_time": 1777028665
     },
     {
       "rank": 7,
       "word": "洪秀柱访问上海",
-      "hot_value": 9499801,
+      "hot_value": 9466927,
       "label": "",
       "event_time": 1777114619
     },
     {
       "rank": 8,
+      "word": "羽联通过羽毛球15分制改革提案",
+      "hot_value": 9460440,
+      "label": "",
+      "event_time": 1777126485
+    },
+    {
+      "rank": 9,
       "word": "苏超盐城1:0宿迁",
-      "hot_value": 9332148,
+      "hot_value": 9423775,
       "label": "",
       "event_time": 1777100351
     },
     {
-      "rank": 9,
+      "rank": 10,
       "word": "这一顿会很疯狂",
-      "hot_value": 9235524,
+      "hot_value": 9350291,
       "label": "爆",
       "event_time": 1777086249
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "网传“牛奶营养含量低”缺乏依据",
-      "hot_value": 9132502,
+      "hot_value": 9130473,
       "label": "谣言",
       "event_time": 1777123319
     },
     {
-      "rank": 11,
+      "rank": 12,
       "word": "中超成都蓉城4:0浙江队",
-      "hot_value": 8940619,
+      "hot_value": 9113314,
       "label": "爆",
       "event_time": 1777118202
     },
     {
-      "rank": 12,
+      "rank": 13,
       "word": "剑来动画2收官",
-      "hot_value": 8880466,
+      "hot_value": 8958402,
       "label": "荐",
       "event_time": 1777116143
     },
     {
-      "rank": 13,
+      "rank": 14,
       "word": "伊朗：已生产逾千种武器装备",
-      "hot_value": 8568614,
+      "hot_value": 8853593,
       "label": "爆",
       "event_time": 1777085040
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "者来女被淘汰",
-      "hot_value": 8539924,
+      "hot_value": 8559284,
       "label": "美食",
       "event_time": 1777127502
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "苏超连云港0:0战平无锡",
-      "hot_value": 8340238,
-      "label": "",
+      "hot_value": 8414842,
+      "label": "爆",
       "event_time": 1777100357
     },
     {
-      "rank": 16,
+      "rank": 17,
       "word": "花呗白条月付等面临重大调整",
-      "hot_value": 8142048,
+      "hot_value": 8070942,
       "label": "爆",
       "event_time": 1777097656
     },
     {
-      "rank": 17,
+      "rank": 18,
       "word": "唐艺昕真的跳了滴血认亲舞",
-      "hot_value": 7784671,
+      "hot_value": 7929262,
       "label": "",
       "event_time": 1777120859
     },
     {
-      "rank": 18,
-      "word": "五一在这拍大片",
-      "hot_value": 7762180,
-      "label": "",
-      "event_time": 1777003439
-    },
-    {
       "rank": 19,
-      "word": "佳偶天成开播",
-      "hot_value": 7746206,
-      "label": "荐",
-      "event_time": 1777083657
+      "word": "2026北京国际车展",
+      "hot_value": 7747943,
+      "label": "",
+      "event_time": 1776998841
     },
     {
       "rank": 20,
-      "word": "乘风2026二公第二场",
-      "hot_value": 7741722,
-      "label": "",
-      "event_time": 1777119619
+      "word": "佳偶天成开播",
+      "hot_value": 7739371,
+      "label": "荐",
+      "event_time": 1777083657
     }
   ],
-  "update_time": "2026-04-25 22:27:12",
+  "update_time": "2026-04-25 23:29:23",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
