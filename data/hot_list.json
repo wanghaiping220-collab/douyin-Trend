@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "四川女篮夺冠",
-      "hot_value": 12101634,
+      "hot_value": 12089295,
       "label": "",
       "event_time": 1777125657
     },
     {
       "rank": 2,
       "word": "苏超南通0:0徐州",
-      "hot_value": 11834165,
+      "hot_value": 11783354,
       "label": "爆",
       "event_time": 1777099901
     },
     {
       "rank": 3,
       "word": "消费品以旧换新惠及近7500万人次",
-      "hot_value": 11783645,
+      "hot_value": 11561180,
       "label": "爆",
       "event_time": 1777121642
     },
     {
       "rank": 4,
       "word": "在海上看日落有多浪漫",
-      "hot_value": 11463287,
+      "hot_value": 11473763,
       "label": "爆",
       "event_time": 1777096548
     },
     {
       "rank": 5,
       "word": "苏超积分榜更新",
-      "hot_value": 10716952,
+      "hot_value": 10525164,
       "label": "",
       "event_time": 1777127439
     },
     {
       "rank": 6,
       "word": "普通人如何参与超长期特别国债",
-      "hot_value": 10500994,
+      "hot_value": 10453685,
       "label": "爆",
       "event_time": 1777028665
     },
     {
       "rank": 7,
+      "word": "洪秀柱访问上海",
+      "hot_value": 9099222,
+      "label": "爆",
+      "event_time": 1777114619
+    },
+    {
+      "rank": 8,
       "word": "这一顿会很疯狂",
-      "hot_value": 9124557,
+      "hot_value": 9087066,
       "label": "爆",
       "event_time": 1777086249
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "网传“牛奶营养含量低”缺乏依据",
-      "hot_value": 9056172,
+      "hot_value": 9059299,
       "label": "谣言",
       "event_time": 1777123319
     },
     {
-      "rank": 9,
+      "rank": 10,
       "word": "中超成都蓉城4:0浙江队",
-      "hot_value": 9026544,
+      "hot_value": 9028461,
       "label": "爆",
       "event_time": 1777118202
     },
     {
-      "rank": 10,
-      "word": "洪秀柱访问上海",
-      "hot_value": 9004040,
-      "label": "",
-      "event_time": 1777114619
-    },
-    {
       "rank": 11,
       "word": "剑来动画2收官",
-      "hot_value": 8809719,
+      "hot_value": 8540948,
       "label": "荐",
       "event_time": 1777116143
     },
     {
       "rank": 12,
       "word": "苏超盐城1:0宿迁",
-      "hot_value": 8584756,
+      "hot_value": 8444279,
       "label": "",
       "event_time": 1777100351
     },
     {
       "rank": 13,
       "word": "者来女被淘汰",
-      "hot_value": 8441997,
+      "hot_value": 8394934,
       "label": "美食",
       "event_time": 1777127502
     },
     {
       "rank": 14,
-      "word": "苏超连云港0:0战平无锡",
-      "hot_value": 8436205,
+      "word": "伊朗：已生产逾千种武器装备",
+      "hot_value": 8380794,
       "label": "爆",
-      "event_time": 1777100357
+      "event_time": 1777085040
     },
     {
       "rank": 15,
       "word": "花呗白条月付等面临重大调整",
-      "hot_value": 8416197,
+      "hot_value": 8011742,
       "label": "",
       "event_time": 1777097656
     },
     {
       "rank": 16,
       "word": "唐艺昕真的跳了滴血认亲舞",
-      "hot_value": 8411445,
+      "hot_value": 7896833,
       "label": "",
       "event_time": 1777120859
     },
     {
       "rank": 17,
-      "word": "伊朗：已生产逾千种武器装备",
-      "hot_value": 8391675,
-      "label": "爆",
-      "event_time": 1777085040
+      "word": "你嘴巴多毒我才不在乎",
+      "hot_value": 7789184,
+      "label": "音乐",
+      "event_time": 1777126206
     },
     {
       "rank": 18,
       "word": "一生一世一双人",
-      "hot_value": 7992158,
+      "hot_value": 7775139,
       "label": "音乐",
       "event_time": 1777031912
     },
     {
       "rank": 19,
-      "word": "你嘴巴多毒我才不在乎",
-      "hot_value": 7802846,
-      "label": "音乐",
-      "event_time": 1777126206
+      "word": "五一在这拍大片",
+      "hot_value": 7766738,
+      "label": "",
+      "event_time": 1777003439
     },
     {
       "rank": 20,
       "word": "迈克尔杰克逊巨星之路上映",
-      "hot_value": 7755400,
+      "hot_value": 7759662,
       "label": "爆",
       "event_time": 1777076594
     }
   ],
-  "update_time": "2026-04-25 17:31:14",
+  "update_time": "2026-04-25 18:37:28",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
