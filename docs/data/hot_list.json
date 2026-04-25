@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "四川女篮夺冠",
-      "hot_value": 12089295,
-      "label": "",
+      "hot_value": 12092157,
+      "label": "爆",
       "event_time": 1777125657
     },
     {
       "rank": 2,
       "word": "苏超南通0:0徐州",
-      "hot_value": 11783354,
+      "hot_value": 11650282,
       "label": "爆",
       "event_time": 1777099901
     },
     {
       "rank": 3,
       "word": "消费品以旧换新惠及近7500万人次",
-      "hot_value": 11561180,
+      "hot_value": 10980935,
       "label": "爆",
       "event_time": 1777121642
     },
     {
       "rank": 4,
       "word": "在海上看日落有多浪漫",
-      "hot_value": 11473763,
+      "hot_value": 10868154,
       "label": "爆",
       "event_time": 1777096548
     },
     {
       "rank": 5,
       "word": "苏超积分榜更新",
-      "hot_value": 10525164,
+      "hot_value": 10211150,
       "label": "",
       "event_time": 1777127439
     },
     {
       "rank": 6,
       "word": "普通人如何参与超长期特别国债",
-      "hot_value": 10453685,
-      "label": "爆",
+      "hot_value": 10202444,
+      "label": "",
       "event_time": 1777028665
     },
     {
       "rank": 7,
-      "word": "洪秀柱访问上海",
-      "hot_value": 9099222,
-      "label": "爆",
-      "event_time": 1777114619
-    },
-    {
-      "rank": 8,
       "word": "这一顿会很疯狂",
-      "hot_value": 9087066,
+      "hot_value": 9021959,
       "label": "爆",
       "event_time": 1777086249
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "网传“牛奶营养含量低”缺乏依据",
-      "hot_value": 9059299,
+      "hot_value": 8969655,
       "label": "谣言",
       "event_time": 1777123319
     },
     {
-      "rank": 10,
+      "rank": 9,
       "word": "中超成都蓉城4:0浙江队",
-      "hot_value": 9028461,
+      "hot_value": 8586511,
       "label": "爆",
       "event_time": 1777118202
     },
     {
+      "rank": 10,
+      "word": "苏超盐城1:0宿迁",
+      "hot_value": 8530344,
+      "label": "",
+      "event_time": 1777100351
+    },
+    {
       "rank": 11,
       "word": "剑来动画2收官",
-      "hot_value": 8540948,
+      "hot_value": 8431391,
       "label": "荐",
       "event_time": 1777116143
     },
     {
       "rank": 12,
-      "word": "苏超盐城1:0宿迁",
-      "hot_value": 8444279,
+      "word": "洪秀柱访问上海",
+      "hot_value": 8350564,
       "label": "",
-      "event_time": 1777100351
+      "event_time": 1777114619
     },
     {
       "rank": 13,
       "word": "者来女被淘汰",
-      "hot_value": 8394934,
+      "hot_value": 8231125,
       "label": "美食",
       "event_time": 1777127502
     },
     {
       "rank": 14,
-      "word": "伊朗：已生产逾千种武器装备",
-      "hot_value": 8380794,
-      "label": "爆",
-      "event_time": 1777085040
+      "word": "一生一世一双人",
+      "hot_value": 8165662,
+      "label": "音乐",
+      "event_time": 1777031912
     },
     {
       "rank": 15,
       "word": "花呗白条月付等面临重大调整",
-      "hot_value": 8011742,
+      "hot_value": 8165343,
       "label": "",
       "event_time": 1777097656
     },
     {
       "rank": 16,
-      "word": "唐艺昕真的跳了滴血认亲舞",
-      "hot_value": 7896833,
+      "word": "伊朗：已生产逾千种武器装备",
+      "hot_value": 7867874,
       "label": "",
-      "event_time": 1777120859
+      "event_time": 1777085040
     },
     {
       "rank": 17,
       "word": "你嘴巴多毒我才不在乎",
-      "hot_value": 7789184,
+      "hot_value": 7764592,
       "label": "音乐",
       "event_time": 1777126206
     },
     {
       "rank": 18,
-      "word": "一生一世一双人",
-      "hot_value": 7775139,
-      "label": "音乐",
-      "event_time": 1777031912
+      "word": "唐艺昕真的跳了滴血认亲舞",
+      "hot_value": 7757633,
+      "label": "",
+      "event_time": 1777120859
     },
     {
       "rank": 19,
       "word": "五一在这拍大片",
-      "hot_value": 7766738,
+      "hot_value": 7754767,
       "label": "",
       "event_time": 1777003439
     },
     {
       "rank": 20,
-      "word": "迈克尔杰克逊巨星之路上映",
-      "hot_value": 7759662,
-      "label": "爆",
-      "event_time": 1777076594
+      "word": "星际穿越的我试图提醒过去的自己",
+      "hot_value": 7738274,
+      "label": "音乐",
+      "event_time": 1777076995
     }
   ],
-  "update_time": "2026-04-25 18:37:28",
+  "update_time": "2026-04-25 19:38:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
