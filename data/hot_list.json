@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今天是五一劳动节",
-      "hot_value": 11413654,
+      "hot_value": 11361768,
       "label": "爆",
       "event_time": 1777591777
     },
     {
       "rank": 2,
       "word": "如果幸福是一顿漂亮饭",
-      "hot_value": 11347185,
+      "hot_value": 11213694,
       "label": "爆",
       "event_time": 1777611964
     },
     {
       "rank": 3,
       "word": "劳作的声音是最动人的赞歌",
-      "hot_value": 11153167,
-      "label": "",
+      "hot_value": 11014455,
+      "label": "爆",
       "event_time": 1777622693
     },
     {
       "rank": 4,
-      "word": "江苏常晋晋级中冠决赛队员齐发声",
-      "hot_value": 10968404,
-      "label": "新",
-      "event_time": 1777620687
+      "word": "赣超揭幕战",
+      "hot_value": 10882382,
+      "label": "",
+      "event_time": 1777611491
     },
     {
       "rank": 5,
-      "word": "各地老字号申请上桌",
-      "hot_value": 10407727,
+      "word": "五一开启享福模式",
+      "hot_value": 10311998,
       "label": "",
-      "event_time": 1777530081
+      "event_time": 1777597234
     },
     {
       "rank": 6,
-      "word": "CBA季后赛广州vs广东前瞻",
-      "hot_value": 10391898,
+      "word": "时代少年团演唱会",
+      "hot_value": 10281525,
       "label": "爆",
-      "event_time": 1777611717
+      "event_time": 1777545040
     },
     {
       "rank": 7,
-      "word": "南部战区战备警巡黄岩岛画面",
-      "hot_value": 9195906,
-      "label": "",
-      "event_time": 1777596580
+      "word": "我不是戏神完结",
+      "hot_value": 9147886,
+      "label": "爆",
+      "event_time": 1777554487
     },
     {
       "rank": 8,
-      "word": "DeepSeek多模态正式发布",
-      "hot_value": 9173538,
+      "word": "江苏常晋队员齐发抖音庆祝晋级",
+      "hot_value": 8845666,
       "label": "",
-      "event_time": 1777557974
+      "event_time": 1777620687
     },
     {
       "rank": 9,
       "word": "吴宜泽6:2领先马克·艾伦",
-      "hot_value": 9115604,
+      "hot_value": 8602091,
       "label": "新",
       "event_time": 1777628991
     },
     {
       "rank": 10,
-      "word": "美方：2月28日的敌对行动已结束",
-      "hot_value": 9111893,
-      "label": "爆",
-      "event_time": 1777597651
+      "word": "南宁烧烤野生代言人出现了",
+      "hot_value": 8306787,
+      "label": "新",
+      "event_time": 1777624382
     },
     {
       "rank": 11,
-      "word": "时代少年团演唱会",
-      "hot_value": 8903061,
-      "label": "爆",
-      "event_time": 1777545040
+      "word": "各地老字号申请上桌",
+      "hot_value": 8303540,
+      "label": "",
+      "event_time": 1777530081
     },
     {
       "rank": 12,
-      "word": "西普坝王何润东组局在线猛攻",
-      "hot_value": 8865745,
-      "label": "新",
-      "event_time": 1777623955
-    },
-    {
-      "rank": 13,
-      "word": "ENEMY二人离开无限流世界",
-      "hot_value": 8644171,
-      "label": "爆",
-      "event_time": 1777616166
-    },
-    {
-      "rank": 14,
-      "word": "为闪光的劳动者点赞",
-      "hot_value": 8324633,
-      "label": "音乐",
-      "event_time": 1777554749
-    },
-    {
-      "rank": 15,
       "word": "别人的五一vs我的五一",
-      "hot_value": 8321381,
+      "hot_value": 7814817,
       "label": "音乐",
       "event_time": 1777626082
     },
     {
+      "rank": 13,
+      "word": "CBA季后赛辽宁vs山东",
+      "hot_value": 7789424,
+      "label": "",
+      "event_time": 1777613987
+    },
+    {
+      "rank": 14,
+      "word": "因刨猪汤走红的合川现在怎么样了",
+      "hot_value": 7774275,
+      "label": "热议",
+      "event_time": 1777546384
+    },
+    {
+      "rank": 15,
+      "word": "西普坝王何润东组局在线猛攻",
+      "hot_value": 7771792,
+      "label": "",
+      "event_time": 1777623955
+    },
+    {
       "rank": 16,
+      "word": "电影消失的人第89分钟全场尖叫",
+      "hot_value": 7765993,
+      "label": "荐",
+      "event_time": 1777621455
+    },
+    {
+      "rank": 17,
       "word": "电影消失的人上映",
-      "hot_value": 8278957,
+      "hot_value": 7734835,
       "label": "热议",
       "event_time": 1777603609
     },
     {
-      "rank": 17,
-      "word": "我不是戏神完结",
-      "hot_value": 8243051,
-      "label": "爆",
-      "event_time": 1777554487
-    },
-    {
       "rank": 18,
-      "word": "交给白鹿掌镜你就放心吧",
-      "hot_value": 8165841,
-      "label": "爆",
-      "event_time": 1777616286
+      "word": "为闪光的劳动者点赞",
+      "hot_value": 7734532,
+      "label": "音乐",
+      "event_time": 1777554749
     },
     {
       "rank": 19,
-      "word": "REDRED好舞不挑曲",
-      "hot_value": 8161328,
+      "word": "不要在我寂寞的时候说爱我舞蹈",
+      "hot_value": 7734325,
       "label": "音乐",
-      "event_time": 1777561567
+      "event_time": 1777617992
     },
     {
       "rank": 20,
-      "word": "电影消失的人第89分钟全场尖叫",
-      "hot_value": 8128332,
-      "label": "荐",
-      "event_time": 1777621455
+      "word": "ENEMY二人离开无限流世界",
+      "hot_value": 7732437,
+      "label": "爆",
+      "event_time": 1777616166
     }
   ],
-  "update_time": "2026-05-01 10:16:03",
+  "update_time": "2026-05-01 11:51:37",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
