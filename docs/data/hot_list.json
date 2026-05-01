@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今天是五一劳动节",
-      "hot_value": 11853743,
+      "hot_value": 11049010,
       "label": "爆",
       "event_time": 1777591777
     },
     {
       "rank": 2,
       "word": "如果幸福是一顿漂亮饭",
-      "hot_value": 11328071,
-      "label": "新",
+      "hot_value": 11025747,
+      "label": "",
       "event_time": 1777611964
     },
     {
       "rank": 3,
-      "word": "60秒看中国硬科技核心突破",
-      "hot_value": 11243071,
-      "label": "爆",
-      "event_time": 1777603060
+      "word": "劳作的声音是最动人的赞歌",
+      "hot_value": 11009237,
+      "label": "新",
+      "event_time": 1777622693
     },
     {
       "rank": 4,
-      "word": "各地老字号申请上桌",
-      "hot_value": 11071818,
-      "label": "爆",
-      "event_time": 1777530081
+      "word": "江苏常晋晋级中冠决赛队员齐发声",
+      "hot_value": 10945010,
+      "label": "新",
+      "event_time": 1777620687
     },
     {
       "rank": 5,
+      "word": "各地老字号申请上桌",
+      "hot_value": 10366821,
+      "label": "",
+      "event_time": 1777530081
+    },
+    {
+      "rank": 6,
+      "word": "CBA季后赛广州vs广东前瞻",
+      "hot_value": 10263722,
+      "label": "",
+      "event_time": 1777611717
+    },
+    {
+      "rank": 7,
       "word": "南部战区战备警巡黄岩岛画面",
-      "hot_value": 10430597,
+      "hot_value": 9154171,
       "label": "",
       "event_time": 1777596580
     },
     {
-      "rank": 6,
+      "rank": 8,
       "word": "DeepSeek多模态正式发布",
-      "hot_value": 10410841,
+      "hot_value": 9153412,
       "label": "",
       "event_time": 1777557974
     },
     {
-      "rank": 7,
+      "rank": 9,
       "word": "苏超球迷为江苏队团结起来了",
-      "hot_value": 9251560,
-      "label": "新",
+      "hot_value": 9110261,
+      "label": "",
       "event_time": 1777602330
     },
     {
-      "rank": 8,
-      "word": "CBA季后赛广州vs广东前瞻",
-      "hot_value": 9161499,
-      "label": "新",
-      "event_time": 1777611717
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "word": "日子滚烫 劳动至上",
-      "hot_value": 9109109,
-      "label": "新",
+      "hot_value": 9046945,
+      "label": "爆",
       "event_time": 1777612416
     },
     {
-      "rank": 10,
-      "word": "美方：2月28日的敌对行动已结束",
-      "hot_value": 8986296,
-      "label": "爆",
-      "event_time": 1777597651
-    },
-    {
       "rank": 11,
-      "word": "为闪光的劳动者点赞",
-      "hot_value": 8916334,
-      "label": "音乐",
-      "event_time": 1777554749
-    },
-    {
-      "rank": 12,
-      "word": "我也成为神兵小将",
-      "hot_value": 8910264,
-      "label": "音乐",
-      "event_time": 1777603880
-    },
-    {
-      "rank": 13,
-      "word": "轮到我跳心如止水了",
-      "hot_value": 8845871,
-      "label": "音乐",
-      "event_time": 1777592969
-    },
-    {
-      "rank": 14,
-      "word": "我不是戏神完结",
-      "hot_value": 8774120,
-      "label": "爆",
-      "event_time": 1777554487
-    },
-    {
-      "rank": 15,
-      "word": "我独爱平凡有力量的照片",
-      "hot_value": 8614907,
-      "label": "音乐",
-      "event_time": 1777603588
-    },
-    {
-      "rank": 16,
-      "word": "煎饼enemy分镜手稿画风好萌",
-      "hot_value": 8534900,
-      "label": "",
-      "event_time": 1777591098
-    },
-    {
-      "rank": 17,
-      "word": "时代少年团广州演唱会",
-      "hot_value": 8342987,
+      "word": "时代少年团演唱会",
+      "hot_value": 8975933,
       "label": "爆",
       "event_time": 1777545040
     },
     {
-      "rank": 18,
-      "word": "76人将与凯尔特人抢七",
-      "hot_value": 8294396,
+      "rank": 12,
+      "word": "ENEMY二人离开无限流世界",
+      "hot_value": 8741135,
+      "label": "",
+      "event_time": 1777616166
+    },
+    {
+      "rank": 13,
+      "word": "为闪光的劳动者点赞",
+      "hot_value": 8595740,
+      "label": "音乐",
+      "event_time": 1777554749
+    },
+    {
+      "rank": 14,
+      "word": "轮到我跳心如止水了",
+      "hot_value": 8542272,
+      "label": "音乐",
+      "event_time": 1777592969
+    },
+    {
+      "rank": 15,
+      "word": "我不是戏神完结",
+      "hot_value": 8483098,
+      "label": "爆",
+      "event_time": 1777554487
+    },
+    {
+      "rank": 16,
+      "word": "交给白鹿掌镜你就放心吧",
+      "hot_value": 8426439,
       "label": "新",
-      "event_time": 1777605488
+      "event_time": 1777616286
+    },
+    {
+      "rank": 17,
+      "word": "00后对10后评价的解答",
+      "hot_value": 8412269,
+      "label": "爆",
+      "event_time": 1777528648
+    },
+    {
+      "rank": 18,
+      "word": "电影消失的人上映",
+      "hot_value": 8321090,
+      "label": "热议",
+      "event_time": 1777603609
     },
     {
       "rank": 19,
-      "word": "鞠婧祎万花世界先行曲",
-      "hot_value": 8150820,
-      "label": "热议",
-      "event_time": 1777607105
+      "word": "REDRED好舞不挑曲",
+      "hot_value": 8081409,
+      "label": "音乐",
+      "event_time": 1777561567
     },
     {
       "rank": 20,
-      "word": "REDRED好舞不挑曲",
-      "hot_value": 8127657,
-      "label": "音乐",
-      "event_time": 1777561567
+      "word": "电影消失的人第89分钟全场尖叫",
+      "hot_value": 8060857,
+      "label": "荐",
+      "event_time": 1777621455
     }
   ],
-  "update_time": "2026-05-01 06:07:11",
+  "update_time": "2026-05-01 08:53:32",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
