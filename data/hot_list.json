@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国台办：赖清德窜访不过是贻笑天下",
-      "hot_value": 12100662,
+      "hot_value": 12131425,
       "label": "爆",
       "event_time": 1777772521
     },
     {
       "rank": 2,
       "word": "CBA季后赛广东力克广州",
-      "hot_value": 11781820,
+      "hot_value": 12102520,
       "label": "爆",
       "event_time": 1777807305
     },
     {
       "rank": 3,
       "word": "全国共有共青团员7833.6万名",
-      "hot_value": 11434023,
+      "hot_value": 11715815,
       "label": "爆",
       "event_time": 1777768558
     },
     {
       "rank": 4,
       "word": "张雪车手德比斯回应退赛",
-      "hot_value": 11322665,
+      "hot_value": 11333420,
       "label": "热议",
       "event_time": 1777820471
     },
     {
       "rank": 5,
       "word": "假期的快乐是美食给的",
-      "hot_value": 10365418,
+      "hot_value": 10258719,
       "label": "",
       "event_time": 1777798418
     },
     {
       "rank": 6,
       "word": "五一在现场",
-      "hot_value": 10124022,
+      "hot_value": 10147119,
       "label": "",
       "event_time": 1777777191
     },
     {
       "rank": 7,
       "word": "云南的水果像极了AI生成的",
-      "hot_value": 8706249,
+      "hot_value": 8059881,
       "label": "",
       "event_time": 1777712487
     },
     {
       "rank": 8,
       "word": "CBA辽宁不敌山东无缘季后赛8强",
-      "hot_value": 8520731,
+      "hot_value": 7977681,
       "label": "",
       "event_time": 1777819544
     },
     {
       "rank": 9,
       "word": "WSBK匈牙利站第二回合",
-      "hot_value": 8408605,
+      "hot_value": 7962199,
       "label": "",
       "event_time": 1777810014
     },
     {
       "rank": 10,
       "word": "吴宜泽vs墨菲",
-      "hot_value": 8376018,
+      "hot_value": 7819856,
       "label": "",
       "event_time": 1777815306
     },
     {
       "rank": 11,
       "word": "张雪机车车手德比斯退赛",
-      "hot_value": 8083320,
+      "hot_value": 7787979,
       "label": "",
       "event_time": 1777810961
     },
     {
       "rank": 12,
       "word": "跟着谢霆锋一起看四川有多美",
-      "hot_value": 7792234,
+      "hot_value": 7784162,
       "label": "",
       "event_time": 1777771687
     },
     {
       "rank": 13,
       "word": "李荣浩哈尔滨演唱会",
-      "hot_value": 7769012,
+      "hot_value": 7750437,
       "label": "",
       "event_time": 1777801173
     },
     {
       "rank": 14,
       "word": "外交部回应东京审判开庭80周年",
-      "hot_value": 7767011,
+      "hot_value": 7739677,
       "label": "",
       "event_time": 1777775043
     },
     {
       "rank": 15,
       "word": "“上门带老人锻炼”真靠谱吗",
-      "hot_value": 7755267,
+      "hot_value": 7719204,
       "label": "谣言",
       "event_time": 1777799358
     },
     {
       "rank": 16,
       "word": "李晓旭官宣退役",
-      "hot_value": 7746294,
+      "hot_value": 7716072,
       "label": "",
       "event_time": 1777817112
     },
     {
       "rank": 17,
-      "word": "消失的人路演李晨花式饭撒",
-      "hot_value": 7740936,
-      "label": "爆",
-      "event_time": 1777809778
-    },
-    {
-      "rank": 18,
-      "word": "王者农家乐第一季收官",
-      "hot_value": 7733857,
-      "label": "",
-      "event_time": 1777803230
-    },
-    {
-      "rank": 19,
       "word": "日子怎么会和谁过都一样呢",
-      "hot_value": 7718796,
+      "hot_value": 7715990,
       "label": "",
       "event_time": 1777773228
     },
     {
-      "rank": 20,
+      "rank": 18,
       "word": "梁祯元演唱会坠落入水封神了",
-      "hot_value": 7717011,
+      "hot_value": 7711931,
       "label": "爆",
       "event_time": 1777813115
+    },
+    {
+      "rank": 19,
+      "word": "王者农家乐第一季收官",
+      "hot_value": 7705060,
+      "label": "",
+      "event_time": 1777803230
+    },
+    {
+      "rank": 20,
+      "word": "消失的人路演李晨花式饭撒",
+      "hot_value": 7694936,
+      "label": "爆",
+      "event_time": 1777809778
     }
   ],
-  "update_time": "2026-05-03 21:33:19",
+  "update_time": "2026-05-03 22:31:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
