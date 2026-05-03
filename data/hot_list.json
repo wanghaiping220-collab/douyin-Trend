@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国台办：赖清德窜访不过是贻笑天下",
-      "hot_value": 11743937,
+      "hot_value": 11919353,
       "label": "爆",
       "event_time": 1777772521
     },
     {
       "rank": 2,
       "word": "假期的快乐是美食给的",
-      "hot_value": 11725184,
+      "hot_value": 11685382,
       "label": "爆",
       "event_time": 1777798418
     },
     {
       "rank": 3,
       "word": "全国共有共青团员7833.6万名",
-      "hot_value": 11650668,
+      "hot_value": 11601376,
       "label": "爆",
       "event_time": 1777768558
     },
     {
       "rank": 4,
       "word": "五一在现场",
-      "hot_value": 11428568,
+      "hot_value": 11552518,
       "label": "爆",
       "event_time": 1777777191
     },
     {
       "rank": 5,
       "word": "CBA季后赛广东力克广州",
-      "hot_value": 10639508,
+      "hot_value": 10610126,
       "label": "",
       "event_time": 1777807305
     },
     {
       "rank": 6,
+      "word": "吴宜泽vs墨菲",
+      "hot_value": 10449324,
+      "label": "",
+      "event_time": 1777815306
+    },
+    {
+      "rank": 7,
       "word": "云南的水果像极了AI生成的",
-      "hot_value": 10613148,
+      "hot_value": 9316960,
       "label": "",
       "event_time": 1777712487
     },
     {
-      "rank": 7,
-      "word": "CBA辽宁不敌山东无缘季后赛8强",
-      "hot_value": 9368348,
-      "label": "",
-      "event_time": 1777819544
-    },
-    {
       "rank": 8,
       "word": "张雪车手德比斯回应退赛",
-      "hot_value": 9321236,
+      "hot_value": 9261680,
       "label": "热议",
       "event_time": 1777820471
     },
     {
       "rank": 9,
-      "word": "吴宜泽vs墨菲",
-      "hot_value": 9289265,
+      "word": "CBA辽宁不敌山东无缘季后赛8强",
+      "hot_value": 9088407,
       "label": "",
-      "event_time": 1777815306
+      "event_time": 1777819544
     },
     {
       "rank": 10,
       "word": "WSBK匈牙利站第二回合",
-      "hot_value": 9206685,
+      "hot_value": 8992879,
       "label": "",
       "event_time": 1777810014
     },
     {
       "rank": 11,
       "word": "张雪机车车手德比斯退赛",
-      "hot_value": 9024316,
+      "hot_value": 8906130,
       "label": "爆",
       "event_time": 1777810961
     },
     {
       "rank": 12,
       "word": "跟着谢霆锋一起看四川有多美",
-      "hot_value": 8993023,
+      "hot_value": 8901152,
       "label": "爆",
       "event_time": 1777771687
     },
     {
       "rank": 13,
-      "word": "外交部回应东京审判开庭80周年",
-      "hot_value": 8986010,
-      "label": "",
-      "event_time": 1777775043
+      "word": "李荣浩哈尔滨演唱会",
+      "hot_value": 8760678,
+      "label": "爆",
+      "event_time": 1777801173
     },
     {
       "rank": 14,
       "word": "国乒男团2:3瑞典",
-      "hot_value": 8880261,
+      "hot_value": 8728989,
       "label": "",
       "event_time": 1777810615
     },
     {
       "rank": 15,
       "word": "“上门带老人锻炼”真靠谱吗",
-      "hot_value": 8794810,
+      "hot_value": 8492209,
       "label": "谣言",
       "event_time": 1777799358
     },
     {
       "rank": 16,
       "word": "李晓旭官宣退役",
-      "hot_value": 8745304,
+      "hot_value": 7887712,
       "label": "",
       "event_time": 1777817112
     },
     {
       "rank": 17,
-      "word": "李荣浩哈尔滨演唱会",
-      "hot_value": 8089611,
-      "label": "",
-      "event_time": 1777801173
-    },
-    {
-      "rank": 18,
-      "word": "大吉大利杯S6开赛",
-      "hot_value": 8050182,
-      "label": "荐",
-      "event_time": 1777796439
-    },
-    {
-      "rank": 19,
       "word": "拼豆已正式迈入立体时代",
-      "hot_value": 7783792,
+      "hot_value": 7789172,
       "label": "",
       "event_time": 1777786568
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "word": "任敏新剧一开场就整顿家宅",
+      "hot_value": 7757828,
+      "label": "",
+      "event_time": 1777796945
+    },
+    {
+      "rank": 19,
       "word": "火影手游传说三忍纲手初爆料",
-      "hot_value": 7779534,
+      "hot_value": 7742765,
       "label": "",
       "event_time": 1777783693
+    },
+    {
+      "rank": 20,
+      "word": "良陈美锦开播",
+      "hot_value": 7736008,
+      "label": "荐",
+      "event_time": 1777778937
     }
   ],
-  "update_time": "2026-05-03 19:47:09",
+  "update_time": "2026-05-03 20:33:23",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
