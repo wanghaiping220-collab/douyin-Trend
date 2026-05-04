@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国内油价将迎调整",
-      "hot_value": 12111601,
+      "hot_value": 12121401,
       "label": "爆",
       "event_time": 1777898561
     },
     {
       "rank": 2,
-      "word": "五一旅行实况播报",
-      "hot_value": 11833493,
+      "word": "世界杯球票价格有多离谱",
+      "hot_value": 11273692,
       "label": "爆",
-      "event_time": 1777868995
+      "event_time": 1777896941
     },
     {
       "rank": 3,
       "word": "全国铁路迎来假期返程客流高峰",
-      "hot_value": 11310712,
-      "label": "爆",
+      "hot_value": 10743812,
+      "label": "",
       "event_time": 1777899968
     },
     {
       "rank": 4,
       "word": "EDG战胜AG",
-      "hot_value": 11011366,
+      "hot_value": 9835677,
       "label": "",
       "event_time": 1777884079
     },
     {
       "rank": 5,
-      "word": "世界杯球票价格有多离谱",
-      "hot_value": 9585238,
+      "word": "五一旅行实况播报",
+      "hot_value": 9130787,
       "label": "",
-      "event_time": 1777896941
+      "event_time": 1777868995
     },
     {
       "rank": 6,
       "word": "陈泽做客克烈杯决赛",
-      "hot_value": 8736293,
+      "hot_value": 8695573,
       "label": "",
       "event_time": 1777888508
     },
     {
       "rank": 7,
-      "word": "XLG晋级伦敦大师赛",
-      "hot_value": 7793910,
+      "word": "专家解析美国从德国撤军五千人",
+      "hot_value": 7764710,
       "label": "",
-      "event_time": 1777897369
+      "event_time": 1777882062
     },
     {
       "rank": 8,
       "word": "法国车手给张雪机车打满分",
-      "hot_value": 7781308,
+      "hot_value": 7755536,
       "label": "",
       "event_time": 1777896792
     },
     {
       "rank": 9,
-      "word": "专家解析美国从德国撤军五千人",
-      "hot_value": 7763657,
+      "word": "XLG晋级伦敦大师赛",
+      "hot_value": 7751995,
       "label": "",
-      "event_time": 1777882062
+      "event_time": 1777897369
     },
     {
       "rank": 10,
       "word": "昆明5毛钱一串的烧烤有多香",
-      "hot_value": 7761307,
+      "hot_value": 7738966,
       "label": "",
       "event_time": 1777863802
     },
     {
       "rank": 11,
       "word": "航海王最强巨人登场",
-      "hot_value": 7752416,
+      "hot_value": 7722447,
       "label": "",
       "event_time": 1777875164
     },
     {
       "rank": 12,
       "word": "看见一代青年力量",
-      "hot_value": 7727025,
+      "hot_value": 7710196,
       "label": "",
       "event_time": 1777824560
     },
     {
       "rank": 13,
       "word": "吴宜泽vs墨菲",
-      "hot_value": 7726336,
+      "hot_value": 7683360,
       "label": "",
       "event_time": 1777815306
     },
     {
       "rank": 14,
       "word": "伊朗称2枚导弹击中美军舰",
-      "hot_value": 7716860,
-      "label": "",
+      "hot_value": 7677699,
+      "label": "爆",
       "event_time": 1777890992
     },
     {
       "rank": 15,
       "word": "关于樱桃的谣言一次说清",
-      "hot_value": 7703977,
+      "hot_value": 7676021,
       "label": "谣言",
       "event_time": 1777893227
     },
     {
       "rank": 16,
       "word": "出来吧就决定是你了",
-      "hot_value": 7694042,
+      "hot_value": 7674896,
       "label": "音乐",
       "event_time": 1777880358
     },
     {
       "rank": 17,
       "word": "时代少年团演唱会",
-      "hot_value": 7688193,
+      "hot_value": 7667227,
       "label": "",
       "event_time": 1777879243
     },
     {
       "rank": 18,
-      "word": "天津消防拉爆花小龙的一天",
-      "hot_value": 7687049,
-      "label": "",
-      "event_time": 1777864586
+      "word": "假期当然要在沙滩边嗨",
+      "hot_value": 7666935,
+      "label": "音乐",
+      "event_time": 1777813880
     },
     {
       "rank": 19,
-      "word": "这最后一次的分离发了疯地想你",
-      "hot_value": 7675976,
-      "label": "音乐",
-      "event_time": 1777815805
+      "word": "孙颖莎说我们非常团结",
+      "hot_value": 7665760,
+      "label": "",
+      "event_time": 1777903769
     },
     {
       "rank": 20,
-      "word": "辽宁铁人官宣李金羽下课",
-      "hot_value": 7670539,
+      "word": "天津消防拉爆花小龙的一天",
+      "hot_value": 7641839,
       "label": "",
-      "event_time": 1777890911
+      "event_time": 1777864586
     }
   ],
-  "update_time": "2026-05-04 20:58:48",
+  "update_time": "2026-05-04 22:01:55",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
