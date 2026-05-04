@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "国内油价将迎调整",
+      "hot_value": 12155567,
+      "label": "",
+      "event_time": 1777898561
+    },
+    {
+      "rank": 2,
       "word": "五一旅行实况播报",
-      "hot_value": 12175066,
+      "hot_value": 12068326,
       "label": "爆",
       "event_time": 1777868995
     },
     {
-      "rank": 2,
-      "word": "陈泽做客克烈杯决赛",
-      "hot_value": 11499747,
-      "label": "",
-      "event_time": 1777888508
-    },
-    {
       "rank": 3,
       "word": "全国铁路迎来假期返程客流高峰",
-      "hot_value": 11373952,
-      "label": "新",
+      "hot_value": 11430174,
+      "label": "爆",
       "event_time": 1777899968
     },
     {
       "rank": 4,
-      "word": "今天是五四青年节",
-      "hot_value": 10559355,
+      "word": "世界杯球票价格有多离谱",
+      "hot_value": 11276568,
       "label": "",
-      "event_time": 1777852485
+      "event_time": 1777896941
     },
     {
       "rank": 5,
-      "word": "国内油价将迎调整",
-      "hot_value": 10022395,
-      "label": "新",
-      "event_time": 1777898561
-    },
-    {
-      "rank": 6,
-      "word": "伦敦世乒赛中国女团战胜波兰",
-      "hot_value": 9725110,
-      "label": "新",
-      "event_time": 1777897003
-    },
-    {
-      "rank": 7,
-      "word": "U17国足亚洲杯首战前瞻",
-      "hot_value": 8595185,
-      "label": "",
-      "event_time": 1777875601
-    },
-    {
-      "rank": 8,
       "word": "EDG战胜AG",
-      "hot_value": 7826307,
+      "hot_value": 10233462,
       "label": "",
       "event_time": 1777884079
     },
     {
-      "rank": 9,
-      "word": "伦敦世乒赛淘汰赛签表出炉",
-      "hot_value": 7794474,
+      "rank": 6,
+      "word": "陈泽做客克烈杯决赛",
+      "hot_value": 10195156,
       "label": "",
-      "event_time": 1777884345
+      "event_time": 1777888508
     },
     {
-      "rank": 10,
+      "rank": 7,
       "word": "XLG晋级伦敦大师赛",
-      "hot_value": 7788835,
-      "label": "新",
+      "hot_value": 9049503,
+      "label": "",
       "event_time": 1777897369
     },
     {
+      "rank": 8,
+      "word": "U17国足亚洲杯首战前瞻",
+      "hot_value": 8901268,
+      "label": "",
+      "event_time": 1777875601
+    },
+    {
+      "rank": 9,
+      "word": "伦敦世乒赛中国女团战胜波兰",
+      "hot_value": 8817614,
+      "label": "",
+      "event_time": 1777897003
+    },
+    {
+      "rank": 10,
+      "word": "76人vs尼克斯前瞻",
+      "hot_value": 8167151,
+      "label": "",
+      "event_time": 1777886882
+    },
+    {
       "rank": 11,
-      "word": "时代少年团演唱会",
-      "hot_value": 7768431,
-      "label": "",
-      "event_time": 1777879243
-    },
-    {
-      "rank": 12,
-      "word": "看见一代青年力量",
-      "hot_value": 7749943,
-      "label": "",
-      "event_time": 1777824560
-    },
-    {
-      "rank": 13,
-      "word": "豆包回应推出付费订阅",
-      "hot_value": 7743908,
-      "label": "",
-      "event_time": 1777877937
-    },
-    {
-      "rank": 14,
       "word": "航海王最强巨人登场",
-      "hot_value": 7731575,
+      "hot_value": 7825400,
       "label": "",
       "event_time": 1777875164
     },
     {
+      "rank": 12,
+      "word": "豆包回应推出付费订阅",
+      "hot_value": 7795931,
+      "label": "",
+      "event_time": 1777877937
+    },
+    {
+      "rank": 13,
+      "word": "吴宜泽vs墨菲",
+      "hot_value": 7774608,
+      "label": "",
+      "event_time": 1777815306
+    },
+    {
+      "rank": 14,
+      "word": "伊朗称2枚导弹击中美军舰",
+      "hot_value": 7763377,
+      "label": "",
+      "event_time": 1777890992
+    },
+    {
       "rank": 15,
       "word": "关于樱桃的谣言一次说清",
-      "hot_value": 7728960,
+      "hot_value": 7756698,
       "label": "谣言",
       "event_time": 1777893227
     },
     {
       "rank": 16,
+      "word": "看见一代青年力量",
+      "hot_value": 7746060,
+      "label": "",
+      "event_time": 1777824560
+    },
+    {
+      "rank": 17,
       "word": "出来吧就决定是你了",
-      "hot_value": 7724586,
+      "hot_value": 7714787,
       "label": "音乐",
       "event_time": 1777880358
     },
     {
-      "rank": 17,
-      "word": "天津消防拉爆花小龙的一天",
-      "hot_value": 7724214,
-      "label": "",
-      "event_time": 1777864586
-    },
-    {
       "rank": 18,
-      "word": "低智商犯罪开播",
-      "hot_value": 7723439,
-      "label": "热议",
-      "event_time": 1777865524
+      "word": "时代少年团演唱会",
+      "hot_value": 7710139,
+      "label": "",
+      "event_time": 1777879243
     },
     {
       "rank": 19,
       "word": "BABYMONSTER回归",
-      "hot_value": 7723347,
+      "hot_value": 7709872,
       "label": "",
       "event_time": 1777890234
     },
     {
       "rank": 20,
-      "word": "这最后一次的分离发了疯地想你",
-      "hot_value": 7717232,
-      "label": "音乐",
-      "event_time": 1777815805
+      "word": "天津消防拉爆花小龙的一天",
+      "hot_value": 7709298,
+      "label": "",
+      "event_time": 1777864586
     }
   ],
-  "update_time": "2026-05-04 15:03:58",
+  "update_time": "2026-05-04 17:22:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
