@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今天是五四青年节",
-      "hot_value": 11796583,
+      "hot_value": 11467083,
       "label": "爆",
       "event_time": 1777852485
     },
     {
       "rank": 2,
-      "word": "国羽汤杯卫冕",
-      "hot_value": 11422536,
-      "label": "爆",
-      "event_time": 1777850562
-    },
-    {
-      "rank": 3,
-      "word": "看见一代青年力量",
-      "hot_value": 11105016,
-      "label": "爆",
-      "event_time": 1777824560
-    },
-    {
-      "rank": 4,
-      "word": "牛弹琴：德国怂了",
-      "hot_value": 11103424,
-      "label": "新",
-      "event_time": 1777861667
-    },
-    {
-      "rank": 5,
-      "word": "假期的快乐是美食给的",
-      "hot_value": 10539242,
-      "label": "",
-      "event_time": 1777798418
-    },
-    {
-      "rank": 6,
-      "word": "昆明5毛钱一串的烧烤有多香",
-      "hot_value": 10455740,
-      "label": "新",
-      "event_time": 1777863802
-    },
-    {
-      "rank": 7,
-      "word": "挑战心洞30秒打卡",
-      "hot_value": 9316918,
-      "label": "",
-      "event_time": 1777779305
-    },
-    {
-      "rank": 8,
-      "word": "天津消防拉爆花小龙的一天",
-      "hot_value": 9282610,
-      "label": "新",
-      "event_time": 1777864586
-    },
-    {
-      "rank": 9,
-      "word": "星穹铁道三周年曲天生鬼才",
-      "hot_value": 9264425,
-      "label": "",
-      "event_time": 1777817695
-    },
-    {
-      "rank": 10,
-      "word": "张雪回应德比斯第二回合退赛",
-      "hot_value": 9251580,
-      "label": "爆",
-      "event_time": 1777815941
-    },
-    {
-      "rank": 11,
       "word": "默茨回应美拟从德撤军",
-      "hot_value": 9188414,
-      "label": "新",
+      "hot_value": 11103599,
+      "label": "爆",
       "event_time": 1777863309
     },
     {
-      "rank": 12,
-      "word": "刘国正点评国乒男团失利",
-      "hot_value": 9144798,
+      "rank": 3,
+      "word": "夜经济激发假日文旅新活力",
+      "hot_value": 11081959,
       "label": "新",
-      "event_time": 1777864747
+      "event_time": 1777879303
     },
     {
-      "rank": 13,
+      "rank": 4,
+      "word": "U17国足亚洲杯首战前瞻",
+      "hot_value": 11072544,
+      "label": "新",
+      "event_time": 1777875601
+    },
+    {
+      "rank": 5,
+      "word": "海胆杯复活赛投票杀疯了",
+      "hot_value": 10452296,
+      "label": "热议",
+      "event_time": 1777861882
+    },
+    {
+      "rank": 6,
+      "word": "侯汉廷批赖清德窜访像偷渡犯",
+      "hot_value": 10430467,
+      "label": "",
+      "event_time": 1777861338
+    },
+    {
+      "rank": 7,
+      "word": "昆明5毛钱一串的烧烤有多香",
+      "hot_value": 9317626,
+      "label": "",
+      "event_time": 1777863802
+    },
+    {
+      "rank": 8,
+      "word": "国羽汤杯卫冕",
+      "hot_value": 9271287,
+      "label": "",
+      "event_time": 1777850562
+    },
+    {
+      "rank": 9,
+      "word": "牛弹琴：德国怂了",
+      "hot_value": 9253115,
+      "label": "",
+      "event_time": 1777861667
+    },
+    {
+      "rank": 10,
+      "word": "看见一代青年力量",
+      "hot_value": 9201465,
+      "label": "",
+      "event_time": 1777824560
+    },
+    {
+      "rank": 11,
       "word": "“全国电动自行车淘汰赛”系谣言",
-      "hot_value": 9089990,
+      "hot_value": 9187589,
       "label": "谣言",
       "event_time": 1777816236
     },
     {
-      "rank": 14,
-      "word": "国乒男团2:3瑞典",
-      "hot_value": 9074563,
-      "label": "爆",
-      "event_time": 1777810615
+      "rank": 12,
+      "word": "航海王最强巨人登场",
+      "hot_value": 9180363,
+      "label": "新",
+      "event_time": 1777875164
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "word": "天津消防拉爆花小龙的一天",
+      "hot_value": 9148418,
+      "label": "",
+      "event_time": 1777864586
+    },
+    {
+      "rank": 14,
       "word": "假期当然要在沙滩边嗨",
-      "hot_value": 9040979,
+      "hot_value": 9099860,
       "label": "音乐",
       "event_time": 1777813880
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "活塞116:94大胜魔术",
-      "hot_value": 8977694,
+      "hot_value": 9079305,
       "label": "",
       "event_time": 1777850410
     },
     {
+      "rank": 16,
+      "word": "星穹铁道三周年曲天生鬼才",
+      "hot_value": 9051050,
+      "label": "",
+      "event_time": 1777817695
+    },
+    {
       "rank": 17,
-      "word": "中国男接37秒85历史第四",
-      "hot_value": 8815930,
+      "word": "梁祯元演唱会坠落入水封神了",
+      "hot_value": 8819552,
       "label": "爆",
-      "event_time": 1777820923
+      "event_time": 1777813115
     },
     {
       "rank": 18,
+      "word": "抖音作者组团探访052D驱逐舰",
+      "hot_value": 8668547,
+      "label": "热议",
+      "event_time": 1777864950
+    },
+    {
+      "rank": 19,
       "word": "被田曦薇超A变身飒到了",
-      "hot_value": 8331674,
+      "hot_value": 8633107,
       "label": "热议",
       "event_time": 1777862693
     },
     {
-      "rank": 19,
-      "word": "国际米兰提前3轮锁定意甲冠军",
-      "hot_value": 8176036,
-      "label": "爆",
-      "event_time": 1777850477
-    },
-    {
       "rank": 20,
-      "word": "王橹杰黑白设定好绝",
-      "hot_value": 7992218,
-      "label": "娱乐",
-      "event_time": 1777816116
+      "word": "中国男接37秒85历史第四",
+      "hot_value": 8255650,
+      "label": "",
+      "event_time": 1777820923
     }
   ],
-  "update_time": "2026-05-04 05:39:01",
+  "update_time": "2026-05-04 08:18:19",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
