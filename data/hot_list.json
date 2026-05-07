@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "明晚24点国内油价或将调整",
-      "hot_value": 11526281,
-      "label": "新",
-      "event_time": 1778127247
-    },
-    {
-      "rank": 2,
-      "word": "世界杯转播权仍未谈拢",
-      "hot_value": 11260650,
-      "label": "爆",
-      "event_time": 1778060043
-    },
-    {
-      "rank": 3,
-      "word": "五一假期1127.9万人次出入境",
-      "hot_value": 11251017,
-      "label": "",
-      "event_time": 1778042355
-    },
-    {
-      "rank": 4,
-      "word": "航天员中心招募卧床志愿者",
-      "hot_value": 11220022,
-      "label": "爆",
-      "event_time": 1778050875
-    },
-    {
-      "rank": 5,
       "word": "巴黎连续两年闯入欧冠决赛",
-      "hot_value": 10654469,
-      "label": "",
+      "hot_value": 12004297,
+      "label": "爆",
       "event_time": 1778109166
     },
     {
-      "rank": 6,
-      "word": "国乒男团3:1罗马尼亚",
-      "hot_value": 10573807,
-      "label": "",
-      "event_time": 1778057621
-    },
-    {
-      "rank": 7,
-      "word": "见识下非遗新青年的厉害",
-      "hot_value": 9440627,
-      "label": "",
-      "event_time": 1778045252
-    },
-    {
-      "rank": 8,
-      "word": "沧元图的配乐有多好听",
-      "hot_value": 9423115,
-      "label": "爆",
-      "event_time": 1778081557
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "word": "夏天开始的瞬间",
-      "hot_value": 9334356,
-      "label": "新",
+      "hot_value": 11255067,
+      "label": "",
       "event_time": 1778125751
     },
     {
-      "rank": 10,
-      "word": "国乒女团3:0瑞典晋级8强",
-      "hot_value": 9259006,
-      "label": "爆",
-      "event_time": 1778071154
+      "rank": 3,
+      "word": "数据里的“五一”有分量",
+      "hot_value": 11104124,
+      "label": "新",
+      "event_time": 1778138354
     },
     {
-      "rank": 11,
+      "rank": 4,
+      "word": "国际足联秘书长级高管计划访华",
+      "hot_value": 11100562,
+      "label": "娱乐",
+      "event_time": 1778122088
+    },
+    {
+      "rank": 5,
+      "word": "人民日报复盘吴宜泽夺冠",
+      "hot_value": 10463294,
+      "label": "爆",
+      "event_time": 1778124345
+    },
+    {
+      "rank": 6,
+      "word": "马刺大胜森林狼扳平总比分",
+      "hot_value": 10461205,
+      "label": "新",
+      "event_time": 1778127936
+    },
+    {
+      "rank": 7,
       "word": "钧正平：下跪不过是拙劣的表演",
-      "hot_value": 9229890,
-      "label": "",
+      "hot_value": 9320719,
+      "label": "爆",
       "event_time": 1778120591
     },
     {
-      "rank": 12,
-      "word": "韩民众对中国好感度达6年最高",
-      "hot_value": 9226631,
-      "label": "",
-      "event_time": 1778047269
-    },
-    {
-      "rank": 13,
-      "word": "电动自行车“续航神器”有用吗",
-      "hot_value": 9224673,
-      "label": "谣言",
-      "event_time": 1778124094
-    },
-    {
-      "rank": 14,
-      "word": "三星官宣家电退出中国大陆市场",
-      "hot_value": 9191521,
-      "label": "",
-      "event_time": 1778116157
-    },
-    {
-      "rank": 15,
-      "word": "火影手游传说三忍纲手第二波爆料",
-      "hot_value": 9180476,
-      "label": "",
-      "event_time": 1778073053
-    },
-    {
-      "rank": 16,
-      "word": "合肥市委书记费高云被查",
-      "hot_value": 9137041,
-      "label": "爆",
-      "event_time": 1778054450
-    },
-    {
-      "rank": 17,
+      "rank": 8,
       "word": "我们在命运的两端",
-      "hot_value": 9135006,
+      "hot_value": 9280322,
       "label": "音乐",
       "event_time": 1778121701
     },
     {
+      "rank": 9,
+      "word": "沧元图的配乐有多好听",
+      "hot_value": 9276778,
+      "label": "爆",
+      "event_time": 1778081557
+    },
+    {
+      "rank": 10,
+      "word": "火影手游传说三忍纲手第二波爆料",
+      "hot_value": 9193760,
+      "label": "",
+      "event_time": 1778073053
+    },
+    {
+      "rank": 11,
+      "word": "电动自行车“续航神器”有用吗",
+      "hot_value": 9147690,
+      "label": "谣言",
+      "event_time": 1778124094
+    },
+    {
+      "rank": 12,
+      "word": "三星官宣家电退出中国大陆市场",
+      "hot_value": 9142257,
+      "label": "",
+      "event_time": 1778116157
+    },
+    {
+      "rank": 13,
+      "word": "一份给妈妈的调查问卷",
+      "hot_value": 9130603,
+      "label": "娱乐",
+      "event_time": 1778079027
+    },
+    {
+      "rank": 14,
+      "word": "再次直观感受到音乐剧的感染力",
+      "hot_value": 9107062,
+      "label": "爆",
+      "event_time": 1778075292
+    },
+    {
+      "rank": 15,
+      "word": "Oi相对那就针锋相对",
+      "hot_value": 8843978,
+      "label": "音乐",
+      "event_time": 1778071916
+    },
+    {
+      "rank": 16,
+      "word": "世界杯转播权仍未谈拢",
+      "hot_value": 8835926,
+      "label": "",
+      "event_time": 1778060043
+    },
+    {
+      "rank": 17,
+      "word": "ENEMY观后感",
+      "hot_value": 8312167,
+      "label": "爆",
+      "event_time": 1778040098
+    },
+    {
       "rank": 18,
-      "word": "低智商犯罪没有一个正常人",
-      "hot_value": 9114705,
-      "label": "热议",
-      "event_time": 1778049844
+      "word": "异环浔上线",
+      "hot_value": 8085197,
+      "label": "新",
+      "event_time": 1778130615
     },
     {
       "rank": 19,
-      "word": "人民日报复盘吴宜泽夺冠",
-      "hot_value": 9114145,
-      "label": "新",
-      "event_time": 1778124345
+      "word": "玩具总动员5定档6月19日",
+      "hot_value": 7878081,
+      "label": "",
+      "event_time": 1778120472
     },
     {
       "rank": 20,
-      "word": "ENEMY观后感",
-      "hot_value": 9090695,
-      "label": "爆",
-      "event_time": 1778040098
+      "word": "瘦瘦的背影大大的温暖",
+      "hot_value": 7805600,
+      "label": "",
+      "event_time": 1778051425
     }
   ],
-  "update_time": "2026-05-07 05:52:34",
+  "update_time": "2026-05-07 08:17:17",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
