@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
+      "word": "明晚24点国内油价或将调整",
+      "hot_value": 11526281,
+      "label": "新",
+      "event_time": 1778127247
+    },
+    {
+      "rank": 2,
       "word": "世界杯转播权仍未谈拢",
-      "hot_value": 11696001,
+      "hot_value": 11260650,
       "label": "爆",
       "event_time": 1778060043
     },
     {
-      "rank": 2,
-      "word": "三星官宣家电退出中国大陆市场",
-      "hot_value": 11474878,
-      "label": "新",
-      "event_time": 1778116157
-    },
-    {
       "rank": 3,
-      "word": "五一出行人数创历史同期新高",
-      "hot_value": 11410748,
-      "label": "爆",
-      "event_time": 1778070291
+      "word": "五一假期1127.9万人次出入境",
+      "hot_value": 11251017,
+      "label": "",
+      "event_time": 1778042355
     },
     {
       "rank": 4,
-      "word": "国乒男团3:1罗马尼亚",
-      "hot_value": 11340738,
-      "label": "爆",
-      "event_time": 1778057621
-    },
-    {
-      "rank": 5,
-      "word": "巴黎连续两年闯入欧冠决赛",
-      "hot_value": 10550261,
-      "label": "新",
-      "event_time": 1778109166
-    },
-    {
-      "rank": 6,
       "word": "航天员中心招募卧床志愿者",
-      "hot_value": 10504967,
+      "hot_value": 11220022,
       "label": "爆",
       "event_time": 1778050875
     },
     {
+      "rank": 5,
+      "word": "巴黎连续两年闯入欧冠决赛",
+      "hot_value": 10654469,
+      "label": "",
+      "event_time": 1778109166
+    },
+    {
+      "rank": 6,
+      "word": "国乒男团3:1罗马尼亚",
+      "hot_value": 10573807,
+      "label": "",
+      "event_time": 1778057621
+    },
+    {
       "rank": 7,
-      "word": "淄博暴雨",
-      "hot_value": 9291837,
-      "label": "新",
-      "event_time": 1778108660
+      "word": "见识下非遗新青年的厉害",
+      "hot_value": 9440627,
+      "label": "",
+      "event_time": 1778045252
     },
     {
       "rank": 8,
       "word": "沧元图的配乐有多好听",
-      "hot_value": 9276591,
+      "hot_value": 9423115,
       "label": "爆",
       "event_time": 1778081557
     },
     {
       "rank": 9,
+      "word": "夏天开始的瞬间",
+      "hot_value": 9334356,
+      "label": "新",
+      "event_time": 1778125751
+    },
+    {
+      "rank": 10,
+      "word": "国乒女团3:0瑞典晋级8强",
+      "hot_value": 9259006,
+      "label": "爆",
+      "event_time": 1778071154
+    },
+    {
+      "rank": 11,
+      "word": "钧正平：下跪不过是拙劣的表演",
+      "hot_value": 9229890,
+      "label": "",
+      "event_time": 1778120591
+    },
+    {
+      "rank": 12,
+      "word": "韩民众对中国好感度达6年最高",
+      "hot_value": 9226631,
+      "label": "",
+      "event_time": 1778047269
+    },
+    {
+      "rank": 13,
+      "word": "电动自行车“续航神器”有用吗",
+      "hot_value": 9224673,
+      "label": "谣言",
+      "event_time": 1778124094
+    },
+    {
+      "rank": 14,
+      "word": "三星官宣家电退出中国大陆市场",
+      "hot_value": 9191521,
+      "label": "",
+      "event_time": 1778116157
+    },
+    {
+      "rank": 15,
       "word": "火影手游传说三忍纲手第二波爆料",
-      "hot_value": 9257833,
+      "hot_value": 9180476,
       "label": "",
       "event_time": 1778073053
     },
     {
-      "rank": 10,
-      "word": "见识下非遗新青年的厉害",
-      "hot_value": 9223967,
-      "label": "",
-      "event_time": 1778045252
-    },
-    {
-      "rank": 11,
-      "word": "国乒女团3:0瑞典晋级8强",
-      "hot_value": 9216810,
-      "label": "",
-      "event_time": 1778071154
-    },
-    {
-      "rank": 12,
-      "word": "黄仁勋：美国应保持AI领先地位",
-      "hot_value": 9199363,
-      "label": "",
-      "event_time": 1778043707
-    },
-    {
-      "rank": 13,
-      "word": "王楚钦回应国乒男团晋级八强",
-      "hot_value": 9172311,
-      "label": "爆",
-      "event_time": 1778067961
-    },
-    {
-      "rank": 14,
-      "word": "新华社专访吴宜泽",
-      "hot_value": 9113428,
-      "label": "",
-      "event_time": 1778045495
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "word": "合肥市委书记费高云被查",
-      "hot_value": 9112840,
+      "hot_value": 9137041,
       "label": "爆",
       "event_time": 1778054450
     },
     {
-      "rank": 16,
-      "word": "ENEMY观后感",
-      "hot_value": 9052166,
-      "label": "爆",
-      "event_time": 1778040098
-    },
-    {
       "rank": 17,
-      "word": "瘦瘦的背影大大的温暖",
-      "hot_value": 8997244,
-      "label": "",
-      "event_time": 1778051425
+      "word": "我们在命运的两端",
+      "hot_value": 9135006,
+      "label": "音乐",
+      "event_time": 1778121701
     },
     {
       "rank": 18,
-      "word": "一份给妈妈的调查问卷",
-      "hot_value": 8738651,
-      "label": "娱乐",
-      "event_time": 1778079027
+      "word": "低智商犯罪没有一个正常人",
+      "hot_value": 9114705,
+      "label": "热议",
+      "event_time": 1778049844
     },
     {
       "rank": 19,
-      "word": "五一档票房7.58亿",
-      "hot_value": 8676681,
-      "label": "爆",
-      "event_time": 1778050258
+      "word": "人民日报复盘吴宜泽夺冠",
+      "hot_value": 9114145,
+      "label": "新",
+      "event_time": 1778124345
     },
     {
       "rank": 20,
-      "word": "Oi相对那就针锋相对",
-      "hot_value": 7968285,
-      "label": "音乐",
-      "event_time": 1778071916
+      "word": "ENEMY观后感",
+      "hot_value": 9090695,
+      "label": "爆",
+      "event_time": 1778040098
     }
   ],
-  "update_time": "2026-05-07 02:02:04",
+  "update_time": "2026-05-07 05:52:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
