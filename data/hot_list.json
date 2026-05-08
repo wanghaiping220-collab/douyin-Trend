@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "高考倒计时祝考生金榜题名",
-      "hot_value": 12083632,
-      "label": "爆",
-      "event_time": 1778145964
-    },
-    {
-      "rank": 2,
-      "word": "爱要大声说出来",
-      "hot_value": 11901207,
-      "label": "爆",
-      "event_time": 1778209646
-    },
-    {
-      "rank": 3,
-      "word": "科技赋能中国农业加速跑",
-      "hot_value": 11896505,
-      "label": "爆",
-      "event_time": 1778225795
-    },
-    {
-      "rank": 4,
       "word": "我妈是世界上最好的妈",
-      "hot_value": 11557442,
+      "hot_value": 11831155,
       "label": "爆",
       "event_time": 1778143231
     },
     {
+      "rank": 2,
+      "word": "高考倒计时祝考生金榜题名",
+      "hot_value": 11704921,
+      "label": "爆",
+      "event_time": 1778145964
+    },
+    {
+      "rank": 3,
+      "word": "多项惠民举措激发消费活力",
+      "hot_value": 11665784,
+      "label": "新",
+      "event_time": 1778242441
+    },
+    {
+      "rank": 4,
+      "word": "爱要大声说出来",
+      "hot_value": 11303115,
+      "label": "爆",
+      "event_time": 1778209646
+    },
+    {
       "rank": 5,
       "word": "萌娃钓鱼的新手大礼包来了",
-      "hot_value": 10475892,
+      "hot_value": 10482251,
       "label": "爆",
       "event_time": 1778211981
     },
     {
       "rank": 6,
       "word": "中疾控回应汉坦病毒疫情",
-      "hot_value": 9328566,
-      "label": "",
+      "hot_value": 10364253,
+      "label": "爆",
       "event_time": 1778219499
     },
     {
       "rank": 7,
-      "word": "又到穿裙子的季节了",
-      "hot_value": 9320055,
-      "label": "",
-      "event_time": 1778147146
+      "word": "天舟十号择机发射",
+      "hot_value": 9263317,
+      "label": "新",
+      "event_time": 1778235403
     },
     {
       "rank": 8,
-      "word": "浙江宣传评世界杯转播权之争",
-      "hot_value": 9205603,
+      "word": "央视记者调查农田沟里流黑水",
+      "hot_value": 9215190,
       "label": "爆",
-      "event_time": 1778206789
+      "event_time": 1778157829
     },
     {
       "rank": 9,
-      "word": "湖人不敌雷霆总比分0:2落后",
-      "hot_value": 9172766,
+      "word": "国乒男团冲击世乒赛四强",
+      "hot_value": 8933427,
       "label": "",
-      "event_time": 1778214633
+      "event_time": 1778224480
     },
     {
       "rank": 10,
-      "word": "“4只皮皮虾1035元”店主病逝",
-      "hot_value": 9152943,
-      "label": "",
-      "event_time": 1778220099
-    },
-    {
-      "rank": 11,
-      "word": "香港拿下世界杯转播权",
-      "hot_value": 9147958,
-      "label": "",
-      "event_time": 1778206151
-    },
-    {
-      "rank": 12,
       "word": "最想做的事就是在沙滩旁边嗨",
-      "hot_value": 9101099,
+      "hot_value": 8924643,
       "label": "音乐",
       "event_time": 1778216267
     },
     {
-      "rank": 13,
+      "rank": 11,
       "word": "cortis进行曲舞蹈太带感了",
-      "hot_value": 8821188,
+      "hot_value": 8842459,
       "label": "音乐",
       "event_time": 1778224198
     },
     {
-      "rank": 14,
-      "word": "美军空袭伊朗港口",
-      "hot_value": 8674958,
+      "rank": 12,
+      "word": "湖人不敌雷霆总比分0:2落后",
+      "hot_value": 8781258,
       "label": "",
-      "event_time": 1778201591
+      "event_time": 1778214633
     },
     {
-      "rank": 15,
-      "word": "榴莲遭仅退款商家翻垃圾桶找证据",
-      "hot_value": 8612250,
-      "label": "爆",
-      "event_time": 1778195751
+      "rank": 13,
+      "word": "“市场禁剥蚕豆”是怕引发蚕豆病吗",
+      "hot_value": 8382182,
+      "label": "谣言",
+      "event_time": 1778236079
     },
     {
-      "rank": 16,
+      "rank": 14,
       "word": "当你被分手而只会基本功",
-      "hot_value": 8527869,
+      "hot_value": 8370006,
       "label": "音乐",
       "event_time": 1778222262
     },
     {
+      "rank": 15,
+      "word": "香港拿下世界杯转播权",
+      "hot_value": 7822499,
+      "label": "",
+      "event_time": 1778206151
+    },
+    {
+      "rank": 16,
+      "word": "顾锦朝陈彦允月下甜蜜初吻",
+      "hot_value": 7820804,
+      "label": "爆",
+      "event_time": 1778229118
+    },
+    {
       "rank": 17,
+      "word": "美军空袭伊朗港口",
+      "hot_value": 7816810,
+      "label": "",
+      "event_time": 1778201591
+    },
+    {
+      "rank": 18,
+      "word": "又到穿裙子的季节了",
+      "hot_value": 7764541,
+      "label": "",
+      "event_time": 1778147146
+    },
+    {
+      "rank": 19,
       "word": "股票到底是什么",
-      "hot_value": 8526467,
+      "hot_value": 7756634,
       "label": "",
       "event_time": 1778130804
     },
     {
-      "rank": 18,
-      "word": "杨洋新剧打戏",
-      "hot_value": 8315603,
-      "label": "荐",
-      "event_time": 1778214950
-    },
-    {
-      "rank": 19,
-      "word": "顾锦朝陈彦允月下甜蜜初吻",
-      "hot_value": 8258231,
-      "label": "新",
-      "event_time": 1778229118
-    },
-    {
       "rank": 20,
-      "word": "央视记者调查农田沟里流黑水",
-      "hot_value": 7800296,
+      "word": "浙江宣传评世界杯转播权之争",
+      "hot_value": 7756109,
       "label": "",
-      "event_time": 1778157829
+      "event_time": 1778206789
     }
   ],
-  "update_time": "2026-05-08 11:03:31",
+  "update_time": "2026-05-08 13:10:11",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
