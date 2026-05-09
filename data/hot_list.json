@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "比亚迪否认被约谈",
-      "hot_value": 11563608,
-      "label": "爆",
-      "event_time": 1778306501
-    },
-    {
-      "rank": 2,
-      "word": "母亲节把心意穿在妈妈身上",
-      "hot_value": 11472983,
-      "label": "爆",
-      "event_time": 1778222728
-    },
-    {
-      "rank": 3,
-      "word": "我国外贸延续良好增长态势",
-      "hot_value": 11428870,
-      "label": "",
-      "event_time": 1778296417
-    },
-    {
-      "rank": 4,
-      "word": "赖清德跪拜日本殖民者",
-      "hot_value": 11267000,
-      "label": "爆",
-      "event_time": 1778289787
-    },
-    {
-      "rank": 5,
-      "word": "苏超南通vs南京",
-      "hot_value": 10434956,
-      "label": "爆",
-      "event_time": 1778299499
-    },
-    {
-      "rank": 6,
       "word": "U17国足将对阵日本",
-      "hot_value": 10299849,
+      "hot_value": 11379861,
       "label": "爆",
       "event_time": 1778295547
     },
     {
+      "rank": 2,
+      "word": "苏超南通vs南京",
+      "hot_value": 11334344,
+      "label": "爆",
+      "event_time": 1778299499
+    },
+    {
+      "rank": 3,
+      "word": "我国外贸延续良好增长态势",
+      "hot_value": 11142628,
+      "label": "爆",
+      "event_time": 1778296417
+    },
+    {
+      "rank": 4,
+      "word": "比亚迪否认被约谈",
+      "hot_value": 11113489,
+      "label": "爆",
+      "event_time": 1778306501
+    },
+    {
+      "rank": 5,
+      "word": "母亲节把心意穿在妈妈身上",
+      "hot_value": 10531372,
+      "label": "",
+      "event_time": 1778222728
+    },
+    {
+      "rank": 6,
+      "word": "国乒男团将对阵法国队",
+      "hot_value": 10446081,
+      "label": "爆",
+      "event_time": 1778291725
+    },
+    {
       "rank": 7,
       "word": "到底谁还没有买tutu裙",
-      "hot_value": 9207426,
+      "hot_value": 9182909,
       "label": "爆",
       "event_time": 1778215365
     },
     {
       "rank": 8,
-      "word": "一篇长文送给最爱的妈妈",
-      "hot_value": 9150902,
-      "label": "",
-      "event_time": 1778296424
-    },
-    {
-      "rank": 9,
-      "word": "国乒男团将对阵法国队",
-      "hot_value": 9120519,
-      "label": "",
-      "event_time": 1778291725
-    },
-    {
-      "rank": 10,
       "word": "剖析汉坦病毒传播链",
-      "hot_value": 9109989,
+      "hot_value": 9114334,
       "label": "",
       "event_time": 1778286755
     },
     {
-      "rank": 11,
-      "word": "陈伯参加大吉大利杯决赛",
-      "hot_value": 9047999,
+      "rank": 9,
+      "word": "预计5月进入厄尔尼诺状态",
+      "hot_value": 9109397,
       "label": "",
-      "event_time": 1778300145
+      "event_time": 1778311513
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "word": "美食炸弹河南篇",
+      "hot_value": 9057805,
+      "label": "爆",
+      "event_time": 1778245949
+    },
+    {
+      "rank": 11,
       "word": "5月起存款计息实施新规系谣言",
-      "hot_value": 8990447,
+      "hot_value": 8953271,
       "label": "谣言",
       "event_time": 1778229732
     },
     {
-      "rank": 13,
-      "word": "奔跑吧回应收视率低",
-      "hot_value": 8909345,
-      "label": "爆",
-      "event_time": 1778295405
+      "rank": 12,
+      "word": "陈伯参加大吉大利杯决赛",
+      "hot_value": 8782914,
+      "label": "",
+      "event_time": 1778300145
     },
     {
-      "rank": 14,
+      "rank": 13,
       "word": "大吉大利杯S6总决赛",
-      "hot_value": 8840109,
+      "hot_value": 8771428,
       "label": "",
       "event_time": 1778300110
     },
     {
-      "rank": 15,
-      "word": "我在妈祖诞辰盛典见到刘涛了",
-      "hot_value": 8812497,
-      "label": "爆",
-      "event_time": 1778294899
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "word": "每一位妈妈都闪光",
-      "hot_value": 8789672,
+      "hot_value": 8762455,
       "label": "爆",
       "event_time": 1778305826
     },
     {
+      "rank": 15,
+      "word": "奔跑吧回应收视率低",
+      "hot_value": 8727030,
+      "label": "爆",
+      "event_time": 1778295405
+    },
+    {
+      "rank": 16,
+      "word": "我在妈祖诞辰盛典见到刘涛了",
+      "hot_value": 8350430,
+      "label": "爆",
+      "event_time": 1778294899
+    },
+    {
       "rank": 17,
       "word": "ENEMY爆火的背后",
-      "hot_value": 8758970,
+      "hot_value": 8247153,
       "label": "爆",
       "event_time": 1778294250
     },
     {
       "rank": 18,
-      "word": "当长大后的我开始带孩子",
-      "hot_value": 8714194,
-      "label": "爆",
-      "event_time": 1778283519
-    },
-    {
-      "rank": 19,
       "word": "母亲节谁的萌宠在装傻",
-      "hot_value": 8338467,
+      "hot_value": 8185076,
       "label": "音乐",
       "event_time": 1778308412
     },
     {
+      "rank": 19,
+      "word": "母亲节致最爱的老妈",
+      "hot_value": 8175961,
+      "label": "",
+      "event_time": 1778316597
+    },
+    {
       "rank": 20,
-      "word": "美食炸弹河南篇",
-      "hot_value": 8334561,
+      "word": "ENEMY为什么这么动人",
+      "hot_value": 8165287,
       "label": "爆",
-      "event_time": 1778245949
+      "event_time": 1778306164
     }
   ],
-  "update_time": "2026-05-09 10:49:19",
+  "update_time": "2026-05-09 11:41:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
