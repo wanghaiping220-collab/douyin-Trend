@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "习近平为特朗普举行欢迎宴会",
-      "hot_value": 12127441,
+      "hot_value": 12120836,
       "label": "",
       "event_time": 1778752179
     },
     {
       "rank": 2,
       "word": "习近平同特朗普参观天坛",
-      "hot_value": 12002282,
+      "hot_value": 12078779,
       "label": "",
       "event_time": 1778736119
     },
     {
       "rank": 3,
       "word": "看中国古建筑的智慧",
-      "hot_value": 11818890,
+      "hot_value": 12008042,
       "label": "",
       "event_time": 1778766884
     },
     {
       "rank": 4,
-      "word": "克宫：普京访华筹备工作已就绪",
-      "hot_value": 11294346,
-      "label": "",
-      "event_time": 1778760100
-    },
-    {
-      "rank": 5,
       "word": "中美关系新定位",
-      "hot_value": 10556347,
+      "hot_value": 11244102,
       "label": "",
       "event_time": 1778747994
     },
     {
-      "rank": 6,
+      "rank": 5,
       "word": "法式波点鞋拿捏夏日穿搭",
-      "hot_value": 10551236,
-      "label": "新",
+      "hot_value": 10546703,
+      "label": "",
       "event_time": 1778765064
     },
     {
-      "rank": 7,
+      "rank": 6,
       "word": "中考倒计时奔跑吧少年",
-      "hot_value": 9435886,
-      "label": "",
+      "hot_value": 10542651,
+      "label": "爆",
       "event_time": 1778748809
+    },
+    {
+      "rank": 7,
+      "word": "巴基斯坦总理将访华",
+      "hot_value": 9432636,
+      "label": "",
+      "event_time": 1778758554
     },
     {
       "rank": 8,
       "word": "中国U17女足2:4朝鲜无缘决赛",
-      "hot_value": 9367559,
+      "hot_value": 9360619,
       "label": "爆",
       "event_time": 1778719949
     },
     {
       "rank": 9,
-      "word": "新能源车开启涨价潮",
-      "hot_value": 9191798,
-      "label": "爆",
-      "event_time": 1778748084
-    },
-    {
-      "rank": 10,
-      "word": "芯片市场规模或将超1.5万亿美元",
-      "hot_value": 9182493,
-      "label": "爆",
-      "event_time": 1778737936
-    },
-    {
-      "rank": 11,
       "word": "美记者在北京体验中国科技",
-      "hot_value": 9158608,
+      "hot_value": 9305004,
       "label": "",
       "event_time": 1778731417
     },
     {
+      "rank": 10,
+      "word": "新能源车开启涨价潮",
+      "hot_value": 9261422,
+      "label": "",
+      "event_time": 1778748084
+    },
+    {
+      "rank": 11,
+      "word": "芯片市场规模或将超1.5万亿美元",
+      "hot_value": 9189216,
+      "label": "",
+      "event_time": 1778737936
+    },
+    {
       "rank": 12,
-      "word": "巴基斯坦总理将访华",
-      "hot_value": 8891848,
-      "label": "新",
-      "event_time": 1778758554
+      "word": "暂无证据显示汉坦病毒出现变异",
+      "hot_value": 9162457,
+      "label": "爆",
+      "event_time": 1778729672
     },
     {
       "rank": 13,
+      "word": "刘回杯决赛名单",
+      "hot_value": 9099500,
+      "label": "热议",
+      "event_time": 1778732918
+    },
+    {
+      "rank": 14,
+      "word": "三角洲行动更新公告",
+      "hot_value": 9093227,
+      "label": "爆",
+      "event_time": 1778759932
+    },
+    {
+      "rank": 15,
       "word": "给阿嬷的情书为啥这么火",
-      "hot_value": 8372781,
+      "hot_value": 8732443,
       "label": "爆",
       "event_time": 1778684853
     },
     {
-      "rank": 14,
+      "rank": 16,
+      "word": "bbFps极限手速看呆刘回",
+      "hot_value": 8701455,
+      "label": "",
+      "event_time": 1778736266
+    },
+    {
+      "rank": 17,
       "word": "歌手2026官宣定档",
-      "hot_value": 8165416,
+      "hot_value": 8668799,
       "label": "爆",
       "event_time": 1778747025
     },
     {
-      "rank": 15,
-      "word": "半壶纱翻唱挑战",
-      "hot_value": 8041326,
-      "label": "音乐",
-      "event_time": 1778676465
-    },
-    {
-      "rank": 16,
-      "word": "你不知道你有多可爱手势舞来了",
-      "hot_value": 7884616,
-      "label": "音乐",
-      "event_time": 1778686408
-    },
-    {
-      "rank": 17,
-      "word": "暂无证据显示汉坦病毒出现变异",
-      "hot_value": 7866412,
-      "label": "",
-      "event_time": 1778729672
-    },
-    {
       "rank": 18,
       "word": "马斯克：对此次会晤感觉不错",
-      "hot_value": 7829962,
-      "label": "新",
+      "hot_value": 7858838,
+      "label": "",
       "event_time": 1778759989
     },
     {
       "rank": 19,
-      "word": "老师可不可以教我怎么爱",
-      "hot_value": 7800527,
+      "word": "七彩阳光手指操来了",
+      "hot_value": 7852776,
       "label": "音乐",
-      "event_time": 1778751701
+      "event_time": 1778772035
     },
     {
       "rank": 20,
-      "word": "七彩阳光手指操来了",
-      "hot_value": 7778456,
+      "word": "老师可不可以教我怎么爱",
+      "hot_value": 7849223,
       "label": "音乐",
-      "event_time": 1778772035
+      "event_time": 1778751701
     }
   ],
-  "update_time": "2026-05-14 16:05:23",
+  "update_time": "2026-05-14 18:28:54",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
