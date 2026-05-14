@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "习近平为特朗普举行欢迎宴会",
-      "hot_value": 12103912,
+      "hot_value": 11933147,
       "label": "",
       "event_time": 1778752179
     },
     {
       "rank": 2,
       "word": "习近平同特朗普参观天坛",
-      "hot_value": 12035600,
+      "hot_value": 11609502,
       "label": "",
       "event_time": 1778736119
     },
     {
       "rank": 3,
       "word": "看中国古建筑的智慧",
-      "hot_value": 11275188,
+      "hot_value": 11338081,
       "label": "",
       "event_time": 1778766884
     },
     {
       "rank": 4,
       "word": "中美关系新定位",
-      "hot_value": 11099985,
+      "hot_value": 11115346,
       "label": "",
       "event_time": 1778747994
     },
     {
       "rank": 5,
       "word": "法式波点鞋拿捏夏日穿搭",
-      "hot_value": 10540701,
+      "hot_value": 10541735,
       "label": "爆",
       "event_time": 1778765064
     },
     {
       "rank": 6,
-      "word": "中考倒计时奔跑吧少年",
-      "hot_value": 10535633,
+      "word": "中国U17女足2:4朝鲜无缘决赛",
+      "hot_value": 10540228,
       "label": "爆",
-      "event_time": 1778748809
+      "event_time": 1778719949
     },
     {
       "rank": 7,
-      "word": "巴基斯坦总理将访华",
-      "hot_value": 9273204,
+      "word": "中考倒计时奔跑吧少年",
+      "hot_value": 9426163,
       "label": "",
-      "event_time": 1778758554
+      "event_time": 1778748809
     },
     {
       "rank": 8,
-      "word": "中国U17女足2:4朝鲜无缘决赛",
-      "hot_value": 9247093,
-      "label": "",
-      "event_time": 1778719949
+      "word": "巴基斯坦总理将访华",
+      "hot_value": 9302530,
+      "label": "爆",
+      "event_time": 1778758554
     },
     {
       "rank": 9,
       "word": "新能源车开启涨价潮",
-      "hot_value": 9202277,
+      "hot_value": 9279017,
       "label": "",
       "event_time": 1778748084
     },
     {
       "rank": 10,
       "word": "美记者在北京体验中国科技",
-      "hot_value": 9166213,
+      "hot_value": 9210010,
       "label": "",
       "event_time": 1778731417
     },
     {
       "rank": 11,
       "word": "芯片市场规模或将超1.5万亿美元",
-      "hot_value": 9146145,
+      "hot_value": 9172596,
       "label": "",
       "event_time": 1778737936
     },
     {
       "rank": 12,
+      "word": "鲁比奥：中美关系非常有建设性",
+      "hot_value": 9157320,
+      "label": "爆",
+      "event_time": 1778745372
+    },
+    {
+      "rank": 13,
       "word": "暂无证据显示汉坦病毒出现变异",
-      "hot_value": 9127857,
+      "hot_value": 8881723,
       "label": "爆",
       "event_time": 1778729672
     },
     {
-      "rank": 13,
-      "word": "三角洲行动更新公告",
-      "hot_value": 8720750,
-      "label": "爆",
-      "event_time": 1778759932
-    },
-    {
       "rank": 14,
       "word": "给阿嬷的情书为啥这么火",
-      "hot_value": 8645509,
+      "hot_value": 8871484,
       "label": "爆",
       "event_time": 1778684853
     },
     {
       "rank": 15,
+      "word": "三角洲行动更新公告",
+      "hot_value": 8581644,
+      "label": "爆",
+      "event_time": 1778759932
+    },
+    {
+      "rank": 16,
       "word": "半壶纱翻唱挑战",
-      "hot_value": 8574946,
+      "hot_value": 8303583,
       "label": "音乐",
       "event_time": 1778676465
     },
     {
-      "rank": 16,
-      "word": "bbFps极限手速看呆刘回",
-      "hot_value": 8498665,
-      "label": "",
-      "event_time": 1778736266
-    },
-    {
       "rank": 17,
       "word": "歌手2026官宣定档",
-      "hot_value": 8269920,
+      "hot_value": 8212887,
       "label": "爆",
       "event_time": 1778747025
     },
     {
       "rank": 18,
       "word": "马斯克：对此次会晤感觉不错",
-      "hot_value": 7889496,
+      "hot_value": 8023456,
       "label": "爆",
       "event_time": 1778759989
     },
     {
       "rank": 19,
-      "word": "七彩阳光手指操来了",
-      "hot_value": 7850496,
+      "word": "老师可不可以教我怎么爱",
+      "hot_value": 7805839,
       "label": "音乐",
-      "event_time": 1778772035
+      "event_time": 1778751701
     },
     {
       "rank": 20,
-      "word": "老师可不可以教我怎么爱",
-      "hot_value": 7798670,
+      "word": "就让岁月开成一朵花",
+      "hot_value": 7798460,
       "label": "音乐",
-      "event_time": 1778751701
+      "event_time": 1778742636
     }
   ],
-  "update_time": "2026-05-14 20:23:30",
+  "update_time": "2026-05-14 22:01:55",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
