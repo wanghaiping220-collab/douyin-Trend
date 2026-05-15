@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "习近平为特朗普举行欢迎宴会",
-      "hot_value": 11636930,
+      "word": "中美元首在中南海小范围会晤",
+      "hot_value": 11107689,
       "label": "",
-      "event_time": 1778752179
+      "event_time": 1778813968
     },
     {
       "rank": 2,
-      "word": "第一现场看中美元首会晤",
-      "hot_value": 11540127,
+      "word": "外交部就特朗普访华情况答记者问",
+      "hot_value": 11094540,
       "label": "",
-      "event_time": 1778810695
+      "event_time": 1778813565
     },
     {
       "rank": 3,
-      "word": "看中国古建筑的智慧",
-      "hot_value": 11102030,
+      "word": "从故宫到天坛",
+      "hot_value": 11091305,
       "label": "",
-      "event_time": 1778766884
+      "event_time": 1778812588
     },
     {
       "rank": 4,
       "word": "中美关系新定位",
-      "hot_value": 11091868,
+      "hot_value": 10466032,
       "label": "",
       "event_time": 1778747994
     },
     {
       "rank": 5,
-      "word": "iPhone17上市后首次降价",
-      "hot_value": 10500682,
-      "label": "新",
-      "event_time": 1778805376
-    },
-    {
-      "rank": 6,
-      "word": "爷爷的爱在此刻具象化了",
-      "hot_value": 10469643,
-      "label": "新",
-      "event_time": 1778803496
-    },
-    {
-      "rank": 7,
-      "word": "巴基斯坦总理将访华",
-      "hot_value": 9356064,
-      "label": "爆",
-      "event_time": 1778758554
-    },
-    {
-      "rank": 8,
-      "word": "WBG战胜JDG",
-      "hot_value": 9264524,
-      "label": "",
-      "event_time": 1778772808
-    },
-    {
-      "rank": 9,
       "word": "法国队官宣世界杯26人大名单",
-      "hot_value": 9168604,
-      "label": "新",
+      "hot_value": 10405701,
+      "label": "爆",
       "event_time": 1778806008
     },
     {
-      "rank": 10,
-      "word": "新能源车开启涨价潮",
-      "hot_value": 9163114,
+      "rank": 6,
+      "word": "巴基斯坦总理将访华",
+      "hot_value": 9305844,
       "label": "",
-      "event_time": 1778748084
+      "event_time": 1778758554
+    },
+    {
+      "rank": 7,
+      "word": "钧正平谈岿然不动的哨兵",
+      "hot_value": 9216711,
+      "label": "新",
+      "event_time": 1778818977
+    },
+    {
+      "rank": 8,
+      "word": "CBA季后赛上海vs北京前瞻",
+      "hot_value": 9210600,
+      "label": "新",
+      "event_time": 1778817161
+    },
+    {
+      "rank": 9,
+      "word": "国行Switch成单机游戏机",
+      "hot_value": 9127255,
+      "label": "新",
+      "event_time": 1778816865
+    },
+    {
+      "rank": 10,
+      "word": "重庆江边游轮起火系谣言",
+      "hot_value": 9022712,
+      "label": "谣言",
+      "event_time": 1778826119
     },
     {
       "rank": 11,
-      "word": "法式波点鞋拿捏夏日穿搭",
-      "hot_value": 9106082,
-      "label": "",
-      "event_time": 1778765064
-    },
-    {
-      "rank": 12,
-      "word": "鲁比奥：中美关系非常有建设性",
-      "hot_value": 9071268,
-      "label": "爆",
-      "event_time": 1778745372
-    },
-    {
-      "rank": 13,
-      "word": "穿和穿搭的区别",
-      "hot_value": 8716002,
-      "label": "",
-      "event_time": 1778764148
-    },
-    {
-      "rank": 14,
-      "word": "芯片市场规模或将超1.5万亿美元",
-      "hot_value": 8406090,
-      "label": "",
-      "event_time": 1778737936
-    },
-    {
-      "rank": 15,
-      "word": "520我什么都不要",
-      "hot_value": 8263360,
-      "label": "音乐",
-      "event_time": 1778800456
-    },
-    {
-      "rank": 16,
-      "word": "老师可不可以教我怎么爱",
-      "hot_value": 7777596,
-      "label": "音乐",
-      "event_time": 1778751701
-    },
-    {
-      "rank": 17,
       "word": "歌手2026官宣定档",
-      "hot_value": 7772683,
+      "hot_value": 8462995,
       "label": "爆",
       "event_time": 1778747025
     },
     {
-      "rank": 18,
-      "word": "马斯克：对此次会晤感觉不错",
-      "hot_value": 7753246,
-      "label": "爆",
-      "event_time": 1778759989
+      "rank": 12,
+      "word": "爷爷的爱在此刻具象化了",
+      "hot_value": 8172874,
+      "label": "",
+      "event_time": 1778803496
     },
     {
-      "rank": 19,
+      "rank": 13,
+      "word": "数节拍手势挑战",
+      "hot_value": 7890916,
+      "label": "音乐",
+      "event_time": 1778738683
+    },
+    {
+      "rank": 14,
+      "word": "520我什么都不要",
+      "hot_value": 7876218,
+      "label": "音乐",
+      "event_time": 1778800456
+    },
+    {
+      "rank": 15,
       "word": "七彩阳光手指操来了",
-      "hot_value": 7752953,
+      "hot_value": 7828905,
       "label": "音乐",
       "event_time": 1778772035
     },
     {
+      "rank": 16,
+      "word": "马斯克：对此次会晤感觉不错",
+      "hot_value": 7822973,
+      "label": "爆",
+      "event_time": 1778759989
+    },
+    {
+      "rank": 17,
+      "word": "老师可不可以教我怎么爱",
+      "hot_value": 7777044,
+      "label": "音乐",
+      "event_time": 1778751701
+    },
+    {
+      "rank": 18,
+      "word": "陈泽综艺OK了老铁们爆笑来袭",
+      "hot_value": 7767822,
+      "label": "爆",
+      "event_time": 1778736517
+    },
+    {
+      "rank": 19,
+      "word": "美方企业家离场手势亮了",
+      "hot_value": 7751943,
+      "label": "爆",
+      "event_time": 1778745177
+    },
+    {
       "rank": 20,
-      "word": "中考倒计时奔跑吧少年",
-      "hot_value": 7725373,
-      "label": "",
-      "event_time": 1778748809
+      "word": "夏日辣妹穿搭出击",
+      "hot_value": 7737250,
+      "label": "爆",
+      "event_time": 1778767898
     }
   ],
-  "update_time": "2026-05-15 02:13:22",
+  "update_time": "2026-05-15 06:24:37",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
