@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "习主席今秋访美",
-      "hot_value": 11900341,
+      "hot_value": 12027040,
       "label": "",
       "event_time": 1778854371
     },
     {
       "rank": 2,
       "word": "CBA季后赛半决赛G1上海胜北京",
-      "hot_value": 11871833,
+      "hot_value": 11933381,
       "label": "爆",
       "event_time": 1778817161
     },
     {
       "rank": 3,
       "word": "凝千年古韵 承中华文明",
-      "hot_value": 11792620,
+      "hot_value": 11699552,
       "label": "爆",
       "event_time": 1778848246
     },
     {
       "rank": 4,
       "word": "黄山迎客松开花啦",
-      "hot_value": 11785194,
+      "hot_value": 11642219,
       "label": "爆",
       "event_time": 1778832446
     },
     {
       "rank": 5,
       "word": "一口气刷完金融入门知识",
-      "hot_value": 10519661,
+      "hot_value": 10539298,
       "label": "热议",
       "event_time": 1778833383
     },
     {
       "rank": 6,
-      "word": "特朗普结束访华 乘专机离开北京",
-      "hot_value": 10304763,
-      "label": "",
-      "event_time": 1778824917
-    },
-    {
-      "rank": 7,
       "word": "我的初夏充能计划",
-      "hot_value": 8966495,
+      "hot_value": 10218624,
       "label": "",
       "event_time": 1778826603
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "BLG战胜TES",
-      "hot_value": 8562943,
+      "hot_value": 8937573,
       "label": "",
       "event_time": 1778858583
     },
     {
+      "rank": 8,
+      "word": "U17国足3:1逆转沙特",
+      "hot_value": 8415748,
+      "label": "新",
+      "event_time": 1778886905
+    },
+    {
       "rank": 9,
-      "word": "韦世豪梅开二度",
-      "hot_value": 8037285,
+      "word": "人形机器人“上岗”快递分拣员",
+      "hot_value": 7874378,
       "label": "",
-      "event_time": 1778852650
+      "event_time": 1778823719
     },
     {
       "rank": 10,
-      "word": "法国队官宣世界杯26人大名单",
-      "hot_value": 7930484,
+      "word": "外交部就特朗普访华情况答记者问",
+      "hot_value": 7846326,
       "label": "",
-      "event_time": 1778806008
+      "event_time": 1778813565
     },
     {
       "rank": 11,
       "word": "跑男真夫妻就是甜",
-      "hot_value": 7813481,
+      "hot_value": 7801651,
       "label": "爆",
       "event_time": 1778853217
     },
     {
       "rank": 12,
-      "word": "蒙超开幕式豪迈歌声点燃赛场",
-      "hot_value": 7794627,
+      "word": "国行Switch成单机游戏机",
+      "hot_value": 7796583,
       "label": "",
-      "event_time": 1778850851
+      "event_time": 1778816865
     },
     {
       "rank": 13,
-      "word": "中超上海海港2:2浙江队",
-      "hot_value": 7784823,
-      "label": "",
-      "event_time": 1778854169
-    },
-    {
-      "rank": 14,
       "word": "岁月为我大浪淘沙",
-      "hot_value": 7776389,
+      "hot_value": 7795168,
       "label": "音乐",
       "event_time": 1778833949
     },
     {
+      "rank": 14,
+      "word": "不倒翁挑战",
+      "hot_value": 7774557,
+      "label": "音乐",
+      "event_time": 1778833909
+    },
+    {
       "rank": 15,
       "word": "乘风师姐帮唱小考",
-      "hot_value": 7774127,
+      "hot_value": 7772347,
       "label": "",
       "event_time": 1778831743
     },
     {
       "rank": 16,
       "word": "央视获2026世界杯版权",
-      "hot_value": 7773357,
+      "hot_value": 7759551,
       "label": "",
       "event_time": 1778825884
     },
     {
       "rank": 17,
       "word": "张雪机车位列超级杆位赛第三名",
-      "hot_value": 7766600,
+      "hot_value": 7750691,
       "label": "爆",
       "event_time": 1778815623
     },
     {
       "rank": 18,
-      "word": "ENEMY主创最新作品预告",
-      "hot_value": 7754098,
-      "label": "",
-      "event_time": 1778834688
-    },
-    {
-      "rank": 19,
       "word": "爷爷的爱在此刻具象化了",
-      "hot_value": 7728029,
+      "hot_value": 7740111,
       "label": "",
       "event_time": 1778803496
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "520我什么都不要",
-      "hot_value": 7722997,
+      "hot_value": 7729435,
       "label": "音乐",
       "event_time": 1778800456
+    },
+    {
+      "rank": 20,
+      "word": "ENEMY主创最新作品预告",
+      "hot_value": 7726803,
+      "label": "",
+      "event_time": 1778834688
     }
   ],
-  "update_time": "2026-05-15 22:44:02",
+  "update_time": "2026-05-15 23:45:41",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
