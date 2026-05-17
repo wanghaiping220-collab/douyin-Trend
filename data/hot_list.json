@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "CBA半决赛G2北京胜上海",
-      "hot_value": 12132795,
+      "hot_value": 12112494,
       "label": "爆",
       "event_time": 1779016892
     },
     {
       "rank": 2,
       "word": "BLG 2:0 AL",
-      "hot_value": 12119635,
+      "hot_value": 12110305,
       "label": "",
       "event_time": 1779024898
     },
     {
       "rank": 3,
       "word": "两艘国产大型邮轮首次同框",
-      "hot_value": 12097152,
+      "hot_value": 12076307,
       "label": "爆",
       "event_time": 1778987274
     },
     {
       "rank": 4,
       "word": "520要把世界送给喜欢的人",
-      "hot_value": 10746576,
+      "hot_value": 10749693,
       "label": "",
       "event_time": 1778992834
     },
     {
       "rank": 5,
       "word": "广西柳州5.2级地震",
-      "hot_value": 10081901,
+      "hot_value": 10197553,
       "label": "",
       "event_time": 1779035853
     },
     {
       "rank": 6,
       "word": "抖音拼豆学术交流大会",
-      "hot_value": 9788755,
+      "hot_value": 10025537,
       "label": "",
       "event_time": 1778997784
     },
     {
       "rank": 7,
       "word": "这次的惊艳来自武术裁判",
-      "hot_value": 8715416,
+      "hot_value": 8934013,
       "label": "",
       "event_time": 1778997305
     },
     {
       "rank": 8,
       "word": "英超曼联3:2诺丁汉森林",
-      "hot_value": 8707815,
+      "hot_value": 8743130,
       "label": "",
       "event_time": 1779026036
     },
     {
       "rank": 9,
-      "word": "亚历山大当选常规赛MVP",
-      "hot_value": 8527953,
-      "label": "",
-      "event_time": 1779028708
+      "word": "穆里尼奥回应将加盟皇马的传闻",
+      "hot_value": 8559008,
+      "label": "爆",
+      "event_time": 1779007586
     },
     {
       "rank": 10,
-      "word": "A勒布伦回应战胜樊振东",
-      "hot_value": 8452855,
-      "label": "",
-      "event_time": 1779022912
-    },
-    {
-      "rank": 11,
       "word": "特朗普访华后续观察",
-      "hot_value": 8104595,
+      "hot_value": 8162479,
       "label": "",
       "event_time": 1778999208
     },
     {
+      "rank": 11,
+      "word": "日本在冲绳举行军事演习",
+      "hot_value": 7798719,
+      "label": "",
+      "event_time": 1778981514
+    },
+    {
       "rank": 12,
       "word": "爱上粉彩系穿搭简直易如反掌",
-      "hot_value": 7808949,
+      "hot_value": 7772234,
       "label": "爆",
       "event_time": 1778988776
     },
     {
       "rank": 13,
       "word": "官方辟谣“考驾照难度大增”",
-      "hot_value": 7803294,
+      "hot_value": 7768144,
       "label": "谣言",
       "event_time": 1779030104
     },
     {
       "rank": 14,
       "word": "家业首播观后感",
-      "hot_value": 7791507,
+      "hot_value": 7754488,
       "label": "热议",
       "event_time": 1779023960
     },
     {
       "rank": 15,
+      "word": "A勒布伦回应战胜樊振东",
+      "hot_value": 7741639,
+      "label": "",
+      "event_time": 1779022912
+    },
+    {
+      "rank": 16,
       "word": "导演回应给阿嬷的情书票房破4亿",
-      "hot_value": 7776392,
+      "hot_value": 7740675,
       "label": "",
       "event_time": 1779018121
     },
     {
-      "rank": 16,
-      "word": "维斯塔潘车辆故障退赛",
-      "hot_value": 7750802,
-      "label": "",
-      "event_time": 1779014651
-    },
-    {
       "rank": 17,
       "word": "把自己的大头照藏在一群模特里",
-      "hot_value": 7741734,
+      "hot_value": 7728806,
       "label": "音乐",
       "event_time": 1779001797
     },
     {
       "rank": 18,
-      "word": "消失的人破4亿刘浩存就这样萌",
-      "hot_value": 7732284,
-      "label": "热议",
-      "event_time": 1779009056
+      "word": "我在月光下许过情真",
+      "hot_value": 7728018,
+      "label": "",
+      "event_time": 1778927164
     },
     {
       "rank": 19,
-      "word": "切尔西官宣阿隆索为新任主帅",
-      "hot_value": 7730535,
-      "label": "爆",
-      "event_time": 1779012919
+      "word": "亚历山大当选常规赛MVP",
+      "hot_value": 7721472,
+      "label": "",
+      "event_time": 1779028708
     },
     {
       "rank": 20,
-      "word": "幸福的人是擅长感知幸福",
-      "hot_value": 7727908,
-      "label": "音乐",
-      "event_time": 1778979540
+      "word": "维斯塔潘车辆故障退赛",
+      "hot_value": 7721257,
+      "label": "",
+      "event_time": 1779014651
     }
   ],
-  "update_time": "2026-05-17 18:54:52",
+  "update_time": "2026-05-17 20:01:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
