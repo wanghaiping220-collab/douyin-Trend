@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "俄罗斯总统普京抵达北京",
-      "hot_value": 12228062,
+      "hot_value": 11910536,
       "label": "",
       "event_time": 1779201725
     },
     {
       "rank": 2,
       "word": "葡萄牙官宣世界杯大名单",
-      "hot_value": 12106651,
-      "label": "",
+      "hot_value": 11635908,
+      "label": "爆",
       "event_time": 1779195997
     },
     {
       "rank": 3,
       "word": "2026中国网络文明大会",
-      "hot_value": 11778957,
+      "hot_value": 11612878,
       "label": "爆",
       "event_time": 1779194714
     },
     {
       "rank": 4,
       "word": "泰国取消60天免签政策",
-      "hot_value": 11370180,
-      "label": "",
+      "hot_value": 11563605,
+      "label": "爆",
       "event_time": 1779194151
     },
     {
       "rank": 5,
       "word": "成都蓉城0:1上海海港",
-      "hot_value": 10364889,
-      "label": "",
+      "hot_value": 10942421,
+      "label": "爆",
       "event_time": 1779161513
     },
     {
       "rank": 6,
       "word": "蒜薹潜力被开发最全面的一年",
-      "hot_value": 10262153,
+      "hot_value": 10244488,
       "label": "",
       "event_time": 1779158409
     },
     {
       "rank": 7,
       "word": "520心动奔赴派对",
-      "hot_value": 9160116,
-      "label": "新",
+      "hot_value": 9144089,
+      "label": "",
       "event_time": 1779199608
     },
     {
       "rank": 8,
-      "word": "苹果官宣WWDC26",
-      "hot_value": 9123978,
-      "label": "爆",
-      "event_time": 1779184809
+      "word": "C罗成首位6次参加世界杯球员",
+      "hot_value": 9143943,
+      "label": "",
+      "event_time": 1779194042
     },
     {
       "rank": 9,
       "word": "NBA季后赛马刺力克雷霆",
-      "hot_value": 9115383,
+      "hot_value": 9116046,
       "label": "",
       "event_time": 1779153081
     },
     {
       "rank": 10,
-      "word": "普京访华俄方代表团名单公布",
-      "hot_value": 9113983,
-      "label": "",
-      "event_time": 1779184317
-    },
-    {
-      "rank": 11,
       "word": "新手快速出妆小心机",
-      "hot_value": 8681854,
+      "hot_value": 9012608,
       "label": "",
       "event_time": 1779172573
     },
     {
+      "rank": 11,
+      "word": "武汉调查村庄62人患癌事件",
+      "hot_value": 9003019,
+      "label": "爆",
+      "event_time": 1779168939
+    },
+    {
       "rank": 12,
       "word": "网传“河南蒜薹滞销弃收”不实",
-      "hot_value": 8307713,
+      "hot_value": 8711961,
       "label": "谣言",
       "event_time": 1779186759
     },
     {
       "rank": 13,
-      "word": "武汉调查村庄62人患癌事件",
-      "hot_value": 8110267,
-      "label": "爆",
-      "event_time": 1779168939
-    },
-    {
-      "rank": 14,
       "word": "巴西队世界杯26人名单",
-      "hot_value": 7842338,
+      "hot_value": 8416598,
       "label": "",
       "event_time": 1779145466
     },
     {
+      "rank": 14,
+      "word": "瓜迪奥拉结束十年曼城生涯",
+      "hot_value": 8286709,
+      "label": "",
+      "event_time": 1779184798
+    },
+    {
       "rank": 15,
       "word": "祝你睡个好觉",
-      "hot_value": 7831180,
+      "hot_value": 8125775,
       "label": "音乐",
       "event_time": 1779184107
     },
     {
       "rank": 16,
       "word": "高市早苗访问韩国",
-      "hot_value": 7828622,
-      "label": "新",
+      "hot_value": 8068608,
+      "label": "",
       "event_time": 1779194997
     },
     {
       "rank": 17,
+      "word": "网友笔下的给阿嬷的情书2.0",
+      "hot_value": 7985969,
+      "label": "爆",
+      "event_time": 1779186987
+    },
+    {
+      "rank": 18,
       "word": "鼠牛虎兔童年回忆杀",
-      "hot_value": 7810865,
+      "hot_value": 7830325,
       "label": "音乐",
       "event_time": 1779181606
     },
     {
-      "rank": 18,
-      "word": "嘿你知道吗今天天气很差我喜欢你",
-      "hot_value": 7793180,
-      "label": "音乐",
-      "event_time": 1779181265
-    },
-    {
       "rank": 19,
-      "word": "网友笔下的给阿嬷的情书2.0",
-      "hot_value": 7790857,
+      "word": "文班亚马分区决赛砍下41分",
+      "hot_value": 7816234,
       "label": "",
-      "event_time": 1779186987
+      "event_time": 1779162802
     },
     {
       "rank": 20,
-      "word": "文班亚马分区决赛砍下41分",
-      "hot_value": 7786051,
-      "label": "",
-      "event_time": 1779162802
+      "word": "嘿你知道吗今天天气很差我喜欢你",
+      "hot_value": 7815236,
+      "label": "音乐",
+      "event_time": 1779181265
     }
   ],
-  "update_time": "2026-05-19 16:44:59",
+  "update_time": "2026-05-19 18:53:55",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
