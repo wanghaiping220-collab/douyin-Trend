@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "山西煤矿事故已致82死2失联",
-      "hot_value": 11106271,
+      "hot_value": 11103457,
       "label": "",
       "event_time": 1779547289
     },
     {
       "rank": 2,
       "word": "涉事煤矿有重大违法行为",
-      "hot_value": 11101335,
+      "hot_value": 11089491,
       "label": "",
       "event_time": 1779547450
     },
     {
       "rank": 3,
       "word": "国务院推行常住地提供基本公共服务",
-      "hot_value": 11030048,
+      "hot_value": 11018743,
       "label": "",
       "event_time": 1779540203
     },
     {
       "rank": 4,
       "word": "沃什宣誓就任美联储主席",
-      "hot_value": 10822933,
+      "hot_value": 10895122,
       "label": "爆",
       "event_time": 1779506354
     },
     {
       "rank": 5,
       "word": "神舟二十三号发射时间确定",
-      "hot_value": 10043427,
+      "hot_value": 10015993,
       "label": "",
       "event_time": 1779499224
     },
     {
       "rank": 6,
       "word": "东北超全民喜剧人",
-      "hot_value": 9877399,
+      "hot_value": 9788806,
       "label": "",
       "event_time": 1779508807
     },
     {
       "rank": 7,
-      "word": "苏超淮安0:1盐城",
-      "hot_value": 8546665,
-      "label": "",
-      "event_time": 1779513755
-    },
-    {
-      "rank": 8,
-      "word": "东北超好看",
-      "hot_value": 8420516,
-      "label": "爆",
-      "event_time": 1779543220
-    },
-    {
-      "rank": 9,
       "word": "U17男足告别亚洲杯",
-      "hot_value": 8375048,
+      "hot_value": 8606590,
       "label": "热议",
       "event_time": 1779513517
     },
     {
+      "rank": 8,
+      "word": "东北超好看",
+      "hot_value": 8490916,
+      "label": "",
+      "event_time": 1779543220
+    },
+    {
+      "rank": 9,
+      "word": "雷霆胜马刺大比分2:1领先",
+      "hot_value": 8473239,
+      "label": "",
+      "event_time": 1779498657
+    },
+    {
       "rank": 10,
       "word": "潮汕活动都进化到舞龙虾了",
-      "hot_value": 7827468,
+      "hot_value": 7940701,
       "label": "",
       "event_time": 1779501063
     },
     {
       "rank": 11,
       "word": "李荣浩南宁演唱会",
-      "hot_value": 7825683,
+      "hot_value": 7813664,
       "label": "爆",
       "event_time": 1779533988
     },
     {
       "rank": 12,
-      "word": "雷霆胜马刺大比分2:1领先",
-      "hot_value": 7797502,
+      "word": "苏超淮安0:1盐城",
+      "hot_value": 7784243,
       "label": "",
-      "event_time": 1779498657
+      "event_time": 1779513755
     },
     {
       "rank": 13,
       "word": "中国U17男足获亚洲杯亚军",
-      "hot_value": 7779826,
+      "hot_value": 7780148,
       "label": "",
       "event_time": 1779417351
     },
     {
       "rank": 14,
       "word": "乘风2026三公队长秀",
-      "hot_value": 7775148,
+      "hot_value": 7777006,
       "label": "",
       "event_time": 1779540354
     },
     {
       "rank": 15,
-      "word": "Hug Me手势舞挑战",
-      "hot_value": 7768223,
-      "label": "音乐",
-      "event_time": 1779514095
-    },
-    {
-      "rank": 16,
-      "word": "神23乘组公布",
-      "hot_value": 7761092,
-      "label": "",
-      "event_time": 1779498467
-    },
-    {
-      "rank": 17,
-      "word": "锐评浪姐三公舞台",
-      "hot_value": 7760080,
-      "label": "",
-      "event_time": 1779512995
-    },
-    {
-      "rank": 18,
       "word": "歌手2026首期舞台乐评",
-      "hot_value": 7739075,
+      "hot_value": 7757227,
       "label": "热议",
       "event_time": 1779463427
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "word": "Hug Me手势舞挑战",
+      "hot_value": 7750381,
+      "label": "音乐",
+      "event_time": 1779514095
+    },
+    {
+      "rank": 17,
       "word": "我就是个蘑菇头呀然后呢",
-      "hot_value": 7733870,
+      "hot_value": 7748282,
       "label": "音乐",
       "event_time": 1779444063
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "word": "锐评浪姐三公舞台",
+      "hot_value": 7745747,
+      "label": "",
+      "event_time": 1779512995
+    },
+    {
+      "rank": 19,
       "word": "听一朵花开的声音",
-      "hot_value": 7732956,
+      "hot_value": 7730875,
       "label": "音乐",
       "event_time": 1779437131
+    },
+    {
+      "rank": 20,
+      "word": "神23乘组公布",
+      "hot_value": 7726452,
+      "label": "",
+      "event_time": 1779498467
     }
   ],
-  "update_time": "2026-05-23 18:56:56",
+  "update_time": "2026-05-23 20:03:46",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
