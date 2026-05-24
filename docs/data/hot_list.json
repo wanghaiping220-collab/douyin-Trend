@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "山西爆炸煤矿第三轮搜救正在进行",
-      "hot_value": 12103619,
+      "hot_value": 11600068,
       "label": "爆",
       "event_time": 1779614692
     },
     {
       "rank": 2,
-      "word": "乌克兰首都基辅遭大规模空袭",
-      "hot_value": 11323048,
-      "label": "爆",
-      "event_time": 1779589267
+      "word": "神舟二十三号发射圆满成功",
+      "hot_value": 11122233,
+      "label": "",
+      "event_time": 1779594556
     },
     {
       "rank": 3,
       "word": "神舟二十三号飞船从这里起飞",
-      "hot_value": 11123159,
+      "hot_value": 11100523,
       "label": "爆",
       "event_time": 1779629466
     },
     {
       "rank": 4,
-      "word": "神舟二十三号发射圆满成功",
-      "hot_value": 11051656,
+      "word": "乌克兰首都基辅遭大规模空袭",
+      "hot_value": 11089285,
       "label": "",
-      "event_time": 1779594556
+      "event_time": 1779589267
     },
     {
       "rank": 5,
       "word": "2026世界杯主题曲MV发布",
-      "hot_value": 10418702,
+      "hot_value": 10503833,
       "label": "爆",
       "event_time": 1779597209
     },
     {
       "rank": 6,
       "word": "武契奇抵京",
-      "hot_value": 10341696,
+      "hot_value": 10496697,
       "label": "",
       "event_time": 1779596799
     },
     {
       "rank": 7,
-      "word": "山东泰山3:3武汉三镇",
-      "hot_value": 9167944,
-      "label": "",
-      "event_time": 1779632374
-    },
-    {
-      "rank": 8,
       "word": "男生变帅简直易如反掌",
-      "hot_value": 9165023,
+      "hot_value": 9261047,
       "label": "爆",
       "event_time": 1779531075
     },
     {
+      "rank": 8,
+      "word": "山东泰山3:3武汉三镇",
+      "hot_value": 9249575,
+      "label": "爆",
+      "event_time": 1779632374
+    },
+    {
       "rank": 9,
       "word": "中疾控发布埃博拉病毒病防控提示",
-      "hot_value": 9162692,
+      "hot_value": 9222810,
       "label": "爆",
       "event_time": 1779587226
     },
     {
       "rank": 10,
       "word": "7只半导体热门股拟套现127亿",
-      "hot_value": 9125907,
-      "label": "",
+      "hot_value": 9079951,
+      "label": "爆",
       "event_time": 1779627617
     },
     {
       "rank": 11,
       "word": "巴西世界杯宣传片出炉",
-      "hot_value": 9099229,
+      "hot_value": 9001341,
       "label": "爆",
       "event_time": 1779616279
     },
     {
       "rank": 12,
       "word": "这些常见蔬菜真的致癌吗",
-      "hot_value": 8792759,
+      "hot_value": 8696428,
       "label": "谣言",
       "event_time": 1779611148
     },
     {
       "rank": 13,
-      "word": "从埃博拉疫区来华人员需健康监测",
-      "hot_value": 8424474,
-      "label": "",
-      "event_time": 1779585709
-    },
-    {
-      "rank": 14,
       "word": "煤矿爆炸时247人下井仅记录124人",
-      "hot_value": 8107970,
+      "hot_value": 8562832,
       "label": "",
       "event_time": 1779588699
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "重庆永川暴雨致3死17失联",
-      "hot_value": 8031708,
+      "hot_value": 8427711,
       "label": "",
       "event_time": 1779587488
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "山西煤矿事故已致82死2失联",
-      "hot_value": 7903035,
+      "hot_value": 8358625,
       "label": "",
       "event_time": 1779547289
     },
     {
+      "rank": 16,
+      "word": "从埃博拉疫区来华人员需健康监测",
+      "hot_value": 8124447,
+      "label": "",
+      "event_time": 1779585709
+    },
+    {
       "rank": 17,
-      "word": "官抖祝贺给阿嬷的情书票房10亿",
-      "hot_value": 7845380,
-      "label": "爆",
-      "event_time": 1779595194
+      "word": "豫鄂皖多地成暴雨中心",
+      "hot_value": 8003586,
+      "label": "",
+      "event_time": 1779589455
     },
     {
       "rank": 18,
       "word": "LGD战胜WBG",
-      "hot_value": 7843312,
+      "hot_value": 7835735,
       "label": "",
       "event_time": 1779631166
     },
     {
       "rank": 19,
-      "word": "手绘版给阿嬷的情书",
-      "hot_value": 7820339,
+      "word": "缘分一道桥舞台江湖感",
+      "hot_value": 7806196,
       "label": "爆",
-      "event_time": 1779602997
+      "event_time": 1779632445
     },
     {
       "rank": 20,
       "word": "乘风2026师姐合作秀",
-      "hot_value": 7802960,
+      "hot_value": 7796408,
       "label": "",
       "event_time": 1779624012
     }
   ],
-  "update_time": "2026-05-24 19:03:10",
+  "update_time": "2026-05-24 20:42:56",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
