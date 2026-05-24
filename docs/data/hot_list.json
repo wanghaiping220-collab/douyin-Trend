@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "神舟二十三号发射圆满成功",
-      "hot_value": 12138047,
+      "hot_value": 12107124,
       "label": "爆",
       "event_time": 1779594556
     },
     {
       "rank": 2,
       "word": "山西爆炸煤矿第三轮搜救正在进行",
-      "hot_value": 12067146,
+      "hot_value": 11310027,
       "label": "爆",
       "event_time": 1779614692
     },
     {
       "rank": 3,
       "word": "神舟二十三号飞船从这里起飞",
-      "hot_value": 11087870,
+      "hot_value": 11155627,
       "label": "",
       "event_time": 1779629466
     },
     {
       "rank": 4,
+      "word": "乌克兰首都基辅遭大规模空袭",
+      "hot_value": 11101863,
+      "label": "爆",
+      "event_time": 1779589267
+    },
+    {
+      "rank": 5,
       "word": "2026世界杯主题曲MV发布",
-      "hot_value": 11049960,
+      "hot_value": 10491510,
       "label": "爆",
       "event_time": 1779597209
     },
     {
-      "rank": 5,
-      "word": "乌克兰首都基辅遭大规模空袭",
-      "hot_value": 10425302,
-      "label": "",
-      "event_time": 1779589267
-    },
-    {
       "rank": 6,
       "word": "武契奇抵京",
-      "hot_value": 10408155,
+      "hot_value": 10475119,
       "label": "",
       "event_time": 1779596799
     },
     {
       "rank": 7,
+      "word": "山东泰山3:3武汉三镇",
+      "hot_value": 9264004,
+      "label": "新",
+      "event_time": 1779632374
+    },
+    {
+      "rank": 8,
       "word": "男生变帅简直易如反掌",
-      "hot_value": 9187168,
+      "hot_value": 9238990,
       "label": "爆",
       "event_time": 1779531075
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "中疾控发布埃博拉病毒病防控提示",
-      "hot_value": 9052533,
+      "hot_value": 9209860,
       "label": "爆",
       "event_time": 1779587226
     },
     {
-      "rank": 9,
-      "word": "山西煤矿事故已致82死2失联",
-      "hot_value": 8875166,
-      "label": "",
-      "event_time": 1779547289
-    },
-    {
       "rank": 10,
       "word": "7只半导体热门股拟套现127亿",
-      "hot_value": 8524315,
-      "label": "新",
+      "hot_value": 9053637,
+      "label": "",
       "event_time": 1779627617
     },
     {
       "rank": 11,
       "word": "巴西世界杯宣传片出炉",
-      "hot_value": 7835487,
-      "label": "",
+      "hot_value": 8992552,
+      "label": "爆",
       "event_time": 1779616279
     },
     {
       "rank": 12,
       "word": "这些常见蔬菜真的致癌吗",
-      "hot_value": 7832188,
+      "hot_value": 8890671,
       "label": "谣言",
       "event_time": 1779611148
     },
     {
       "rank": 13,
-      "word": "手绘版给阿嬷的情书",
-      "hot_value": 7825773,
-      "label": "爆",
-      "event_time": 1779602997
+      "word": "煤矿爆炸时247人下井仅记录124人",
+      "hot_value": 8275245,
+      "label": "",
+      "event_time": 1779588699
     },
     {
       "rank": 14,
-      "word": "山东泰山3:3武汉三镇",
-      "hot_value": 7818778,
-      "label": "新",
-      "event_time": 1779632374
-    },
-    {
-      "rank": 15,
-      "word": "豫鄂皖多地成暴雨中心",
-      "hot_value": 7816404,
-      "label": "",
-      "event_time": 1779589455
-    },
-    {
-      "rank": 16,
-      "word": "另一个天堂舞台好听",
-      "hot_value": 7807338,
-      "label": "新",
-      "event_time": 1779626926
-    },
-    {
-      "rank": 17,
-      "word": "骑士输给尼克斯的原因是什么",
-      "hot_value": 7792182,
-      "label": "爆",
-      "event_time": 1779618088
-    },
-    {
-      "rank": 18,
       "word": "国务院调查组将就煤矿事故开展调查",
-      "hot_value": 7772803,
+      "hot_value": 8012440,
       "label": "",
       "event_time": 1779533932
     },
     {
-      "rank": 19,
-      "word": "从埃博拉疫区来华人员需健康监测",
-      "hot_value": 7770796,
+      "rank": 15,
+      "word": "重庆永川暴雨致3死17失联",
+      "hot_value": 7952594,
       "label": "",
-      "event_time": 1779585709
+      "event_time": 1779587488
+    },
+    {
+      "rank": 16,
+      "word": "山西煤矿事故已致82死2失联",
+      "hot_value": 7862716,
+      "label": "",
+      "event_time": 1779547289
+    },
+    {
+      "rank": 17,
+      "word": "豫鄂皖多地成暴雨中心",
+      "hot_value": 7824838,
+      "label": "",
+      "event_time": 1779589455
+    },
+    {
+      "rank": 18,
+      "word": "LGD战胜WBG",
+      "hot_value": 7812661,
+      "label": "新",
+      "event_time": 1779631166
+    },
+    {
+      "rank": 19,
+      "word": "宝莲舞台夯爆了",
+      "hot_value": 7805096,
+      "label": "新",
+      "event_time": 1779635061
     },
     {
       "rank": 20,
-      "word": "宝莲舞台夯爆了",
-      "hot_value": 7749139,
-      "label": "娱乐",
-      "event_time": 1779635061
+      "word": "乘风2026师姐合作秀",
+      "hot_value": 7803107,
+      "label": "新",
+      "event_time": 1779624012
     }
   ],
-  "update_time": "2026-05-24 15:56:00",
+  "update_time": "2026-05-24 16:54:14",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
