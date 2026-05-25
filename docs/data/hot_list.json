@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中方强烈谴责巴基斯坦恐袭事件",
-      "hot_value": 11614504,
+      "hot_value": 11940581,
       "label": "爆",
       "event_time": 1779691484
     },
     {
       "rank": 2,
       "word": "送全体考生高考最后100题",
-      "hot_value": 11274171,
+      "hot_value": 11206905,
       "label": "热议",
       "event_time": 1779704349
     },
     {
       "rank": 3,
       "word": "中国盾构机向世界输出中国方案",
-      "hot_value": 11100482,
+      "hot_value": 11174056,
       "label": "爆",
       "event_time": 1779713756
     },
     {
       "rank": 4,
       "word": "重庆永川暴雨致9死11失联",
-      "hot_value": 11095153,
+      "hot_value": 11100350,
       "label": "爆",
       "event_time": 1779700023
     },
     {
       "rank": 5,
       "word": "网友自制歼35航模超低空平稳飞行",
-      "hot_value": 10516932,
-      "label": "",
+      "hot_value": 10540233,
+      "label": "爆",
       "event_time": 1779691900
     },
     {
       "rank": 6,
       "word": "夏天的味道你感受到了吗",
-      "hot_value": 10482338,
+      "hot_value": 10536934,
       "label": "",
       "event_time": 1779675927
     },
     {
       "rank": 7,
       "word": "山西煤矿爆炸瞬间监控曝光",
-      "hot_value": 9333022,
+      "hot_value": 9331271,
       "label": "",
       "event_time": 1779676793
     },
     {
       "rank": 8,
       "word": "8张“太空全家福”来了",
-      "hot_value": 9224203,
+      "hot_value": 9327503,
       "label": "爆",
       "event_time": 1779676050
     },
     {
       "rank": 9,
       "word": "CBA总决赛你更看好谁",
-      "hot_value": 9188632,
+      "hot_value": 9326972,
       "label": "爆",
       "event_time": 1779705315
     },
     {
       "rank": 10,
       "word": "武契奇抵京后发“九宫格”",
-      "hot_value": 8964196,
+      "hot_value": 9092043,
       "label": "",
       "event_time": 1779672935
     },
     {
       "rank": 11,
-      "word": "不开心长生不老也没用",
-      "hot_value": 8939489,
-      "label": "爆",
-      "event_time": 1779645758
-    },
-    {
-      "rank": 12,
-      "word": "家业抖音追剧团",
-      "hot_value": 8720463,
-      "label": "热议",
-      "event_time": 1779697907
-    },
-    {
-      "rank": 13,
       "word": "给阿嬷的情书主创发抖音感谢支持",
-      "hot_value": 8506023,
+      "hot_value": 9084072,
       "label": "爆",
       "event_time": 1779693108
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "word": "我的一个普通下午",
+      "hot_value": 8976900,
+      "label": "音乐",
+      "event_time": 1779680948
+    },
+    {
+      "rank": 13,
       "word": "喊新疆猫咪过来得叫pixpix",
-      "hot_value": 8272783,
+      "hot_value": 8756814,
       "label": "音乐",
       "event_time": 1779702243
     },
     {
-      "rank": 15,
-      "word": "和平精英精英战场",
-      "hot_value": 8029303,
+      "rank": 14,
+      "word": "不开心长生不老也没用",
+      "hot_value": 8221242,
       "label": "",
-      "event_time": 1779696602
+      "event_time": 1779645758
+    },
+    {
+      "rank": 15,
+      "word": "家业抖音追剧团",
+      "hot_value": 8104689,
+      "label": "热议",
+      "event_time": 1779697907
     },
     {
       "rank": 16,
       "word": "王者荣耀S44赛季前瞻",
-      "hot_value": 7840234,
+      "hot_value": 7915217,
       "label": "",
       "event_time": 1779626367
     },
     {
       "rank": 17,
       "word": "师兄啊师兄哪吒获赞",
-      "hot_value": 7820112,
+      "hot_value": 7830804,
       "label": "爆",
       "event_time": 1779712990
     },
     {
       "rank": 18,
-      "word": "我的一个普通下午",
-      "hot_value": 7814910,
-      "label": "音乐",
-      "event_time": 1779680948
+      "word": "和平精英精英战场",
+      "hot_value": 7820957,
+      "label": "",
+      "event_time": 1779696602
     },
     {
       "rank": 19,
       "word": "这个就是我呀头上有妙脆角",
-      "hot_value": 7814773,
+      "hot_value": 7812889,
       "label": "音乐",
       "event_time": 1779699353
     },
     {
       "rank": 20,
-      "word": "株洲特色美食越吃越上头",
-      "hot_value": 7814480,
-      "label": "",
-      "event_time": 1779701796
+      "word": "老舅枪火首唱",
+      "hot_value": 7812143,
+      "label": "爆",
+      "event_time": 1779696254
     }
   ],
-  "update_time": "2026-05-25 20:19:27",
+  "update_time": "2026-05-25 22:02:05",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
