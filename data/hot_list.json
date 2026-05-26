@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "CBA总决赛首场上海战胜广厦",
-      "hot_value": 11470340,
-      "label": "爆",
-      "event_time": 1779777429
-    },
-    {
-      "rank": 2,
       "word": "中巴联合声明：反对任何形式“台独”",
-      "hot_value": 11096913,
+      "hot_value": 11547036,
       "label": "爆",
       "event_time": 1779774892
     },
     {
+      "rank": 2,
+      "word": "CBA总决赛首场上海战胜广厦",
+      "hot_value": 11100288,
+      "label": "爆",
+      "event_time": 1779777429
+    },
+    {
       "rank": 3,
       "word": "中国机器人正在创造下一个奇迹",
-      "hot_value": 10824236,
+      "hot_value": 11054783,
       "label": "爆",
       "event_time": 1779799328
     },
     {
       "rank": 4,
       "word": "感受一下金庸笔下的武侠瀑布",
-      "hot_value": 10819009,
+      "hot_value": 10883449,
       "label": "爆",
       "event_time": 1779765000
     },
     {
       "rank": 5,
       "word": "有一种美味叫榴莲忘返",
-      "hot_value": 10260183,
+      "hot_value": 10302586,
       "label": "爆",
       "event_time": 1779770312
     },
     {
       "rank": 6,
       "word": "这婚礼布置主打一个丰收",
-      "hot_value": 9765258,
-      "label": "",
+      "hot_value": 10250960,
+      "label": "爆",
       "event_time": 1779757000
     },
     {
       "rank": 7,
-      "word": "一人之下被指用AI作画",
-      "hot_value": 8660497,
-      "label": "",
-      "event_time": 1779750804
-    },
-    {
-      "rank": 8,
       "word": "毕业那天就这样穿",
-      "hot_value": 8390460,
+      "hot_value": 8790139,
       "label": "",
       "event_time": 1779704091
     },
     {
+      "rank": 8,
+      "word": "一人之下被指用AI作画",
+      "hot_value": 8787421,
+      "label": "爆",
+      "event_time": 1779750804
+    },
+    {
       "rank": 9,
       "word": "贵州冰浆到底是什么人间美味",
-      "hot_value": 8351302,
+      "hot_value": 8616065,
       "label": "",
       "event_time": 1779686775
     },
     {
       "rank": 10,
       "word": "小米发布2026年一季度业绩",
-      "hot_value": 8286167,
+      "hot_value": 8315020,
       "label": "",
       "event_time": 1779790419
     },
     {
       "rank": 11,
       "word": "多家投行下调金价预判",
-      "hot_value": 8217031,
+      "hot_value": 8300591,
       "label": "",
       "event_time": 1779786543
     },
     {
       "rank": 12,
-      "word": "黎家盈姐姐谈“顺德精神”",
-      "hot_value": 8140079,
-      "label": "",
-      "event_time": 1779758182
+      "word": "没有咪能抵抗得劲魔法",
+      "hot_value": 8264086,
+      "label": "音乐",
+      "event_time": 1779782266
     },
     {
       "rank": 13,
       "word": "温岚经抢救转至普通病房",
-      "hot_value": 7843065,
+      "hot_value": 8045726,
       "label": "",
       "event_time": 1779774497
     },
     {
       "rank": 14,
       "word": "耀眼定档0527",
-      "hot_value": 7780991,
+      "hot_value": 7899565,
       "label": "热议",
       "event_time": 1779763292
     },
     {
       "rank": 15,
+      "word": "自信就是大大方方地献丑",
+      "hot_value": 7819856,
+      "label": "爆",
+      "event_time": 1779778189
+    },
+    {
+      "rank": 16,
       "word": "2026白玉兰奖入围名单公布",
-      "hot_value": 7758014,
+      "hot_value": 7817108,
       "label": "",
       "event_time": 1779762030
     },
     {
-      "rank": 16,
-      "word": "不就反差吗这题我熟",
-      "hot_value": 7738299,
-      "label": "音乐",
-      "event_time": 1779800801
-    },
-    {
       "rank": 17,
-      "word": "穆祉丞Baby手势舞",
-      "hot_value": 7726533,
-      "label": "娱乐",
-      "event_time": 1779801753
+      "word": "生命树获八项白玉兰提名",
+      "hot_value": 7796499,
+      "label": "",
+      "event_time": 1779764503
     },
     {
       "rank": 18,
-      "word": "你敢发誓说你从来没爱过我吗",
-      "hot_value": 7724840,
-      "label": "音乐",
-      "event_time": 1779789650
+      "word": "黎家盈姐姐谈“顺德精神”",
+      "hot_value": 7787893,
+      "label": "",
+      "event_time": 1779758182
     },
     {
       "rank": 19,
       "word": "我说你笑起来像春天",
-      "hot_value": 7719724,
+      "hot_value": 7774706,
       "label": "音乐",
       "event_time": 1779782507
     },
     {
       "rank": 20,
       "word": "因为我刚好遇见你",
-      "hot_value": 7718842,
+      "hot_value": 7768879,
       "label": "音乐",
       "event_time": 1779778821
     }
   ],
-  "update_time": "2026-05-26 21:39:11",
+  "update_time": "2026-05-26 23:01:02",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
