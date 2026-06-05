@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "CBA上海男篮时隔24年夺冠",
-      "hot_value": 11930444,
-      "label": "爆",
-      "event_time": 1780649259
-    },
-    {
-      "rank": 2,
       "word": "国足客场2:1新加坡",
-      "hot_value": 11785006,
+      "hot_value": 11908409,
       "label": "爆",
       "event_time": 1780648931
     },
     {
+      "rank": 2,
+      "word": "外交部回应黄岩岛结构物问题",
+      "hot_value": 11803877,
+      "label": "爆",
+      "event_time": 1780645166
+    },
+    {
       "rank": 3,
       "word": "60秒解锁中国绿色密码",
-      "hot_value": 11445158,
+      "hot_value": 11488031,
       "label": "爆",
       "event_time": 1780663902
     },
     {
       "rank": 4,
       "word": "泽连斯基公开致信普京",
-      "hot_value": 11243803,
+      "hot_value": 11463161,
       "label": "爆",
       "event_time": 1780623931
     },
     {
       "rank": 5,
-      "word": "外交部回应黄岩岛结构物问题",
-      "hot_value": 10494523,
+      "word": "CBA上海男篮时隔24年夺冠",
+      "hot_value": 10529752,
       "label": "",
-      "event_time": 1780645166
+      "event_time": 1780649259
     },
     {
       "rank": 6,
       "word": "又到了属于西瓜的季节",
-      "hot_value": 10448447,
+      "hot_value": 10446035,
       "label": "",
       "event_time": 1780627903
     },
     {
       "rank": 7,
       "word": "如果你也喜欢拍天空",
-      "hot_value": 9314798,
+      "hot_value": 9303356,
       "label": "",
       "event_time": 1780661720
     },
     {
       "rank": 8,
       "word": "重启我的高考回忆",
-      "hot_value": 9297989,
+      "hot_value": 9174111,
       "label": "爆",
       "event_time": 1780632191
     },
     {
       "rank": 9,
       "word": "被非遗绝活应援高考燃到了",
-      "hot_value": 9099003,
+      "hot_value": 9100347,
       "label": "爆",
       "event_time": 1780646774
     },
     {
       "rank": 10,
       "word": "正部级“老虎”齐扎拉被判无期",
-      "hot_value": 8848363,
+      "hot_value": 8300928,
       "label": "",
       "event_time": 1780650146
     },
     {
       "rank": 11,
       "word": "大主宰2北苍全员团魂燃烧",
-      "hot_value": 8621325,
-      "label": "爆",
+      "hot_value": 8238018,
+      "label": "",
       "event_time": 1780623478
     },
     {
       "rank": 12,
       "word": "歌手2026第三期舞台",
-      "hot_value": 8621085,
+      "hot_value": 8231348,
       "label": "爆",
       "event_time": 1780654578
     },
     {
       "rank": 13,
       "word": "日照城市轨道交通线网图系谣言",
-      "hot_value": 8427168,
+      "hot_value": 8209055,
       "label": "谣言",
       "event_time": 1780660794
     },
     {
       "rank": 14,
       "word": "李晨白鹿牛掰组合",
-      "hot_value": 7834994,
+      "hot_value": 8025669,
       "label": "爆",
       "event_time": 1780666852
     },
     {
       "rank": 15,
       "word": "沈阳巨无霸豪华烤冷面太夯了",
-      "hot_value": 7825122,
+      "hot_value": 7838753,
       "label": "",
       "event_time": 1780639462
     },
     {
       "rank": 16,
       "word": "高考从不是终点",
-      "hot_value": 7821164,
+      "hot_value": 7833537,
       "label": "",
       "event_time": 1780544789
     },
     {
       "rank": 17,
       "word": "灵魂摆渡十年真的加更了",
-      "hot_value": 7819451,
+      "hot_value": 7790744,
       "label": "爆",
       "event_time": 1780655573
     },
     {
       "rank": 18,
-      "word": "2026美加墨世界杯申请出战",
-      "hot_value": 7802229,
-      "label": "音乐",
-      "event_time": 1780631525
+      "word": "AL战胜LGD",
+      "hot_value": 7772747,
+      "label": "",
+      "event_time": 1780664104
     },
     {
       "rank": 19,
       "word": "新疆小伙带火新疆小羊",
-      "hot_value": 7781257,
+      "hot_value": 7766323,
       "label": "",
       "event_time": 1780642681
     },
     {
       "rank": 20,
-      "word": "你有没有真的爱过我",
-      "hot_value": 7757250,
-      "label": "音乐",
-      "event_time": 1780664102
+      "word": "普通Disco舞台好快乐",
+      "hot_value": 7761063,
+      "label": "爆",
+      "event_time": 1780664022
     }
   ],
-  "update_time": "2026-06-05 20:45:18",
+  "update_time": "2026-06-05 22:09:29",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
