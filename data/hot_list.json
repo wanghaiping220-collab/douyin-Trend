@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "国足客场2:1新加坡",
-      "hot_value": 12095821,
-      "label": "爆",
-      "event_time": 1780648931
-    },
-    {
-      "rank": 2,
       "word": "CBA上海男篮时隔24年夺冠",
-      "hot_value": 11665734,
+      "hot_value": 11930444,
       "label": "爆",
       "event_time": 1780649259
     },
     {
+      "rank": 2,
+      "word": "国足客场2:1新加坡",
+      "hot_value": 11785006,
+      "label": "爆",
+      "event_time": 1780648931
+    },
+    {
       "rank": 3,
       "word": "60秒解锁中国绿色密码",
-      "hot_value": 11124263,
+      "hot_value": 11445158,
       "label": "爆",
       "event_time": 1780663902
     },
     {
       "rank": 4,
       "word": "泽连斯基公开致信普京",
-      "hot_value": 11102852,
+      "hot_value": 11243803,
       "label": "爆",
       "event_time": 1780623931
     },
     {
       "rank": 5,
       "word": "外交部回应黄岩岛结构物问题",
-      "hot_value": 10534155,
-      "label": "爆",
+      "hot_value": 10494523,
+      "label": "",
       "event_time": 1780645166
     },
     {
       "rank": 6,
       "word": "又到了属于西瓜的季节",
-      "hot_value": 10398934,
+      "hot_value": 10448447,
       "label": "",
       "event_time": 1780627903
     },
     {
       "rank": 7,
       "word": "如果你也喜欢拍天空",
-      "hot_value": 9225370,
+      "hot_value": 9314798,
       "label": "",
       "event_time": 1780661720
     },
     {
       "rank": 8,
       "word": "重启我的高考回忆",
-      "hot_value": 9104530,
+      "hot_value": 9297989,
       "label": "爆",
       "event_time": 1780632191
     },
     {
       "rank": 9,
       "word": "被非遗绝活应援高考燃到了",
-      "hot_value": 9040101,
+      "hot_value": 9099003,
       "label": "爆",
       "event_time": 1780646774
     },
     {
       "rank": 10,
-      "word": "教育部发布2026年高考十问十答",
-      "hot_value": 8975768,
+      "word": "正部级“老虎”齐扎拉被判无期",
+      "hot_value": 8848363,
       "label": "",
-      "event_time": 1780631559
+      "event_time": 1780650146
     },
     {
       "rank": 11,
       "word": "大主宰2北苍全员团魂燃烧",
-      "hot_value": 8782920,
+      "hot_value": 8621325,
       "label": "爆",
       "event_time": 1780623478
     },
     {
       "rank": 12,
       "word": "歌手2026第三期舞台",
-      "hot_value": 8749467,
+      "hot_value": 8621085,
       "label": "爆",
       "event_time": 1780654578
     },
     {
       "rank": 13,
       "word": "日照城市轨道交通线网图系谣言",
-      "hot_value": 8421829,
+      "hot_value": 8427168,
       "label": "谣言",
       "event_time": 1780660794
     },
     {
       "rank": 14,
       "word": "李晨白鹿牛掰组合",
-      "hot_value": 8295700,
-      "label": "",
+      "hot_value": 7834994,
+      "label": "爆",
       "event_time": 1780666852
     },
     {
       "rank": 15,
       "word": "沈阳巨无霸豪华烤冷面太夯了",
-      "hot_value": 8281289,
-      "label": "爆",
+      "hot_value": 7825122,
+      "label": "",
       "event_time": 1780639462
     },
     {
       "rank": 16,
-      "word": "乘风四公团秀",
-      "hot_value": 8192923,
-      "label": "爆",
-      "event_time": 1780654709
+      "word": "高考从不是终点",
+      "hot_value": 7821164,
+      "label": "",
+      "event_time": 1780544789
     },
     {
       "rank": 17,
-      "word": "2026美加墨世界杯申请出战",
-      "hot_value": 8010164,
-      "label": "音乐",
-      "event_time": 1780631525
-    },
-    {
-      "rank": 18,
       "word": "灵魂摆渡十年真的加更了",
-      "hot_value": 7871570,
+      "hot_value": 7819451,
       "label": "爆",
       "event_time": 1780655573
     },
     {
+      "rank": 18,
+      "word": "2026美加墨世界杯申请出战",
+      "hot_value": 7802229,
+      "label": "音乐",
+      "event_time": 1780631525
+    },
+    {
       "rank": 19,
       "word": "新疆小伙带火新疆小羊",
-      "hot_value": 7822732,
+      "hot_value": 7781257,
       "label": "",
       "event_time": 1780642681
     },
     {
       "rank": 20,
-      "word": "高考从不是终点",
-      "hot_value": 7806084,
-      "label": "",
-      "event_time": 1780544789
+      "word": "你有没有真的爱过我",
+      "hot_value": 7757250,
+      "label": "音乐",
+      "event_time": 1780664102
     }
   ],
-  "update_time": "2026-06-05 18:54:30",
+  "update_time": "2026-06-05 20:45:18",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
