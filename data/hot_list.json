@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "德国vs库拉索",
-      "hot_value": 12100787,
+      "word": "荷兰vs日本",
+      "hot_value": 12142997,
+      "label": "爆",
+      "event_time": 1781409246
+    },
+    {
+      "rank": 2,
+      "word": "德国7:1库拉索",
+      "hot_value": 12023605,
       "label": "爆",
       "event_time": 1781431380
     },
     {
-      "rank": 2,
-      "word": "谁懂碱水甜粽的含金量",
-      "hot_value": 12060711,
-      "label": "",
-      "event_time": 1781423122
-    },
-    {
       "rank": 3,
       "word": "织密六张网锻造中国经济硬核底座",
-      "hot_value": 12016378,
+      "hot_value": 11975861,
       "label": "爆",
       "event_time": 1781440879
     },
     {
       "rank": 4,
-      "word": "T1战胜GEN晋级MSI",
-      "hot_value": 11839640,
-      "label": "爆",
-      "event_time": 1781437602
+      "word": "谁懂碱水甜粽的含金量",
+      "hot_value": 11101856,
+      "label": "",
+      "event_time": 1781423122
     },
     {
       "rank": 5,
-      "word": "BLG夺得第二赛段优胜者",
-      "hot_value": 11029025,
-      "label": "爆",
-      "event_time": 1781430564
+      "word": "T1战胜GEN晋级MSI",
+      "hot_value": 10541324,
+      "label": "",
+      "event_time": 1781437602
     },
     {
       "rank": 6,
-      "word": "荷兰vs日本",
-      "hot_value": 10999329,
+      "word": "BLG夺得第二赛段优胜者",
+      "hot_value": 10412331,
       "label": "",
-      "event_time": 1781409246
+      "event_time": 1781430564
     },
     {
       "rank": 7,
-      "word": "那些年全国统一的潮流穿搭",
-      "hot_value": 9574698,
-      "label": "爆",
-      "event_time": 1781403353
-    },
-    {
-      "rank": 8,
       "word": "姜乘澜的保姆级黑眼圈遮瑕教程",
-      "hot_value": 9477846,
+      "hot_value": 9115991,
       "label": "",
       "event_time": 1781420510
     },
     {
+      "rank": 8,
+      "word": "那些年全国统一的潮流穿搭",
+      "hot_value": 9068748,
+      "label": "爆",
+      "event_time": 1781403353
+    },
+    {
       "rank": 9,
       "word": "懂球天团锐评桑巴足球是否没落",
-      "hot_value": 9191809,
-      "label": "爆",
+      "hot_value": 9043328,
+      "label": "",
       "event_time": 1781424958
     },
     {
       "rank": 10,
       "word": "瘦子吃饭有啥小习惯",
-      "hot_value": 9180396,
+      "hot_value": 8907091,
       "label": "娱乐",
       "event_time": 1781401109
     },
     {
       "rank": 11,
-      "word": "闽超南平2:0三明",
-      "hot_value": 9159906,
-      "label": "",
-      "event_time": 1781436243
+      "word": "火影八极宗师雏田技能初爆料",
+      "hot_value": 8515041,
+      "label": "爆",
+      "event_time": 1781434379
     },
     {
       "rank": 12,
       "word": "全国顶流NPC在杭州团建了",
-      "hot_value": 9148774,
+      "hot_value": 8431123,
       "label": "爆",
       "event_time": 1781414884
     },
     {
       "rank": 13,
       "word": "关于献血这些流言不要信",
-      "hot_value": 9144190,
+      "hot_value": 8090651,
       "label": "谣言",
       "event_time": 1781445293
     },
     {
       "rank": 14,
-      "word": "李小龙姐姐李秋源去世",
-      "hot_value": 8911850,
-      "label": "",
-      "event_time": 1781428474
-    },
-    {
-      "rank": 15,
       "word": "布伦森当选总决赛FMVP",
-      "hot_value": 8709684,
+      "hot_value": 7971906,
       "label": "",
       "event_time": 1781412778
     },
     {
+      "rank": 15,
+      "word": "库拉索世界杯历史首球",
+      "hot_value": 7871657,
+      "label": "新",
+      "event_time": 1781458216
+    },
+    {
       "rank": 16,
-      "word": "10家A股公司退市",
-      "hot_value": 8517443,
+      "word": "普京建议不友好国家不要与俄作战",
+      "hot_value": 7829632,
       "label": "",
-      "event_time": 1781405551
+      "event_time": 1781409420
     },
     {
       "rank": 17,
+      "word": "李小龙姐姐李秋源去世",
+      "hot_value": 7789332,
+      "label": "",
+      "event_time": 1781428474
+    },
+    {
+      "rank": 18,
       "word": "华语歌手黄大炜去世",
-      "hot_value": 8484898,
+      "hot_value": 7762018,
       "label": "",
       "event_time": 1781418977
     },
     {
-      "rank": 18,
-      "word": "尼克斯时隔53年再夺总冠军",
-      "hot_value": 8330004,
-      "label": "",
-      "event_time": 1781397898
-    },
-    {
       "rank": 19,
-      "word": "球迷街头庆祝尼克斯夺冠引骚乱",
-      "hot_value": 8100107,
-      "label": "",
-      "event_time": 1781436683
+      "word": "一个人也挺好",
+      "hot_value": 7750041,
+      "label": "音乐",
+      "event_time": 1781430079
     },
     {
       "rank": 20,
       "word": "XLG让一追二战胜G2",
-      "hot_value": 7866044,
+      "hot_value": 7748018,
       "label": "",
       "event_time": 1781411874
     }
   ],
-  "update_time": "2026-06-14 17:09:13",
+  "update_time": "2026-06-14 19:10:03",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
