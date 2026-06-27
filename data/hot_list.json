@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "被重庆的城市温度戳中了",
-      "hot_value": 12210166,
-      "label": "爆",
-      "event_time": 1782429088
-    },
-    {
-      "rank": 2,
       "word": "AI时代如何选专业",
-      "hot_value": 11785240,
+      "hot_value": 11389563,
       "label": "爆",
       "event_time": 1782443165
     },
     {
+      "rank": 2,
+      "word": "高考志愿填报有哪些误区",
+      "hot_value": 11357339,
+      "label": "爆",
+      "event_time": 1782382678
+    },
+    {
       "rank": 3,
       "word": "新型能源体系建设“十五五”规划",
-      "hot_value": 11679044,
+      "hot_value": 11342340,
       "label": "爆",
       "event_time": 1782475413
     },
     {
       "rank": 4,
-      "word": "高考志愿填报有哪些误区",
-      "hot_value": 11489689,
+      "word": "高考第七课走出考场走进热爱",
+      "hot_value": 11317633,
       "label": "爆",
-      "event_time": 1782382678
+      "event_time": 1782379876
     },
     {
       "rank": 5,
-      "word": "苹果与美光就涨价问题互相指责",
-      "hot_value": 10614728,
-      "label": "",
-      "event_time": 1782454195
-    },
-    {
-      "rank": 6,
-      "word": "贵阳人偏爱的黏糯香甜黄粑",
-      "hot_value": 9437452,
-      "label": "爆",
-      "event_time": 1782453995
-    },
-    {
-      "rank": 7,
       "word": "张可依晋级100米栏决赛",
-      "hot_value": 9370715,
+      "hot_value": 10568210,
       "label": "",
       "event_time": 1782460978
     },
     {
-      "rank": 8,
-      "word": "高考第七课走出考场走进热爱",
-      "hot_value": 9365022,
+      "rank": 6,
+      "word": "挪威1:4法国",
+      "hot_value": 9342316,
       "label": "",
-      "event_time": 1782379876
+      "event_time": 1782454256
+    },
+    {
+      "rank": 7,
+      "word": "我喜欢的漫画被AI改编了",
+      "hot_value": 9233773,
+      "label": "热议",
+      "event_time": 1782515118
+    },
+    {
+      "rank": 8,
+      "word": "贵阳人偏爱的黏糯香甜黄粑",
+      "hot_value": 9212822,
+      "label": "爆",
+      "event_time": 1782453995
     },
     {
       "rank": 9,
-      "word": "这才是太原旅行的正确打开方式",
-      "hot_value": 9098716,
-      "label": "",
-      "event_time": 1782354007
+      "word": "委内瑞拉强震已致920人遇难",
+      "hot_value": 8401856,
+      "label": "新",
+      "event_time": 1782515410
     },
     {
       "rank": 10,
-      "word": "塞内加尔5:0伊拉克",
-      "hot_value": 8878184,
-      "label": "爆",
-      "event_time": 1782465803
-    },
-    {
-      "rank": 11,
-      "word": "抖音乒乓百分大战首战奥恰队获胜",
-      "hot_value": 8764515,
-      "label": "",
-      "event_time": 1782452617
-    },
-    {
-      "rank": 12,
       "word": "委内瑞拉地震7名中国公民遇难",
-      "hot_value": 8529134,
-      "label": "新",
+      "hot_value": 8076985,
+      "label": "爆",
       "event_time": 1782515494
     },
     {
-      "rank": 13,
+      "rank": 11,
       "word": "杨紫获白玉兰最佳女主角",
-      "hot_value": 8348565,
+      "hot_value": 7784912,
       "label": "",
       "event_time": 1782482893
     },
     {
-      "rank": 14,
+      "rank": 12,
       "word": "白玉兰获奖名单",
-      "hot_value": 7837186,
+      "hot_value": 7775795,
       "label": "",
       "event_time": 1782481862
     },
     {
-      "rank": 15,
-      "word": "迟蓬获白玉兰最佳女配角",
-      "hot_value": 7779999,
-      "label": "",
-      "event_time": 1782482496
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "word": "于和伟获白玉兰最佳男主角",
-      "hot_value": 7762931,
+      "hot_value": 7769873,
       "label": "",
       "event_time": 1782482466
     },
     {
-      "rank": 17,
-      "word": "余华说作文别轻易编名言",
-      "hot_value": 7756929,
+      "rank": 14,
+      "word": "迟蓬获白玉兰最佳女配角",
+      "hot_value": 7765855,
+      "label": "",
+      "event_time": 1782482496
+    },
+    {
+      "rank": 15,
+      "word": "乌拉圭0:1西班牙",
+      "hot_value": 7762259,
       "label": "爆",
-      "event_time": 1782388360
+      "event_time": 1782465986
+    },
+    {
+      "rank": 16,
+      "word": "在现场见证登贝莱帽子戏法",
+      "hot_value": 7757985,
+      "label": "新",
+      "event_time": 1782514899
+    },
+    {
+      "rank": 17,
+      "word": "前奏一响拉拉队登场",
+      "hot_value": 7755345,
+      "label": "音乐",
+      "event_time": 1782480774
     },
     {
       "rank": 18,
-      "word": "佛得角vs沙特阿拉伯",
-      "hot_value": 7755897,
+      "word": "白玉兰首位90后视后",
+      "hot_value": 7754040,
       "label": "",
-      "event_time": 1782466118
+      "event_time": 1782491111
     },
     {
       "rank": 19,
-      "word": "白玉兰颁奖典礼",
-      "hot_value": 7745755,
-      "label": "",
-      "event_time": 1782470510
+      "word": "哈兰德霸气走路模仿大赛",
+      "hot_value": 7751441,
+      "label": "音乐",
+      "event_time": 1782485277
     },
     {
       "rank": 20,
-      "word": "董勇获白玉兰最佳男配角",
-      "hot_value": 7740181,
+      "word": "徐良回应带火伴舞合声",
+      "hot_value": 7745887,
       "label": "爆",
-      "event_time": 1782483292
+      "event_time": 1782474745
     }
   ],
-  "update_time": "2026-06-26 23:55:38",
+  "update_time": "2026-06-27 02:30:06",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
