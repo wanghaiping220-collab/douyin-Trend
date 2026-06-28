@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "四川宜宾发生5.5级地震",
-      "hot_value": 12120674,
-      "label": "新",
+      "hot_value": 12114698,
+      "label": "",
       "event_time": 1782663782
     },
     {
       "rank": 2,
       "word": "在永州感受柳宗元写的千古名篇",
-      "hot_value": 11280130,
+      "hot_value": 11961064,
       "label": "爆",
       "event_time": 1782639018
     },
     {
       "rank": 3,
       "word": "我国碳纤维产业再添重磅里程碑",
-      "hot_value": 10779615,
-      "label": "",
+      "hot_value": 11891109,
+      "label": "爆",
       "event_time": 1782629413
     },
     {
       "rank": 4,
       "word": "面包果到底是什么味道",
-      "hot_value": 9806445,
-      "label": "",
+      "hot_value": 11815542,
+      "label": "爆",
       "event_time": 1782628687
     },
     {
       "rank": 5,
-      "word": "恢复少年气只需要一场成功",
-      "hot_value": 9154818,
-      "label": "",
-      "event_time": 1782628900
-    },
-    {
-      "rank": 6,
-      "word": "三角洲核电站地图体验",
-      "hot_value": 8756020,
-      "label": "",
-      "event_time": 1782614242
-    },
-    {
-      "rank": 7,
-      "word": "想听听你的海枯石烂",
-      "hot_value": 7817598,
-      "label": "音乐",
-      "event_time": 1782630940
-    },
-    {
-      "rank": 8,
       "word": "已经开始期待大兴安岭的秋天了",
-      "hot_value": 7817328,
+      "hot_value": 10416119,
       "label": "",
       "event_time": 1782550244
     },
     {
-      "rank": 9,
-      "word": "当我拍照一直不出片时",
-      "hot_value": 7809239,
-      "label": "音乐",
-      "event_time": 1782630202
+      "rank": 6,
+      "word": "恢复少年气只需要一场成功",
+      "hot_value": 10338556,
+      "label": "",
+      "event_time": 1782628900
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "word": "三角洲核电站地图体验",
+      "hot_value": 9133787,
+      "label": "",
+      "event_time": 1782614242
+    },
+    {
+      "rank": 8,
       "word": "抖音潮流舞蹈大赛成都站",
-      "hot_value": 7806573,
+      "hot_value": 8936475,
       "label": "",
       "event_time": 1782635268
     },
     {
-      "rank": 11,
+      "rank": 9,
       "word": "王者新装备无象神器",
-      "hot_value": 7786875,
+      "hot_value": 8575055,
       "label": "",
       "event_time": 1782635661
     },
     {
-      "rank": 12,
-      "word": "啥是大运",
-      "hot_value": 7785637,
-      "label": "荐",
-      "event_time": 1782610375
-    },
-    {
-      "rank": 13,
-      "word": "哈兰德请网友安利中国美食",
-      "hot_value": 7783285,
-      "label": "热议",
-      "event_time": 1782653400
-    },
-    {
-      "rank": 14,
-      "word": "这种止咳药长期超量服用会上瘾",
-      "hot_value": 7778846,
-      "label": "谣言",
-      "event_time": 1782642202
-    },
-    {
-      "rank": 15,
-      "word": "李在明就韩国队世界杯出局致歉",
-      "hot_value": 7750631,
-      "label": "",
-      "event_time": 1782646789
-    },
-    {
-      "rank": 16,
-      "word": "昨夜将至大结局",
-      "hot_value": 7745439,
-      "label": "",
-      "event_time": 1782644937
-    },
-    {
-      "rank": 17,
+      "rank": 10,
       "word": "上海申花4:1大连英博",
-      "hot_value": 7744855,
+      "hot_value": 8356202,
       "label": "",
       "event_time": 1782652250
     },
     {
-      "rank": 18,
-      "word": "哈兰德去找姆巴佩了",
-      "hot_value": 7742787,
+      "rank": 11,
+      "word": "啥是大运",
+      "hot_value": 8285595,
+      "label": "荐",
+      "event_time": 1782610375
+    },
+    {
+      "rank": 12,
+      "word": "南非vs加拿大",
+      "hot_value": 7961831,
       "label": "",
-      "event_time": 1782620526
+      "event_time": 1782642418
+    },
+    {
+      "rank": 13,
+      "word": "这种止咳药长期超量服用会上瘾",
+      "hot_value": 7838198,
+      "label": "谣言",
+      "event_time": 1782642202
+    },
+    {
+      "rank": 14,
+      "word": "李在明就韩国队世界杯出局致歉",
+      "hot_value": 7797735,
+      "label": "",
+      "event_time": 1782646789
+    },
+    {
+      "rank": 15,
+      "word": "一图看懂世界杯32强晋级规则",
+      "hot_value": 7783714,
+      "label": "",
+      "event_time": 1782651113
+    },
+    {
+      "rank": 16,
+      "word": "孙继海预测世界杯晋级之路",
+      "hot_value": 7776321,
+      "label": "",
+      "event_time": 1782652054
+    },
+    {
+      "rank": 17,
+      "word": "昨夜将至大结局",
+      "hot_value": 7775737,
+      "label": "",
+      "event_time": 1782644937
+    },
+    {
+      "rank": 18,
+      "word": "想听听你的海枯石烂",
+      "hot_value": 7775527,
+      "label": "音乐",
+      "event_time": 1782630940
     },
     {
       "rank": 19,
-      "word": "青岛大学毕业典礼青春感爆棚",
-      "hot_value": 7742605,
-      "label": "",
-      "event_time": 1782615094
+      "word": "哈兰德请网友安利中国美食",
+      "hot_value": 7760710,
+      "label": "热议",
+      "event_time": 1782653400
     },
     {
       "rank": 20,
-      "word": "全网预言家聊聊世界杯淘汰赛",
-      "hot_value": 7741403,
-      "label": "",
-      "event_time": 1782650657
+      "word": "当我拍照一直不出片时",
+      "hot_value": 7757132,
+      "label": "音乐",
+      "event_time": 1782630202
     }
   ],
-  "update_time": "2026-06-28 18:05:37",
+  "update_time": "2026-06-28 20:06:27",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
