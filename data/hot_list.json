@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "TSW 3:1战胜TES",
-      "hot_value": 12098783,
-      "label": "",
-      "event_time": 1783234272
-    },
-    {
-      "rank": 2,
-      "word": "西藏文旅奖励李要得50万奖金",
-      "hot_value": 11702720,
-      "label": "爆",
-      "event_time": 1783227802
-    },
-    {
-      "rank": 3,
-      "word": "中国人造太阳有重大进展",
-      "hot_value": 11499578,
-      "label": "",
-      "event_time": 1783214758
-    },
-    {
-      "rank": 4,
       "word": "我也来拍西藏宣传视频了",
-      "hot_value": 11347691,
+      "hot_value": 11933888,
       "label": "爆",
       "event_time": 1783212239
     },
     {
-      "rank": 5,
+      "rank": 2,
       "word": "来西安怎么能不吃油泼面呢",
-      "hot_value": 10701446,
-      "label": "",
+      "hot_value": 11848694,
+      "label": "爆",
       "event_time": 1783130698
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "word": "中国人造太阳有重大进展",
+      "hot_value": 11342890,
+      "label": "爆",
+      "event_time": 1783214758
+    },
+    {
+      "rank": 4,
       "word": "孙颖莎4:0战胜陈幸同晋级四强",
-      "hot_value": 10358104,
-      "label": "",
+      "hot_value": 10926477,
+      "label": "爆",
       "event_time": 1783216980
     },
     {
-      "rank": 7,
-      "word": "蒯曼4:3战胜佐藤瞳",
-      "hot_value": 9252233,
-      "label": "",
-      "event_time": 1783232889
-    },
-    {
-      "rank": 8,
-      "word": "跟着房琪一起了解湖南永州",
-      "hot_value": 9183037,
+      "rank": 5,
+      "word": "新闻联播",
+      "hot_value": 10377503,
       "label": "新",
-      "event_time": 1783238024
+      "event_time": 1783249026
     },
     {
-      "rank": 9,
-      "word": "在重庆坐个地铁也太难了",
-      "hot_value": 9161894,
+      "rank": 6,
+      "word": "西藏文旅奖励李要得50万奖金",
+      "hot_value": 10351323,
       "label": "",
-      "event_time": 1783211979
+      "event_time": 1783227802
     },
     {
-      "rank": 10,
-      "word": "光夜五周年音乐盛典",
-      "hot_value": 8964804,
-      "label": "爆",
-      "event_time": 1783227067
-    },
-    {
-      "rank": 11,
-      "word": "灿如繁星开播",
-      "hot_value": 8910387,
-      "label": "",
-      "event_time": 1783220325
-    },
-    {
-      "rank": 12,
-      "word": "全抖音网友都在问难题",
-      "hot_value": 8007915,
-      "label": "热议",
-      "event_time": 1783225481
-    },
-    {
-      "rank": 13,
-      "word": "野狗骨头开播",
-      "hot_value": 7841296,
-      "label": "荐",
-      "event_time": 1783224820
-    },
-    {
-      "rank": 14,
-      "word": "红酒真的能软化血管吗",
-      "hot_value": 7802091,
-      "label": "谣言",
-      "event_time": 1783217773
-    },
-    {
-      "rank": 15,
-      "word": "翻遍相册也要发一条配papi的BGM",
-      "hot_value": 7765885,
-      "label": "音乐",
-      "event_time": 1783219854
-    },
-    {
-      "rank": 16,
-      "word": "看宋威龙张婧仪互拍嘴角难压",
-      "hot_value": 7720941,
-      "label": "热议",
-      "event_time": 1783227388
-    },
-    {
-      "rank": 17,
-      "word": "法国1:0巴拉圭",
-      "hot_value": 7717607,
-      "label": "",
-      "event_time": 1783161046
-    },
-    {
-      "rank": 18,
+      "rank": 7,
       "word": "台风巴威朝着浙江来了",
-      "hot_value": 7712471,
+      "hot_value": 9241030,
       "label": "",
       "event_time": 1783223742
     },
     {
-      "rank": 19,
-      "word": "哈兰德能率领挪威战胜巴西吗",
-      "hot_value": 7703341,
+      "rank": 8,
+      "word": "跟着房琪一起了解湖南永州",
+      "hot_value": 9217422,
       "label": "",
+      "event_time": 1783238024
+    },
+    {
+      "rank": 9,
+      "word": "蒯曼4:3战胜佐藤瞳",
+      "hot_value": 9199987,
+      "label": "爆",
+      "event_time": 1783232889
+    },
+    {
+      "rank": 10,
+      "word": "抖瓦杯S4总决赛",
+      "hot_value": 9166568,
+      "label": "荐",
+      "event_time": 1783231600
+    },
+    {
+      "rank": 11,
+      "word": "TSW 3:1战胜TES",
+      "hot_value": 8960847,
+      "label": "",
+      "event_time": 1783234272
+    },
+    {
+      "rank": 12,
+      "word": "野狗骨头开播",
+      "hot_value": 8673522,
+      "label": "荐",
+      "event_time": 1783224820
+    },
+    {
+      "rank": 13,
+      "word": "红酒真的能软化血管吗",
+      "hot_value": 8403496,
+      "label": "谣言",
+      "event_time": 1783217773
+    },
+    {
+      "rank": 14,
+      "word": "哈兰德能率领挪威战胜巴西吗",
+      "hot_value": 7858589,
+      "label": "爆",
       "event_time": 1783223263
+    },
+    {
+      "rank": 15,
+      "word": "灿如繁星开播",
+      "hot_value": 7817982,
+      "label": "",
+      "event_time": 1783220325
+    },
+    {
+      "rank": 16,
+      "word": "法国1:0巴拉圭",
+      "hot_value": 7816387,
+      "label": "",
+      "event_time": 1783161046
+    },
+    {
+      "rank": 17,
+      "word": "翻遍相册也要发一条配papi的BGM",
+      "hot_value": 7769031,
+      "label": "音乐",
+      "event_time": 1783219854
+    },
+    {
+      "rank": 18,
+      "word": "光夜五周年音乐盛典",
+      "hot_value": 7768416,
+      "label": "",
+      "event_time": 1783227067
+    },
+    {
+      "rank": 19,
+      "word": "哈兰德大战巴西前理发",
+      "hot_value": 7764713,
+      "label": "新",
+      "event_time": 1783246219
     },
     {
       "rank": 20,
       "word": "李要得感谢西藏文旅",
-      "hot_value": 7701856,
-      "label": "新",
+      "hot_value": 7757304,
+      "label": "",
       "event_time": 1783232394
     }
   ],
-  "update_time": "2026-07-05 09:34:46",
+  "update_time": "2026-07-05 11:23:05",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
