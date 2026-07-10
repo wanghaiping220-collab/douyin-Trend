@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风巴威实时路径",
-      "hot_value": 12110692,
+      "hot_value": 12080929,
       "label": "爆",
       "event_time": 1783561559
     },
     {
       "rank": 2,
       "word": "巴威减弱为台风级",
-      "hot_value": 11986890,
+      "hot_value": 11957834,
       "label": "爆",
       "event_time": 1783649376
     },
     {
       "rank": 3,
       "word": "全国夏粮产量首次突破3000亿斤",
-      "hot_value": 11636536,
+      "hot_value": 11593611,
       "label": "爆",
       "event_time": 1783684874
     },
     {
       "rank": 4,
       "word": "探访秘鲁淘金之城",
-      "hot_value": 11440036,
+      "hot_value": 11431241,
       "label": "",
       "event_time": 1783687254
     },
     {
       "rank": 5,
       "word": "西班牙vs比利时",
-      "hot_value": 10763526,
+      "hot_value": 10549566,
       "label": "爆",
       "event_time": 1783663361
     },
     {
       "rank": 6,
       "word": "我国成功实施火箭一子级可控回收",
-      "hot_value": 10488172,
+      "hot_value": 10468155,
       "label": "",
       "event_time": 1783657977
     },
     {
       "rank": 7,
       "word": "给朋友拍照时就这样变身机器人",
-      "hot_value": 9133721,
-      "label": "",
+      "hot_value": 9354176,
+      "label": "爆",
       "event_time": 1783689761
     },
     {
       "rank": 8,
       "word": "这个夏天被确诊为“热怒症”",
-      "hot_value": 9066223,
+      "hot_value": 9131095,
       "label": "爆",
       "event_time": 1783579103
     },
     {
       "rank": 9,
       "word": "茶啊二中第六季定档暑期",
-      "hot_value": 8731516,
+      "hot_value": 9122866,
       "label": "爆",
       "event_time": 1783650969
     },
     {
       "rank": 10,
       "word": "就这样打开满级周五",
-      "hot_value": 8376870,
+      "hot_value": 8891521,
       "label": "爆",
       "event_time": 1783569926
     },
     {
       "rank": 11,
       "word": "姆巴佩回应受伤",
-      "hot_value": 8144976,
+      "hot_value": 8850384,
       "label": "",
       "event_time": 1783668608
     },
     {
       "rank": 12,
       "word": "“巴威”台风眼变模糊",
-      "hot_value": 7924956,
+      "hot_value": 8497550,
       "label": "",
       "event_time": 1783645908
     },
     {
       "rank": 13,
       "word": "功夫女足预售总票房破6000万",
-      "hot_value": 7884136,
+      "hot_value": 8273343,
       "label": "爆",
       "event_time": 1783668157
     },
     {
       "rank": 14,
-      "word": "陈泽杯S2 A组名单出炉",
-      "hot_value": 7851844,
-      "label": "热议",
-      "event_time": 1783665457
-    },
-    {
-      "rank": 15,
       "word": "WSUP主题曲舞蹈挑战",
-      "hot_value": 7820806,
+      "hot_value": 7830104,
       "label": "音乐",
       "event_time": 1783689507
     },
     {
-      "rank": 16,
-      "word": "歌手2026第八期舞台",
-      "hot_value": 7814254,
-      "label": "",
-      "event_time": 1783687093
-    },
-    {
-      "rank": 17,
-      "word": "台风到来前我在做什么",
-      "hot_value": 7812680,
-      "label": "爆",
-      "event_time": 1783683680
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "word": "北京大雨",
-      "hot_value": 7812587,
+      "hot_value": 7819082,
       "label": "",
       "event_time": 1783638796
     },
     {
-      "rank": 19,
-      "word": "全世界都在陪暹罗厘普胡闹",
-      "hot_value": 7809681,
+      "rank": 16,
+      "word": "贵港学生记录被救下全过程",
+      "hot_value": 7818162,
+      "label": "",
+      "event_time": 1783602286
+    },
+    {
+      "rank": 17,
+      "word": "歌手2026第八期舞台",
+      "hot_value": 7808355,
       "label": "爆",
-      "event_time": 1783669237
+      "event_time": 1783687093
+    },
+    {
+      "rank": 18,
+      "word": "台风到来前我在做什么",
+      "hot_value": 7808071,
+      "label": "爆",
+      "event_time": 1783683680
+    },
+    {
+      "rank": 19,
+      "word": "台风巴威逼近涌浪已出现",
+      "hot_value": 7800978,
+      "label": "爆",
+      "event_time": 1783672535
     },
     {
       "rank": 20,
-      "word": "功夫女足发布首支长预告",
-      "hot_value": 7801903,
-      "label": "爆",
-      "event_time": 1783671901
+      "word": "周星驰功夫女足各队功夫够燥的",
+      "hot_value": 7776800,
+      "label": "荐",
+      "event_time": 1783667689
     }
   ],
-  "update_time": "2026-07-10 18:16:32",
+  "update_time": "2026-07-10 20:14:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
