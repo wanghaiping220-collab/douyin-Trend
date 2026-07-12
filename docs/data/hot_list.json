@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "贵州火把节已经准备就绪了",
-      "hot_value": 12106360,
+      "hot_value": 12102854,
       "label": "爆",
       "event_time": 1783837824
     },
     {
       "rank": 2,
       "word": "火烧云落进千里江山图美到窒息",
-      "hot_value": 12098832,
+      "hot_value": 12071121,
       "label": "爆",
       "event_time": 1783749765
     },
     {
       "rank": 3,
       "word": "一组数据看中国经济稳中向优",
-      "hot_value": 12058845,
+      "hot_value": 11839635,
       "label": "爆",
       "event_time": 1783860692
     },
     {
       "rank": 4,
       "word": "善良真的会代代相传",
-      "hot_value": 11914965,
-      "label": "",
+      "hot_value": 11696959,
+      "label": "爆",
       "event_time": 1783862741
     },
     {
       "rank": 5,
       "word": "用旧凉席打造岳武穆战甲",
-      "hot_value": 11176799,
+      "hot_value": 10819316,
       "label": "爆",
       "event_time": 1783824600
     },
     {
       "rank": 6,
       "word": "维金斯抖音直播谈字母哥加盟",
-      "hot_value": 11074336,
+      "hot_value": 10598784,
       "label": "热议",
       "event_time": 1783830884
     },
     {
       "rank": 7,
       "word": "沈阳发布停课通知",
-      "hot_value": 9213274,
+      "hot_value": 9310757,
       "label": "爆",
       "event_time": 1783853214
     },
     {
       "rank": 8,
       "word": "昆明版水上闯关太好玩了",
-      "hot_value": 9181910,
+      "hot_value": 9222620,
       "label": "",
       "event_time": 1783825719
     },
     {
       "rank": 9,
-      "word": "南京地铁地面及高架区段暂停运营",
-      "hot_value": 9016479,
-      "label": "",
-      "event_time": 1783818076
-    },
-    {
-      "rank": 10,
       "word": "网友实拍台风登陆画面",
-      "hot_value": 8833254,
+      "hot_value": 9178395,
       "label": "爆",
       "event_time": 1783816303
     },
     {
+      "rank": 10,
+      "word": "南京地铁地面及高架区段暂停运营",
+      "hot_value": 9169015,
+      "label": "",
+      "event_time": 1783818076
+    },
+    {
       "rank": 11,
       "word": "世界前四齐聚世界杯四强",
-      "hot_value": 8716868,
+      "hot_value": 9134273,
       "label": "爆",
       "event_time": 1783828788
     },
     {
       "rank": 12,
-      "word": "英阿大战要来了",
-      "hot_value": 8572765,
+      "word": "康纳腿伤告负",
+      "hot_value": 8993493,
       "label": "",
-      "event_time": 1783841380
+      "event_time": 1783826030
     },
     {
       "rank": 13,
       "word": "28人借巴威造谣被查处",
-      "hot_value": 8501792,
+      "hot_value": 8814563,
       "label": "谣言",
       "event_time": 1783850651
     },
     {
       "rank": 14,
+      "word": "英阿大战要来了",
+      "hot_value": 8759142,
+      "label": "",
+      "event_time": 1783841380
+    },
+    {
+      "rank": 15,
       "word": "LOL怀旧服7月30日上线",
-      "hot_value": 8323398,
+      "hot_value": 8602587,
       "label": "娱乐",
       "event_time": 1783840198
     },
     {
-      "rank": 15,
-      "word": "太原理工勇夺第28届CUBAL冠军",
-      "hot_value": 8266641,
-      "label": "",
-      "event_time": 1783863701
-    },
-    {
       "rank": 16,
       "word": "哈兰德赛后发声",
-      "hot_value": 8041116,
+      "hot_value": 8561510,
       "label": "爆",
       "event_time": 1783828565
     },
     {
       "rank": 17,
-      "word": "康纳腿伤告负",
-      "hot_value": 8013941,
+      "word": "王聪赛后叫阵子弹姐",
+      "hot_value": 7964606,
       "label": "",
-      "event_time": 1783826030
+      "event_time": 1783818927
     },
     {
       "rank": 18,
+      "word": "太原理工勇夺第28届CUBAL冠军",
+      "hot_value": 7839453,
+      "label": "",
+      "event_time": 1783863701
+    },
+    {
+      "rank": 19,
       "word": "功夫女足票房破4亿",
-      "hot_value": 7888232,
+      "hot_value": 7838377,
       "label": "爆",
       "event_time": 1783850864
     },
     {
-      "rank": 19,
-      "word": "我和我的洲搭子",
-      "hot_value": 7842428,
-      "label": "爆",
-      "event_time": 1783837016
-    },
-    {
       "rank": 20,
       "word": "HLE击败BLG夺冠",
-      "hot_value": 7842410,
+      "hot_value": 7821426,
       "label": "",
       "event_time": 1783840719
     }
   ],
-  "update_time": "2026-07-12 17:51:45",
+  "update_time": "2026-07-12 18:51:55",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
