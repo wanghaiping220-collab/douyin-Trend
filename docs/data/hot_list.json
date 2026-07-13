@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "今年第11号台风“海神”生成",
-      "hot_value": 11527075,
+      "word": "今年第11号台风海神生成",
+      "hot_value": 11841975,
       "label": "爆",
       "event_time": 1783915397
     },
     {
       "rank": 2,
-      "word": "三伏天记录我的减肥日常",
-      "hot_value": 11463292,
+      "word": "台风巴威已进入江苏",
+      "hot_value": 11781984,
       "label": "爆",
-      "event_time": 1783907944
+      "event_time": 1783916921
     },
     {
       "rank": 3,
       "word": "我国上半年铁路客运数据出炉",
-      "hot_value": 11101002,
-      "label": "",
+      "hot_value": 11272796,
+      "label": "爆",
       "event_time": 1783909983
     },
     {
       "rank": 4,
+      "word": "李月汝替补出战23分钟10分10板",
+      "hot_value": 11103030,
+      "label": "",
+      "event_time": 1783907596
+    },
+    {
+      "rank": 5,
       "word": "台风巴威减弱 大雨还要下多久",
-      "hot_value": 10864727,
+      "hot_value": 10342029,
       "label": "爆",
       "event_time": 1783899691
     },
     {
-      "rank": 5,
-      "word": "台风“巴威”已进入江苏",
-      "hot_value": 10250452,
-      "label": "新",
-      "event_time": 1783916921
-    },
-    {
       "rank": 6,
       "word": "严打编造传播涉汛等涉灾网络谣言",
-      "hot_value": 10197259,
+      "hot_value": 10286185,
       "label": "谣言",
       "event_time": 1783928499
     },
     {
       "rank": 7,
+      "word": "沈阳启动防汛一级应急响应",
+      "hot_value": 9109202,
+      "label": "",
+      "event_time": 1783914424
+    },
+    {
+      "rank": 8,
       "word": "这夏夯爆了",
-      "hot_value": 8713269,
+      "hot_value": 8617233,
       "label": "爆",
       "event_time": 1783915639
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "沈阳暴雨",
-      "hot_value": 8600417,
+      "hot_value": 8334692,
       "label": "",
       "event_time": 1783902338
     },
     {
-      "rank": 9,
-      "word": "忍不住化身一条搁浅的美人鱼",
-      "hot_value": 8491552,
-      "label": "音乐",
-      "event_time": 1783836251
-    },
-    {
       "rank": 10,
-      "word": "太原理工勇夺第28届CUBAL冠军",
-      "hot_value": 8155659,
-      "label": "",
-      "event_time": 1783863701
+      "word": "航海王罗杰左腕贾巴登场",
+      "hot_value": 8279974,
+      "label": "爆",
+      "event_time": 1783917963
     },
     {
       "rank": 11,
+      "word": "看许君聪说泰语很难不笑",
+      "hot_value": 8209322,
+      "label": "爆",
+      "event_time": 1783922738
+    },
+    {
+      "rank": 12,
+      "word": "张沛勉冲击世界冠军",
+      "hot_value": 8131880,
+      "label": "",
+      "event_time": 1783916289
+    },
+    {
+      "rank": 13,
+      "word": "马宁告别世界杯",
+      "hot_value": 7824326,
+      "label": "",
+      "event_time": 1783923431
+    },
+    {
+      "rank": 14,
       "word": "吹吹山顶的风",
-      "hot_value": 8069261,
+      "hot_value": 7810616,
       "label": "音乐",
       "event_time": 1783860112
     },
     {
-      "rank": 12,
-      "word": "LOL怀旧服7月30日上线",
-      "hot_value": 7823756,
-      "label": "娱乐",
-      "event_time": 1783840198
-    },
-    {
-      "rank": 13,
-      "word": "看许君聪说泰语很难不笑",
-      "hot_value": 7798325,
-      "label": "",
-      "event_time": 1783922738
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "word": "气球怕的不是箭是我的嘴",
-      "hot_value": 7785111,
+      "hot_value": 7806413,
       "label": "音乐",
       "event_time": 1783914579
     },
     {
-      "rank": 15,
-      "word": "贵州火把节已经准备就绪了",
-      "hot_value": 7766001,
-      "label": "",
-      "event_time": 1783837824
-    },
-    {
       "rank": 16,
-      "word": "沉浸式体验功夫女足幕后",
-      "hot_value": 7753487,
-      "label": "荐",
-      "event_time": 1783836050
+      "word": "三伏天记录我的减肥日常",
+      "hot_value": 7790071,
+      "label": "",
+      "event_time": 1783907944
     },
     {
       "rank": 17,
-      "word": "新天地抖舞大赛进行中",
-      "hot_value": 7748701,
+      "word": "忍不住化身一条搁浅的美人鱼",
+      "hot_value": 7787013,
       "label": "音乐",
-      "event_time": 1783884626
+      "event_time": 1783836251
     },
     {
       "rank": 18,
-      "word": "谁还没上jumpstyle舞蹈末班车",
-      "hot_value": 7746529,
-      "label": "音乐",
-      "event_time": 1783850462
+      "word": "全球首颗近存计算3D芯片发布",
+      "hot_value": 7768057,
+      "label": "新",
+      "event_time": 1783929741
     },
     {
       "rank": 19,
-      "word": "打蛋挑战我的眼神说了算",
-      "hot_value": 7743272,
-      "label": "音乐",
-      "event_time": 1783917359
+      "word": "中国队男子4×400米接力夺冠",
+      "hot_value": 7766231,
+      "label": "",
+      "event_time": 1783923467
     },
     {
       "rank": 20,
-      "word": "观众为什么喜欢周星驰",
-      "hot_value": 7726583,
-      "label": "爆",
-      "event_time": 1783823037
+      "word": "谁还没上jumpstyle舞蹈末班车",
+      "hot_value": 7759780,
+      "label": "音乐",
+      "event_time": 1783850462
     }
   ],
-  "update_time": "2026-07-13 08:49:53",
+  "update_time": "2026-07-13 11:52:29",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
