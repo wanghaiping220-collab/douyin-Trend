@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "挑战在韶关悬崖小屋上住一晚",
-      "hot_value": 11998067,
+      "hot_value": 12040069,
       "label": "爆",
       "event_time": 1783940597
     },
     {
       "rank": 2,
       "word": "我在等一个喜欢我照片的人",
-      "hot_value": 11928347,
+      "hot_value": 11904712,
       "label": "爆",
       "event_time": 1783931101
     },
     {
       "rank": 3,
       "word": "甲醇输送搭上成品油管道顺风车",
-      "hot_value": 11914417,
+      "hot_value": 11794112,
       "label": "爆",
       "event_time": 1783918751
     },
     {
       "rank": 4,
       "word": "施南生去世",
-      "hot_value": 11426995,
-      "label": "新",
+      "hot_value": 11424248,
+      "label": "",
       "event_time": 1783956072
     },
     {
       "rank": 5,
       "word": "夏日冻啃界扛把子",
-      "hot_value": 10631486,
+      "hot_value": 10523744,
       "label": "爆",
       "event_time": 1783926881
     },
     {
       "rank": 6,
       "word": "沈阳启动防汛一级应急响应",
-      "hot_value": 10540923,
+      "hot_value": 10500812,
       "label": "爆",
       "event_time": 1783914424
     },
     {
       "rank": 7,
       "word": "李月汝替补出战23分钟10分10板",
-      "hot_value": 9340844,
+      "hot_value": 9371802,
       "label": "",
       "event_time": 1783907596
     },
     {
       "rank": 8,
       "word": "张沛勉冲击世界冠军",
-      "hot_value": 9255440,
+      "hot_value": 9352456,
       "label": "爆",
       "event_time": 1783916289
     },
     {
       "rank": 9,
       "word": "今年第11号台风海神生成",
-      "hot_value": 9247808,
+      "hot_value": 9242251,
       "label": "",
       "event_time": 1783915397
     },
     {
       "rank": 10,
-      "word": "曼联签下蒂莱曼斯",
-      "hot_value": 9102967,
-      "label": "",
-      "event_time": 1783949030
-    },
-    {
-      "rank": 11,
       "word": "全球首颗近存计算3D芯片发布",
-      "hot_value": 8772039,
+      "hot_value": 9100287,
       "label": "爆",
       "event_time": 1783929741
     },
     {
+      "rank": 11,
+      "word": "台风巴威减弱 大雨还要下多久",
+      "hot_value": 8475548,
+      "label": "",
+      "event_time": 1783899691
+    },
+    {
       "rank": 12,
       "word": "功夫女足票房没有成功学",
-      "hot_value": 7864840,
+      "hot_value": 7855875,
       "label": "",
       "event_time": 1783942338
     },
     {
       "rank": 13,
-      "word": "台风巴威减弱 大雨还要下多久",
-      "hot_value": 7861587,
+      "word": "曼联签下蒂莱曼斯",
+      "hot_value": 7851895,
       "label": "",
-      "event_time": 1783899691
+      "event_time": 1783949030
     },
     {
       "rank": 14,
       "word": "“本科无法进入教师岗位”不实",
-      "hot_value": 7861583,
+      "hot_value": 7832782,
       "label": "谣言",
       "event_time": 1783943995
     },
     {
       "rank": 15,
+      "word": "种下了一朵朵青春璀璨的年少",
+      "hot_value": 7794025,
+      "label": "音乐",
+      "event_time": 1783944284
+    },
+    {
+      "rank": 16,
       "word": "马宁告别世界杯",
-      "hot_value": 7846542,
+      "hot_value": 7793113,
       "label": "爆",
       "event_time": 1783923431
     },
     {
-      "rank": 16,
+      "rank": 17,
       "word": "这夏夯爆了",
-      "hot_value": 7829802,
+      "hot_value": 7777340,
       "label": "",
       "event_time": 1783915639
     },
     {
-      "rank": 17,
-      "word": "加麻不加辣舞蹈挑战",
-      "hot_value": 7766574,
-      "label": "娱乐",
-      "event_time": 1783944675
-    },
-    {
       "rank": 18,
-      "word": "看许君聪说泰语很难不笑",
-      "hot_value": 7753456,
-      "label": "",
-      "event_time": 1783922738
-    },
-    {
-      "rank": 19,
       "word": "阿根廷队申请半决赛穿客场队服",
-      "hot_value": 7752514,
+      "hot_value": 7763944,
       "label": "",
       "event_time": 1783915253
     },
     {
+      "rank": 19,
+      "word": "我申请参加华山论剑S2",
+      "hot_value": 7763021,
+      "label": "爆",
+      "event_time": 1783945101
+    },
+    {
       "rank": 20,
       "word": "周星驰星女郎雪野入驻抖音",
-      "hot_value": 7749071,
+      "hot_value": 7761020,
       "label": "热议",
       "event_time": 1783945185
     }
   ],
-  "update_time": "2026-07-13 17:06:40",
+  "update_time": "2026-07-13 19:12:43",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
