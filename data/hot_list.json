@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "贵州火把节已经准备就绪了",
-      "hot_value": 12096731,
+      "hot_value": 12002577,
       "label": "爆",
       "event_time": 1783837824
     },
     {
       "rank": 2,
-      "word": "火烧云落进千里江山图美到窒息",
-      "hot_value": 12033594,
+      "word": "用旧凉席打造岳武穆战甲",
+      "hot_value": 11704672,
       "label": "爆",
-      "event_time": 1783749765
+      "event_time": 1783824600
     },
     {
       "rank": 3,
       "word": "一组数据看中国经济稳中向优",
-      "hot_value": 11943047,
+      "hot_value": 11436128,
       "label": "爆",
       "event_time": 1783860692
     },
     {
       "rank": 4,
-      "word": "用旧凉席打造岳武穆战甲",
-      "hot_value": 11693035,
-      "label": "爆",
-      "event_time": 1783824600
+      "word": "沈阳暴雨",
+      "hot_value": 10945737,
+      "label": "新",
+      "event_time": 1783902338
     },
     {
       "rank": 5,
       "word": "酱油洗洁精拉花练习",
-      "hot_value": 10918421,
+      "hot_value": 10302185,
       "label": "爆",
       "event_time": 1783826593
     },
     {
       "rank": 6,
+      "word": "火烧云落进千里江山图美到窒息",
+      "hot_value": 10272551,
+      "label": "",
+      "event_time": 1783749765
+    },
+    {
+      "rank": 7,
       "word": "沈阳发布停课通知",
-      "hot_value": 10493567,
+      "hot_value": 9177977,
       "label": "",
       "event_time": 1783853214
     },
     {
-      "rank": 7,
-      "word": "网友实拍台风登陆画面",
-      "hot_value": 9323992,
-      "label": "爆",
-      "event_time": 1783816303
-    },
-    {
       "rank": 8,
       "word": "昆明版水上闯关太好玩了",
-      "hot_value": 9220664,
+      "hot_value": 8932545,
       "label": "",
       "event_time": 1783825719
     },
     {
       "rank": 9,
-      "word": "王聪赛后叫阵子弹姐",
-      "hot_value": 8848676,
-      "label": "爆",
-      "event_time": 1783818927
+      "word": "黄健翔刘建宏告别哈兰德",
+      "hot_value": 8751714,
+      "label": "热议",
+      "event_time": 1783843261
     },
     {
       "rank": 10,
       "word": "康纳回归失利输在哪",
-      "hot_value": 8740152,
+      "hot_value": 8503437,
       "label": "爆",
       "event_time": 1783832433
     },
     {
       "rank": 11,
-      "word": "世界前四齐聚世界杯四强",
-      "hot_value": 8624128,
+      "word": "铁三角要来第五人格了",
+      "hot_value": 8466566,
       "label": "爆",
-      "event_time": 1783828788
+      "event_time": 1783830256
     },
     {
       "rank": 12,
       "word": "英阿大战要来了",
-      "hot_value": 7890929,
-      "label": "",
+      "hot_value": 8256273,
+      "label": "爆",
       "event_time": 1783841380
     },
     {
       "rank": 13,
       "word": "28人借巴威造谣被查处",
-      "hot_value": 7828519,
+      "hot_value": 8092770,
       "label": "谣言",
       "event_time": 1783850651
     },
     {
       "rank": 14,
-      "word": "90后的回忆全在这了",
-      "hot_value": 7805669,
-      "label": "爆",
-      "event_time": 1783827542
+      "word": "功夫女足长沙路演",
+      "hot_value": 7954556,
+      "label": "荐",
+      "event_time": 1783849609
     },
     {
       "rank": 15,
-      "word": "花式助力功夫女足",
-      "hot_value": 7795775,
-      "label": "音乐",
-      "event_time": 1783823803
-    },
-    {
-      "rank": 16,
-      "word": "黄健翔刘建宏告别哈兰德",
-      "hot_value": 7790691,
-      "label": "热议",
-      "event_time": 1783843261
-    },
-    {
-      "rank": 17,
-      "word": "吹吹山顶的风",
-      "hot_value": 7786967,
-      "label": "音乐",
-      "event_time": 1783860112
-    },
-    {
-      "rank": 18,
       "word": "LOL怀旧服7月30日上线",
-      "hot_value": 7783594,
+      "hot_value": 7829692,
       "label": "娱乐",
       "event_time": 1783840198
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "word": "王者动物塑男团占领漫展",
+      "hot_value": 7824006,
+      "label": "爆",
+      "event_time": 1783832729
+    },
+    {
+      "rank": 17,
       "word": "我和我的洲搭子",
-      "hot_value": 7776994,
-      "label": "",
+      "hot_value": 7819962,
+      "label": "娱乐",
       "event_time": 1783837016
     },
     {
+      "rank": 18,
+      "word": "吹吹山顶的风",
+      "hot_value": 7814202,
+      "label": "音乐",
+      "event_time": 1783860112
+    },
+    {
+      "rank": 19,
+      "word": "功夫女足豆瓣开分6.6分",
+      "hot_value": 7813965,
+      "label": "爆",
+      "event_time": 1783837002
+    },
+    {
       "rank": 20,
-      "word": "功夫女足长沙路演",
-      "hot_value": 7771971,
-      "label": "荐",
-      "event_time": 1783849609
+      "word": "HLE击败BLG夺冠",
+      "hot_value": 7805357,
+      "label": "",
+      "event_time": 1783840719
     }
   ],
-  "update_time": "2026-07-12 23:43:15",
+  "update_time": "2026-07-13 01:53:21",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
