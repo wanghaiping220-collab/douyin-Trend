@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "今日入伏",
-      "hot_value": 12238852,
-      "label": "新",
-      "event_time": 1784071225
+      "word": "西班牙2:0法国",
+      "hot_value": 11088468,
+      "label": "爆",
+      "event_time": 1784017193
     },
     {
       "rank": 2,
-      "word": "全国文旅把户外亲子卷起来了",
-      "hot_value": 9333181,
+      "word": "上半年我国GDP同比增长4.7%",
+      "hot_value": 11085176,
       "label": "",
-      "event_time": 1783997611
+      "event_time": 1784081074
     },
     {
       "rank": 3,
-      "word": "十五五持续激活内需增长动力",
-      "hot_value": 9203919,
+      "word": "我国货物贸易进出口连续增长",
+      "hot_value": 10892151,
       "label": "",
-      "event_time": 1784029988
+      "event_time": 1784082177
     },
     {
       "rank": 4,
-      "word": "吃蛋糕不发胖的方法找到了",
-      "hot_value": 9147856,
+      "word": "贾浅浅硕士学位被撤销",
+      "hot_value": 10438512,
       "label": "",
-      "event_time": 1784011465
+      "event_time": 1784080948
     },
     {
       "rank": 5,
-      "word": "汗水向下人生向上",
-      "hot_value": 8655475,
+      "word": "今日入伏",
+      "hot_value": 9603928,
       "label": "",
-      "event_time": 1783945871
+      "event_time": 1784071225
     },
     {
       "rank": 6,
       "word": "未成年如何申领网号网证",
-      "hot_value": 8653045,
-      "label": "新",
+      "hot_value": 8866147,
+      "label": "爆",
       "event_time": 1784075398
     },
     {
       "rank": 7,
-      "word": "日常不费力的复古氛围感穿搭",
-      "hot_value": 7729497,
-      "label": "",
-      "event_time": 1783991653
-    },
-    {
-      "rank": 8,
-      "word": "长鑫科技发行价确定为8.66元",
-      "hot_value": 7721713,
-      "label": "爆",
-      "event_time": 1784036860
-    },
-    {
-      "rank": 9,
-      "word": "想你的星星划过了空",
-      "hot_value": 7717490,
-      "label": "音乐",
-      "event_time": 1784021924
-    },
-    {
-      "rank": 10,
-      "word": "沈阳雨势减弱",
-      "hot_value": 7714125,
-      "label": "",
-      "event_time": 1784026805
-    },
-    {
-      "rank": 11,
-      "word": "欧洲高温",
-      "hot_value": 7712904,
-      "label": "",
-      "event_time": 1783992009
-    },
-    {
-      "rank": 12,
-      "word": "今年三伏天比去年长10天",
-      "hot_value": 7708920,
-      "label": "",
-      "event_time": 1784016632
-    },
-    {
-      "rank": 13,
-      "word": "“新能源车平均车龄1.8年”系误读",
-      "hot_value": 7689502,
-      "label": "谣言",
-      "event_time": 1784022172
-    },
-    {
-      "rank": 14,
-      "word": "全网晒功夫女足票根",
-      "hot_value": 7686311,
-      "label": "热议",
-      "event_time": 1784037773
-    },
-    {
-      "rank": 15,
       "word": "318最动人的是出发的勇气",
-      "hot_value": 7685468,
+      "hot_value": 7878140,
       "label": "",
       "event_time": 1784031909
     },
     {
-      "rank": 16,
-      "word": "我将认真学习这个哈兰德仿妆",
-      "hot_value": 7675573,
+      "rank": 8,
+      "word": "暑假学习做饭成果展",
+      "hot_value": 7838462,
+      "label": "新",
+      "event_time": 1784085675
+    },
+    {
+      "rank": 9,
+      "word": "全国文旅把户外亲子卷起来了",
+      "hot_value": 7811287,
+      "label": "",
+      "event_time": 1783997611
+    },
+    {
+      "rank": 10,
+      "word": "汗水向下人生向上",
+      "hot_value": 7798355,
+      "label": "",
+      "event_time": 1783945871
+    },
+    {
+      "rank": 11,
+      "word": "日常不费力的复古氛围感穿搭",
+      "hot_value": 7788487,
       "label": "爆",
-      "event_time": 1784030982
+      "event_time": 1783991653
+    },
+    {
+      "rank": 12,
+      "word": "吃蛋糕不发胖的方法找到了",
+      "hot_value": 7771153,
+      "label": "",
+      "event_time": 1784011465
+    },
+    {
+      "rank": 13,
+      "word": "长鑫科技发行价确定为8.66元",
+      "hot_value": 7768219,
+      "label": "爆",
+      "event_time": 1784036860
+    },
+    {
+      "rank": 14,
+      "word": "“新能源车平均车龄1.8年”系误读",
+      "hot_value": 7762771,
+      "label": "谣言",
+      "event_time": 1784022172
+    },
+    {
+      "rank": 15,
+      "word": "姆巴佩称作为队长承担全部责任",
+      "hot_value": 7761836,
+      "label": "新",
+      "event_time": 1784079254
+    },
+    {
+      "rank": 16,
+      "word": "全网晒功夫女足票根",
+      "hot_value": 7752856,
+      "label": "热议",
+      "event_time": 1784037773
     },
     {
       "rank": 17,
-      "word": "陈泽杯聚猩园区力挺钢牙复活",
-      "hot_value": 7673918,
-      "label": "热议",
-      "event_time": 1784017422
+      "word": "想你的星星划过了空",
+      "hot_value": 7747833,
+      "label": "音乐",
+      "event_time": 1784021924
     },
     {
       "rank": 18,
-      "word": "西班牙2:0法国",
-      "hot_value": 7673063,
-      "label": "",
-      "event_time": 1784017193
-    },
-    {
-      "rank": 19,
       "word": "什么时候再去西藏",
-      "hot_value": 7670105,
+      "hot_value": 7742689,
       "label": "爆",
       "event_time": 1784015996
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "到底又兜兜转转了多少年",
-      "hot_value": 7663519,
+      "hot_value": 7725401,
       "label": "音乐",
       "event_time": 1784010895
+    },
+    {
+      "rank": 20,
+      "word": "西北大学通报贾浅浅论文抄袭",
+      "hot_value": 7723008,
+      "label": "新",
+      "event_time": 1784081862
     }
   ],
-  "update_time": "2026-07-15 01:26:39",
+  "update_time": "2026-07-15 04:41:43",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
