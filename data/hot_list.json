@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "洛阳暴雨",
-      "hot_value": 12109437,
-      "label": "新",
-      "event_time": 1784191364
+      "word": "美国对三星等7家公司启动337调查",
+      "hot_value": 12107329,
+      "label": "爆",
+      "event_time": 1784180103
     },
     {
       "rank": 2,
-      "word": "所有人感受抖音里的人",
-      "hot_value": 11976029,
-      "label": "",
-      "event_time": 1784119935
+      "word": "人生要多一些支点",
+      "hot_value": 11856957,
+      "label": "新",
+      "event_time": 1784198032
     },
     {
       "rank": 3,
       "word": "从半年报看中国经济三重底色",
-      "hot_value": 11341069,
+      "hot_value": 11734386,
       "label": "",
       "event_time": 1784186234
     },
     {
       "rank": 4,
-      "word": "美国对三星等7家公司启动337调查",
-      "hot_value": 11310998,
-      "label": "新",
-      "event_time": 1784180103
-    },
-    {
-      "rank": 5,
-      "word": "林高远回应逆转取胜",
-      "hot_value": 10534276,
-      "label": "",
-      "event_time": 1784183315
-    },
-    {
-      "rank": 6,
-      "word": "马龙许昕时隔7年再配双打",
-      "hot_value": 10494420,
-      "label": "新",
-      "event_time": 1784193836
-    },
-    {
-      "rank": 7,
-      "word": "2026全国乒乓球锦标赛",
-      "hot_value": 9323917,
-      "label": "爆",
-      "event_time": 1784168592
-    },
-    {
-      "rank": 8,
-      "word": "A股三大指数集体收跌",
-      "hot_value": 9302152,
-      "label": "",
-      "event_time": 1784188131
-    },
-    {
-      "rank": 9,
       "word": "辽宁一橡皮艇闪爆 7死1失联",
-      "hot_value": 9150617,
+      "hot_value": 11102676,
       "label": "新",
       "event_time": 1784195546
     },
     {
-      "rank": 10,
-      "word": "吃贵阳菜都怕米饭不够",
-      "hot_value": 8561848,
-      "label": "",
-      "event_time": 1784179017
-    },
-    {
-      "rank": 11,
-      "word": "侠隐水门技能及剧情PV首曝",
-      "hot_value": 8556433,
-      "label": "爆",
-      "event_time": 1784178952
-    },
-    {
-      "rank": 12,
-      "word": "洛克王国世界S3新赛季上线",
-      "hot_value": 8363915,
-      "label": "爆",
-      "event_time": 1784178498
-    },
-    {
-      "rank": 13,
-      "word": "牡丹江网友编造灾情谣言被处罚",
-      "hot_value": 8237978,
-      "label": "谣言",
-      "event_time": 1784106011
-    },
-    {
-      "rank": 14,
-      "word": "TYL击败EDG迎三连胜",
-      "hot_value": 8082698,
-      "label": "爆",
-      "event_time": 1784179256
-    },
-    {
-      "rank": 15,
-      "word": "贝林厄姆赛后行为引争议",
-      "hot_value": 7835293,
-      "label": "爆",
-      "event_time": 1784172853
-    },
-    {
-      "rank": 16,
-      "word": "披着AI外衣的现实短片",
-      "hot_value": 7822876,
-      "label": "",
-      "event_time": 1784183017
-    },
-    {
-      "rank": 17,
-      "word": "长鑫科技IPO",
-      "hot_value": 7793843,
-      "label": "",
-      "event_time": 1784164472
-    },
-    {
-      "rank": 18,
+      "rank": 5,
       "word": "西班牙阿根廷会师世界杯决赛",
-      "hot_value": 7791513,
+      "hot_value": 10436052,
       "label": "爆",
       "event_time": 1784157771
     },
     {
-      "rank": 19,
+      "rank": 6,
+      "word": "洛阳暴雨",
+      "hot_value": 9323622,
+      "label": "",
+      "event_time": 1784191364
+    },
+    {
+      "rank": 7,
+      "word": "A股三大指数集体收跌",
+      "hot_value": 9295493,
+      "label": "爆",
+      "event_time": 1784188131
+    },
+    {
+      "rank": 8,
+      "word": "2026全国乒乓球锦标赛",
+      "hot_value": 9180699,
+      "label": "爆",
+      "event_time": 1784168592
+    },
+    {
+      "rank": 9,
+      "word": "吃贵阳菜都怕米饭不够",
+      "hot_value": 9149156,
+      "label": "",
+      "event_time": 1784179017
+    },
+    {
+      "rank": 10,
+      "word": "洛克王国世界S3新赛季上线",
+      "hot_value": 9056858,
+      "label": "爆",
+      "event_time": 1784178498
+    },
+    {
+      "rank": 11,
+      "word": "“九寨沟湖水靠染色”系谣言",
+      "hot_value": 8702666,
+      "label": "谣言",
+      "event_time": 1784197656
+    },
+    {
+      "rank": 12,
+      "word": "贝林厄姆赛后行为引争议",
+      "hot_value": 8353567,
+      "label": "爆",
+      "event_time": 1784172853
+    },
+    {
+      "rank": 13,
+      "word": "TYL击败EDG迎三连胜",
+      "hot_value": 8344718,
+      "label": "爆",
+      "event_time": 1784179256
+    },
+    {
+      "rank": 14,
+      "word": "披着AI外衣的现实短片",
+      "hot_value": 8309981,
+      "label": "爆",
+      "event_time": 1784183017
+    },
+    {
+      "rank": 15,
+      "word": "侠隐水门技能及剧情PV首曝",
+      "hot_value": 8206191,
+      "label": "爆",
+      "event_time": 1784178952
+    },
+    {
+      "rank": 16,
+      "word": "红尘客栈翻唱",
+      "hot_value": 8159581,
+      "label": "音乐",
+      "event_time": 1784195805
+    },
+    {
+      "rank": 17,
+      "word": "阿根廷2:1逆转绝杀英格兰",
+      "hot_value": 7845156,
+      "label": "",
+      "event_time": 1784103200
+    },
+    {
+      "rank": 18,
       "word": "动画东大高武学院开播",
-      "hot_value": 7773578,
+      "hot_value": 7831826,
       "label": "",
       "event_time": 1784169933
     },
     {
+      "rank": 19,
+      "word": "感受抖音里的人",
+      "hot_value": 7779625,
+      "label": "",
+      "event_time": 1784119935
+    },
+    {
       "rank": 20,
-      "word": "亚马尔进行曲来了",
-      "hot_value": 7771637,
+      "word": "一键学会jumpstyle舞蹈",
+      "hot_value": 7769975,
       "label": "音乐",
-      "event_time": 1784125512
+      "event_time": 1784127070
     }
   ],
-  "update_time": "2026-07-16 09:57:49",
+  "update_time": "2026-07-16 11:37:47",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
