@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "旅游那达慕开幕了",
-      "hot_value": 12053383,
+      "hot_value": 12078751,
       "label": "爆",
       "event_time": 1784346040
     },
     {
       "rank": 2,
       "word": "足协通报申思祁宏参与青训",
-      "hot_value": 11997864,
+      "hot_value": 12070380,
       "label": "爆",
       "event_time": 1784349595
     },
     {
       "rank": 3,
       "word": "全国首张脑机接口处方开出",
-      "hot_value": 11610524,
+      "hot_value": 12043953,
       "label": "爆",
       "event_time": 1784358299
     },
     {
       "rank": 4,
-      "word": "孙颖莎王楚钦无缘混双决赛",
-      "hot_value": 11289283,
-      "label": "",
-      "event_time": 1784384793
+      "word": "峨眉山会惩罚每一个嘴硬的人",
+      "hot_value": 11444764,
+      "label": "爆",
+      "event_time": 1784335092
     },
     {
       "rank": 5,
       "word": "重庆彭水山体崩塌搜救进展",
-      "hot_value": 10703738,
+      "hot_value": 10536892,
       "label": "",
       "event_time": 1784385795
     },
     {
       "rank": 6,
-      "word": "峨眉山会惩罚每一个嘴硬的人",
-      "hot_value": 10639938,
+      "word": "孙颖莎王楚钦无缘混双决赛",
+      "hot_value": 10509961,
       "label": "",
-      "event_time": 1784335092
+      "event_time": 1784384793
     },
     {
       "rank": 7,
       "word": "老爸评测实测拼豆安全性",
-      "hot_value": 9339328,
+      "hot_value": 9336575,
       "label": "",
       "event_time": 1784346992
     },
     {
       "rank": 8,
       "word": "捷克众议长冈村富夫将访华",
-      "hot_value": 9223177,
+      "hot_value": 9328130,
       "label": "",
       "event_time": 1784347743
     },
     {
       "rank": 9,
       "word": "泰国总理阿努廷抵达成都",
-      "hot_value": 9194851,
+      "hot_value": 9282118,
       "label": "爆",
       "event_time": 1784347680
     },
     {
       "rank": 10,
       "word": "FIFA实力榜姆巴佩进攻第一",
-      "hot_value": 9168004,
+      "hot_value": 9222885,
       "label": "爆",
       "event_time": 1784338622
     },
     {
       "rank": 11,
-      "word": "马龙许昕全锦赛晋级四强",
-      "hot_value": 9125479,
+      "word": "真我退出中国输给了谁",
+      "hot_value": 9186804,
       "label": "",
-      "event_time": 1784371840
+      "event_time": 1784344757
     },
     {
       "rank": 12,
       "word": "警方通报涉彭水山体崩塌谣言",
-      "hot_value": 9099068,
+      "hot_value": 9185118,
       "label": "谣言",
       "event_time": 1784377573
     },
     {
       "rank": 13,
-      "word": "西班牙主帅谈决赛战阿根廷",
-      "hot_value": 9026654,
-      "label": "爆",
-      "event_time": 1784338916
+      "word": "马龙许昕全锦赛晋级四强",
+      "hot_value": 9156596,
+      "label": "",
+      "event_time": 1784371840
     },
     {
       "rank": 14,
       "word": "法国vs英格兰",
-      "hot_value": 9004588,
+      "hot_value": 9122640,
       "label": "爆",
       "event_time": 1784378025
     },
     {
       "rank": 15,
       "word": "刑天小队回归",
-      "hot_value": 8791806,
+      "hot_value": 8714161,
       "label": "爆",
       "event_time": 1784376880
     },
     {
       "rank": 16,
+      "word": "功夫女足能人辈出",
+      "hot_value": 8582543,
+      "label": "热议",
+      "event_time": 1784367819
+    },
+    {
+      "rank": 17,
       "word": "库里预测阿根廷夺冠",
-      "hot_value": 8757308,
+      "hot_value": 8457247,
       "label": "",
       "event_time": 1784357270
     },
     {
-      "rank": 17,
+      "rank": 18,
       "word": "第五人格心跳游园会",
-      "hot_value": 8637928,
+      "hot_value": 8404366,
       "label": "爆",
       "event_time": 1784344661
     },
     {
-      "rank": 18,
-      "word": "真我退出中国输给了谁",
-      "hot_value": 8434922,
-      "label": "",
-      "event_time": 1784344757
-    },
-    {
       "rank": 19,
-      "word": "妈妈催婚短片震撼发布",
-      "hot_value": 8413341,
-      "label": "",
-      "event_time": 1784382312
+      "word": "西班牙主帅谈决赛战阿根廷",
+      "hot_value": 8351257,
+      "label": "爆",
+      "event_time": 1784338916
     },
     {
       "rank": 20,
       "word": "天津津门虎2:0上海申花",
-      "hot_value": 8364163,
+      "hot_value": 8339746,
       "label": "",
       "event_time": 1784386084
     }
   ],
-  "update_time": "2026-07-18 17:47:07",
+  "update_time": "2026-07-18 18:48:07",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
