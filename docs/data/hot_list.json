@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "旅游那达慕开幕了",
-      "hot_value": 12107906,
+      "hot_value": 12056232,
       "label": "爆",
       "event_time": 1784346040
     },
     {
       "rank": 2,
-      "word": "鸣潮演唱会",
-      "hot_value": 11952818,
+      "word": "捷克众议长冈村富夫将访华",
+      "hot_value": 11953301,
       "label": "爆",
-      "event_time": 1784377431
+      "event_time": 1784347743
     },
     {
       "rank": 3,
       "word": "全国首张脑机接口处方开出",
-      "hot_value": 11378689,
+      "hot_value": 11746357,
       "label": "爆",
       "event_time": 1784358299
     },
     {
       "rank": 4,
-      "word": "足协通报申思祁宏参与青训",
-      "hot_value": 11332752,
-      "label": "爆",
-      "event_time": 1784349595
+      "word": "孙颖莎王楚钦无缘混双决赛",
+      "hot_value": 11456823,
+      "label": "新",
+      "event_time": 1784384793
     },
     {
       "rank": 5,
       "word": "重庆彭水山体崩塌搜救进展",
-      "hot_value": 10697612,
+      "hot_value": 10821117,
       "label": "新",
       "event_time": 1784385795
     },
     {
       "rank": 6,
-      "word": "孙颖莎王楚钦无缘混双决赛",
-      "hot_value": 10661358,
-      "label": "新",
-      "event_time": 1784384793
+      "word": "足协通报申思祁宏参与青训",
+      "hot_value": 10537609,
+      "label": "",
+      "event_time": 1784349595
     },
     {
       "rank": 7,
-      "word": "捷克众议长冈村富夫将访华",
-      "hot_value": 9494344,
-      "label": "",
-      "event_time": 1784347743
-    },
-    {
-      "rank": 8,
       "word": "峨眉山会惩罚每一个嘴硬的人",
-      "hot_value": 9478515,
+      "hot_value": 9426290,
       "label": "",
       "event_time": 1784335092
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "老爸评测实测拼豆安全性",
-      "hot_value": 9199783,
+      "hot_value": 9222871,
       "label": "",
       "event_time": 1784346992
     },
     {
-      "rank": 10,
-      "word": "马龙许昕全锦赛晋级四强",
-      "hot_value": 9193042,
-      "label": "新",
-      "event_time": 1784371840
+      "rank": 9,
+      "word": "泰国总理阿努廷抵达成都",
+      "hot_value": 9208706,
+      "label": "爆",
+      "event_time": 1784347680
     },
     {
-      "rank": 11,
+      "rank": 10,
       "word": "FIFA实力榜姆巴佩进攻第一",
-      "hot_value": 9183910,
+      "hot_value": 9187601,
       "label": "爆",
       "event_time": 1784338622
     },
     {
+      "rank": 11,
+      "word": "马龙许昕全锦赛晋级四强",
+      "hot_value": 9141174,
+      "label": "",
+      "event_time": 1784371840
+    },
+    {
       "rank": 12,
       "word": "警方通报涉彭水山体崩塌谣言",
-      "hot_value": 9159645,
+      "hot_value": 9139962,
       "label": "谣言",
       "event_time": 1784377573
     },
     {
       "rank": 13,
-      "word": "泰国总理阿努廷抵达成都",
-      "hot_value": 9149978,
+      "word": "西班牙主帅谈决赛战阿根廷",
+      "hot_value": 9138758,
       "label": "爆",
-      "event_time": 1784347680
+      "event_time": 1784338916
     },
     {
       "rank": 14,
       "word": "法国vs英格兰",
-      "hot_value": 9106330,
-      "label": "",
+      "hot_value": 9133834,
+      "label": "爆",
       "event_time": 1784378025
     },
     {
       "rank": 15,
       "word": "刑天小队回归",
-      "hot_value": 9083856,
-      "label": "",
+      "hot_value": 9096550,
+      "label": "爆",
       "event_time": 1784376880
     },
     {
       "rank": 16,
-      "word": "库里预测阿根廷夺冠",
-      "hot_value": 9065284,
-      "label": "",
-      "event_time": 1784357270
-    },
-    {
-      "rank": 17,
-      "word": "苏超南通1:1扬州",
-      "hot_value": 8967050,
-      "label": "爆",
-      "event_time": 1784347612
-    },
-    {
-      "rank": 18,
       "word": "功夫女足能人辈出",
-      "hot_value": 8829122,
+      "hot_value": 9015453,
       "label": "热议",
       "event_time": 1784367819
     },
     {
-      "rank": 19,
-      "word": "苏超宿迁0:3常州",
-      "hot_value": 8604193,
+      "rank": 17,
+      "word": "库里预测阿根廷夺冠",
+      "hot_value": 9013800,
       "label": "",
-      "event_time": 1784347388
+      "event_time": 1784357270
+    },
+    {
+      "rank": 18,
+      "word": "第五人格心跳游园会",
+      "hot_value": 8669026,
+      "label": "爆",
+      "event_time": 1784344661
+    },
+    {
+      "rank": 19,
+      "word": "妈妈催婚短片震撼发布",
+      "hot_value": 8460537,
+      "label": "新",
+      "event_time": 1784382312
     },
     {
       "rank": 20,
-      "word": "第五人格心跳游园会",
-      "hot_value": 8387179,
-      "label": "爆",
-      "event_time": 1784344661
+      "word": "天津津门虎2:0上海申花",
+      "hot_value": 8418584,
+      "label": "新",
+      "event_time": 1784386084
     }
   ],
-  "update_time": "2026-07-18 15:44:42",
+  "update_time": "2026-07-18 16:44:32",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
