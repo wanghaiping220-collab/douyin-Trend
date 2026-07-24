@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "詹姆斯宣布加盟76人",
-      "hot_value": 11982888,
-      "label": "",
+      "hot_value": 12194483,
+      "label": "爆",
       "event_time": 1784909120
     },
     {
       "rank": 2,
       "word": "中国海警水炮驱离菲侵权船只",
-      "hot_value": 11948171,
+      "hot_value": 11851638,
       "label": "爆",
       "event_time": 1784893761
     },
     {
       "rank": 3,
       "word": "“十五五”消费市场迎重大变化",
-      "hot_value": 11366890,
+      "hot_value": 11214359,
       "label": "",
       "event_time": 1784902049
     },
     {
       "rank": 4,
       "word": "证监会原副主席方星海被查",
-      "hot_value": 10780701,
+      "hot_value": 10822198,
       "label": "",
       "event_time": 1784894418
     },
     {
       "rank": 5,
-      "word": "当徒步人晒出pov",
-      "hot_value": 10208075,
-      "label": "",
-      "event_time": 1784891300
-    },
-    {
-      "rank": 6,
-      "word": "TVB正式更名为无线集团",
-      "hot_value": 10181188,
-      "label": "",
-      "event_time": 1784876026
-    },
-    {
-      "rank": 7,
       "word": "这个夏天要被水果冰浆硬控了",
-      "hot_value": 8988308,
+      "hot_value": 10234471,
       "label": "",
       "event_time": 1784863482
     },
     {
+      "rank": 6,
+      "word": "TVB正式更名为无线集团",
+      "hot_value": 10201593,
+      "label": "爆",
+      "event_time": 1784876026
+    },
+    {
+      "rank": 7,
+      "word": "当徒步人晒出pov",
+      "hot_value": 8917522,
+      "label": "",
+      "event_time": 1784891300
+    },
+    {
       "rank": 8,
       "word": "跟知识博主看懂挂谷猜想",
-      "hot_value": 8686399,
+      "hot_value": 8657184,
       "label": "",
       "event_time": 1784864338
     },
     {
       "rank": 9,
+      "word": "当我学会用颜色搭配时",
+      "hot_value": 8330731,
+      "label": "爆",
+      "event_time": 1784865868
+    },
+    {
+      "rank": 10,
       "word": "豆包帮我拍广告大片",
-      "hot_value": 8559616,
+      "hot_value": 8253350,
       "label": "",
       "event_time": 1784795965
     },
     {
-      "rank": 10,
-      "word": "当我学会用颜色搭配时",
-      "hot_value": 8358531,
-      "label": "",
-      "event_time": 1784865868
-    },
-    {
       "rank": 11,
       "word": "夏天从玩水的那一刻开始",
-      "hot_value": 8125465,
+      "hot_value": 8089875,
       "label": "",
       "event_time": 1784805413
     },
     {
       "rank": 12,
       "word": "韩国赠还清代石狮 外交部回应",
-      "hot_value": 7977719,
+      "hot_value": 7839924,
       "label": "",
       "event_time": 1784883268
     },
     {
       "rank": 13,
       "word": "你要我好友位不",
-      "hot_value": 7856475,
+      "hot_value": 7823018,
       "label": "娱乐",
       "event_time": 1784880910
     },
     {
       "rank": 14,
-      "word": "这个世界咋这么好看",
-      "hot_value": 7780668,
+      "word": "加麻不加辣从此有画面了",
+      "hot_value": 7762346,
       "label": "音乐",
-      "event_time": 1784863022
+      "event_time": 1784864138
     },
     {
       "rank": 15,
       "word": "长征三号乙火箭发射与闪电同框",
-      "hot_value": 7771532,
+      "hot_value": 7752262,
       "label": "",
       "event_time": 1784860237
     },
     {
       "rank": 16,
       "word": "歌手冲刺赛第一场舞台",
-      "hot_value": 7763781,
+      "hot_value": 7739717,
       "label": "爆",
       "event_time": 1784902331
     },
     {
       "rank": 17,
       "word": "邓紫棋天津演唱会",
-      "hot_value": 7743228,
+      "hot_value": 7737876,
       "label": "爆",
       "event_time": 1784896194
     },
     {
       "rank": 18,
       "word": "王者荣耀牛年限定皮肤返场",
-      "hot_value": 7728204,
+      "hot_value": 7715235,
       "label": "爆",
       "event_time": 1784886037
     },
     {
       "rank": 19,
       "word": "王虹让更多女孩看见可能性",
-      "hot_value": 7725332,
+      "hot_value": 7709466,
       "label": "爆",
       "event_time": 1784881367
     },
     {
       "rank": 20,
-      "word": "你怎么舍得让我的泪流向海",
-      "hot_value": 7715835,
-      "label": "音乐",
-      "event_time": 1784898507
+      "word": "周星驰说中国有好多世界第一",
+      "hot_value": 7704618,
+      "label": "荐",
+      "event_time": 1784872024
     }
   ],
-  "update_time": "2026-07-24 21:56:09",
+  "update_time": "2026-07-24 22:55:38",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
