@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风白海豚实时路径",
-      "hot_value": 12015740,
+      "hot_value": 11398431,
       "label": "爆",
       "event_time": 1786068210
     },
     {
       "rank": 2,
       "word": "EDG 1:2 TEC",
-      "hot_value": 11135770,
-      "label": "",
+      "hot_value": 11260971,
+      "label": "爆",
       "event_time": 1786084682
     },
     {
       "rank": 3,
       "word": "上半年中小企业稳步向好",
-      "hot_value": 11056853,
+      "hot_value": 11090988,
       "label": "爆",
       "event_time": 1786104530
     },
     {
       "rank": 4,
       "word": "TES 2:0战胜BLG",
-      "hot_value": 11021475,
+      "hot_value": 11063931,
       "label": "新",
       "event_time": 1786112163
     },
     {
       "rank": 5,
       "word": "周五入秋顶流选手已就位",
-      "hot_value": 10406134,
+      "hot_value": 10394570,
       "label": "",
       "event_time": 1786070463
     },
     {
       "rank": 6,
       "word": "转眼又是一年秋",
-      "hot_value": 10364178,
+      "hot_value": 10210539,
       "label": "爆",
       "event_time": 1786063380
     },
     {
       "rank": 7,
       "word": "老辈子秋天的第一杯奶茶",
-      "hot_value": 9031735,
+      "hot_value": 9046854,
       "label": "",
       "event_time": 1786070841
     },
     {
       "rank": 8,
       "word": "把秋天的仪式感捧在手心",
-      "hot_value": 9022760,
+      "hot_value": 8990017,
       "label": "",
       "event_time": 1786077039
     },
     {
       "rank": 9,
       "word": "王者萌新之夜表演赛",
-      "hot_value": 8912840,
+      "hot_value": 8935856,
       "label": "娱乐",
       "event_time": 1786102537
     },
     {
       "rank": 10,
-      "word": "我妈才是真的NPC吧",
-      "hot_value": 8866559,
-      "label": "爆",
-      "event_time": 1786084501
-    },
-    {
-      "rank": 11,
       "word": "河南三支一扶笔试存在组织作弊",
-      "hot_value": 8860347,
+      "hot_value": 8823632,
       "label": "",
       "event_time": 1786091549
     },
     {
+      "rank": 11,
+      "word": "我妈才是真的NPC吧",
+      "hot_value": 8808617,
+      "label": "爆",
+      "event_time": 1786084501
+    },
+    {
       "rank": 12,
       "word": "邓紫棋南昌演唱会",
-      "hot_value": 8781082,
+      "hot_value": 8802144,
       "label": "爆",
       "event_time": 1786107164
     },
     {
       "rank": 13,
       "word": "鸣潮3.6版本前瞻",
-      "hot_value": 8654722,
-      "label": "新",
+      "hot_value": 8734463,
+      "label": "",
       "event_time": 1786108618
     },
     {
       "rank": 14,
       "word": "王者万象棋定档9月",
-      "hot_value": 8472183,
+      "hot_value": 8283284,
       "label": "爆",
       "event_time": 1786104818
     },
     {
       "rank": 15,
       "word": "福建泉州市委书记张毅恭被查",
-      "hot_value": 8117603,
+      "hot_value": 7850214,
       "label": "",
       "event_time": 1786099337
     },
     {
       "rank": 16,
       "word": "我好像在哪见过你又杀回来了",
-      "hot_value": 7839606,
+      "hot_value": 7849830,
       "label": "音乐",
       "event_time": 1786095238
     },
     {
       "rank": 17,
       "word": "歌手歌王之战舞台",
-      "hot_value": 7829293,
+      "hot_value": 7824442,
       "label": "",
       "event_time": 1786088649
     },
     {
       "rank": 18,
       "word": "CODM联动崩坏3",
-      "hot_value": 7811648,
+      "hot_value": 7815278,
       "label": "",
       "event_time": 1786088578
     },
     {
       "rank": 19,
-      "word": "四川宜宾4.9级地震致1人死亡",
-      "hot_value": 7807889,
-      "label": "爆",
-      "event_time": 1786104950
+      "word": "挑战看电影去你的岛不哭",
+      "hot_value": 7781496,
+      "label": "热议",
+      "event_time": 1786085874
     },
     {
       "rank": 20,
-      "word": "刘浩存百花奖开幕式灵动红衣舞",
-      "hot_value": 7806953,
-      "label": "荐",
-      "event_time": 1786108488
+      "word": "王者荣耀超极限狂潮",
+      "hot_value": 7775279,
+      "label": "",
+      "event_time": 1786079135
     }
   ],
-  "update_time": "2026-08-07 17:40:10",
+  "update_time": "2026-08-07 18:40:28",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
