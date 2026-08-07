@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "EDG 1:2 TEC",
-      "hot_value": 11434537,
+      "hot_value": 11627762,
       "label": "",
       "event_time": 1786084682
     },
     {
       "rank": 2,
-      "word": "北京出台房地产新政",
-      "hot_value": 11411890,
-      "label": "新",
-      "event_time": 1786109176
-    },
-    {
-      "rank": 3,
-      "word": "上半年中小企业稳步向好",
-      "hot_value": 11349279,
-      "label": "新",
-      "event_time": 1786104530
-    },
-    {
-      "rank": 4,
       "word": "台风白海豚实时路径",
-      "hot_value": 11287984,
+      "hot_value": 11226585,
       "label": "爆",
       "event_time": 1786068210
     },
     {
+      "rank": 3,
+      "word": "上半年中小企业稳步向好",
+      "hot_value": 11174687,
+      "label": "爆",
+      "event_time": 1786104530
+    },
+    {
+      "rank": 4,
+      "word": "周五入秋顶流选手已就位",
+      "hot_value": 11171509,
+      "label": "爆",
+      "event_time": 1786070463
+    },
+    {
       "rank": 5,
-      "word": "福建泉州市委书记张毅恭被查",
-      "hot_value": 10660626,
-      "label": "新",
-      "event_time": 1786099337
+      "word": "转眼又是一年秋",
+      "hot_value": 10569268,
+      "label": "爆",
+      "event_time": 1786063380
     },
     {
       "rank": 6,
-      "word": "河南三支一扶笔试存在组织作弊",
-      "hot_value": 10495590,
+      "word": "福建泉州市委书记张毅恭被查",
+      "hot_value": 10534876,
       "label": "爆",
-      "event_time": 1786091549
+      "event_time": 1786099337
     },
     {
       "rank": 7,
       "word": "老辈子秋天的第一杯奶茶",
-      "hot_value": 9342952,
+      "hot_value": 9351245,
       "label": "",
       "event_time": 1786070841
     },
     {
       "rank": 8,
-      "word": "周五入秋顶流选手已就位",
-      "hot_value": 9320814,
-      "label": "",
-      "event_time": 1786070463
+      "word": "把秋天的仪式感捧在手心",
+      "hot_value": 9224787,
+      "label": "爆",
+      "event_time": 1786077039
     },
     {
       "rank": 9,
-      "word": "转眼又是一年秋",
-      "hot_value": 9257640,
+      "word": "河南三支一扶笔试存在组织作弊",
+      "hot_value": 9219032,
       "label": "",
-      "event_time": 1786063380
+      "event_time": 1786091549
     },
     {
       "rank": 10,
       "word": "王者荣耀超极限狂潮",
-      "hot_value": 9162579,
+      "hot_value": 9133353,
       "label": "爆",
       "event_time": 1786079135
     },
     {
       "rank": 11,
-      "word": "把秋天的仪式感捧在手心",
-      "hot_value": 8619977,
-      "label": "爆",
-      "event_time": 1786077039
+      "word": "王者萌新之夜表演赛",
+      "hot_value": 8867571,
+      "label": "娱乐",
+      "event_time": 1786102537
     },
     {
       "rank": 12,
       "word": "邓紫棋南昌演唱会",
-      "hot_value": 8499705,
-      "label": "新",
+      "hot_value": 8497423,
+      "label": "",
       "event_time": 1786107164
     },
     {
       "rank": 13,
       "word": "王者万象棋定档9月",
-      "hot_value": 8492954,
-      "label": "新",
+      "hot_value": 8477690,
+      "label": "",
       "event_time": 1786104818
     },
     {
       "rank": 14,
-      "word": "北京多区出现降雨天气",
-      "hot_value": 8405002,
+      "word": "我妈才是真的NPC吧",
+      "hot_value": 7965737,
       "label": "",
-      "event_time": 1786095530
+      "event_time": 1786084501
     },
     {
       "rank": 15,
-      "word": "电影去你的岛今日上映",
-      "hot_value": 7849011,
-      "label": "爆",
-      "event_time": 1786070448
-    },
-    {
-      "rank": 16,
-      "word": "秋天的第一杯奶茶我先喝了",
-      "hot_value": 7837728,
-      "label": "音乐",
-      "event_time": 1786076882
-    },
-    {
-      "rank": 17,
       "word": "夏天要结束了对吧",
-      "hot_value": 7835119,
+      "hot_value": 7939976,
       "label": "音乐",
       "event_time": 1786076505
     },
     {
-      "rank": 18,
-      "word": "七夕到了炫耀一下对象",
-      "hot_value": 7832478,
-      "label": "音乐",
-      "event_time": 1786076863
+      "rank": 16,
+      "word": "电影去你的岛今日上映",
+      "hot_value": 7939946,
+      "label": "爆",
+      "event_time": 1786070448
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "word": "秋天的第一杯奶茶我先喝了",
+      "hot_value": 7832298,
+      "label": "音乐",
+      "event_time": 1786076882
+    },
+    {
+      "rank": 18,
       "word": "四川宜宾4.9级地震致1人死亡",
-      "hot_value": 7826973,
-      "label": "新",
+      "hot_value": 7825758,
+      "label": "爆",
       "event_time": 1786104950
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "我好像在哪见过你又杀回来了",
-      "hot_value": 7824501,
+      "hot_value": 7812265,
       "label": "音乐",
       "event_time": 1786095238
+    },
+    {
+      "rank": 20,
+      "word": "建模不够网纱特效来凑",
+      "hot_value": 7811242,
+      "label": "音乐",
+      "event_time": 1786085308
     }
   ],
-  "update_time": "2026-08-07 14:05:15",
+  "update_time": "2026-08-07 15:44:13",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
