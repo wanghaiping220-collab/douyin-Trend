@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "上海暴雨",
-      "hot_value": 11302554,
+      "hot_value": 11627642,
       "label": "爆",
       "event_time": 1786318516
     },
     {
       "rank": 2,
       "word": "台风白海豚实时路径",
-      "hot_value": 11188613,
+      "hot_value": 11513031,
       "label": "爆",
       "event_time": 1786241210
     },
     {
       "rank": 3,
       "word": "暑期档电影市场增势向好",
-      "hot_value": 11098272,
+      "hot_value": 11270511,
       "label": "爆",
       "event_time": 1786364535
     },
     {
       "rank": 4,
-      "word": "易烊千玺百花奖最佳男主角",
-      "hot_value": 11029774,
-      "label": "爆",
-      "event_time": 1786367181
-    },
-    {
-      "rank": 5,
       "word": "南太行失联22岁女孩遗体被发现",
-      "hot_value": 10394823,
+      "hot_value": 11110702,
       "label": "新",
       "event_time": 1786344666
     },
     {
+      "rank": 5,
+      "word": "开封夜市好吃到停不下来",
+      "hot_value": 10536981,
+      "label": "爆",
+      "event_time": 1786351439
+    },
+    {
       "rank": 6,
       "word": "演员秦焰去世",
-      "hot_value": 10367817,
+      "hot_value": 10501100,
       "label": "爆",
       "event_time": 1786342429
     },
     {
       "rank": 7,
-      "word": "开封夜市好吃到停不下来",
-      "hot_value": 9237288,
-      "label": "",
-      "event_time": 1786351439
-    },
-    {
-      "rank": 8,
       "word": "哥伦比亚发生7.5级地震",
-      "hot_value": 9225004,
+      "hot_value": 9381836,
       "label": "爆",
       "event_time": 1786366397
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "经销商：雪佛兰暂停在华新车销售",
-      "hot_value": 9195103,
-      "label": "",
+      "hot_value": 9332277,
+      "label": "爆",
       "event_time": 1786350570
     },
     {
-      "rank": 10,
+      "rank": 9,
       "word": "一口气看懂万达现状",
-      "hot_value": 9186162,
-      "label": "",
+      "hot_value": 9225403,
+      "label": "爆",
       "event_time": 1786369148
     },
     {
+      "rank": 10,
+      "word": "遗忘之海章鱼哥太难听了",
+      "hot_value": 9210003,
+      "label": "爆",
+      "event_time": 1786280657
+    },
+    {
       "rank": 11,
-      "word": "卫诗雅获百花奖最佳女主角",
-      "hot_value": 9116539,
-      "label": "",
-      "event_time": 1786367802
-    },
-    {
-      "rank": 12,
-      "word": "通勤穿出松弛感",
-      "hot_value": 9112452,
-      "label": "",
-      "event_time": 1786348784
-    },
-    {
-      "rank": 13,
       "word": "穿搭天才依旧稳定发挥",
-      "hot_value": 8917779,
+      "hot_value": 9153245,
       "label": "",
       "event_time": 1786335209
     },
     {
+      "rank": 12,
+      "word": "通勤穿出松弛感",
+      "hot_value": 9139625,
+      "label": "爆",
+      "event_time": 1786348784
+    },
+    {
+      "rank": 13,
+      "word": "卫诗雅获百花奖最佳女主角",
+      "hot_value": 9105824,
+      "label": "",
+      "event_time": 1786367802
+    },
+    {
       "rank": 14,
       "word": "百花奖获奖名单",
-      "hot_value": 8862028,
+      "hot_value": 9067962,
       "label": "爆",
       "event_time": 1786369644
     },
     {
       "rank": 15,
-      "word": "遗忘之海章鱼哥太难听了",
-      "hot_value": 8594132,
-      "label": "爆",
-      "event_time": 1786280657
+      "word": "易烊千玺百花奖最佳男主角",
+      "hot_value": 8889009,
+      "label": "",
+      "event_time": 1786367181
     },
     {
       "rank": 16,
-      "word": "以色列士兵把枪口对准中国记者",
-      "hot_value": 8538651,
-      "label": "爆",
-      "event_time": 1786348621
-    },
-    {
-      "rank": 17,
       "word": "蹦沙卡拉卡反差转场",
-      "hot_value": 8535405,
+      "hot_value": 8654643,
       "label": "音乐",
       "event_time": 1786372130
     },
     {
-      "rank": 18,
-      "word": "王骁萨日娜百花奖最佳男女配",
-      "hot_value": 8050319,
-      "label": "",
-      "event_time": 1786365907
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "word": "火影手游百战虎皮全爆料",
-      "hot_value": 7891764,
+      "hot_value": 8036358,
       "label": "爆",
       "event_time": 1786364030
     },
     {
-      "rank": 20,
+      "rank": 18,
       "word": "第38届百花奖闭幕式",
-      "hot_value": 7766459,
+      "hot_value": 7790927,
       "label": "爆",
       "event_time": 1786352985
+    },
+    {
+      "rank": 19,
+      "word": "王骁萨日娜百花奖最佳男女配",
+      "hot_value": 7751445,
+      "label": "",
+      "event_time": 1786365907
+    },
+    {
+      "rank": 20,
+      "word": "这个半脸动漫惊到我了",
+      "hot_value": 7731871,
+      "label": "音乐",
+      "event_time": 1786348792
     }
   ],
-  "update_time": "2026-08-10 18:42:41",
+  "update_time": "2026-08-10 19:47:47",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
