@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "上海暴雨",
-      "hot_value": 11486882,
+      "hot_value": 11741895,
       "label": "爆",
       "event_time": 1786318516
     },
     {
       "rank": 2,
       "word": "台风白海豚实时路径",
-      "hot_value": 11128338,
+      "hot_value": 11545319,
       "label": "爆",
       "event_time": 1786241210
     },
     {
       "rank": 3,
       "word": "暑期档电影市场增势向好",
-      "hot_value": 11054211,
+      "hot_value": 11429069,
       "label": "新",
       "event_time": 1786364535
     },
     {
       "rank": 4,
+      "word": "易烊千玺百花奖最佳男主角",
+      "hot_value": 11154015,
+      "label": "新",
+      "event_time": 1786367181
+    },
+    {
+      "rank": 5,
       "word": "南太行失联22岁女孩遗体被发现",
-      "hot_value": 10873871,
+      "hot_value": 10554804,
       "label": "新",
       "event_time": 1786344666
     },
     {
-      "rank": 5,
-      "word": "开封夜市好吃到停不下来",
-      "hot_value": 10318660,
-      "label": "",
-      "event_time": 1786351439
-    },
-    {
       "rank": 6,
       "word": "演员秦焰去世",
-      "hot_value": 10238071,
+      "hot_value": 10533664,
       "label": "爆",
       "event_time": 1786342429
     },
     {
       "rank": 7,
-      "word": "穿搭天才依旧稳定发挥",
-      "hot_value": 9138714,
-      "label": "",
-      "event_time": 1786335209
+      "word": "开封夜市好吃到停不下来",
+      "hot_value": 9327948,
+      "label": "爆",
+      "event_time": 1786351439
     },
     {
       "rank": 8,
-      "word": "经销商：雪佛兰暂停在华新车销售",
-      "hot_value": 9102846,
-      "label": "",
-      "event_time": 1786350570
+      "word": "穿搭天才依旧稳定发挥",
+      "hot_value": 9291041,
+      "label": "爆",
+      "event_time": 1786335209
     },
     {
       "rank": 9,
-      "word": "媒体评雪佛兰退出中国市场",
-      "hot_value": 8933638,
-      "label": "",
-      "event_time": 1786351503
+      "word": "经销商：雪佛兰暂停在华新车销售",
+      "hot_value": 9153787,
+      "label": "爆",
+      "event_time": 1786350570
     },
     {
       "rank": 10,
       "word": "遗忘之海章鱼哥太难听了",
-      "hot_value": 8848256,
+      "hot_value": 9134251,
       "label": "",
       "event_time": 1786280657
     },
     {
       "rank": 11,
-      "word": "宇树科技今日申购",
-      "hot_value": 8665155,
-      "label": "",
-      "event_time": 1786320654
-    },
-    {
-      "rank": 12,
       "word": "以色列士兵把枪口对准中国记者",
-      "hot_value": 8646138,
-      "label": "新",
+      "hot_value": 9095899,
+      "label": "",
       "event_time": 1786348621
     },
     {
+      "rank": 12,
+      "word": "哥伦比亚发生7.5级地震",
+      "hot_value": 9093665,
+      "label": "新",
+      "event_time": 1786366397
+    },
+    {
       "rank": 13,
-      "word": "苹果被曝探索无屏Apple Watch",
-      "hot_value": 7777518,
-      "label": "爆",
-      "event_time": 1786337575
+      "word": "王骁萨日娜百花奖最佳男女配",
+      "hot_value": 8903227,
+      "label": "新",
+      "event_time": 1786365907
     },
     {
       "rank": 14,
-      "word": "台军“汉光演习”再出意外",
-      "hot_value": 7764286,
-      "label": "爆",
-      "event_time": 1786336017
+      "word": "卫诗雅获百花奖最佳女主角",
+      "hot_value": 8665408,
+      "label": "新",
+      "event_time": 1786367802
     },
     {
       "rank": 15,
-      "word": "百花奖闭幕式红毯",
-      "hot_value": 7758876,
-      "label": "荐",
-      "event_time": 1786352924
+      "word": "百花奖获奖名单",
+      "hot_value": 8507178,
+      "label": "新",
+      "event_time": 1786369644
     },
     {
       "rank": 16,
-      "word": "第38届百花奖闭幕式",
-      "hot_value": 7751191,
-      "label": "新",
-      "event_time": 1786352985
-    },
-    {
-      "rank": 17,
       "word": "电视剧重器开播",
-      "hot_value": 7750702,
+      "hot_value": 8214646,
       "label": "游戏",
       "event_time": 1786334584
     },
     {
+      "rank": 17,
+      "word": "宇树科技今日申购",
+      "hot_value": 8098139,
+      "label": "",
+      "event_time": 1786320654
+    },
+    {
       "rank": 18,
-      "word": "我看完欢迎来龙餐馆belike",
-      "hot_value": 7748762,
-      "label": "荐",
-      "event_time": 1786347469
+      "word": "苹果被曝探索无屏Apple Watch",
+      "hot_value": 7809542,
+      "label": "爆",
+      "event_time": 1786337575
     },
     {
       "rank": 19,
-      "word": "中国用竹子造无人机",
-      "hot_value": 7748401,
+      "word": "第38届百花奖闭幕式",
+      "hot_value": 7807650,
       "label": "爆",
-      "event_time": 1786335152
+      "event_time": 1786352985
     },
     {
       "rank": 20,
-      "word": "长鑫科技被纳入重要指数",
-      "hot_value": 7739125,
-      "label": "",
-      "event_time": 1786341965
+      "word": "中国用竹子造无人机",
+      "hot_value": 7783137,
+      "label": "爆",
+      "event_time": 1786335152
     }
   ],
-  "update_time": "2026-08-10 12:45:40",
+  "update_time": "2026-08-10 14:13:26",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
