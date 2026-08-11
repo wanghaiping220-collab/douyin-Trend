@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "河南暴雨",
-      "hot_value": 11408950,
+      "hot_value": 11371978,
       "label": "爆",
       "event_time": 1786405387
     },
     {
       "rank": 2,
-      "word": "文献纪录片《江泽民》播出",
-      "hot_value": 11345043,
+      "word": "TE晋级季后赛",
+      "hot_value": 11354854,
       "label": "",
-      "event_time": 1786447768
+      "event_time": 1786444652
     },
     {
       "rank": 3,
       "word": "激活中国经济增长潜力",
-      "hot_value": 11105889,
-      "label": "",
+      "hot_value": 11104143,
+      "label": "爆",
       "event_time": 1786453360
     },
     {
       "rank": 4,
-      "word": "给AI时代一点手搓实拍的小震撼",
-      "hot_value": 11104770,
-      "label": "爆",
-      "event_time": 1786420101
-    },
-    {
-      "rank": 5,
       "word": "AI打开了我童年记忆的百宝箱",
-      "hot_value": 10536990,
+      "hot_value": 11102808,
       "label": "爆",
       "event_time": 1786418730
     },
     {
+      "rank": 5,
+      "word": "给AI时代一点手搓实拍的小震撼",
+      "hot_value": 10527761,
+      "label": "爆",
+      "event_time": 1786420101
+    },
+    {
       "rank": 6,
       "word": "台风白海豚停止编号",
-      "hot_value": 10446466,
+      "hot_value": 10483785,
       "label": "爆",
       "event_time": 1786446923
     },
     {
       "rank": 7,
       "word": "原来爸爸也曾是少年",
-      "hot_value": 9345870,
+      "hot_value": 9341247,
       "label": "",
       "event_time": 1786361750
     },
     {
       "rank": 8,
-      "word": "夏天结束前再漂亮一次",
-      "hot_value": 9343745,
-      "label": "爆",
-      "event_time": 1786348682
-    },
-    {
-      "rank": 9,
       "word": "通勤穿出松弛感",
-      "hot_value": 9340185,
+      "hot_value": 9297708,
       "label": "",
       "event_time": 1786348784
     },
     {
+      "rank": 9,
+      "word": "夏天结束前再漂亮一次",
+      "hot_value": 9239851,
+      "label": "爆",
+      "event_time": 1786348682
+    },
+    {
       "rank": 10,
-      "word": "TE晋级季后赛",
-      "hot_value": 9301731,
+      "word": "文献纪录片《江泽民》播出",
+      "hot_value": 9185568,
       "label": "",
-      "event_time": 1786444652
+      "event_time": 1786447768
     },
     {
       "rank": 11,
       "word": "欢迎来龙餐馆票房破两亿",
-      "hot_value": 9245098,
+      "hot_value": 9127240,
       "label": "荐",
       "event_time": 1786448489
     },
     {
       "rank": 12,
       "word": "JDG淘汰EDG",
-      "hot_value": 9140396,
+      "hot_value": 9037341,
       "label": "",
       "event_time": 1786444513
     },
     {
       "rank": 13,
       "word": "杰伦格林战胜陈泽文",
-      "hot_value": 9001046,
+      "hot_value": 8959946,
       "label": "",
       "event_time": 1786438409
     },
     {
       "rank": 14,
       "word": "欢迎来龙餐馆观后感",
-      "hot_value": 8982034,
+      "hot_value": 8477967,
       "label": "热议",
       "event_time": 1786448669
     },
     {
       "rank": 15,
       "word": "台风白海豚实时路径",
-      "hot_value": 8170738,
+      "hot_value": 8071208,
       "label": "",
       "event_time": 1786241210
     },
     {
       "rank": 16,
-      "word": "坚持手搓正太扭腰",
-      "hot_value": 8057701,
-      "label": "音乐",
-      "event_time": 1786425395
-    },
-    {
-      "rank": 17,
-      "word": "AUBL上海交通大学夺冠",
-      "hot_value": 7824018,
-      "label": "",
-      "event_time": 1786445160
-    },
-    {
-      "rank": 18,
       "word": "贵州抓猪大赛可太有意思了",
-      "hot_value": 7811937,
+      "hot_value": 7999060,
       "label": "",
       "event_time": 1786418577
     },
     {
+      "rank": 17,
+      "word": "AUBL上海交通大学夺冠",
+      "hot_value": 7827654,
+      "label": "爆",
+      "event_time": 1786445160
+    },
+    {
+      "rank": 18,
+      "word": "坚持手搓正太扭腰",
+      "hot_value": 7818589,
+      "label": "音乐",
+      "event_time": 1786425395
+    },
+    {
       "rank": 19,
       "word": "走进宫崎骏的夏天",
-      "hot_value": 7808015,
+      "hot_value": 7812650,
       "label": "音乐",
       "event_time": 1786440752
     },
     {
       "rank": 20,
       "word": "需要多少涟漪才能细水长流",
-      "hot_value": 7807725,
+      "hot_value": 7804201,
       "label": "娱乐",
       "event_time": 1786429043
     }
   ],
-  "update_time": "2026-08-11 15:51:11",
+  "update_time": "2026-08-11 16:47:28",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
