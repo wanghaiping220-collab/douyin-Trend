@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风白海豚实时路径",
-      "hot_value": 11290862,
+      "hot_value": 11416209,
       "label": "爆",
       "event_time": 1786241210
     },
     {
       "rank": 2,
       "word": "哥伦比亚地震已致上百人遇难",
-      "hot_value": 11113602,
+      "hot_value": 11114492,
       "label": "爆",
       "event_time": 1786403164
     },
     {
       "rank": 3,
       "word": "一组数据看新产业动能强劲",
-      "hot_value": 11104382,
-      "label": "新",
+      "hot_value": 11104446,
+      "label": "",
       "event_time": 1786434636
     },
     {
       "rank": 4,
       "word": "宁波公安回应网红雅典娜遇害传闻",
-      "hot_value": 11093203,
-      "label": "",
+      "hot_value": 11096738,
+      "label": "爆",
       "event_time": 1786431177
     },
     {
       "rank": 5,
       "word": "给AI时代一点手搓实拍的小震撼",
-      "hot_value": 10519875,
+      "hot_value": 10402122,
       "label": "爆",
       "event_time": 1786420101
     },
     {
       "rank": 6,
       "word": "AI打开了我童年记忆的百宝箱",
-      "hot_value": 10500477,
+      "hot_value": 10309561,
       "label": "爆",
       "event_time": 1786418730
     },
     {
       "rank": 7,
       "word": "贵州抓猪大赛可太有意思了",
-      "hot_value": 9323258,
+      "hot_value": 9131268,
       "label": "爆",
       "event_time": 1786418577
     },
     {
       "rank": 8,
-      "word": "河南暴雨",
-      "hot_value": 9180051,
-      "label": "",
-      "event_time": 1786405387
-    },
-    {
-      "rank": 9,
-      "word": "原来爸爸也曾是少年",
-      "hot_value": 9129499,
-      "label": "",
-      "event_time": 1786361750
-    },
-    {
-      "rank": 10,
-      "word": "用AI重返那年相遇的青涩夏天",
-      "hot_value": 8981747,
-      "label": "爆",
-      "event_time": 1786373843
-    },
-    {
-      "rank": 11,
-      "word": "一口气看懂万达现状",
-      "hot_value": 8806680,
-      "label": "",
-      "event_time": 1786369148
-    },
-    {
-      "rank": 12,
-      "word": "台风白海豚大拐弯",
-      "hot_value": 8432519,
-      "label": "",
-      "event_time": 1786372859
-    },
-    {
-      "rank": 13,
-      "word": "卖梨老头举报致嫌犯落网不实",
-      "hot_value": 7831822,
-      "label": "谣言",
-      "event_time": 1786378667
-    },
-    {
-      "rank": 14,
       "word": "自古逢秋悲寂寥",
-      "hot_value": 7829588,
+      "hot_value": 9010735,
       "label": "音乐",
       "event_time": 1786416694
     },
     {
-      "rank": 15,
-      "word": "穿搭天才依旧稳定发挥",
-      "hot_value": 7825650,
+      "rank": 9,
+      "word": "河南暴雨",
+      "hot_value": 8972418,
       "label": "",
-      "event_time": 1786335209
+      "event_time": 1786405387
     },
     {
-      "rank": 16,
-      "word": "蹦沙卡拉卡反差转场",
-      "hot_value": 7817087,
-      "label": "音乐",
-      "event_time": 1786372130
+      "rank": 10,
+      "word": "最权威版公瑾爆蛋",
+      "hot_value": 8911300,
+      "label": "荐",
+      "event_time": 1786343299
     },
     {
-      "rank": 17,
+      "rank": 11,
+      "word": "原来爸爸也曾是少年",
+      "hot_value": 8409861,
+      "label": "",
+      "event_time": 1786361750
+    },
+    {
+      "rank": 12,
+      "word": "一口气看懂万达现状",
+      "hot_value": 7833028,
+      "label": "",
+      "event_time": 1786369148
+    },
+    {
+      "rank": 13,
       "word": "百花奖男女明星怼脸镜头",
-      "hot_value": 7806637,
+      "hot_value": 7824602,
       "label": "爆",
       "event_time": 1786375626
     },
     {
-      "rank": 18,
-      "word": "通勤穿出松弛感",
-      "hot_value": 7794930,
+      "rank": 14,
+      "word": "蹦沙卡拉卡反差转场",
+      "hot_value": 7821874,
+      "label": "音乐",
+      "event_time": 1786372130
+    },
+    {
+      "rank": 15,
+      "word": "用AI重返那年相遇的青涩夏天",
+      "hot_value": 7808672,
       "label": "",
-      "event_time": 1786348784
+      "event_time": 1786373843
+    },
+    {
+      "rank": 16,
+      "word": "沈腾发老年徐福让孩子好好吃饭",
+      "hot_value": 7795437,
+      "label": "热议",
+      "event_time": 1786422071
+    },
+    {
+      "rank": 17,
+      "word": "需要多少涟漪才能细水长流",
+      "hot_value": 7775722,
+      "label": "娱乐",
+      "event_time": 1786429043
+    },
+    {
+      "rank": 18,
+      "word": "这个半脸动漫惊到我了",
+      "hot_value": 7765917,
+      "label": "音乐",
+      "event_time": 1786348792
     },
     {
       "rank": 19,
-      "word": "王骁萨日娜百花奖最佳男女配",
-      "hot_value": 7790527,
+      "word": "夏天结束前再漂亮一次",
+      "hot_value": 7757449,
       "label": "",
-      "event_time": 1786365907
+      "event_time": 1786348682
     },
     {
       "rank": 20,
-      "word": "重器把我看哭了",
-      "hot_value": 7775969,
-      "label": "荐",
-      "event_time": 1786422474
+      "word": "穿搭天才依旧稳定发挥",
+      "hot_value": 7745976,
+      "label": "",
+      "event_time": 1786335209
     }
   ],
-  "update_time": "2026-08-11 09:51:26",
+  "update_time": "2026-08-11 10:41:35",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
