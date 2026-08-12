@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "河南发布暴雨红色预警",
-      "hot_value": 11821054,
+      "hot_value": 11576301,
       "label": "爆",
       "event_time": 1786493025
     },
     {
       "rank": 2,
-      "word": "北京迎暴雨天气",
-      "hot_value": 11102428,
-      "label": "爆",
-      "event_time": 1786490944
+      "word": "C罗宣布结婚5小时收获1400万赞",
+      "hot_value": 11475238,
+      "label": "",
+      "event_time": 1786498739
     },
     {
       "rank": 3,
       "word": "十五五生态保护规划发布",
-      "hot_value": 10969931,
-      "label": "",
+      "hot_value": 11101671,
+      "label": "爆",
       "event_time": 1786503226
     },
     {
       "rank": 4,
-      "word": "台风白海豚停止编号",
-      "hot_value": 10848262,
-      "label": "爆",
-      "event_time": 1786446923
+      "word": "沉浸式感受红山石林带来的震撼",
+      "hot_value": 11095825,
+      "label": "新",
+      "event_time": 1786511673
     },
     {
       "rank": 5,
       "word": "山西运城才是旅行的宝藏地",
-      "hot_value": 10288369,
-      "label": "",
+      "hot_value": 10382881,
+      "label": "爆",
       "event_time": 1786495260
     },
     {
       "rank": 6,
       "word": "通勤穿出松弛感",
-      "hot_value": 10279499,
+      "hot_value": 10381208,
       "label": "",
       "event_time": 1786348784
     },
     {
       "rank": 7,
       "word": "英仙座流星雨将迎来极大",
-      "hot_value": 9171396,
+      "hot_value": 9224343,
       "label": "新",
       "event_time": 1786508461
     },
     {
       "rank": 8,
-      "word": "影之刃零11分钟实机预告",
-      "hot_value": 9159378,
+      "word": "北京迎暴雨天气",
+      "hot_value": 9221698,
       "label": "",
-      "event_time": 1786502541
+      "event_time": 1786490944
     },
     {
       "rank": 9,
       "word": "8月14日24时油价将迎调整",
-      "hot_value": 9141410,
+      "hot_value": 9186408,
       "label": "",
       "event_time": 1786460125
     },
     {
       "rank": 10,
       "word": "郭兰英逝世",
-      "hot_value": 9128678,
+      "hot_value": 9182319,
       "label": "爆",
       "event_time": 1786473460
     },
     {
       "rank": 11,
       "word": "欢迎来龙餐馆票房破两亿",
-      "hot_value": 9108443,
+      "hot_value": 9150896,
       "label": "荐",
       "event_time": 1786448489
     },
     {
       "rank": 12,
+      "word": "影之刃零11分钟实机预告",
+      "hot_value": 9122165,
+      "label": "爆",
+      "event_time": 1786502541
+    },
+    {
+      "rank": 13,
       "word": "给AI时代一点手搓实拍的小震撼",
-      "hot_value": 9036796,
+      "hot_value": 9114924,
       "label": "",
       "event_time": 1786420101
     },
     {
-      "rank": 13,
-      "word": "官方密集通报涉汛谣言",
-      "hot_value": 8790923,
-      "label": "谣言",
-      "event_time": 1786511047
-    },
-    {
       "rank": 14,
-      "word": "原来爸爸也曾是少年",
-      "hot_value": 8775612,
-      "label": "",
-      "event_time": 1786361750
+      "word": "AI科创润童心 网络安全伴成长",
+      "hot_value": 9099924,
+      "label": "谣言",
+      "event_time": 1786515336
     },
     {
       "rank": 15,
-      "word": "赵心童5:6不敌张安达",
-      "hot_value": 8763229,
+      "word": "武大靖出任中国短道速滑队主教练",
+      "hot_value": 9017251,
       "label": "新",
-      "event_time": 1786502849
+      "event_time": 1786515588
     },
     {
       "rank": 16,
-      "word": "唱片一转清凉夏日感就来了",
-      "hot_value": 8192666,
-      "label": "音乐",
-      "event_time": 1786445947
+      "word": "原来桥边姑娘原唱这么年轻",
+      "hot_value": 8901364,
+      "label": "娱乐",
+      "event_time": 1786507157
     },
     {
       "rank": 17,
-      "word": "台风白海豚实时路径",
-      "hot_value": 8129683,
-      "label": "",
-      "event_time": 1786241210
-    },
-    {
-      "rank": 18,
       "word": "欢迎来龙餐馆观后感",
-      "hot_value": 8046088,
+      "hot_value": 8644863,
       "label": "热议",
       "event_time": 1786448669
     },
     {
+      "rank": 18,
+      "word": "唱片一转清凉夏日感就来了",
+      "hot_value": 8466778,
+      "label": "音乐",
+      "event_time": 1786445947
+    },
+    {
       "rank": 19,
       "word": "走进宫崎骏的夏天",
-      "hot_value": 7798953,
+      "hot_value": 8420102,
       "label": "音乐",
       "event_time": 1786440752
     },
     {
       "rank": 20,
       "word": "需要多少涟漪才能细水长流",
-      "hot_value": 7779874,
+      "hot_value": 8403883,
       "label": "娱乐",
       "event_time": 1786429043
     }
   ],
-  "update_time": "2026-08-12 05:25:26",
+  "update_time": "2026-08-12 07:09:10",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
