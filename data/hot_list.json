@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "想和你一起去海边看晚霞",
-      "hot_value": 12113075,
+      "hot_value": 12098482,
       "label": "爆",
       "event_time": 1786607735
     },
     {
       "rank": 2,
       "word": "看看我拍到的英仙座流星雨吧",
-      "hot_value": 11709690,
+      "hot_value": 11651952,
       "label": "爆",
       "event_time": 1786550984
     },
     {
       "rank": 3,
       "word": "中国制造再添全球之最",
-      "hot_value": 11033067,
+      "hot_value": 11111771,
       "label": "爆",
       "event_time": 1786624582
     },
     {
       "rank": 4,
       "word": "我选择海岛作为我生活的解药",
-      "hot_value": 11006725,
+      "hot_value": 10994785,
       "label": "爆",
       "event_time": 1786493164
     },
     {
       "rank": 5,
       "word": "威少宣布退役",
-      "hot_value": 10329236,
+      "hot_value": 10299924,
       "label": "爆",
       "event_time": 1786577237
     },
     {
       "rank": 6,
       "word": "TI2026开赛",
-      "hot_value": 10174216,
+      "hot_value": 10091727,
       "label": "",
       "event_time": 1786627303
     },
     {
       "rank": 7,
+      "word": "美新闻机构起诉特朗普",
+      "hot_value": 8903086,
+      "label": "",
+      "event_time": 1786591565
+    },
+    {
+      "rank": 8,
       "word": "白海豚残涡回马枪杀到江苏",
-      "hot_value": 9070458,
+      "hot_value": 8890898,
       "label": "",
       "event_time": 1786592634
     },
     {
-      "rank": 8,
-      "word": "美股三大指数开盘上涨",
-      "hot_value": 8928387,
-      "label": "新",
-      "event_time": 1786631140
-    },
-    {
       "rank": 9,
       "word": "DeepSeek发布调价公告",
-      "hot_value": 8743893,
+      "hot_value": 8647608,
       "label": "爆",
       "event_time": 1786622679
     },
     {
       "rank": 10,
-      "word": "白海豚对河南的影响有多大",
-      "hot_value": 8708987,
-      "label": "",
-      "event_time": 1786585564
+      "word": "普京驳斥日本南千岛群岛领土主张",
+      "hot_value": 8643942,
+      "label": "爆",
+      "event_time": 1786584810
     },
     {
       "rank": 11,
       "word": "TF四代青岛演唱会",
-      "hot_value": 8689701,
+      "hot_value": 8556414,
       "label": "",
       "event_time": 1786625629
     },
     {
       "rank": 12,
       "word": "“两弹一星”元勋王希季逝世",
-      "hot_value": 8411676,
+      "hot_value": 8446981,
       "label": "爆",
       "event_time": 1786595511
     },
     {
       "rank": 13,
-      "word": "全国田径锦标赛来了",
-      "hot_value": 8287082,
-      "label": "",
-      "event_time": 1786600087
-    },
-    {
-      "rank": 14,
       "word": "用AI给小时候的自己做头像",
-      "hot_value": 8149645,
+      "hot_value": 8262280,
       "label": "音乐",
       "event_time": 1786630267
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "欢迎来龙餐馆票房破四亿",
-      "hot_value": 7881156,
+      "hot_value": 7837194,
       "label": "荐",
       "event_time": 1786619669
     },
     {
-      "rank": 16,
+      "rank": 15,
       "word": "用AI给朋友做个专属小游戏",
-      "hot_value": 7836806,
+      "hot_value": 7790763,
       "label": "音乐",
       "event_time": 1786622928
     },
     {
+      "rank": 16,
+      "word": "粉丝们给熊出没的回信",
+      "hot_value": 7773521,
+      "label": "爆",
+      "event_time": 1786621558
+    },
+    {
       "rank": 17,
       "word": "杰伦格林杰苏尔战胜白晶柳杨杰",
-      "hot_value": 7783166,
+      "hot_value": 7753820,
       "label": "",
       "event_time": 1786612653
     },
     {
       "rank": 18,
       "word": "七夕我主打一个有备而来",
-      "hot_value": 7775522,
+      "hot_value": 7747548,
       "label": "爆",
       "event_time": 1786593777
     },
     {
       "rank": 19,
-      "word": "粉丝们给熊出没的回信",
-      "hot_value": 7751995,
+      "word": "异环残虹",
+      "hot_value": 7745811,
       "label": "爆",
-      "event_time": 1786621558
+      "event_time": 1786593657
     },
     {
       "rank": 20,
       "word": "超盈实验中学球员致歉",
-      "hot_value": 7750445,
-      "label": "新",
+      "hot_value": 7744061,
+      "label": "",
       "event_time": 1786629695
     }
   ],
-  "update_time": "2026-08-13 15:50:11",
+  "update_time": "2026-08-13 16:44:58",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
