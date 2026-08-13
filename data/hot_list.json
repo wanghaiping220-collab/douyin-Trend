@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "想和你一起去海边看晚霞",
-      "hot_value": 12087453,
+      "hot_value": 12095209,
       "label": "爆",
       "event_time": 1786607735
     },
     {
       "rank": 2,
       "word": "看看我拍到的英仙座流星雨吧",
-      "hot_value": 11488486,
+      "hot_value": 11779636,
       "label": "爆",
       "event_time": 1786550984
     },
     {
       "rank": 3,
       "word": "中国制造再添全球之最",
-      "hot_value": 11100996,
+      "hot_value": 11100532,
       "label": "爆",
       "event_time": 1786624582
     },
     {
       "rank": 4,
       "word": "我选择海岛作为我生活的解药",
-      "hot_value": 11087637,
+      "hot_value": 11100229,
       "label": "爆",
       "event_time": 1786493164
     },
     {
       "rank": 5,
       "word": "威少宣布退役",
-      "hot_value": 10454514,
-      "label": "爆",
+      "hot_value": 10334063,
+      "label": "",
       "event_time": 1786577237
     },
     {
       "rank": 6,
-      "word": "白海豚残涡回马枪杀到江苏",
-      "hot_value": 10251682,
-      "label": "爆",
-      "event_time": 1786592634
-    },
-    {
-      "rank": 7,
       "word": "普京驳斥日本南千岛群岛领土主张",
-      "hot_value": 8925126,
+      "hot_value": 10212090,
       "label": "爆",
       "event_time": 1786584810
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "TI2026开赛",
-      "hot_value": 8687041,
+      "hot_value": 8976746,
       "label": "",
       "event_time": 1786627303
     },
     {
+      "rank": 8,
+      "word": "DeepSeek发布调价公告",
+      "hot_value": 8550162,
+      "label": "爆",
+      "event_time": 1786622679
+    },
+    {
       "rank": 9,
       "word": "谢震业全国田径锦标赛百米夺冠",
-      "hot_value": 8461465,
-      "label": "新",
+      "hot_value": 8195987,
+      "label": "",
       "event_time": 1786629085
     },
     {
       "rank": 10,
       "word": "用AI给小时候的自己做头像",
-      "hot_value": 8328844,
+      "hot_value": 8087673,
       "label": "音乐",
       "event_time": 1786630267
     },
     {
       "rank": 11,
       "word": "TF四代青岛演唱会",
-      "hot_value": 7890697,
+      "hot_value": 7927133,
       "label": "",
       "event_time": 1786625629
     },
     {
       "rank": 12,
       "word": "“两弹一星”元勋王希季逝世",
-      "hot_value": 7855292,
+      "hot_value": 7832144,
       "label": "",
       "event_time": 1786595511
     },
     {
       "rank": 13,
       "word": "女生总感觉没衣服穿的原因",
-      "hot_value": 7832347,
+      "hot_value": 7824010,
       "label": "",
       "event_time": 1786619639
     },
     {
       "rank": 14,
       "word": "秋雨冲刷走落叶 残留我的思念",
-      "hot_value": 7800296,
+      "hot_value": 7774157,
       "label": "音乐",
       "event_time": 1786626006
     },
     {
       "rank": 15,
       "word": "杰伦格林杰苏尔战胜白晶柳杨杰",
-      "hot_value": 7773635,
+      "hot_value": 7771624,
       "label": "",
       "event_time": 1786612653
     },
     {
       "rank": 16,
-      "word": "带你玩懂原神至冬版本",
-      "hot_value": 7760810,
-      "label": "爆",
-      "event_time": 1786609440
-    },
-    {
-      "rank": 17,
-      "word": "白海豚对河南的影响有多大",
-      "hot_value": 7760197,
-      "label": "",
-      "event_time": 1786585564
-    },
-    {
-      "rank": 18,
-      "word": "AI拍出中国版怪奇物语",
-      "hot_value": 7742417,
-      "label": "爆",
-      "event_time": 1786615212
-    },
-    {
-      "rank": 19,
       "word": "粉丝们给熊出没的回信",
-      "hot_value": 7740641,
+      "hot_value": 7770870,
       "label": "",
       "event_time": 1786621558
     },
     {
+      "rank": 17,
+      "word": "8月15日起居民楼禁开油烟餐饮",
+      "hot_value": 7759091,
+      "label": "",
+      "event_time": 1786607718
+    },
+    {
+      "rank": 18,
+      "word": "真正的蜘蛛侠驾到",
+      "hot_value": 7758969,
+      "label": "音乐",
+      "event_time": 1786602498
+    },
+    {
+      "rank": 19,
+      "word": "异环残虹",
+      "hot_value": 7747163,
+      "label": "爆",
+      "event_time": 1786593657
+    },
+    {
       "rank": 20,
       "word": "超盈实验中学球员致歉",
-      "hot_value": 7740562,
-      "label": "",
+      "hot_value": 7742325,
+      "label": "爆",
       "event_time": 1786629695
     }
   ],
-  "update_time": "2026-08-13 18:49:32",
+  "update_time": "2026-08-13 19:51:06",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
