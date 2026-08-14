@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "国防部：敦促日方认罪赎罪",
-      "hot_value": 11878265,
-      "label": "爆",
-      "event_time": 1786692902
-    },
-    {
-      "rank": 2,
       "word": "周口贾鲁河溃口正开展封堵作业",
-      "hot_value": 11652353,
+      "hot_value": 12109206,
       "label": "爆",
       "event_time": 1786670743
     },
     {
+      "rank": 2,
+      "word": "国防部：敦促日方认罪赎罪",
+      "hot_value": 11928503,
+      "label": "爆",
+      "event_time": 1786692902
+    },
+    {
       "rank": 3,
       "word": "我国生态环境质量持续向好",
-      "hot_value": 11523232,
+      "hot_value": 11773044,
       "label": "爆",
       "event_time": 1786709319
     },
     {
       "rank": 4,
       "word": "七夕约会怎么穿",
-      "hot_value": 11289876,
+      "hot_value": 11590246,
       "label": "爆",
       "event_time": 1786686167
     },
     {
       "rank": 5,
       "word": "想和你一起去海边看晚霞",
-      "hot_value": 10598172,
+      "hot_value": 10937392,
       "label": "",
       "event_time": 1786607735
     },
     {
       "rank": 6,
       "word": "WTT瑞典站国乒男女双遭淘汰",
-      "hot_value": 10538363,
-      "label": "",
+      "hot_value": 10931866,
+      "label": "爆",
       "event_time": 1786663661
     },
     {
       "rank": 7,
       "word": "中国公开赛周跃龙6:5吉尔伯特",
-      "hot_value": 9410832,
+      "hot_value": 9551855,
       "label": "",
       "event_time": 1786691734
     },
     {
       "rank": 8,
       "word": "你总认为旅行很贵",
-      "hot_value": 9386730,
+      "hot_value": 9448656,
       "label": "",
       "event_time": 1786699445
     },
     {
       "rank": 9,
       "word": "躺在没有天花板的地方",
-      "hot_value": 9335538,
+      "hot_value": 9391949,
       "label": "爆",
       "event_time": 1786700570
     },
     {
       "rank": 10,
+      "word": "娃圈黑色穿搭大赏",
+      "hot_value": 9384886,
+      "label": "爆",
+      "event_time": 1786683365
+    },
+    {
+      "rank": 11,
       "word": "水利部升级发布洪水黄色预警",
-      "hot_value": 9306140,
+      "hot_value": 9373075,
       "label": "爆",
       "event_time": 1786698148
     },
     {
-      "rank": 11,
+      "rank": 12,
       "word": "JDG战胜NOVA",
-      "hot_value": 9305545,
+      "hot_value": 9290763,
       "label": "爆",
       "event_time": 1786700915
     },
     {
-      "rank": 12,
-      "word": "西瓜少年马成回应网友关心",
-      "hot_value": 9246951,
-      "label": "爆",
-      "event_time": 1786624911
-    },
-    {
       "rank": 13,
       "word": "山东泰山3:1青岛海牛",
-      "hot_value": 9214660,
+      "hot_value": 9286667,
       "label": "",
       "event_time": 1786717788
     },
     {
       "rank": 14,
       "word": "许昌暴雨60万人断水停电系谣言",
-      "hot_value": 9122127,
+      "hot_value": 9147612,
       "label": "谣言",
       "event_time": 1786706287
     },
     {
       "rank": 15,
       "word": "电影空枪8月19日全国上映",
-      "hot_value": 8928112,
+      "hot_value": 9110861,
       "label": "爆",
       "event_time": 1786700902
     },
     {
       "rank": 16,
-      "word": "用AI给小时候的自己做头像",
-      "hot_value": 8789002,
-      "label": "音乐",
-      "event_time": 1786630267
+      "word": "护士泄露患者隐私被终止实习",
+      "hot_value": 9075921,
+      "label": "",
+      "event_time": 1786704826
     },
     {
       "rank": 17,
       "word": "邓紫棋嘉兴演唱会暴雨中开唱",
-      "hot_value": 8251733,
-      "label": "",
+      "hot_value": 8617528,
+      "label": "爆",
       "event_time": 1786713042
     },
     {
       "rank": 18,
-      "word": "伊拉克老王探班龙餐馆",
-      "hot_value": 7865907,
-      "label": "爆",
-      "event_time": 1786706581
-    },
-    {
-      "rank": 19,
       "word": "动画电影牛来票房7000多",
-      "hot_value": 7786878,
-      "label": "",
+      "hot_value": 8607250,
+      "label": "爆",
       "event_time": 1786696460
     },
     {
-      "rank": 20,
+      "rank": 19,
       "word": "BEST杯中国小将战平巴萨U18",
-      "hot_value": 7752162,
+      "hot_value": 8110073,
       "label": "",
       "event_time": 1786667368
+    },
+    {
+      "rank": 20,
+      "word": "七夕我就这样发朋友圈",
+      "hot_value": 8066415,
+      "label": "音乐",
+      "event_time": 1786687836
     }
   ],
-  "update_time": "2026-08-14 22:12:41",
+  "update_time": "2026-08-14 23:12:28",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
