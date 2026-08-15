@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "日本战败投降81周年",
-      "hot_value": 11624269,
+      "hot_value": 11720343,
       "label": "爆",
       "event_time": 1786719295
     },
     {
       "rank": 2,
       "word": "苏超南通1:0镇江",
-      "hot_value": 11397144,
+      "hot_value": 11475685,
       "label": "爆",
       "event_time": 1786775636
     },
     {
       "rank": 3,
       "word": "新一代通信网空天地海全覆盖",
-      "hot_value": 11119941,
+      "hot_value": 11099932,
       "label": "爆",
       "event_time": 1786793963
     },
     {
       "rank": 4,
       "word": "河南贾鲁河川汇区段溃口完成合龙",
-      "hot_value": 11103904,
+      "hot_value": 11086564,
       "label": "",
       "event_time": 1786797147
     },
     {
       "rank": 5,
       "word": "七夕约会怎么穿",
-      "hot_value": 10515183,
+      "hot_value": 10304002,
       "label": "",
       "event_time": 1786686167
     },
     {
       "rank": 6,
       "word": "苏超南京0:1扬州",
-      "hot_value": 10446208,
-      "label": "爆",
+      "hot_value": 10275993,
+      "label": "",
       "event_time": 1786775827
     },
     {
       "rank": 7,
+      "word": "中超成都蓉城3:2浙江队",
+      "hot_value": 9190650,
+      "label": "新",
+      "event_time": 1786802956
+    },
+    {
+      "rank": 8,
       "word": "童年动画三巨头集体在抖音写信",
-      "hot_value": 9331077,
+      "hot_value": 9175844,
       "label": "热议",
       "event_time": 1786769227
     },
     {
-      "rank": 8,
-      "word": "豆包进化到能学我唱歌了",
-      "hot_value": 9207271,
-      "label": "爆",
-      "event_time": 1786777004
-    },
-    {
       "rank": 9,
-      "word": "非洲34位部级嘉宾将齐聚北京",
-      "hot_value": 9184348,
-      "label": "新",
-      "event_time": 1786800153
-    },
-    {
-      "rank": 10,
       "word": "60岁AI动画赛道新人",
-      "hot_value": 9172197,
+      "hot_value": 9161218,
       "label": "爆",
       "event_time": 1786782019
     },
     {
+      "rank": 10,
+      "word": "豆包进化到能学我唱歌了",
+      "hot_value": 9140540,
+      "label": "爆",
+      "event_time": 1786777004
+    },
+    {
       "rank": 11,
       "word": "中国男篮热身赛72:91不敌乌拉圭",
-      "hot_value": 9125828,
+      "hot_value": 9067547,
       "label": "新",
       "event_time": 1786802606
     },
     {
       "rank": 12,
       "word": "苏超宿迁2:2苏州",
-      "hot_value": 8951477,
+      "hot_value": 9028362,
       "label": "",
       "event_time": 1786775549
     },
     {
       "rank": 13,
       "word": "陈泽OK了老铁们第二季上线",
-      "hot_value": 8814726,
+      "hot_value": 8863267,
       "label": "爆",
       "event_time": 1786771375
     },
     {
       "rank": 14,
       "word": "我们为什么总是容易相信谣言",
-      "hot_value": 8795686,
+      "hot_value": 8638309,
       "label": "谣言",
       "event_time": 1786771442
     },
     {
       "rank": 15,
+      "word": "RED广州演唱会",
+      "hot_value": 8572760,
+      "label": "新",
+      "event_time": 1786803187
+    },
+    {
+      "rank": 16,
       "word": "北京国安4:2天津津门虎",
-      "hot_value": 8751958,
+      "hot_value": 8570506,
       "label": "新",
       "event_time": 1786801249
     },
     {
-      "rank": 16,
-      "word": "熊出没收到了00后们的回信",
-      "hot_value": 8636065,
-      "label": "爆",
-      "event_time": 1786760072
-    },
-    {
       "rank": 17,
       "word": "闽超莆田0:2泉州",
-      "hot_value": 8531831,
+      "hot_value": 8418383,
       "label": "爆",
       "event_time": 1786775611
     },
     {
       "rank": 18,
-      "word": "巴啦啦小魔仙给00后的一封信",
-      "hot_value": 8212673,
-      "label": "娱乐",
-      "event_time": 1786765143
-    },
-    {
-      "rank": 19,
       "word": "秋冬上衣裤子搭配公式",
-      "hot_value": 7871941,
+      "hot_value": 8397631,
       "label": "",
       "event_time": 1786775442
     },
     {
+      "rank": 19,
+      "word": "云南玉昆3:1战胜大连英博",
+      "hot_value": 7867063,
+      "label": "新",
+      "event_time": 1786803641
+    },
+    {
       "rank": 20,
-      "word": "中国U17男足捧杯的价值",
-      "hot_value": 7767932,
-      "label": "",
-      "event_time": 1786709534
+      "word": "巴啦啦小魔仙给00后的一封信",
+      "hot_value": 7829123,
+      "label": "爆",
+      "event_time": 1786765143
     }
   ],
-  "update_time": "2026-08-15 15:10:59",
+  "update_time": "2026-08-15 16:12:56",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
