@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "日本战败投降81周年",
-      "hot_value": 11932597,
-      "label": "",
-      "event_time": 1786719295
-    },
-    {
-      "rank": 2,
       "word": "印尼7.7级强震或引发区域海啸",
-      "hot_value": 11843651,
+      "hot_value": 11950743,
       "label": "新",
       "event_time": 1786748931
     },
     {
+      "rank": 2,
+      "word": "日本战败投降81周年",
+      "hot_value": 11651105,
+      "label": "",
+      "event_time": 1786719295
+    },
+    {
       "rank": 3,
       "word": "我国生态环境质量持续向好",
-      "hot_value": 11655941,
+      "hot_value": 11430180,
       "label": "爆",
       "event_time": 1786709319
     },
     {
       "rank": 4,
-      "word": "周口贾鲁河溃口正开展封堵作业",
-      "hot_value": 11589856,
+      "word": "国防部：敦促日方认罪赎罪",
+      "hot_value": 10903589,
       "label": "爆",
-      "event_time": 1786670743
+      "event_time": 1786692902
     },
     {
       "rank": 5,
       "word": "七夕约会怎么穿",
-      "hot_value": 10923309,
+      "hot_value": 10291808,
       "label": "",
       "event_time": 1786686167
     },
     {
       "rank": 6,
-      "word": "想和你一起去海边看晚霞",
-      "hot_value": 10920156,
-      "label": "",
-      "event_time": 1786607735
-    },
-    {
-      "rank": 7,
-      "word": "国防部：敦促日方认罪赎罪",
-      "hot_value": 9519637,
-      "label": "",
-      "event_time": 1786692902
-    },
-    {
-      "rank": 8,
-      "word": "中国公开赛周跃龙6:5吉尔伯特",
-      "hot_value": 9386926,
-      "label": "",
-      "event_time": 1786691734
-    },
-    {
-      "rank": 9,
       "word": "你总认为旅行很贵",
-      "hot_value": 9370112,
-      "label": "",
+      "hot_value": 10180337,
+      "label": "爆",
       "event_time": 1786699445
     },
     {
-      "rank": 10,
+      "rank": 7,
       "word": "躺在没有天花板的地方",
-      "hot_value": 9343413,
+      "hot_value": 8937613,
       "label": "爆",
       "event_time": 1786700570
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "word": "想和你一起去海边看晚霞",
+      "hot_value": 8912990,
+      "label": "",
+      "event_time": 1786607735
+    },
+    {
+      "rank": 9,
+      "word": "秋天是韩系穿搭的统治区",
+      "hot_value": 8864151,
+      "label": "",
+      "event_time": 1786677059
+    },
+    {
+      "rank": 10,
       "word": "娃圈黑色穿搭大赏",
-      "hot_value": 9322097,
+      "hot_value": 8830648,
       "label": "爆",
       "event_time": 1786683365
     },
     {
+      "rank": 11,
+      "word": "中国公开赛周跃龙6:5吉尔伯特",
+      "hot_value": 8645775,
+      "label": "",
+      "event_time": 1786691734
+    },
+    {
       "rank": 12,
-      "word": "水利部升级发布洪水黄色预警",
-      "hot_value": 9268554,
-      "label": "爆",
-      "event_time": 1786698148
+      "word": "山东泰山3:1青岛海牛",
+      "hot_value": 7981943,
+      "label": "",
+      "event_time": 1786717788
     },
     {
       "rank": 13,
-      "word": "JDG战胜NOVA",
-      "hot_value": 9227809,
-      "label": "爆",
-      "event_time": 1786700915
+      "word": "致所有00后蛋仔的一封信",
+      "hot_value": 7895803,
+      "label": "",
+      "event_time": 1786709213
     },
     {
       "rank": 14,
       "word": "许昌暴雨60万人断水停电系谣言",
-      "hot_value": 9186773,
+      "hot_value": 7736901,
       "label": "谣言",
       "event_time": 1786706287
     },
     {
       "rank": 15,
-      "word": "山东泰山3:1青岛海牛",
-      "hot_value": 9064196,
+      "word": "电影空枪8月19日全国上映",
+      "hot_value": 7709048,
       "label": "",
-      "event_time": 1786717788
+      "event_time": 1786700902
     },
     {
       "rank": 16,
-      "word": "护士泄露患者隐私被终止实习",
-      "hot_value": 8982454,
+      "word": "水利部升级发布洪水黄色预警",
+      "hot_value": 7708377,
       "label": "",
-      "event_time": 1786704826
+      "event_time": 1786698148
     },
     {
       "rank": 17,
       "word": "邓紫棋嘉兴演唱会暴雨中开唱",
-      "hot_value": 8794200,
-      "label": "爆",
+      "hot_value": 7704638,
+      "label": "",
       "event_time": 1786713042
     },
     {
       "rank": 18,
       "word": "王力宏苏州演唱会",
-      "hot_value": 8756090,
+      "hot_value": 7687597,
       "label": "爆",
       "event_time": 1786720118
     },
     {
       "rank": 19,
-      "word": "致所有00后蛋仔的一封信",
-      "hot_value": 8408167,
-      "label": "娱乐",
-      "event_time": 1786709213
+      "word": "动画电影牛来票房7000多",
+      "hot_value": 7685041,
+      "label": "爆",
+      "event_time": 1786696460
     },
     {
       "rank": 20,
-      "word": "电影空枪8月19日全国上映",
-      "hot_value": 8019961,
-      "label": "",
-      "event_time": 1786700902
+      "word": "电影牛来建模粗糙被网友吐槽",
+      "hot_value": 7684054,
+      "label": "爆",
+      "event_time": 1786676460
     }
   ],
-  "update_time": "2026-08-15 00:41:16",
+  "update_time": "2026-08-15 02:08:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
