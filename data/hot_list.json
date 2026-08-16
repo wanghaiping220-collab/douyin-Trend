@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "朱镕基同志遗体8月18日火化",
-      "hot_value": 11400650,
+      "hot_value": 11400325,
       "label": "",
       "event_time": 1786860209
     },
     {
       "rank": 2,
       "word": "北极航线常态化周班运营有何意义",
-      "hot_value": 11181736,
+      "hot_value": 11271736,
       "label": "爆",
       "event_time": 1786868072
     },
     {
       "rank": 3,
       "word": "中国工程机械5年出口规模3倍增长",
-      "hot_value": 11100792,
+      "hot_value": 11107905,
       "label": "爆",
       "event_time": 1786883257
     },
     {
       "rank": 4,
       "word": "吴艳妮夺全锦赛100米栏冠军",
-      "hot_value": 11082715,
+      "hot_value": 11100724,
       "label": "",
       "event_time": 1786887081
     },
     {
       "rank": 5,
       "word": "王艺迪4:2战胜张本美和",
-      "hot_value": 10497398,
+      "hot_value": 10474089,
       "label": "",
       "event_time": 1786877285
     },
     {
       "rank": 6,
       "word": "再见太难",
-      "hot_value": 10482380,
+      "hot_value": 10429497,
       "label": "音乐",
       "event_time": 1786851052
     },
     {
       "rank": 7,
       "word": "情绪有出口那一定是登机口",
-      "hot_value": 9316766,
+      "hot_value": 9320743,
       "label": "",
       "event_time": 1786853901
     },
     {
       "rank": 8,
       "word": "人人都是美食艺术家",
-      "hot_value": 9191597,
+      "hot_value": 9272065,
       "label": "",
       "event_time": 1786843321
     },
     {
       "rank": 9,
       "word": "给童年动画伙伴的回信",
-      "hot_value": 9162206,
+      "hot_value": 9209405,
       "label": "",
       "event_time": 1786852354
     },
     {
       "rank": 10,
       "word": "媒体评给00后的信走红",
-      "hot_value": 9119251,
+      "hot_value": 9144484,
       "label": "",
       "event_time": 1786881967
     },
     {
       "rank": 11,
-      "word": "想起你轻柔的话语 曾打湿我眼眶",
-      "hot_value": 8940607,
-      "label": "音乐",
-      "event_time": 1786859377
-    },
-    {
-      "rank": 12,
       "word": "一条AI短片演绎时间焦虑",
-      "hot_value": 8929514,
+      "hot_value": 9095083,
       "label": "爆",
       "event_time": 1786875879
     },
     {
+      "rank": 12,
+      "word": "幸福是和同频的人一起看世界",
+      "hot_value": 9087071,
+      "label": "",
+      "event_time": 1786855667
+    },
+    {
       "rank": 13,
+      "word": "想起你轻柔的话语 曾打湿我眼眶",
+      "hot_value": 8833798,
+      "label": "音乐",
+      "event_time": 1786859377
+    },
+    {
+      "rank": 14,
       "word": "你嫣然的一笑如含苞待放",
-      "hot_value": 8848137,
+      "hot_value": 8191603,
       "label": "娱乐",
       "event_time": 1786882502
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "侯明昊深圳演唱会",
-      "hot_value": 7941197,
+      "hot_value": 7917984,
       "label": "",
       "event_time": 1786872105
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "word": "来自奇妙小镇奇奇的一封信",
+      "hot_value": 7859360,
+      "label": "",
+      "event_time": 1786871605
+    },
+    {
+      "rank": 17,
       "word": "铠甲勇士给00后的一封信",
-      "hot_value": 7914180,
+      "hot_value": 7840495,
       "label": "",
       "event_time": 1786868223
     },
     {
-      "rank": 16,
-      "word": "UFC马哈切夫成功卫冕",
-      "hot_value": 7828372,
-      "label": "",
-      "event_time": 1786854435
-    },
-    {
-      "rank": 17,
-      "word": "我们的少年时代2开播",
-      "hot_value": 7827932,
-      "label": "",
-      "event_time": 1786846883
-    },
-    {
       "rank": 18,
       "word": "孟博龙李瑞战胜恶鼠程鑫凯",
-      "hot_value": 7785456,
-      "label": "爆",
+      "hot_value": 7823227,
+      "label": "",
       "event_time": 1786868594
     },
     {
       "rank": 19,
       "word": "我们的少年时代2少年群像",
-      "hot_value": 7763604,
+      "hot_value": 7785254,
       "label": "荐",
       "event_time": 1786865991
     },
     {
       "rank": 20,
-      "word": "来自奇妙小镇奇奇的一封信",
-      "hot_value": 7762881,
+      "word": "UFC马哈切夫成功卫冕",
+      "hot_value": 7769375,
       "label": "",
-      "event_time": 1786871605
+      "event_time": 1786854435
     }
   ],
-  "update_time": "2026-08-16 20:11:15",
+  "update_time": "2026-08-16 21:11:01",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
