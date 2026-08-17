@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "纪念江泽民同志诞辰100周年大会",
-      "hot_value": 11924688,
-      "label": "新",
+      "hot_value": 11588818,
+      "label": "",
       "event_time": 1786930306
     },
     {
       "rank": 2,
-      "word": "国乒瑞典大满贯2冠1亚收官",
-      "hot_value": 11526946,
+      "word": "服装博主的秋天第一件自留款",
+      "hot_value": 11578306,
       "label": "新",
-      "event_time": 1786924274
+      "event_time": 1786933348
     },
     {
       "rank": 3,
-      "word": "中国工程机械5年出口规模3倍增长",
-      "hot_value": 11400970,
-      "label": "爆",
-      "event_time": 1786883257
+      "word": "我国一系列原创性成果加速落地",
+      "hot_value": 11401610,
+      "label": "新",
+      "event_time": 1786933409
     },
     {
       "rank": 4,
       "word": "00后致10后的一封信",
-      "hot_value": 11387995,
+      "hot_value": 11328643,
       "label": "",
       "event_time": 1786867964
     },
     {
       "rank": 5,
-      "word": "我国多地将有雷暴大风或冰雹",
-      "hot_value": 10736406,
+      "word": "德比斯打卡重庆落地签",
+      "hot_value": 10471123,
       "label": "新",
-      "event_time": 1786923765
+      "event_time": 1786931961
     },
     {
       "rank": 6,
+      "word": "塞尔比：中国公开赛夺冠感觉很棒",
+      "hot_value": 10465840,
+      "label": "新",
+      "event_time": 1786933963
+    },
+    {
+      "rank": 7,
       "word": "王曼昱瑞典大满贯冠军",
-      "hot_value": 9368886,
+      "hot_value": 9272200,
       "label": "",
       "event_time": 1786922309
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "word": "阿森纳夺社区盾冠军",
+      "hot_value": 9236734,
+      "label": "",
+      "event_time": 1786922069
+    },
+    {
+      "rank": 9,
       "word": "做一碗徐福烩饭",
-      "hot_value": 9321179,
+      "hot_value": 9232561,
       "label": "",
       "event_time": 1786899088
     },
     {
-      "rank": 8,
-      "word": "人人都是美食艺术家",
-      "hot_value": 9284029,
-      "label": "",
-      "event_time": 1786843321
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "word": "金球先生罗德里将加盟巴萨",
-      "hot_value": 9248284,
+      "hot_value": 9146441,
       "label": "",
       "event_time": 1786924508
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "word": "人人都是美食艺术家",
+      "hot_value": 8830995,
+      "label": "",
+      "event_time": 1786843321
+    },
+    {
+      "rank": 12,
       "word": "水喝得越多越好吗",
-      "hot_value": 9170179,
+      "hot_value": 8634296,
       "label": "谣言",
       "event_time": 1786925931
     },
     {
-      "rank": 11,
-      "word": "阿森纳夺社区盾冠军",
-      "hot_value": 9168602,
-      "label": "新",
-      "event_time": 1786922069
-    },
-    {
-      "rank": 12,
-      "word": "你嫣然的一笑如含苞待放",
-      "hot_value": 9133672,
-      "label": "娱乐",
-      "event_time": 1786882502
-    },
-    {
       "rank": 13,
-      "word": "欢迎来龙餐馆票房破九亿",
-      "hot_value": 9092634,
-      "label": "荐",
-      "event_time": 1786889612
+      "word": "小勒布伦战胜张本智和夺冠",
+      "hot_value": 8618731,
+      "label": "新",
+      "event_time": 1786931505
     },
     {
       "rank": 14,
+      "word": "国乒瑞典大满贯2冠1亚收官",
+      "hot_value": 8446036,
+      "label": "",
+      "event_time": 1786924274
+    },
+    {
+      "rank": 15,
       "word": "一条AI短片演绎时间焦虑",
-      "hot_value": 8588660,
+      "hot_value": 8417728,
       "label": "爆",
       "event_time": 1786875879
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "word": "欢迎来龙餐馆票房破九亿",
+      "hot_value": 8379048,
+      "label": "荐",
+      "event_time": 1786889612
+    },
+    {
+      "rank": 17,
+      "word": "第三视角顺拐舞",
+      "hot_value": 8212364,
+      "label": "音乐",
+      "event_time": 1786921615
+    },
+    {
+      "rank": 18,
+      "word": "你嫣然的一笑如含苞待放",
+      "hot_value": 8199777,
+      "label": "娱乐",
+      "event_time": 1786882502
+    },
+    {
+      "rank": 19,
       "word": "我们的少年时代2少年群像",
-      "hot_value": 8467245,
+      "hot_value": 7823325,
       "label": "荐",
       "event_time": 1786865991
     },
     {
-      "rank": 16,
+      "rank": 20,
       "word": "Dear D火的时候我最幸福了",
-      "hot_value": 7994757,
+      "hot_value": 7810765,
       "label": "音乐",
       "event_time": 1786865473
-    },
-    {
-      "rank": 17,
-      "word": "来自奇妙小镇奇奇的一封信",
-      "hot_value": 7843390,
-      "label": "",
-      "event_time": 1786871605
-    },
-    {
-      "rank": 18,
-      "word": "想起你轻柔的话语 曾打湿我眼眶",
-      "hot_value": 7841274,
-      "label": "音乐",
-      "event_time": 1786859377
-    },
-    {
-      "rank": 19,
-      "word": "UFC马哈切夫成功卫冕",
-      "hot_value": 7800475,
-      "label": "",
-      "event_time": 1786854435
-    },
-    {
-      "rank": 20,
-      "word": "所有人感受少时2青春系",
-      "hot_value": 7794820,
-      "label": "热议",
-      "event_time": 1786850643
     }
   ],
-  "update_time": "2026-08-17 02:13:44",
+  "update_time": "2026-08-17 03:40:40",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
