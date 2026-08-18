@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "朱镕基同志遗体在京火化",
-      "hot_value": 12150314,
+      "hot_value": 12105114,
       "label": "",
       "event_time": 1787035124
     },
     {
       "rank": 2,
       "word": "朱镕基同志生平",
-      "hot_value": 11664915,
+      "hot_value": 11934993,
       "label": "",
       "event_time": 1787036859
     },
     {
       "rank": 3,
       "word": "9部门发布活跃县域消费意见",
-      "hot_value": 11426480,
+      "hot_value": 11386822,
       "label": "爆",
       "event_time": 1787014068
     },
     {
       "rank": 4,
+      "word": "七夕必吃漂亮饭",
+      "hot_value": 11326134,
+      "label": "",
+      "event_time": 1787029904
+    },
+    {
+      "rank": 5,
       "word": "人类对鸡蛋的开发不足万分之一",
-      "hot_value": 11368627,
+      "hot_value": 10589851,
       "label": "爆",
       "event_time": 1786948828
     },
     {
-      "rank": 5,
-      "word": "七夕必吃漂亮饭",
-      "hot_value": 10673501,
-      "label": "新",
-      "event_time": 1787029904
-    },
-    {
       "rank": 6,
       "word": "年轻人有自己的伴手礼",
-      "hot_value": 10565051,
+      "hot_value": 10511060,
       "label": "爆",
       "event_time": 1787020871
     },
     {
       "rank": 7,
-      "word": "交换一张徒步背影照",
-      "hot_value": 9371526,
+      "word": "实地探访小孩哥“资助”的便利店",
+      "hot_value": 9400689,
       "label": "爆",
-      "event_time": 1786952786
+      "event_time": 1786967250
     },
     {
       "rank": 8,
-      "word": "超强厄尔尼诺事件要来了",
-      "hot_value": 9318169,
-      "label": "",
-      "event_time": 1787031900
-    },
-    {
-      "rank": 9,
       "word": "这个七夕我先吃为敬",
-      "hot_value": 9223239,
+      "hot_value": 9268892,
       "label": "",
       "event_time": 1787020263
     },
     {
+      "rank": 9,
+      "word": "交换一张徒步背影照",
+      "hot_value": 9255318,
+      "label": "",
+      "event_time": 1786952786
+    },
+    {
       "rank": 10,
-      "word": "国乒男单仅王楚钦进世界前五",
-      "hot_value": 9222261,
+      "word": "超强厄尔尼诺事件要来了",
+      "hot_value": 9194390,
       "label": "爆",
-      "event_time": 1787019947
+      "event_time": 1787031900
     },
     {
       "rank": 11,
       "word": "欢迎来龙餐馆票房破十亿",
-      "hot_value": 9217524,
+      "hot_value": 9190516,
       "label": "荐",
       "event_time": 1787007838
     },
     {
       "rank": 12,
-      "word": "实地探访小孩哥“资助”的便利店",
-      "hot_value": 9170660,
-      "label": "",
-      "event_time": 1786967250
-    },
-    {
-      "rank": 13,
-      "word": "多人因编造涉企谣言被罚",
-      "hot_value": 9151709,
-      "label": "谣言",
-      "event_time": 1787017240
-    },
-    {
-      "rank": 14,
       "word": "石宇奇止步世锦赛男单首轮",
-      "hot_value": 9123488,
+      "hot_value": 9150096,
       "label": "爆",
       "event_time": 1787011282
     },
     {
-      "rank": 15,
-      "word": "官方通报杭州酒局事件",
-      "hot_value": 9102242,
-      "label": "新",
-      "event_time": 1787043034
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "word": "City of Light专属重庆的音乐",
-      "hot_value": 9097588,
+      "hot_value": 9128902,
       "label": "娱乐",
       "event_time": 1786948760
     },
     {
-      "rank": 17,
-      "word": "染发前先试试这个特效",
-      "hot_value": 8910976,
-      "label": "音乐",
-      "event_time": 1787024980
+      "rank": 14,
+      "word": "官方通报杭州酒局事件",
+      "hot_value": 9124045,
+      "label": "新",
+      "event_time": 1787043034
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "word": "火鸡面吃商争霸赛",
+      "hot_value": 9093281,
+      "label": "新",
+      "event_time": 1787035962
+    },
+    {
+      "rank": 16,
+      "word": "我们的少年时代2神级救场",
+      "hot_value": 8938390,
+      "label": "游戏",
+      "event_time": 1787035525
+    },
+    {
+      "rank": 17,
       "word": "无畏契约新套装圣契命澜",
-      "hot_value": 8853643,
+      "hot_value": 8855709,
       "label": "爆",
       "event_time": 1787025509
     },
     {
+      "rank": 18,
+      "word": "好像那是一个秋天夕阳西下",
+      "hot_value": 8663307,
+      "label": "音乐",
+      "event_time": 1787034486
+    },
+    {
       "rank": 19,
-      "word": "欢迎来龙餐馆原型之一聊生死瞬间",
-      "hot_value": 8676723,
-      "label": "",
-      "event_time": 1787024688
+      "word": "染发前先试试这个特效",
+      "hot_value": 8630532,
+      "label": "音乐",
+      "event_time": 1787024980
     },
     {
       "rank": 20,
-      "word": "双胞胎弟弟举报哥哥冒名上大学",
-      "hot_value": 8673918,
-      "label": "爆",
-      "event_time": 1787012076
+      "word": "欢迎来龙餐馆原型之一聊生死瞬间",
+      "hot_value": 8433677,
+      "label": "",
+      "event_time": 1787024688
     }
   ],
-  "update_time": "2026-08-18 09:22:44",
+  "update_time": "2026-08-18 10:18:17",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
