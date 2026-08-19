@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今年第18号台风沙德尔生成",
-      "hot_value": 11302921,
+      "hot_value": 11633141,
       "label": "爆",
       "event_time": 1787117016
     },
     {
       "rank": 2,
       "word": "我国首次实现火箭陆地回收",
-      "hot_value": 10993858,
+      "hot_value": 11308413,
       "label": "",
       "event_time": 1787097024
     },
     {
       "rank": 3,
       "word": "三个维度解读前7月经济成绩单",
-      "hot_value": 10903285,
-      "label": "",
+      "hot_value": 11037004,
+      "label": "爆",
       "event_time": 1787142292
     },
     {
       "rank": 4,
       "word": "我有我的七夕仪式感",
-      "hot_value": 10902795,
+      "hot_value": 10992007,
       "label": "爆",
       "event_time": 1787108320
     },
     {
       "rank": 5,
       "word": "七夕一定要鲜花吗",
-      "hot_value": 10263287,
+      "hot_value": 10360765,
       "label": "爆",
       "event_time": 1787122810
     },
     {
       "rank": 6,
       "word": "台风沙德尔会抵达江浙沪吗",
-      "hot_value": 10260615,
+      "hot_value": 10306049,
       "label": "爆",
       "event_time": 1787101275
     },
     {
       "rank": 7,
-      "word": "一封写给爱人的信",
-      "hot_value": 9152478,
-      "label": "",
-      "event_time": 1787120584
-    },
-    {
-      "rank": 8,
       "word": "名侦探柯南大结局已经画好了",
-      "hot_value": 9143718,
+      "hot_value": 9177122,
       "label": "爆",
       "event_time": 1787110543
     },
     {
-      "rank": 9,
+      "rank": 8,
       "word": "为何一封信硬控了所有00后",
-      "hot_value": 9142098,
+      "hot_value": 9160503,
       "label": "爆",
       "event_time": 1787114209
     },
     {
-      "rank": 10,
+      "rank": 9,
       "word": "这场文艺汇演如同百花齐放",
-      "hot_value": 9119992,
+      "hot_value": 9157703,
       "label": "",
       "event_time": 1787095426
     },
     {
-      "rank": 11,
-      "word": "火影晓三飞段全技能爆料",
-      "hot_value": 9053379,
+      "rank": 10,
+      "word": "沈文裕默默翻评论满足粉丝点歌",
+      "hot_value": 9127785,
       "label": "爆",
-      "event_time": 1787121952
+      "event_time": 1787099754
     },
     {
-      "rank": 12,
+      "rank": 11,
       "word": "虹猫蓝兔写给90后00后的一封信",
-      "hot_value": 9035722,
+      "hot_value": 9114300,
       "label": "爆",
       "event_time": 1787111276
     },
     {
-      "rank": 13,
+      "rank": 12,
       "word": "王者新英雄王维上线体验服",
-      "hot_value": 8991714,
+      "hot_value": 8964797,
       "label": "爆",
       "event_time": 1787144052
     },
     {
-      "rank": 14,
+      "rank": 13,
       "word": "我的喜欢或许遗憾",
-      "hot_value": 8917446,
+      "hot_value": 8937587,
       "label": "音乐",
       "event_time": 1787137738
     },
     {
-      "rank": 15,
+      "rank": 14,
       "word": "电影空枪首波口碑",
-      "hot_value": 8814366,
+      "hot_value": 8771374,
       "label": "荐",
       "event_time": 1787136409
     },
     {
+      "rank": 15,
+      "word": "火影晓三飞段全技能爆料",
+      "hot_value": 8681805,
+      "label": "爆",
+      "event_time": 1787121952
+    },
+    {
       "rank": 16,
       "word": "秦志高妻子大闹别人家婚礼",
-      "hot_value": 8707432,
+      "hot_value": 8623863,
       "label": "荐",
       "event_time": 1787112010
     },
     {
       "rank": 17,
       "word": "男子反抗暴力强拆致死被判无罪",
-      "hot_value": 8649974,
+      "hot_value": 8385043,
       "label": "爆",
       "event_time": 1787105506
     },
     {
       "rank": 18,
-      "word": "沈文裕默默翻评论满足粉丝点歌",
-      "hot_value": 8190781,
-      "label": "",
-      "event_time": 1787099754
+      "word": "阿哲综艺收官5100运气封神",
+      "hot_value": 8215233,
+      "label": "热议",
+      "event_time": 1787136881
     },
     {
       "rank": 19,
-      "word": "电影空枪票房预测",
-      "hot_value": 8182206,
+      "word": "朱一龙：大家可以叫我强哥",
+      "hot_value": 8157680,
       "label": "爆",
-      "event_time": 1787111260
+      "event_time": 1787133959
     },
     {
       "rank": 20,
       "word": "穆西亚拉连场热身赛晕倒",
-      "hot_value": 8083273,
+      "hot_value": 7844101,
       "label": "",
       "event_time": 1787098141
     }
   ],
-  "update_time": "2026-08-19 19:17:47",
+  "update_time": "2026-08-19 20:15:58",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
