@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今日七夕",
-      "hot_value": 12105553,
+      "hot_value": 11785385,
       "label": "爆",
       "event_time": 1787095107
     },
     {
       "rank": 2,
       "word": "今年第18号台风沙德尔生成",
-      "hot_value": 11811068,
+      "hot_value": 11380297,
       "label": "爆",
       "event_time": 1787117016
     },
     {
       "rank": 3,
       "word": "三个维度解读前7月经济成绩单",
-      "hot_value": 11216352,
-      "label": "新",
+      "hot_value": 11104840,
+      "label": "",
       "event_time": 1787142292
     },
     {
       "rank": 4,
       "word": "我国首次实现火箭陆地回收",
-      "hot_value": 11164077,
+      "hot_value": 11059464,
       "label": "爆",
       "event_time": 1787097024
     },
     {
       "rank": 5,
       "word": "我有我的七夕仪式感",
-      "hot_value": 10458379,
+      "hot_value": 10472414,
       "label": "爆",
       "event_time": 1787108320
     },
     {
       "rank": 6,
       "word": "七夕一定要鲜花吗",
-      "hot_value": 10332400,
+      "hot_value": 10357780,
       "label": "爆",
       "event_time": 1787122810
     },
     {
       "rank": 7,
       "word": "一封写给爱人的信",
-      "hot_value": 9205200,
+      "hot_value": 9238297,
       "label": "爆",
       "event_time": 1787120584
     },
     {
       "rank": 8,
       "word": "这场文艺汇演如同百花齐放",
-      "hot_value": 9146979,
+      "hot_value": 9193866,
       "label": "爆",
       "event_time": 1787095426
     },
     {
       "rank": 9,
       "word": "为何一封信硬控了所有00后",
-      "hot_value": 9073583,
+      "hot_value": 9164382,
       "label": "爆",
       "event_time": 1787114209
     },
     {
       "rank": 10,
       "word": "台风沙德尔会抵达江浙沪吗",
-      "hot_value": 9046459,
+      "hot_value": 9154013,
       "label": "爆",
       "event_time": 1787101275
     },
     {
       "rank": 11,
       "word": "2026总台七夕晚会",
-      "hot_value": 8194210,
-      "label": "新",
+      "hot_value": 9094003,
+      "label": "",
       "event_time": 1787141856
     },
     {
       "rank": 12,
-      "word": "七夕快乐",
-      "hot_value": 8186439,
+      "word": "二次元的七夕大作战",
+      "hot_value": 8530279,
       "label": "爆",
-      "event_time": 1787118571
+      "event_time": 1787121929
     },
     {
       "rank": 13,
       "word": "超强厄尔尼诺将带来什么影响",
-      "hot_value": 8090061,
+      "hot_value": 8390658,
       "label": "谣言",
       "event_time": 1787134619
     },
     {
       "rank": 14,
       "word": "王者新英雄王维上线体验服",
-      "hot_value": 8028153,
-      "label": "新",
+      "hot_value": 7826516,
+      "label": "",
       "event_time": 1787144052
     },
     {
       "rank": 15,
+      "word": "阿哲综艺收官5100运气封神",
+      "hot_value": 7767252,
+      "label": "热议",
+      "event_time": 1787136881
+    },
+    {
+      "rank": 16,
+      "word": "朱一龙：大家可以叫我强哥",
+      "hot_value": 7759610,
+      "label": "爆",
+      "event_time": 1787133959
+    },
+    {
+      "rank": 17,
       "word": "火影晓三飞段全技能爆料",
-      "hot_value": 7824686,
+      "hot_value": 7741086,
       "label": "",
       "event_time": 1787121952
     },
     {
-      "rank": 16,
-      "word": "电影空枪今日上映",
-      "hot_value": 7767713,
-      "label": "荐",
-      "event_time": 1787118195
-    },
-    {
-      "rank": 17,
-      "word": "沈文裕默默翻评论满足粉丝点歌",
-      "hot_value": 7740970,
-      "label": "",
-      "event_time": 1787099754
-    },
-    {
       "rank": 18,
-      "word": "二次元的七夕大作战",
-      "hot_value": 7733917,
-      "label": "爆",
-      "event_time": 1787121929
+      "word": "七夕快乐",
+      "hot_value": 7737510,
+      "label": "",
+      "event_time": 1787118571
     },
     {
       "rank": 19,
-      "word": "我的喜欢或许遗憾",
-      "hot_value": 7732573,
-      "label": "音乐",
-      "event_time": 1787137738
+      "word": "电影空枪首波口碑",
+      "hot_value": 7736316,
+      "label": "荐",
+      "event_time": 1787136409
     },
     {
       "rank": 20,
-      "word": "朱一龙：大家可以叫我强哥",
-      "hot_value": 7732115,
-      "label": "爆",
-      "event_time": 1787133959
+      "word": "电影空枪今日上映",
+      "hot_value": 7736238,
+      "label": "荐",
+      "event_time": 1787118195
     }
   ],
-  "update_time": "2026-08-19 14:23:01",
+  "update_time": "2026-08-19 15:21:12",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
