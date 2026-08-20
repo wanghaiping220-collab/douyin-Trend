@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风沙德尔或于26日移入东海",
-      "hot_value": 11580528,
+      "hot_value": 11989070,
       "label": "爆",
       "event_time": 1787204112
     },
     {
       "rank": 2,
       "word": "XLG 1:2 NOVA",
-      "hot_value": 11079602,
+      "hot_value": 11093398,
       "label": "",
       "event_time": 1787217750
     },
     {
       "rank": 3,
       "word": "我国服务业持续扩能提质",
-      "hot_value": 11025132,
+      "hot_value": 11084451,
       "label": "",
       "event_time": 1787229824
     },
     {
       "rank": 4,
       "word": "美这件事我只取悦自己",
-      "hot_value": 10978037,
+      "hot_value": 10963650,
       "label": "",
       "event_time": 1787116792
     },
     {
       "rank": 5,
       "word": "2026IVL夏季赛总决赛开幕",
-      "hot_value": 10390312,
+      "hot_value": 10414629,
       "label": "",
       "event_time": 1787217849
     },
     {
       "rank": 6,
       "word": "AI补全了我对长辈的所有未知",
-      "hot_value": 10310888,
+      "hot_value": 10409126,
       "label": "爆",
       "event_time": 1787211950
     },
     {
       "rank": 7,
       "word": "深度解析黑神话钟馗实机演示",
-      "hot_value": 9175974,
+      "hot_value": 9210986,
       "label": "",
       "event_time": 1787202135
     },
     {
       "rank": 8,
       "word": "追梦这件事只要开始就不晚",
-      "hot_value": 9159925,
+      "hot_value": 9180582,
       "label": "",
       "event_time": 1787216995
     },
     {
       "rank": 9,
       "word": "俄军大规模导弹夜袭基辅",
-      "hot_value": 9152197,
+      "hot_value": 9118071,
       "label": "爆",
       "event_time": 1787192838
     },
     {
       "rank": 10,
       "word": "美联邦政府债务突破40万亿美元",
-      "hot_value": 8971626,
+      "hot_value": 8839690,
       "label": "爆",
       "event_time": 1787183343
     },
     {
       "rank": 11,
       "word": "阿里巴巴2027财年财报公布",
-      "hot_value": 8905824,
+      "hot_value": 8739086,
       "label": "爆",
       "event_time": 1787220341
     },
     {
       "rank": 12,
       "word": "黑神话钟馗实机演示公布",
-      "hot_value": 8542714,
+      "hot_value": 7955951,
       "label": "",
       "event_time": 1787191546
     },
     {
       "rank": 13,
       "word": "广东男篮新任主教练曝光",
-      "hot_value": 8060491,
+      "hot_value": 7936224,
       "label": "",
       "event_time": 1787215563
     },
     {
       "rank": 14,
       "word": "华为发布阔直板手机",
-      "hot_value": 7905083,
+      "hot_value": 7813370,
       "label": "",
       "event_time": 1787219702
     },
     {
       "rank": 15,
-      "word": "TYL战胜AG",
-      "hot_value": 7824013,
-      "label": "",
-      "event_time": 1787212601
-    },
-    {
-      "rank": 16,
       "word": "秋天的主场是燕麦格雷",
-      "hot_value": 7795612,
+      "hot_value": 7808834,
       "label": "",
       "event_time": 1787193752
     },
     {
+      "rank": 16,
+      "word": "华为阔直板手机首发开箱",
+      "hot_value": 7786601,
+      "label": "爆",
+      "event_time": 1787228993
+    },
+    {
       "rank": 17,
-      "word": "我的喜欢或许遗憾",
-      "hot_value": 7759436,
-      "label": "音乐",
-      "event_time": 1787137738
+      "word": "揭秘朱雀三号的回家路",
+      "hot_value": 7775692,
+      "label": "",
+      "event_time": 1787191531
     },
     {
       "rank": 18,
       "word": "英语四六级成绩8月24日起可查",
-      "hot_value": 7736614,
+      "hot_value": 7747935,
       "label": "",
       "event_time": 1787204604
     },
     {
       "rank": 19,
-      "word": "揭秘朱雀三号的回家路",
-      "hot_value": 7736216,
-      "label": "",
-      "event_time": 1787191531
+      "word": "三角洲S11极星守望活动",
+      "hot_value": 7723705,
+      "label": "爆",
+      "event_time": 1787195077
     },
     {
       "rank": 20,
-      "word": "华为阔直板手机首发开箱",
-      "hot_value": 7725633,
-      "label": "爆",
-      "event_time": 1787228993
+      "word": "生是为了证明爱存在的痕迹",
+      "hot_value": 7721485,
+      "label": "音乐",
+      "event_time": 1787204551
     }
   ],
-  "update_time": "2026-08-20 20:17:46",
+  "update_time": "2026-08-20 21:18:29",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
