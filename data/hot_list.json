@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风沙德尔路径可能有变",
-      "hot_value": 12100009,
+      "hot_value": 12109880,
       "label": "爆",
       "event_time": 1787443801
     },
     {
       "rank": 2,
       "word": "今日处暑",
-      "hot_value": 11368543,
+      "hot_value": 12040444,
       "label": "爆",
       "event_time": 1787440975
     },
     {
       "rank": 3,
       "word": "以文塑旅丰富大众旅途体验",
-      "hot_value": 11108577,
-      "label": "",
+      "hot_value": 11106813,
+      "label": "爆",
       "event_time": 1787452725
     },
     {
       "rank": 4,
       "word": "世界人形机器人运动会开幕",
-      "hot_value": 11104931,
+      "hot_value": 11103406,
       "label": "爆",
       "event_time": 1787399221
     },
     {
       "rank": 5,
-      "word": "胡麟鹏宣布退役",
-      "hot_value": 10520948,
-      "label": "",
-      "event_time": 1787453020
+      "word": "中国U18男篮进亚洲杯决赛",
+      "hot_value": 10536187,
+      "label": "爆",
+      "event_time": 1787446994
     },
     {
       "rank": 6,
-      "word": "中国U18男篮进亚洲杯决赛",
-      "hot_value": 10463964,
-      "label": "",
-      "event_time": 1787446994
+      "word": "新的故事会在秋风中慢慢开始",
+      "hot_value": 10446933,
+      "label": "爆",
+      "event_time": 1787374938
     },
     {
       "rank": 7,
       "word": "羊村一直在等我们回家",
-      "hot_value": 9330565,
-      "label": "",
+      "hot_value": 9343520,
+      "label": "爆",
       "event_time": 1787446784
     },
     {
       "rank": 8,
-      "word": "新的故事会在秋风中慢慢开始",
-      "hot_value": 9256927,
-      "label": "",
-      "event_time": 1787374938
+      "word": "这口广安麻哥面太香了",
+      "hot_value": 9338554,
+      "label": "新",
+      "event_time": 1787462169
     },
     {
       "rank": 9,
       "word": "广东提示防范台风紫檀",
-      "hot_value": 9247507,
+      "hot_value": 9272052,
       "label": "爆",
       "event_time": 1787384284
     },
     {
       "rank": 10,
-      "word": "赛考斯抵达北京",
-      "hot_value": 9215213,
+      "word": "胡麟鹏宣布退役",
+      "hot_value": 9271098,
       "label": "",
-      "event_time": 1787443234
+      "event_time": 1787453020
     },
     {
       "rank": 11,
+      "word": "云南玉昆3:3北京国安",
+      "hot_value": 9224192,
+      "label": "新",
+      "event_time": 1787459003
+    },
+    {
+      "rank": 12,
       "word": "十五五将建黄金大外环公路",
-      "hot_value": 9191793,
+      "hot_value": 9190847,
       "label": "爆",
       "event_time": 1787382589
     },
     {
-      "rank": 12,
-      "word": "樊振东德甲新赛季首秀告捷",
-      "hot_value": 9169298,
-      "label": "",
-      "event_time": 1787444033
-    },
-    {
       "rank": 13,
       "word": "民生人寿否认生肖不合裁员传言",
-      "hot_value": 9158000,
+      "hot_value": 9166615,
       "label": "谣言",
       "event_time": 1787378465
     },
     {
       "rank": 14,
       "word": "开学前的精神状态belike",
-      "hot_value": 9157083,
-      "label": "",
+      "hot_value": 9163912,
+      "label": "爆",
       "event_time": 1787451660
     },
     {
       "rank": 15,
       "word": "那奇沃夫老本行这段夯爆了",
-      "hot_value": 9142452,
-      "label": "新",
+      "hot_value": 9156902,
+      "label": "",
       "event_time": 1787449257
     },
     {
       "rank": 16,
-      "word": "CORTIS一周年演唱会",
-      "hot_value": 9096862,
+      "word": "樊振东德甲新赛季首秀告捷",
+      "hot_value": 9146170,
       "label": "爆",
-      "event_time": 1787399363
+      "event_time": 1787444033
     },
     {
       "rank": 17,
+      "word": "黄子韬北京演唱会",
+      "hot_value": 9129589,
+      "label": "爆",
+      "event_time": 1787402685
+    },
+    {
+      "rank": 18,
       "word": "李荣浩乌鲁木齐演唱会",
-      "hot_value": 9032737,
+      "hot_value": 9110974,
       "label": "爆",
       "event_time": 1787399262
     },
     {
-      "rank": 18,
+      "rank": 19,
       "word": "旧人不知我近况",
-      "hot_value": 8985865,
+      "hot_value": 9103265,
       "label": "音乐",
       "event_time": 1787396845
     },
     {
-      "rank": 19,
+      "rank": 20,
       "word": "邓紫棋重庆演唱会",
-      "hot_value": 8831633,
+      "hot_value": 8671137,
       "label": "爆",
       "event_time": 1787391415
-    },
-    {
-      "rank": 20,
-      "word": "我要生气啦",
-      "hot_value": 8801721,
-      "label": "娱乐",
-      "event_time": 1787304279
     }
   ],
-  "update_time": "2026-08-23 05:20:26",
+  "update_time": "2026-08-23 06:24:13",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
