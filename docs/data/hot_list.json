@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风沙德尔路径可能有变",
-      "hot_value": 11871896,
+      "hot_value": 11672679,
       "label": "爆",
       "event_time": 1787443801
     },
     {
       "rank": 2,
-      "word": "TYL总决赛迎战JDG",
-      "hot_value": 11359695,
-      "label": "新",
-      "event_time": 1787465223
+      "word": "中国U18男篮进亚洲杯决赛",
+      "hot_value": 11106185,
+      "label": "爆",
+      "event_time": 1787446994
     },
     {
       "rank": 3,
       "word": "暑去秋来 万物可爱",
-      "hot_value": 11140890,
+      "hot_value": 11053799,
       "label": "新",
       "event_time": 1787469113
     },
     {
       "rank": 4,
-      "word": "今日处暑",
-      "hot_value": 11105519,
-      "label": "爆",
-      "event_time": 1787440975
+      "word": "TYL总决赛迎战JDG",
+      "hot_value": 11047459,
+      "label": "新",
+      "event_time": 1787465223
     },
     {
       "rank": 5,
-      "word": "中国U18男篮进亚洲杯决赛",
-      "hot_value": 10546935,
+      "word": "新的故事会在秋风中慢慢开始",
+      "hot_value": 10467296,
       "label": "爆",
-      "event_time": 1787446994
+      "event_time": 1787374938
     },
     {
       "rank": 6,
-      "word": "世界人形机器人运动会开幕",
-      "hot_value": 10531187,
-      "label": "爆",
-      "event_time": 1787399221
+      "word": "HangHang挑战赛即将来袭",
+      "hot_value": 10336364,
+      "label": "新",
+      "event_time": 1787456064
     },
     {
       "rank": 7,
       "word": "羊村一直在等我们回家",
-      "hot_value": 9411340,
+      "hot_value": 9213847,
       "label": "爆",
       "event_time": 1787446784
     },
     {
       "rank": 8,
-      "word": "新的故事会在秋风中慢慢开始",
-      "hot_value": 9374009,
-      "label": "",
-      "event_time": 1787374938
+      "word": "英超赫尔城2:0曼联",
+      "hot_value": 9212985,
+      "label": "新",
+      "event_time": 1787466904
     },
     {
       "rank": 9,
-      "word": "巫哲亮相晋江作者大会",
-      "hot_value": 9290801,
+      "word": "GTA6泄密致开发团队士气大跌",
+      "hot_value": 9192478,
       "label": "",
-      "event_time": 1787447442
+      "event_time": 1787454946
     },
     {
       "rank": 10,
       "word": "这口广安麻哥面太香了",
-      "hot_value": 9279286,
-      "label": "新",
+      "hot_value": 9171437,
+      "label": "",
       "event_time": 1787462169
     },
     {
       "rank": 11,
       "word": "胡麟鹏宣布退役",
-      "hot_value": 9242310,
+      "hot_value": 9150527,
       "label": "",
       "event_time": 1787453020
     },
     {
       "rank": 12,
-      "word": "HangHang挑战赛即将来袭",
-      "hot_value": 9218692,
-      "label": "新",
-      "event_time": 1787456064
+      "word": "云南玉昆3:3北京国安",
+      "hot_value": 9134197,
+      "label": "",
+      "event_time": 1787459003
     },
     {
       "rank": 13,
       "word": "民生人寿否认生肖不合裁员传言",
-      "hot_value": 9218134,
+      "hot_value": 9132656,
       "label": "谣言",
       "event_time": 1787378465
     },
     {
       "rank": 14,
-      "word": "英超赫尔城2:0曼联",
-      "hot_value": 9192098,
-      "label": "新",
-      "event_time": 1787466904
+      "word": "樊振东德甲新赛季首秀告捷",
+      "hot_value": 9114909,
+      "label": "爆",
+      "event_time": 1787444033
     },
     {
       "rank": 15,
       "word": "索朗顿珠天籁与少年总冠军",
-      "hot_value": 9152432,
+      "hot_value": 9068831,
       "label": "",
       "event_time": 1787407999
     },
     {
       "rank": 16,
-      "word": "像素方块的硬核才是王道",
-      "hot_value": 9141687,
-      "label": "音乐",
-      "event_time": 1787461268
-    },
-    {
-      "rank": 17,
-      "word": "刘德华空降古天乐演唱会",
-      "hot_value": 9129320,
-      "label": "新",
-      "event_time": 1787459688
-    },
-    {
-      "rank": 18,
       "word": "那奇沃夫老本行这段夯爆了",
-      "hot_value": 9107446,
+      "hot_value": 9043803,
       "label": "爆",
       "event_time": 1787449257
     },
     {
+      "rank": 17,
+      "word": "像素方块的硬核才是王道",
+      "hot_value": 8981369,
+      "label": "音乐",
+      "event_time": 1787461268
+    },
+    {
+      "rank": 18,
+      "word": "刘德华空降古天乐演唱会",
+      "hot_value": 8965671,
+      "label": "新",
+      "event_time": 1787459688
+    },
+    {
       "rank": 19,
       "word": "开学前的精神状态belike",
-      "hot_value": 9058986,
+      "hot_value": 8747624,
       "label": "爆",
       "event_time": 1787451660
     },
     {
       "rank": 20,
-      "word": "樊振东德甲新赛季首秀告捷",
-      "hot_value": 9040781,
-      "label": "爆",
-      "event_time": 1787444033
+      "word": "今日处暑",
+      "hot_value": 8534793,
+      "label": "",
+      "event_time": 1787440975
     }
   ],
-  "update_time": "2026-08-23 07:25:15",
+  "update_time": "2026-08-23 08:18:40",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
