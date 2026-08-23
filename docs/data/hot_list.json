@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风沙德尔路径可能有变",
-      "hot_value": 11672679,
+      "hot_value": 11597100,
       "label": "爆",
       "event_time": 1787443801
     },
     {
       "rank": 2,
       "word": "中国U18男篮进亚洲杯决赛",
-      "hot_value": 11106185,
+      "hot_value": 11119829,
       "label": "爆",
       "event_time": 1787446994
     },
     {
       "rank": 3,
       "word": "暑去秋来 万物可爱",
-      "hot_value": 11053799,
+      "hot_value": 11106318,
       "label": "新",
       "event_time": 1787469113
     },
     {
       "rank": 4,
       "word": "TYL总决赛迎战JDG",
-      "hot_value": 11047459,
-      "label": "新",
+      "hot_value": 10983514,
+      "label": "",
       "event_time": 1787465223
     },
     {
       "rank": 5,
       "word": "新的故事会在秋风中慢慢开始",
-      "hot_value": 10467296,
+      "hot_value": 10412076,
       "label": "爆",
       "event_time": 1787374938
     },
     {
       "rank": 6,
       "word": "HangHang挑战赛即将来袭",
-      "hot_value": 10336364,
-      "label": "新",
+      "hot_value": 10348911,
+      "label": "",
       "event_time": 1787456064
     },
     {
       "rank": 7,
       "word": "羊村一直在等我们回家",
-      "hot_value": 9213847,
+      "hot_value": 9225129,
       "label": "爆",
       "event_time": 1787446784
     },
     {
       "rank": 8,
       "word": "英超赫尔城2:0曼联",
-      "hot_value": 9212985,
+      "hot_value": 9180385,
       "label": "新",
       "event_time": 1787466904
     },
     {
       "rank": 9,
       "word": "GTA6泄密致开发团队士气大跌",
-      "hot_value": 9192478,
+      "hot_value": 9135542,
       "label": "",
       "event_time": 1787454946
     },
     {
       "rank": 10,
       "word": "这口广安麻哥面太香了",
-      "hot_value": 9171437,
+      "hot_value": 9128936,
       "label": "",
       "event_time": 1787462169
     },
     {
       "rank": 11,
-      "word": "胡麟鹏宣布退役",
-      "hot_value": 9150527,
+      "word": "以外长称以土因叙问题关系紧张",
+      "hot_value": 9114152,
       "label": "",
-      "event_time": 1787453020
+      "event_time": 1787454539
     },
     {
       "rank": 12,
-      "word": "云南玉昆3:3北京国安",
-      "hot_value": 9134197,
-      "label": "",
-      "event_time": 1787459003
+      "word": "歌舞里的中华情",
+      "hot_value": 9082312,
+      "label": "新",
+      "event_time": 1787474853
     },
     {
       "rank": 13,
       "word": "民生人寿否认生肖不合裁员传言",
-      "hot_value": 9132656,
+      "hot_value": 9048479,
       "label": "谣言",
       "event_time": 1787378465
     },
     {
       "rank": 14,
-      "word": "樊振东德甲新赛季首秀告捷",
-      "hot_value": 9114909,
+      "word": "开学前的精神状态belike",
+      "hot_value": 9012375,
       "label": "爆",
-      "event_time": 1787444033
+      "event_time": 1787451660
     },
     {
       "rank": 15,
-      "word": "索朗顿珠天籁与少年总冠军",
-      "hot_value": 9068831,
+      "word": "胡麟鹏宣布退役",
+      "hot_value": 8998012,
       "label": "",
-      "event_time": 1787407999
+      "event_time": 1787453020
     },
     {
       "rank": 16,
       "word": "那奇沃夫老本行这段夯爆了",
-      "hot_value": 9043803,
+      "hot_value": 8816891,
       "label": "爆",
       "event_time": 1787449257
     },
     {
       "rank": 17,
-      "word": "像素方块的硬核才是王道",
-      "hot_value": 8981369,
-      "label": "音乐",
-      "event_time": 1787461268
-    },
-    {
-      "rank": 18,
       "word": "刘德华空降古天乐演唱会",
-      "hot_value": 8965671,
-      "label": "新",
+      "hot_value": 8423901,
+      "label": "",
       "event_time": 1787459688
     },
     {
-      "rank": 19,
-      "word": "开学前的精神状态belike",
-      "hot_value": 8747624,
+      "rank": 18,
+      "word": "TF五代双人舞台互飙高音",
+      "hot_value": 7995502,
       "label": "爆",
-      "event_time": 1787451660
+      "event_time": 1787443981
+    },
+    {
+      "rank": 19,
+      "word": "今日处暑",
+      "hot_value": 7801479,
+      "label": "",
+      "event_time": 1787440975
     },
     {
       "rank": 20,
-      "word": "今日处暑",
-      "hot_value": 8534793,
+      "word": "CORTIS一周年演唱会",
+      "hot_value": 7797535,
       "label": "",
-      "event_time": 1787440975
+      "event_time": 1787399363
     }
   ],
-  "update_time": "2026-08-23 08:18:40",
+  "update_time": "2026-08-23 09:18:25",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
