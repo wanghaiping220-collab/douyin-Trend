@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "台风紫檀在海南昌江沿海登陆",
-      "hot_value": 12129764,
+      "hot_value": 11765205,
       "label": "爆",
       "event_time": 1787622236
     },
     {
       "rank": 2,
       "word": "用一顿夜宵抓住暑假的尾巴",
-      "hot_value": 11744211,
+      "hot_value": 11754259,
       "label": "爆",
       "event_time": 1787634898
     },
     {
       "rank": 3,
       "word": "农田智能作业机器人上线",
-      "hot_value": 11603450,
-      "label": "新",
+      "hot_value": 11386428,
+      "label": "",
       "event_time": 1787662295
     },
     {
       "rank": 4,
-      "word": "中美1.5轨对话在北京举行",
-      "hot_value": 11433255,
+      "word": "官方确认扶老人赔1.9万店主无过错",
+      "hot_value": 11101499,
       "label": "爆",
-      "event_time": 1787621178
+      "event_time": 1787616973
     },
     {
       "rank": 5,
       "word": "一张用光签名的拍立得",
-      "hot_value": 10663983,
-      "label": "爆",
+      "hot_value": 10392165,
+      "label": "",
       "event_time": 1787549018
     },
     {
       "rank": 6,
+      "word": "玄戒O100原型机现场体验",
+      "hot_value": 10358325,
+      "label": "爆",
+      "event_time": 1787647947
+    },
+    {
+      "rank": 7,
       "word": "宋亚东vs乌马尔首次对视",
-      "hot_value": 10540536,
+      "hot_value": 9227964,
       "label": "新",
       "event_time": 1787662604
     },
     {
-      "rank": 7,
-      "word": "玄戒O100原型机现场体验",
-      "hot_value": 9215517,
-      "label": "",
-      "event_time": 1787647947
-    },
-    {
       "rank": 8,
       "word": "央视少儿给00后的一封信",
-      "hot_value": 9214051,
+      "hot_value": 9192031,
       "label": "",
       "event_time": 1787582323
     },
     {
       "rank": 9,
       "word": "秋天一起做燕麦系女孩",
-      "hot_value": 9212520,
+      "hot_value": 9185877,
       "label": "爆",
       "event_time": 1787539270
     },
     {
       "rank": 10,
+      "word": "中美1.5轨对话在北京举行",
+      "hot_value": 9164091,
+      "label": "",
+      "event_time": 1787621178
+    },
+    {
+      "rank": 11,
       "word": "看着你的笑我好像就足够",
-      "hot_value": 9193175,
+      "hot_value": 9135308,
       "label": "音乐",
       "event_time": 1787640484
     },
     {
-      "rank": 11,
+      "rank": 12,
       "word": "白泽杯复活投票开启",
-      "hot_value": 9184689,
+      "hot_value": 9127821,
       "label": "热议",
       "event_time": 1787633988
     },
     {
-      "rank": 12,
+      "rank": 13,
       "word": "中使馆：在泰遭绑女子已妥善安置",
-      "hot_value": 9160712,
+      "hot_value": 9050210,
       "label": "爆",
       "event_time": 1787618578
     },
     {
-      "rank": 13,
-      "word": "官方确认扶老人赔1.9万店主无过错",
-      "hot_value": 9128746,
-      "label": "",
-      "event_time": 1787616973
-    },
-    {
       "rank": 14,
       "word": "印度洋沉船18名中国船员失联",
-      "hot_value": 9108862,
+      "hot_value": 8839591,
       "label": "爆",
       "event_time": 1787615594
     },
     {
       "rank": 15,
       "word": "美军C17运输机降落莫斯科机场",
-      "hot_value": 9075455,
-      "label": "",
+      "hot_value": 8598115,
+      "label": "爆",
       "event_time": 1787653020
     },
     {
       "rank": 16,
       "word": "解放军试射“黑色”导弹",
-      "hot_value": 9052145,
+      "hot_value": 8276279,
       "label": "",
       "event_time": 1787640462
     },
     {
       "rank": 17,
       "word": "杨紫提名金鹰奖最佳女主角",
-      "hot_value": 9018684,
+      "hot_value": 8274659,
       "label": "爆",
       "event_time": 1787645810
     },
     {
       "rank": 18,
       "word": "TOP徐州演唱会",
-      "hot_value": 8852807,
+      "hot_value": 8241641,
       "label": "新",
       "event_time": 1787664803
     },
     {
       "rank": 19,
-      "word": "金鹰奖提名公布",
-      "hot_value": 8834723,
-      "label": "爆",
-      "event_time": 1787644758
+      "word": "HangHang挑战赛开赛",
+      "hot_value": 8216776,
+      "label": "",
+      "event_time": 1787649488
     },
     {
       "rank": 20,
-      "word": "小米展示玄戒O100原型机",
-      "hot_value": 8832174,
+      "word": "金鹰奖提名公布",
+      "hot_value": 8119817,
       "label": "爆",
-      "event_time": 1787639024
+      "event_time": 1787644758
     }
   ],
-  "update_time": "2026-08-25 14:34:36",
+  "update_time": "2026-08-25 15:33:17",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
