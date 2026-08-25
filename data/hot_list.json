@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "美军C17运输机降落莫斯科机场",
-      "hot_value": 11748669,
+      "hot_value": 12099917,
       "label": "爆",
       "event_time": 1787653020
     },
     {
       "rank": 2,
       "word": "台风紫檀在海南昌江沿海登陆",
-      "hot_value": 11518559,
-      "label": "",
+      "hot_value": 11607900,
+      "label": "爆",
       "event_time": 1787622236
     },
     {
       "rank": 3,
       "word": "农田智能作业机器人上线",
-      "hot_value": 11307805,
+      "hot_value": 11492578,
       "label": "爆",
       "event_time": 1787662295
     },
     {
       "rank": 4,
+      "word": "中使馆：在泰遭绑女子已妥善安置",
+      "hot_value": 11474309,
+      "label": "爆",
+      "event_time": 1787618578
+    },
+    {
+      "rank": 5,
       "word": "用一顿夜宵抓住暑假的尾巴",
-      "hot_value": 11103124,
+      "hot_value": 10543922,
       "label": "",
       "event_time": 1787634898
     },
     {
-      "rank": 5,
-      "word": "中美1.5轨对话在北京举行",
-      "hot_value": 10543779,
-      "label": "",
-      "event_time": 1787621178
-    },
-    {
       "rank": 6,
-      "word": "玄戒O100原型机现场体验",
-      "hot_value": 10529193,
-      "label": "爆",
-      "event_time": 1787647947
-    },
-    {
-      "rank": 7,
-      "word": "央视少儿给00后的一封信",
-      "hot_value": 9419842,
-      "label": "",
-      "event_time": 1787582323
-    },
-    {
-      "rank": 8,
-      "word": "小米玄戒O3芯片解析",
-      "hot_value": 9267305,
-      "label": "",
-      "event_time": 1787561810
-    },
-    {
-      "rank": 9,
-      "word": "解放军试射“黑色”导弹",
-      "hot_value": 9224396,
-      "label": "爆",
-      "event_time": 1787640462
-    },
-    {
-      "rank": 10,
       "word": "看着你的笑我好像就足够",
-      "hot_value": 9175729,
+      "hot_value": 10504198,
       "label": "音乐",
       "event_time": 1787640484
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "word": "中美1.5轨对话在北京举行",
+      "hot_value": 9239961,
+      "label": "",
+      "event_time": 1787621178
+    },
+    {
+      "rank": 8,
+      "word": "玄戒O100原型机现场体验",
+      "hot_value": 9217720,
+      "label": "",
+      "event_time": 1787647947
+    },
+    {
+      "rank": 9,
+      "word": "小米玄戒O3芯片解析",
+      "hot_value": 9214997,
+      "label": "",
+      "event_time": 1787561810
+    },
+    {
+      "rank": 10,
       "word": "武陵山天池到底有多豪横",
-      "hot_value": 9165065,
+      "hot_value": 9204151,
       "label": "",
       "event_time": 1787620453
     },
     {
+      "rank": 11,
+      "word": "央视少儿给00后的一封信",
+      "hot_value": 9153872,
+      "label": "",
+      "event_time": 1787582323
+    },
+    {
       "rank": 12,
       "word": "宋亚东vs乌马尔首次对视",
-      "hot_value": 9101213,
+      "hot_value": 9095676,
       "label": "",
       "event_time": 1787662604
     },
     {
       "rank": 13,
-      "word": "中使馆：在泰遭绑女子已妥善安置",
-      "hot_value": 8815723,
-      "label": "",
-      "event_time": 1787618578
-    },
-    {
-      "rank": 14,
       "word": "官方确认扶老人赔1.9万店主无过错",
-      "hot_value": 8234996,
+      "hot_value": 8725431,
       "label": "",
       "event_time": 1787616973
     },
     {
+      "rank": 14,
+      "word": "解放军试射“黑色”导弹",
+      "hot_value": 8638621,
+      "label": "爆",
+      "event_time": 1787640462
+    },
+    {
       "rank": 15,
       "word": "警方通报“女子称在电梯遭猥亵”",
-      "hot_value": 7969427,
+      "hot_value": 8335253,
       "label": "",
       "event_time": 1787666474
     },
     {
       "rank": 16,
+      "word": "宿主请领取你的游戏模拟器",
+      "hot_value": 8305460,
+      "label": "娱乐",
+      "event_time": 1787638936
+    },
+    {
+      "rank": 17,
       "word": "舞蹈新风暴首播",
-      "hot_value": 7766657,
+      "hot_value": 7784496,
       "label": "爆",
       "event_time": 1787625098
     },
     {
-      "rank": 17,
+      "rank": 18,
       "word": "TOP徐州演唱会",
-      "hot_value": 7739936,
+      "hot_value": 7764172,
       "label": "",
       "event_time": 1787664803
     },
     {
-      "rank": 18,
-      "word": "我愿意一直这样",
-      "hot_value": 7739174,
-      "label": "音乐",
-      "event_time": 1787573782
-    },
-    {
       "rank": 19,
-      "word": "官方：征集火箭军违规采购线索",
-      "hot_value": 7735301,
-      "label": "",
-      "event_time": 1787660394
+      "word": "谁能借我一壶酒",
+      "hot_value": 7756873,
+      "label": "音乐",
+      "event_time": 1787634917
     },
     {
       "rank": 20,
-      "word": "沈阳小作坊动物园还是太超前了",
-      "hot_value": 7729524,
-      "label": "",
-      "event_time": 1787637888
+      "word": "我愿意一直这样",
+      "hot_value": 7723294,
+      "label": "音乐",
+      "event_time": 1787573782
     }
   ],
-  "update_time": "2026-08-25 21:18:18",
+  "update_time": "2026-08-25 22:16:17",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
