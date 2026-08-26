@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "西藏吉隆口岸发生泥石流",
-      "hot_value": 12136261,
+      "hot_value": 12225131,
       "label": "",
       "event_time": 1787728605
     },
     {
       "rank": 2,
       "word": "台风沙德尔实时路径",
-      "hot_value": 11219125,
-      "label": "新",
+      "hot_value": 11278928,
+      "label": "",
       "event_time": 1787727253
     },
     {
       "rank": 3,
       "word": "上半年数字产业收入超20万亿元",
-      "hot_value": 11113238,
-      "label": "",
+      "hot_value": 11123358,
+      "label": "爆",
       "event_time": 1787710081
     },
     {
       "rank": 4,
       "word": "哈泽德力克陈登星获扣篮联赛冠军",
-      "hot_value": 10295995,
+      "hot_value": 10297225,
       "label": "爆",
       "event_time": 1787722989
     },
     {
       "rank": 5,
       "word": "“扶老人被索赔”事件完整监控视频",
-      "hot_value": 9769582,
+      "hot_value": 8845971,
       "label": "",
       "event_time": 1787671209
     },
     {
       "rank": 6,
       "word": "所有人感受新疆葡萄有多夯",
-      "hot_value": 9393734,
-      "label": "新",
+      "hot_value": 8732059,
+      "label": "",
       "event_time": 1787721233
     },
     {
       "rank": 7,
+      "word": "东北人有自己的美食盲盒",
+      "hot_value": 7806734,
+      "label": "新",
+      "event_time": 1787733126
+    },
+    {
+      "rank": 8,
       "word": "全国各地打开创大的神级方式",
-      "hot_value": 7837749,
+      "hot_value": 7759996,
       "label": "",
       "event_time": 1787716095
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "俄罗斯火灾致中国公民6死9失联",
-      "hot_value": 7790436,
+      "hot_value": 7756593,
       "label": "新",
       "event_time": 1787733073
     },
     {
-      "rank": 9,
-      "word": "来香港怎么能不吃车仔面呢",
-      "hot_value": 7787754,
-      "label": "",
-      "event_time": 1787710443
-    },
-    {
       "rank": 10,
       "word": "官方：征集火箭军违规采购线索",
-      "hot_value": 7783530,
+      "hot_value": 7748159,
       "label": "",
       "event_time": 1787660394
     },
     {
       "rank": 11,
-      "word": "沙德尔登陆浙江沿海几率增大",
-      "hot_value": 7774145,
-      "label": "",
-      "event_time": 1787716153
+      "word": "中国安能赶赴日喀则市吉隆县救援",
+      "hot_value": 7742763,
+      "label": "新",
+      "event_time": 1787734456
     },
     {
       "rank": 12,
       "word": "两男子泄洪期捞鱼失联系谣言",
-      "hot_value": 7760370,
+      "hot_value": 7734985,
       "label": "谣言",
       "event_time": 1787637109
     },
     {
       "rank": 13,
       "word": "早春晴朗开播",
-      "hot_value": 7750413,
+      "hot_value": 7721922,
       "label": "荐",
       "event_time": 1787724367
     },
     {
       "rank": 14,
       "word": "米哈游源初之结首曝",
-      "hot_value": 7749535,
-      "label": "",
+      "hot_value": 7713748,
+      "label": "爆",
       "event_time": 1787721996
     },
     {
       "rank": 15,
       "word": "复仇者联盟4加长版重映定档",
-      "hot_value": 7740007,
+      "hot_value": 7712033,
       "label": "荐",
       "event_time": 1787720647
     },
     {
       "rank": 16,
       "word": "没想到我的猫咪是戏精",
-      "hot_value": 7739722,
+      "hot_value": 7711429,
       "label": "音乐",
       "event_time": 1787722479
     },
     {
       "rank": 17,
       "word": "醒来今日开播",
-      "hot_value": 7738898,
+      "hot_value": 7711421,
       "label": "荐",
       "event_time": 1787711065
     },
     {
       "rank": 18,
-      "word": "是我太过迁就所以沦为爱囚",
-      "hot_value": 7735072,
-      "label": "音乐",
-      "event_time": 1787641185
-    },
-    {
-      "rank": 19,
       "word": "方块脸也能拍网纱面具转场",
-      "hot_value": 7724906,
+      "hot_value": 7704847,
       "label": "音乐",
       "event_time": 1787714778
     },
     {
+      "rank": 19,
+      "word": "评论区摄影作品点评大赛",
+      "hot_value": 7697885,
+      "label": "爆",
+      "event_time": 1787648410
+    },
+    {
       "rank": 20,
-      "word": "起猛了看见电动车在飞行",
-      "hot_value": 7714552,
-      "label": "",
-      "event_time": 1787711601
+      "word": "你是不是傻喜欢些胆小鬼",
+      "hot_value": 7692740,
+      "label": "音乐",
+      "event_time": 1787644175
     }
   ],
-  "update_time": "2026-08-26 09:31:00",
+  "update_time": "2026-08-26 10:24:23",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
