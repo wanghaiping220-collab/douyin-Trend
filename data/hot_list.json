@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "台风沙德尔第3次登陆",
-      "hot_value": 12107003,
-      "label": "爆",
-      "event_time": 1788337140
+      "word": "中国人民抗战胜利81周年",
+      "hot_value": 12100315,
+      "label": "新",
+      "event_time": 1788396221
     },
     {
       "rank": 2,
       "word": "西藏泥石流21人遇难541人失联",
-      "hot_value": 11714664,
+      "hot_value": 12100258,
       "label": "",
       "event_time": 1787755263
     },
     {
       "rank": 3,
       "word": "餐车从定日来到吉隆",
-      "hot_value": 11593666,
+      "hot_value": 11920344,
       "label": "爆",
       "event_time": 1788351019
     },
     {
       "rank": 4,
-      "word": "泰国取消60日免签政策",
-      "hot_value": 11342503,
+      "word": "台风沙德尔第3次登陆",
+      "hot_value": 11319077,
       "label": "爆",
-      "event_time": 1788321226
+      "event_time": 1788337140
     },
     {
       "rank": 5,
+      "word": "快船被罚5首轮和3000万美元",
+      "hot_value": 10629446,
+      "label": "",
+      "event_time": 1788391113
+    },
+    {
+      "rank": 6,
+      "word": "泰国取消60日免签政策",
+      "hot_value": 10501768,
+      "label": "",
+      "event_time": 1788321226
+    },
+    {
+      "rank": 7,
+      "word": "原来是我们离不开孩子",
+      "hot_value": 9292769,
+      "label": "",
+      "event_time": 1788358021
+    },
+    {
+      "rank": 8,
+      "word": "香港演员刘兆铭去世",
+      "hot_value": 9279856,
+      "label": "",
+      "event_time": 1788391473
+    },
+    {
+      "rank": 9,
+      "word": "初秋叠穿我想好了",
+      "hot_value": 9279376,
+      "label": "爆",
+      "event_time": 1788230235
+    },
+    {
+      "rank": 10,
+      "word": "为什么抗战胜利纪念日是9月3日",
+      "hot_value": 9210227,
+      "label": "新",
+      "event_time": 1788394388
+    },
+    {
+      "rank": 11,
+      "word": "中国女篮世界杯名单出炉",
+      "hot_value": 9208302,
+      "label": "新",
+      "event_time": 1788390609
+    },
+    {
+      "rank": 12,
       "word": "梅姨案已进入审判阶段",
-      "hot_value": 10744172,
+      "hot_value": 9172822,
       "label": "",
       "event_time": 1788349309
     },
     {
-      "rank": 6,
-      "word": "原来是我们离不开孩子",
-      "hot_value": 10647407,
-      "label": "爆",
-      "event_time": 1788358021
-    },
-    {
-      "rank": 7,
-      "word": "浙江遭遇“隔山打牛式”特大暴雨",
-      "hot_value": 9354573,
-      "label": "",
-      "event_time": 1788334207
-    },
-    {
-      "rank": 8,
-      "word": "抖音独家直播耐高新赛季",
-      "hot_value": 9311234,
-      "label": "热议",
-      "event_time": 1788347509
-    },
-    {
-      "rank": 9,
-      "word": "火影手游情报君萌黄cos",
-      "hot_value": 9195927,
-      "label": "爆",
-      "event_time": 1788273041
-    },
-    {
-      "rank": 10,
-      "word": "苹果官方X账号取关库克",
-      "hot_value": 9173617,
-      "label": "爆",
-      "event_time": 1788350705
-    },
-    {
-      "rank": 11,
+      "rank": 13,
       "word": "万物皆可贴秋膘",
-      "hot_value": 9071070,
+      "hot_value": 9143304,
       "label": "爆",
       "event_time": 1788338519
     },
     {
-      "rank": 12,
+      "rank": 14,
       "word": "福建福鼎强降雨积水漫过一楼",
-      "hot_value": 8641763,
+      "hot_value": 8749967,
       "label": "",
       "event_time": 1788328729
     },
     {
-      "rank": 13,
+      "rank": 15,
       "word": "所有人都回到紧身裤时代",
-      "hot_value": 8548971,
+      "hot_value": 8368205,
       "label": "爆",
       "event_time": 1788331485
     },
     {
-      "rank": 14,
-      "word": "找Luke找到井柏然了",
-      "hot_value": 8406770,
-      "label": "游戏",
-      "event_time": 1788343433
-    },
-    {
-      "rank": 15,
-      "word": "我敬岁月一杯酒转场",
-      "hot_value": 8285702,
-      "label": "音乐",
-      "event_time": 1788331941
-    },
-    {
       "rank": 16,
       "word": "花儿与少年2026官宣",
-      "hot_value": 8223779,
+      "hot_value": 8237781,
       "label": "爆",
       "event_time": 1788316779
     },
     {
       "rank": 17,
-      "word": "美军轰炸伊朗南部多地",
-      "hot_value": 8143124,
-      "label": "",
-      "event_time": 1788310288
+      "word": "找Luke找到井柏然了",
+      "hot_value": 8029329,
+      "label": "游戏",
+      "event_time": 1788343433
     },
     {
       "rank": 18,
+      "word": "抖音独家直播耐高新赛季",
+      "hot_value": 7988237,
+      "label": "热议",
+      "event_time": 1788347509
+    },
+    {
+      "rank": 19,
       "word": "北体军训遍地是武状元",
-      "hot_value": 7835394,
+      "hot_value": 7893502,
       "label": "爆",
       "event_time": 1788348207
     },
     {
-      "rank": 19,
+      "rank": 20,
       "word": "九月不要和爱的人分离",
-      "hot_value": 7814888,
+      "hot_value": 7843734,
       "label": "音乐",
       "event_time": 1788346202
-    },
-    {
-      "rank": 20,
-      "word": "是开海还是开饭我自有分辨",
-      "hot_value": 7805630,
-      "label": "爆",
-      "event_time": 1788335231
     }
   ],
-  "update_time": "2026-09-02 23:41:44",
+  "update_time": "2026-09-03 02:08:30",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
