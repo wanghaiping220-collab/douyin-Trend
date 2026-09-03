@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "中国人民抗战胜利81周年",
-      "hot_value": 12100315,
-      "label": "新",
-      "event_time": 1788396221
+      "word": "台风沙德尔第3次登陆",
+      "hot_value": 11253951,
+      "label": "爆",
+      "event_time": 1788337140
     },
     {
       "rank": 2,
       "word": "西藏泥石流21人遇难541人失联",
-      "hot_value": 12100258,
+      "hot_value": 10865115,
       "label": "",
       "event_time": 1787755263
     },
     {
       "rank": 3,
-      "word": "餐车从定日来到吉隆",
-      "hot_value": 11920344,
-      "label": "爆",
-      "event_time": 1788351019
+      "word": "各地开学第一课精彩亮相",
+      "hot_value": 10758043,
+      "label": "新",
+      "event_time": 1788417396
     },
     {
       "rank": 4,
-      "word": "台风沙德尔第3次登陆",
-      "hot_value": 11319077,
-      "label": "爆",
-      "event_time": 1788337140
+      "word": "中国人民抗战胜利81周年",
+      "hot_value": 10450877,
+      "label": "",
+      "event_time": 1788396221
     },
     {
       "rank": 5,
+      "word": "原来是我们离不开孩子",
+      "hot_value": 9806974,
+      "label": "爆",
+      "event_time": 1788358021
+    },
+    {
+      "rank": 6,
+      "word": "微信回应何时推出单删提示",
+      "hot_value": 9179646,
+      "label": "爆",
+      "event_time": 1788407828
+    },
+    {
+      "rank": 7,
       "word": "快船被罚5首轮和3000万美元",
-      "hot_value": 10629446,
+      "hot_value": 7826043,
       "label": "",
       "event_time": 1788391113
     },
     {
-      "rank": 6,
-      "word": "泰国取消60日免签政策",
-      "hot_value": 10501768,
-      "label": "",
-      "event_time": 1788321226
-    },
-    {
-      "rank": 7,
-      "word": "原来是我们离不开孩子",
-      "hot_value": 9292769,
-      "label": "",
-      "event_time": 1788358021
-    },
-    {
       "rank": 8,
       "word": "香港演员刘兆铭去世",
-      "hot_value": 9279856,
+      "hot_value": 7789607,
       "label": "",
       "event_time": 1788391473
     },
     {
       "rank": 9,
-      "word": "初秋叠穿我想好了",
-      "hot_value": 9279376,
-      "label": "爆",
-      "event_time": 1788230235
+      "word": "中国驻俄使馆发布赴俄留学提醒",
+      "hot_value": 7768137,
+      "label": "",
+      "event_time": 1788397338
     },
     {
       "rank": 10,
-      "word": "为什么抗战胜利纪念日是9月3日",
-      "hot_value": 9210227,
+      "word": "中使馆回应光州双年展涉台错误",
+      "hot_value": 7765927,
       "label": "新",
-      "event_time": 1788394388
+      "event_time": 1788413155
     },
     {
       "rank": 11,
-      "word": "中国女篮世界杯名单出炉",
-      "hot_value": 9208302,
+      "word": "omg叠中叠穿搭潮到犯规",
+      "hot_value": 7762172,
       "label": "新",
-      "event_time": 1788390609
+      "event_time": 1788405392
     },
     {
       "rank": 12,
       "word": "梅姨案已进入审判阶段",
-      "hot_value": 9172822,
+      "hot_value": 7761567,
       "label": "",
       "event_time": 1788349309
     },
     {
       "rank": 13,
-      "word": "万物皆可贴秋膘",
-      "hot_value": 9143304,
-      "label": "爆",
-      "event_time": 1788338519
+      "word": "“女孩办幼升小升学宴”系谣言",
+      "hot_value": 7744184,
+      "label": "谣言",
+      "event_time": 1788347641
     },
     {
       "rank": 14,
-      "word": "福建福鼎强降雨积水漫过一楼",
-      "hot_value": 8749967,
-      "label": "",
-      "event_time": 1788328729
-    },
-    {
-      "rank": 15,
-      "word": "所有人都回到紧身裤时代",
-      "hot_value": 8368205,
-      "label": "爆",
-      "event_time": 1788331485
-    },
-    {
-      "rank": 16,
-      "word": "花儿与少年2026官宣",
-      "hot_value": 8237781,
-      "label": "爆",
-      "event_time": 1788316779
-    },
-    {
-      "rank": 17,
-      "word": "找Luke找到井柏然了",
-      "hot_value": 8029329,
-      "label": "游戏",
-      "event_time": 1788343433
-    },
-    {
-      "rank": 18,
-      "word": "抖音独家直播耐高新赛季",
-      "hot_value": 7988237,
-      "label": "热议",
-      "event_time": 1788347509
-    },
-    {
-      "rank": 19,
       "word": "北体军训遍地是武状元",
-      "hot_value": 7893502,
+      "hot_value": 7738889,
       "label": "爆",
       "event_time": 1788348207
     },
     {
-      "rank": 20,
+      "rank": 15,
+      "word": "突然一下变身芭比",
+      "hot_value": 7737633,
+      "label": "音乐",
+      "event_time": 1788405829
+    },
+    {
+      "rank": 16,
+      "word": "星星家长的辛苦被邓超看见了",
+      "hot_value": 7733521,
+      "label": "爆",
+      "event_time": 1788407688
+    },
+    {
+      "rank": 17,
+      "word": "万物皆可贴秋膘",
+      "hot_value": 7724137,
+      "label": "",
+      "event_time": 1788338519
+    },
+    {
+      "rank": 18,
       "word": "九月不要和爱的人分离",
-      "hot_value": 7843734,
+      "hot_value": 7721670,
       "label": "音乐",
       "event_time": 1788346202
+    },
+    {
+      "rank": 19,
+      "word": "全员进入Luke穿搭时代",
+      "hot_value": 7708663,
+      "label": "新",
+      "event_time": 1788407333
+    },
+    {
+      "rank": 20,
+      "word": "找Luke找到井柏然了",
+      "hot_value": 7706934,
+      "label": "游戏",
+      "event_time": 1788343433
     }
   ],
-  "update_time": "2026-09-03 02:08:30",
+  "update_time": "2026-09-03 07:30:16",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
