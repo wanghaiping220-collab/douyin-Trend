@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "中国人民抗战胜利81周年",
-      "hot_value": 12053841,
-      "label": "爆",
-      "event_time": 1788396221
-    },
-    {
-      "rank": 2,
       "word": "外交部正告日本右翼势力",
-      "hot_value": 12037667,
-      "label": "",
+      "hot_value": 12081418,
+      "label": "爆",
       "event_time": 1788425845
     },
     {
-      "rank": 3,
-      "word": "各地开学第一课精彩亮相",
-      "hot_value": 11763425,
+      "rank": 2,
+      "word": "等到了秋天我们再去散步好不好",
+      "hot_value": 11316163,
       "label": "爆",
-      "event_time": 1788417396
+      "event_time": 1788429404
+    },
+    {
+      "rank": 3,
+      "word": "促进中小企业发展十五五规划来了",
+      "hot_value": 11080058,
+      "label": "爆",
+      "event_time": 1788429860
     },
     {
       "rank": 4,
-      "word": "“梅姨”年龄首次曝光",
-      "hot_value": 11742486,
+      "word": "看看你的暑期社会实践",
+      "hot_value": 10785205,
       "label": "爆",
-      "event_time": 1788425218
+      "event_time": 1788435655
     },
     {
       "rank": 5,
-      "word": "台风科罗旺今夜进入东海",
-      "hot_value": 10224829,
-      "label": "",
-      "event_time": 1788421889
-    },
-    {
-      "rank": 6,
       "word": "在宿舍的第一个晚上",
-      "hot_value": 10195263,
-      "label": "",
+      "hot_value": 10233600,
+      "label": "爆",
       "event_time": 1788323619
     },
     {
-      "rank": 7,
-      "word": "四川北川县发生4.8级地震",
-      "hot_value": 9111839,
-      "label": "新",
-      "event_time": 1788436012
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "word": "厄尔尼诺将发展为超强级别",
-      "hot_value": 9059990,
+      "hot_value": 10194391,
       "label": "爆",
       "event_time": 1788415807
     },
     {
-      "rank": 9,
-      "word": "微信回应何时推出单删提示",
-      "hot_value": 8901332,
+      "rank": 7,
+      "word": "BLG 3:1 WE",
+      "hot_value": 8906210,
       "label": "",
-      "event_time": 1788407828
+      "event_time": 1788438388
     },
     {
-      "rank": 10,
-      "word": "中国全额缴纳2026年联合国会费",
-      "hot_value": 8739595,
-      "label": "",
-      "event_time": 1788392761
-    },
-    {
-      "rank": 11,
-      "word": "秋天少不了的好东西",
-      "hot_value": 8661973,
-      "label": "爆",
-      "event_time": 1788405607
-    },
-    {
-      "rank": 12,
-      "word": "特斯拉无人出租车开启内部测试",
-      "hot_value": 8517153,
-      "label": "爆",
-      "event_time": 1788420961
-    },
-    {
-      "rank": 13,
-      "word": "找Luke找到井柏然了",
-      "hot_value": 7771438,
-      "label": "游戏",
-      "event_time": 1788343433
-    },
-    {
-      "rank": 14,
-      "word": "万物皆可贴秋膘",
-      "hot_value": 7767679,
-      "label": "",
-      "event_time": 1788338519
-    },
-    {
-      "rank": 15,
+      "rank": 8,
       "word": "外交部驳斥越南西沙群岛主权主张",
-      "hot_value": 7760845,
+      "hot_value": 8829108,
       "label": "",
       "event_time": 1788423748
     },
     {
-      "rank": 16,
-      "word": "全员进入Luke穿搭时代",
-      "hot_value": 7751835,
+      "rank": 9,
+      "word": "中国全额缴纳2026年联合国会费",
+      "hot_value": 8628214,
+      "label": "",
+      "event_time": 1788392761
+    },
+    {
+      "rank": 10,
+      "word": "微信回应何时推出单删提示",
+      "hot_value": 8609280,
+      "label": "",
+      "event_time": 1788407828
+    },
+    {
+      "rank": 11,
+      "word": "福州的雨势为何如此凶猛",
+      "hot_value": 8387081,
       "label": "爆",
-      "event_time": 1788407333
+      "event_time": 1788413790
+    },
+    {
+      "rank": 12,
+      "word": "找Luke找到井柏然了",
+      "hot_value": 8363046,
+      "label": "游戏",
+      "event_time": 1788343433
+    },
+    {
+      "rank": 13,
+      "word": "万物皆可贴秋膘",
+      "hot_value": 8086718,
+      "label": "爆",
+      "event_time": 1788338519
+    },
+    {
+      "rank": 14,
+      "word": "中国驻俄使馆发布赴俄留学提醒",
+      "hot_value": 7813293,
+      "label": "",
+      "event_time": 1788397338
+    },
+    {
+      "rank": 15,
+      "word": "四川北川县发生4.8级地震",
+      "hot_value": 7785909,
+      "label": "",
+      "event_time": 1788436012
+    },
+    {
+      "rank": 16,
+      "word": "开学版井柏然进行曲",
+      "hot_value": 7782370,
+      "label": "音乐",
+      "event_time": 1788444444
     },
     {
       "rank": 17,
-      "word": "跟着花少考古伦敦",
-      "hot_value": 7742552,
-      "label": "新",
-      "event_time": 1788428649
+      "word": "沉浸式体验尚之桃同款通勤路",
+      "hot_value": 7779648,
+      "label": "",
+      "event_time": 1788436828
     },
     {
       "rank": 18,
-      "word": "九月不要和爱的人分离",
-      "hot_value": 7738657,
-      "label": "音乐",
-      "event_time": 1788346202
+      "word": "跟着花少考古伦敦",
+      "hot_value": 7774139,
+      "label": "爆",
+      "event_time": 1788428649
     },
     {
       "rank": 19,
-      "word": "山上的山花开呀我才到山上来",
-      "hot_value": 7731423,
-      "label": "音乐",
-      "event_time": 1788307015
+      "word": "特斯拉无人出租车开启内部测试",
+      "hot_value": 7769536,
+      "label": "爆",
+      "event_time": 1788420961
     },
     {
       "rank": 20,
-      "word": "芮豆变装摇也太带感了",
-      "hot_value": 7720865,
+      "word": "今天有朵云是爱我的",
+      "hot_value": 7750177,
       "label": "音乐",
-      "event_time": 1788407830
+      "event_time": 1788438547
     }
   ],
-  "update_time": "2026-09-03 12:21:42",
+  "update_time": "2026-09-03 16:45:34",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
