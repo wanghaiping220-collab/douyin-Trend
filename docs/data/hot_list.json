@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "教育部回应中小学是否须买校服",
-      "hot_value": 12068282,
-      "label": "爆",
-      "event_time": 1788660344
-    },
-    {
-      "rank": 2,
       "word": "中国女篮加时险胜捷克女篮",
-      "hot_value": 12046433,
+      "hot_value": 11969232,
       "label": "爆",
       "event_time": 1788682120
     },
     {
+      "rank": 2,
+      "word": "教育部回应中小学是否须买校服",
+      "hot_value": 11875899,
+      "label": "爆",
+      "event_time": 1788660344
+    },
+    {
       "rank": 3,
       "word": "把青春华章写在祖国大地上",
-      "hot_value": 11890546,
+      "hot_value": 11856085,
       "label": "爆",
       "event_time": 1788509111
     },
     {
       "rank": 4,
-      "word": "你的背包让我走得好缓慢",
-      "hot_value": 11742511,
-      "label": "爆",
-      "event_time": 1788683820
-    },
-    {
-      "rank": 5,
       "word": "厄尔尼诺到底是啥",
-      "hot_value": 11144657,
+      "hot_value": 11447500,
       "label": "爆",
       "event_time": 1788676770
     },
     {
+      "rank": 5,
+      "word": "你的背包让我走得好缓慢",
+      "hot_value": 10533834,
+      "label": "",
+      "event_time": 1788683820
+    },
+    {
       "rank": 6,
       "word": "才刚开学我就已经想家了",
-      "hot_value": 11123598,
+      "hot_value": 10484135,
       "label": "爆",
       "event_time": 1788678310
     },
     {
       "rank": 7,
-      "word": "军训才艺大赏",
-      "hot_value": 9913966,
-      "label": "",
-      "event_time": 1788585926
-    },
-    {
-      "rank": 8,
-      "word": "真正想上大学的是高三的自己",
-      "hot_value": 9651882,
-      "label": "",
-      "event_time": 1788682583
-    },
-    {
-      "rank": 9,
-      "word": "用AI拼豆的方式打开旅行",
-      "hot_value": 9360282,
-      "label": "爆",
-      "event_time": 1788619151
-    },
-    {
-      "rank": 10,
-      "word": "张雪机车法国站七冠之战",
-      "hot_value": 9340860,
-      "label": "爆",
-      "event_time": 1788685758
-    },
-    {
-      "rank": 11,
-      "word": "LGD 3:2战胜NIP",
-      "hot_value": 9334057,
-      "label": "",
-      "event_time": 1788700158
-    },
-    {
-      "rank": 12,
-      "word": "青铜峡大坝开始泄洪系谣言",
-      "hot_value": 9291423,
-      "label": "谣言",
-      "event_time": 1788685364
-    },
-    {
-      "rank": 13,
-      "word": "IG 3:1战胜WE",
-      "hot_value": 8839193,
-      "label": "",
-      "event_time": 1788684487
-    },
-    {
-      "rank": 14,
       "word": "ChinaGT就比赛碰撞起火致歉",
-      "hot_value": 8821057,
+      "hot_value": 9365889,
       "label": "",
       "event_time": 1788682296
     },
     {
-      "rank": 15,
+      "rank": 8,
+      "word": "LGD 3:2战胜NIP",
+      "hot_value": 9349561,
+      "label": "爆",
+      "event_time": 1788700158
+    },
+    {
+      "rank": 9,
+      "word": "军训才艺大赏",
+      "hot_value": 9342921,
+      "label": "",
+      "event_time": 1788585926
+    },
+    {
+      "rank": 10,
+      "word": "用AI拼豆的方式打开旅行",
+      "hot_value": 9299328,
+      "label": "爆",
+      "event_time": 1788619151
+    },
+    {
+      "rank": 11,
+      "word": "张雪机车法国站七冠之战",
+      "hot_value": 9266291,
+      "label": "",
+      "event_time": 1788685758
+    },
+    {
+      "rank": 12,
       "word": "我们都被困在这寂寞的夜晚",
-      "hot_value": 8706352,
+      "hot_value": 9239321,
       "label": "音乐",
       "event_time": 1788677615
     },
     {
-      "rank": 16,
-      "word": "王一博被撞车宣布退赛",
-      "hot_value": 8529329,
-      "label": "",
-      "event_time": 1788684031
+      "rank": 13,
+      "word": "青铜峡大坝开始泄洪系谣言",
+      "hot_value": 9212892,
+      "label": "谣言",
+      "event_time": 1788685364
     },
     {
-      "rank": 17,
-      "word": "伊朗称打击了美军航母和驱逐舰",
-      "hot_value": 8429559,
+      "rank": 14,
+      "word": "IG 3:1战胜WE",
+      "hot_value": 9169507,
       "label": "",
-      "event_time": 1788662584
+      "event_time": 1788684487
     },
     {
-      "rank": 18,
+      "rank": 15,
       "word": "琵琶曲古风摇",
-      "hot_value": 7923032,
+      "hot_value": 9041874,
       "label": "音乐",
       "event_time": 1788652490
     },
     {
-      "rank": 19,
+      "rank": 16,
       "word": "吴彦祖China GT上海站退赛",
-      "hot_value": 7824701,
-      "label": "",
+      "hot_value": 8929474,
+      "label": "爆",
       "event_time": 1788651829
+    },
+    {
+      "rank": 17,
+      "word": "王一博被撞车宣布退赛",
+      "hot_value": 8571064,
+      "label": "",
+      "event_time": 1788684031
+    },
+    {
+      "rank": 18,
+      "word": "伊朗称打击了美军航母和驱逐舰",
+      "hot_value": 8424790,
+      "label": "",
+      "event_time": 1788662584
+    },
+    {
+      "rank": 19,
+      "word": "真正想上大学的是高三的自己",
+      "hot_value": 8146539,
+      "label": "",
+      "event_time": 1788682583
     },
     {
       "rank": 20,
       "word": "西藏泥石流43人遇难519人失联",
-      "hot_value": 7814168,
+      "hot_value": 7763431,
       "label": "",
       "event_time": 1787755263
     }
   ],
-  "update_time": "2026-09-06 18:44:38",
+  "update_time": "2026-09-06 20:56:57",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
