@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "今天是教师节",
-      "hot_value": 11879351,
+      "hot_value": 12162902,
       "label": "爆",
       "event_time": 1788997886
     },
     {
       "rank": 2,
       "word": "这是我送给爱师的花花呀",
-      "hot_value": 11548593,
-      "label": "新",
+      "hot_value": 11451967,
+      "label": "爆",
       "event_time": 1789021116
     },
     {
       "rank": 3,
       "word": "两分钟逛明白2026年服贸会",
-      "hot_value": 11358005,
+      "hot_value": 11110558,
       "label": "",
       "event_time": 1789025063
     },
     {
       "rank": 4,
-      "word": "中国女篮挺进世界杯八强",
-      "hot_value": 11257307,
+      "word": "A股三大指数缩量收跌",
+      "hot_value": 10993706,
       "label": "爆",
-      "event_time": 1788995126
+      "event_time": 1789026095
     },
     {
       "rank": 5,
-      "word": "大巴黎6:1布拉迪斯拉发",
-      "hot_value": 10529662,
+      "word": "启境汽车回应媒体群误发信息",
+      "hot_value": 10380790,
       "label": "爆",
-      "event_time": 1788997418
+      "event_time": 1789022844
     },
     {
       "rank": 6,
-      "word": "油价或迎二连涨",
-      "hot_value": 10331763,
-      "label": "新",
-      "event_time": 1789013971
+      "word": "证监会：加快建设世界一流交易所",
+      "hot_value": 10201542,
+      "label": "娱乐",
+      "event_time": 1789028588
     },
     {
       "rank": 7,
       "word": "IAEA通过伊核决议 中国投反对票",
-      "hot_value": 9104376,
+      "hot_value": 9023515,
       "label": "",
       "event_time": 1788996509
     },
     {
       "rank": 8,
-      "word": "中国男排1:3不敌伊朗",
-      "hot_value": 7954981,
-      "label": "",
-      "event_time": 1788943221
+      "word": "可可系正式接管秋天",
+      "hot_value": 8089145,
+      "label": "爆",
+      "event_time": 1788926257
     },
     {
       "rank": 9,
-      "word": "宁德时代宜宾基地辟谣",
-      "hot_value": 7735701,
-      "label": "谣言",
-      "event_time": 1788947706
+      "word": "可爱颂歌词太魔性啦",
+      "hot_value": 7759820,
+      "label": "音乐",
+      "event_time": 1789021499
     },
     {
       "rank": 10,
+      "word": "青岛货轮火灾25人遇难",
+      "hot_value": 7750311,
+      "label": "新",
+      "event_time": 1789037292
+    },
+    {
+      "rank": 11,
+      "word": "教师节最特别的礼物",
+      "hot_value": 7736484,
+      "label": "爆",
+      "event_time": 1789018086
+    },
+    {
+      "rank": 12,
+      "word": "冬城猎凶开播",
+      "hot_value": 7730021,
+      "label": "荐",
+      "event_time": 1789012444
+    },
+    {
+      "rank": 13,
       "word": "2026苹果秋季新品发布会",
-      "hot_value": 7733660,
+      "hot_value": 7727690,
       "label": "",
       "event_time": 1788942775
     },
     {
-      "rank": 11,
-      "word": "干这行的多重身份",
-      "hot_value": 7732765,
-      "label": "音乐",
-      "event_time": 1789008218
-    },
-    {
-      "rank": 12,
-      "word": "从谭勉视角打开早春晴朗",
-      "hot_value": 7725894,
-      "label": "爆",
-      "event_time": 1788955610
-    },
-    {
-      "rank": 13,
-      "word": "属于教师节的仪式感",
-      "hot_value": 7723625,
-      "label": "音乐",
-      "event_time": 1788948261
-    },
-    {
       "rank": 14,
-      "word": "今日人设是可可美人",
-      "hot_value": 7717263,
-      "label": "",
-      "event_time": 1788927412
+      "word": "我的同桌看起来有点尴尬",
+      "hot_value": 7723430,
+      "label": "音乐",
+      "event_time": 1789016113
     },
     {
       "rank": 15,
-      "word": "教师节最特别的礼物",
-      "hot_value": 7712067,
-      "label": "新",
-      "event_time": 1789018086
+      "word": "来山西品尝非遗美食土炒指",
+      "hot_value": 7720325,
+      "label": "爆",
+      "event_time": 1788932180
     },
     {
       "rank": 16,
+      "word": "我本来想给你买手机的",
+      "hot_value": 7713404,
+      "label": "音乐",
+      "event_time": 1789022138
+    },
+    {
+      "rank": 17,
       "word": "王者万象棋正式上线",
-      "hot_value": 7703899,
+      "hot_value": 7707130,
       "label": "爆",
       "event_time": 1788999922
     },
     {
-      "rank": 17,
-      "word": "朴彩英即将发布新单曲",
-      "hot_value": 7698829,
-      "label": "新",
-      "event_time": 1789017529
+      "rank": 18,
+      "word": "中国女篮挺进世界杯八强",
+      "hot_value": 7704234,
+      "label": "",
+      "event_time": 1788995126
     },
     {
-      "rank": 18,
+      "rank": 19,
       "word": "iPhone 17系列涨价",
-      "hot_value": 7697758,
+      "hot_value": 7701244,
       "label": "爆",
       "event_time": 1788980122
     },
     {
-      "rank": 19,
-      "word": "贺峻霖穿燕麦系太耐看了",
-      "hot_value": 7695532,
-      "label": "新",
-      "event_time": 1789021533
-    },
-    {
       "rank": 20,
-      "word": "抖音达人直击苹果发布会现场",
-      "hot_value": 7691633,
-      "label": "荐",
-      "event_time": 1788975740
+      "word": "NBA球队集体发文欢迎杜兰特",
+      "hot_value": 7699068,
+      "label": "热议",
+      "event_time": 1789037836
     }
   ],
-  "update_time": "2026-09-10 07:39:42",
+  "update_time": "2026-09-10 12:30:29",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
