@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "中美元首半年内实现互访",
-      "hot_value": 12263487,
+      "word": "中美元首会谈",
+      "hot_value": 12143801,
       "label": "",
-      "event_time": 1790177341
+      "event_time": 1790266760
     },
     {
       "rank": 2,
-      "word": "美在中秋月圆时",
-      "hot_value": 12100983,
-      "label": "爆",
-      "event_time": 1790183983
+      "word": "习近平在白宫欢迎仪式上的致辞",
+      "hot_value": 12110360,
+      "label": "",
+      "event_time": 1790262425
     },
     {
       "rank": 3,
       "word": "先进制造业赋能中国经济",
-      "hot_value": 11983203,
+      "hot_value": 12095251,
       "label": "",
       "event_time": 1790255124
     },
     {
       "rank": 4,
-      "word": "国足vs马尔代夫前瞻",
-      "hot_value": 11872111,
+      "word": "中秋晒月亮大赛",
+      "hot_value": 10939042,
+      "label": "",
+      "event_time": 1790254770
+    },
+    {
+      "rank": 5,
+      "word": "CFA友谊赛国足vs马尔代夫",
+      "hot_value": 10342152,
       "label": "",
       "event_time": 1790227937
     },
     {
-      "rank": 5,
-      "word": "对这片土地爱得深沉",
-      "hot_value": 10411454,
-      "label": "",
-      "event_time": 1790240575
-    },
-    {
       "rank": 6,
-      "word": "中秋团圆的N种想象",
-      "hot_value": 10339639,
-      "label": "",
-      "event_time": 1790219850
+      "word": "张展硕亚运会六金王",
+      "hot_value": 10265292,
+      "label": "爆",
+      "event_time": 1790247439
     },
     {
       "rank": 7,
       "word": "多想和你再过一次中秋",
-      "hot_value": 9177764,
+      "hot_value": 9118291,
       "label": "音乐",
       "event_time": 1790232839
     },
     {
       "rank": 8,
-      "word": "国乒女团vs日本女团",
-      "hot_value": 9103659,
-      "label": "新",
-      "event_time": 1790249514
+      "word": "美在中秋月圆时",
+      "hot_value": 9058261,
+      "label": "",
+      "event_time": 1790183983
     },
     {
       "rank": 9,
       "word": "双节期间我国菜篮子供应充足",
-      "hot_value": 9080929,
+      "hot_value": 8888503,
       "label": "",
       "event_time": 1790255305
     },
     {
       "rank": 10,
-      "word": "张展硕亚运会六金王",
-      "hot_value": 8968262,
-      "label": "新",
-      "event_time": 1790247439
+      "word": "对你怎么可能轻描淡写",
+      "hot_value": 8611447,
+      "label": "音乐",
+      "event_time": 1790159545
     },
     {
       "rank": 11,
-      "word": "用周五饭票打开中秋节",
-      "hot_value": 8915209,
+      "word": "国乒女团横扫日本夺冠",
+      "hot_value": 8386743,
       "label": "",
-      "event_time": 1790221824
+      "event_time": 1790249514
     },
     {
       "rank": 12,
-      "word": "见不到面就同看一轮月",
-      "hot_value": 8713580,
-      "label": "",
-      "event_time": 1790166563
-    },
-    {
-      "rank": 13,
-      "word": "绣出你的中秋祝福",
-      "hot_value": 7783552,
-      "label": "娱乐",
-      "event_time": 1790250560
-    },
-    {
-      "rank": 14,
-      "word": "今晚24时油价迎调整",
-      "hot_value": 7779978,
-      "label": "",
-      "event_time": 1790216941
-    },
-    {
-      "rank": 15,
-      "word": "我的长长长假",
-      "hot_value": 7769912,
-      "label": "爆",
-      "event_time": 1790237907
-    },
-    {
-      "rank": 16,
       "word": "中秋假期高速正常收费",
-      "hot_value": 7769810,
-      "label": "新",
+      "hot_value": 8335652,
+      "label": "爆",
       "event_time": 1790247784
     },
     {
-      "rank": 17,
+      "rank": 13,
+      "word": "举头望月思故乡",
+      "hot_value": 7799038,
+      "label": "音乐",
+      "event_time": 1790251353
+    },
+    {
+      "rank": 14,
+      "word": "祝福你的中秋有满满的爱",
+      "hot_value": 7787467,
+      "label": "音乐",
+      "event_time": 1790229685
+    },
+    {
+      "rank": 15,
       "word": "国乒男团2:3不敌日本摘银",
-      "hot_value": 7763326,
+      "hot_value": 7762626,
       "label": "",
       "event_time": 1790241705
     },
     {
+      "rank": 16,
+      "word": "我的长长长假",
+      "hot_value": 7761994,
+      "label": "",
+      "event_time": 1790237907
+    },
+    {
+      "rank": 17,
+      "word": "见不到面就同看一轮月",
+      "hot_value": 7758266,
+      "label": "",
+      "event_time": 1790166563
+    },
+    {
       "rank": 18,
       "word": "国羽女团携第63金来抖音报数",
-      "hot_value": 7730978,
-      "label": "新",
+      "hot_value": 7707476,
+      "label": "爆",
       "event_time": 1790252735
     },
     {
       "rank": 19,
-      "word": "一个人心中只有一个宝贝",
-      "hot_value": 7677812,
+      "word": "短发女孩最适配的BGM出现了",
+      "hot_value": 7707199,
       "label": "音乐",
-      "event_time": 1790233163
+      "event_time": 1790214592
     },
     {
       "rank": 20,
-      "word": "张博恒也来抖音金牌报数了",
-      "hot_value": 7676955,
-      "label": "爆",
-      "event_time": 1790238974
+      "word": "一个人心中只有一个宝贝",
+      "hot_value": 7694140,
+      "label": "音乐",
+      "event_time": 1790233163
     }
   ],
-  "update_time": "2026-09-24 13:15:51",
+  "update_time": "2026-09-24 18:04:21",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
