@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "西藏那曲发生7级地震",
-      "hot_value": 11477818,
-      "label": "",
+      "hot_value": 11409629,
+      "label": "爆",
       "event_time": 1792680315
     },
     {
       "rank": 2,
       "word": "台风“蔷琵”或转向北上",
-      "hot_value": 10614445,
-      "label": "",
+      "hot_value": 11254965,
+      "label": "爆",
       "event_time": 1792639110
     },
     {
       "rank": 3,
       "word": "全国秋粮大面积收获进行时",
-      "hot_value": 10597543,
+      "hot_value": 10926240,
       "label": "",
       "event_time": 1792672143
     },
     {
       "rank": 4,
       "word": "乡村里的拼豆店也有存在的意义",
-      "hot_value": 9175509,
+      "hot_value": 9134059,
       "label": "",
       "event_time": 1792545198
     },
     {
       "rank": 5,
-      "word": "台风蔷琵实时路径",
-      "hot_value": 8695990,
-      "label": "",
-      "event_time": 1792658955
-    },
-    {
-      "rank": 6,
       "word": "亚锦赛决赛国乒男团vs韩国",
-      "hot_value": 8693555,
+      "hot_value": 8673804,
       "label": "",
       "event_time": 1792667281
     },
     {
-      "rank": 7,
-      "word": "这首过渡期实在是太痛了",
-      "hot_value": 7768634,
-      "label": "音乐",
-      "event_time": 1792658486
+      "rank": 6,
+      "word": "台风蔷琵实时路径",
+      "hot_value": 8662061,
+      "label": "",
+      "event_time": 1792658955
     },
     {
-      "rank": 8,
+      "rank": 7,
       "word": "亚锦赛国乒女团决赛不敌日本",
-      "hot_value": 7762500,
+      "hot_value": 7749867,
       "label": "",
       "event_time": 1792665964
     },
     {
-      "rank": 9,
-      "word": "2026KPL淘汰赛抽签结果出炉",
-      "hot_value": 7752544,
-      "label": "",
-      "event_time": 1792678552
-    },
-    {
-      "rank": 10,
-      "word": "俄称日美军演威胁亚太稳定安全",
-      "hot_value": 7751086,
-      "label": "",
-      "event_time": 1792631118
-    },
-    {
-      "rank": 11,
-      "word": "黄海南部进行实弹射击意味着什么",
-      "hot_value": 7748436,
-      "label": "",
-      "event_time": 1792631204
-    },
-    {
-      "rank": 12,
-      "word": "KDA神之八秒挑战",
-      "hot_value": 7747319,
-      "label": "音乐",
-      "event_time": 1792590438
-    },
-    {
-      "rank": 13,
-      "word": "广东东阳光96:78浙江广厦",
-      "hot_value": 7729445,
-      "label": "",
-      "event_time": 1792674695
-    },
-    {
-      "rank": 14,
+      "rank": 8,
       "word": "媒体评樊振东发文怒斥偷拍",
-      "hot_value": 7725887,
+      "hot_value": 7731989,
       "label": "",
       "event_time": 1792645492
     },
     {
-      "rank": 15,
+      "rank": 9,
+      "word": "黄海南部进行实弹射击意味着什么",
+      "hot_value": 7728018,
+      "label": "",
+      "event_time": 1792631204
+    },
+    {
+      "rank": 10,
+      "word": "这首过渡期实在是太痛了",
+      "hot_value": 7717969,
+      "label": "音乐",
+      "event_time": 1792658486
+    },
+    {
+      "rank": 11,
       "word": "人民日报评老师被家长无理举报",
-      "hot_value": 7722697,
+      "hot_value": 7706541,
       "label": "娱乐",
       "event_time": 1792661501
     },
     {
-      "rank": 16,
-      "word": "冷空气袭来 可能最近要变天了",
-      "hot_value": 7718798,
+      "rank": 12,
+      "word": "广东东阳光96:78浙江广厦",
+      "hot_value": 7706054,
+      "label": "",
+      "event_time": 1792674695
+    },
+    {
+      "rank": 13,
+      "word": "小城良方病人没钱不愿意治病",
+      "hot_value": 7697399,
+      "label": "荐",
+      "event_time": 1792592205
+    },
+    {
+      "rank": 14,
+      "word": "在冬天来之前先唱一首iceman",
+      "hot_value": 7691565,
       "label": "音乐",
-      "event_time": 1792673534
+      "event_time": 1792638886
+    },
+    {
+      "rank": 15,
+      "word": "KDA神之八秒挑战",
+      "hot_value": 7691058,
+      "label": "音乐",
+      "event_time": 1792590438
+    },
+    {
+      "rank": 16,
+      "word": "俄称日美军演威胁亚太稳定安全",
+      "hot_value": 7690010,
+      "label": "",
+      "event_time": 1792631118
     },
     {
       "rank": 17,
-      "word": "魏娆认亲差一步美满",
-      "hot_value": 7718775,
-      "label": "荐",
-      "event_time": 1792640963
+      "word": "2026KPL淘汰赛抽签结果出炉",
+      "hot_value": 7685342,
+      "label": "爆",
+      "event_time": 1792678552
     },
     {
       "rank": 18,
-      "word": "offer8医学生季开播",
-      "hot_value": 7717613,
-      "label": "爆",
-      "event_time": 1792565877
+      "word": "嫁金钗全员团建来了",
+      "hot_value": 7684048,
+      "label": "热议",
+      "event_time": 1792577146
     },
     {
       "rank": 19,
-      "word": "上海浙江福建等地有大到暴雨",
-      "hot_value": 7707261,
+      "word": "中国体操女团世锦赛夺冠",
+      "hot_value": 7678179,
       "label": "",
-      "event_time": 1792632541
+      "event_time": 1792624602
     },
     {
       "rank": 20,
-      "word": "宁波帅哥鸡饭对胃不烧心",
-      "hot_value": 7701234,
-      "label": "爆",
-      "event_time": 1792627229
+      "word": "冷空气袭来 可能最近要变天了",
+      "hot_value": 7668305,
+      "label": "音乐",
+      "event_time": 1792673534
     }
   ],
-  "update_time": "2026-10-22 17:44:24",
+  "update_time": "2026-10-22 20:59:15",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
