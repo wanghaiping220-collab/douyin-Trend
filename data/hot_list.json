@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "外交部回应姆巴佩发表不当言论",
-      "hot_value": 12099795,
-      "label": "爆",
-      "event_time": 1793092632
-    },
-    {
-      "rank": 2,
-      "word": "德国总统抵达安徽开启访华行程",
-      "hot_value": 12002755,
-      "label": "爆",
-      "event_time": 1793064365
-    },
-    {
-      "rank": 3,
-      "word": "祖国大地一片丰收景象",
-      "hot_value": 11890820,
-      "label": "",
-      "event_time": 1793109075
-    },
-    {
-      "rank": 4,
       "word": "在稻城亚丁看一场秋日童话",
-      "hot_value": 11734904,
+      "hot_value": 12295975,
       "label": "爆",
       "event_time": 1793075656
     },
     {
+      "rank": 2,
+      "word": "外媒解读华为手机芯片自研突破",
+      "hot_value": 11033032,
+      "label": "新",
+      "event_time": 1793152496
+    },
+    {
+      "rank": 3,
+      "word": "八大算力枢纽连成一张网",
+      "hot_value": 10916045,
+      "label": "新",
+      "event_time": 1793154355
+    },
+    {
+      "rank": 4,
+      "word": "祖国大地一片丰收景象",
+      "hot_value": 10901278,
+      "label": "",
+      "event_time": 1793109075
+    },
+    {
       "rank": 5,
-      "word": "想要秋天不烧心就去山里野",
-      "hot_value": 10546785,
-      "label": "",
-      "event_time": 1793083038
-    },
-    {
-      "rank": 6,
-      "word": "抖音娃改时装周",
-      "hot_value": 10543564,
-      "label": "爆",
-      "event_time": 1792994701
-    },
-    {
-      "rank": 7,
-      "word": "世界如此辽阔不要走进悲伤角落",
-      "hot_value": 9425926,
-      "label": "",
-      "event_time": 1792998722
-    },
-    {
-      "rank": 8,
-      "word": "今人重走玉门关",
-      "hot_value": 9142871,
-      "label": "",
-      "event_time": 1792976826
-    },
-    {
-      "rank": 9,
-      "word": "“蛟龙”号迭代升级",
-      "hot_value": 9132770,
-      "label": "爆",
-      "event_time": 1793078077
-    },
-    {
-      "rank": 10,
-      "word": "河头老街NPC唱歌太牛了",
-      "hot_value": 8964739,
-      "label": "爆",
-      "event_time": 1793067263
-    },
-    {
-      "rank": 11,
-      "word": "北京国安2:2战平全北现代",
-      "hot_value": 8716526,
-      "label": "",
-      "event_time": 1793112114
-    },
-    {
-      "rank": 12,
-      "word": "10月29日晚国内油价将调整",
-      "hot_value": 8610530,
-      "label": "爆",
-      "event_time": 1793068943
-    },
-    {
-      "rank": 13,
-      "word": "“四价流感疫苗消失”传言有误",
-      "hot_value": 8516628,
-      "label": "谣言",
-      "event_time": 1793101733
-    },
-    {
-      "rank": 14,
-      "word": "是谁还没看过谢帝的女装分享啊",
-      "hot_value": 8028651,
-      "label": "爆",
-      "event_time": 1793069992
-    },
-    {
-      "rank": 15,
-      "word": "树枝版齐天大圣太震撼了",
-      "hot_value": 7716213,
-      "label": "",
-      "event_time": 1792981036
-    },
-    {
-      "rank": 16,
-      "word": "全网最励志的三角梅出圈了",
-      "hot_value": 7715200,
-      "label": "",
-      "event_time": 1792977410
-    },
-    {
-      "rank": 17,
-      "word": "辽宁舰编队绕菲律宾远洋训练",
-      "hot_value": 7708517,
-      "label": "",
-      "event_time": 1793073841
-    },
-    {
-      "rank": 18,
       "word": "4名诺奖得主将亮相大湾区科学论坛",
-      "hot_value": 7700836,
+      "hot_value": 10353927,
       "label": "",
       "event_time": 1793076422
     },
     {
-      "rank": 19,
+      "rank": 6,
+      "word": "表演艺术家戈治均逝世",
+      "hot_value": 10353347,
+      "label": "新",
+      "event_time": 1793153816
+    },
+    {
+      "rank": 7,
       "word": "CBA常规赛浙江力克辽宁",
-      "hot_value": 7696360,
-      "label": "爆",
+      "hot_value": 9112914,
+      "label": "",
       "event_time": 1793108279
     },
     {
-      "rank": 20,
-      "word": "AL战队致歉",
-      "hot_value": 7694225,
+      "rank": 8,
+      "word": "“蛟龙”号完成7000米级海试",
+      "hot_value": 8614081,
       "label": "爆",
-      "event_time": 1793069077
+      "event_time": 1793078077
+    },
+    {
+      "rank": 9,
+      "word": "这次季候风吹得格外凶",
+      "hot_value": 8265882,
+      "label": "音乐",
+      "event_time": 1793102360
+    },
+    {
+      "rank": 10,
+      "word": "“四价流感疫苗消失”传言有误",
+      "hot_value": 7705035,
+      "label": "谣言",
+      "event_time": 1793101733
+    },
+    {
+      "rank": 11,
+      "word": "人类为什么喜欢毛茸茸",
+      "hot_value": 7696069,
+      "label": "爆",
+      "event_time": 1793067770
+    },
+    {
+      "rank": 12,
+      "word": "外交部回应姆巴佩发表不当言论",
+      "hot_value": 7688438,
+      "label": "",
+      "event_time": 1793092632
+    },
+    {
+      "rank": 13,
+      "word": "盆栽哥香港演唱会采样王菲季候风",
+      "hot_value": 7681216,
+      "label": "爆",
+      "event_time": 1793067888
+    },
+    {
+      "rank": 14,
+      "word": "爱德华兹右膝手术预计缺阵两月",
+      "hot_value": 7665002,
+      "label": "",
+      "event_time": 1793143463
+    },
+    {
+      "rank": 15,
+      "word": "抓紧你的手走过我的朝朝暮暮",
+      "hot_value": 7660208,
+      "label": "音乐",
+      "event_time": 1793005924
+    },
+    {
+      "rank": 16,
+      "word": "穆祉丞翻跳2.0简直夯爆了",
+      "hot_value": 7654155,
+      "label": "娱乐",
+      "event_time": 1793112318
+    },
+    {
+      "rank": 17,
+      "word": "鞠婧祎掀翻万花世界系统",
+      "hot_value": 7647301,
+      "label": "热议",
+      "event_time": 1793105253
+    },
+    {
+      "rank": 18,
+      "word": "刘诗诗醉梦开分7.5",
+      "hot_value": 7644915,
+      "label": "",
+      "event_time": 1793103412
+    },
+    {
+      "rank": 19,
+      "word": "AL出局了我有话说",
+      "hot_value": 7640177,
+      "label": "爆",
+      "event_time": 1793069283
+    },
+    {
+      "rank": 20,
+      "word": "皇马称姆巴佩言论仅代表个人",
+      "hot_value": 7638058,
+      "label": "",
+      "event_time": 1793145336
     }
   ],
-  "update_time": "2026-10-27 23:21:34",
+  "update_time": "2026-10-28 03:08:22",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
