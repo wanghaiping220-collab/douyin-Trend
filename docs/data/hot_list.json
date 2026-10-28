@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "国务院原副总理刘延东逝世",
-      "hot_value": 12078281,
+      "hot_value": 12101646,
       "label": "",
       "event_time": 1793181653
     },
     {
       "rank": 2,
-      "word": "在稻城亚丁看一场秋日童话",
-      "hot_value": 11820870,
+      "word": "普京会晤伊朗总统讨论中东局势",
+      "hot_value": 11975020,
       "label": "爆",
-      "event_time": 1793075656
+      "event_time": 1793148405
     },
     {
       "rank": 3,
       "word": "一张全国算力网重塑生产生活",
-      "hot_value": 11477410,
+      "hot_value": 11052596,
       "label": "",
       "event_time": 1793190230
     },
     {
       "rank": 4,
-      "word": "普京会晤伊朗总统讨论中东局势",
-      "hot_value": 11324011,
-      "label": "爆",
-      "event_time": 1793148405
+      "word": "在稻城亚丁看一场秋日童话",
+      "hot_value": 11022145,
+      "label": "",
+      "event_time": 1793075656
     },
     {
       "rank": 5,
-      "word": "中方敦促美方停止对古巴封锁施压",
-      "hot_value": 10507864,
-      "label": "爆",
-      "event_time": 1793143587
+      "word": "独家揭秘白鹤滩水电站",
+      "hot_value": 10402391,
+      "label": "热议",
+      "event_time": 1793186102
     },
     {
       "rank": 6,
-      "word": "全球金融市场迎来超级央行周",
-      "hot_value": 10462588,
-      "label": "爆",
-      "event_time": 1793154321
+      "word": "中方敦促美方停止对古巴封锁施压",
+      "hot_value": 10261463,
+      "label": "",
+      "event_time": 1793143587
     },
     {
       "rank": 7,
-      "word": "以色列议会选举投票结束",
-      "hot_value": 9231713,
-      "label": "爆",
-      "event_time": 1793147105
+      "word": "全球金融市场迎来超级央行周",
+      "hot_value": 9172468,
+      "label": "",
+      "event_time": 1793154321
     },
     {
       "rank": 8,
       "word": "西班牙高铁相撞已致超60人死亡",
-      "hot_value": 9189047,
+      "hot_value": 9138018,
       "label": "",
       "event_time": 1793180732
     },
     {
       "rank": 9,
       "word": "我国智能算力规模全球第二",
-      "hot_value": 9139934,
+      "hot_value": 9118814,
       "label": "",
       "event_time": 1793190274
     },
     {
       "rank": 10,
       "word": "买一杯咖啡来敬重自己",
-      "hot_value": 9014340,
+      "hot_value": 8810530,
       "label": "爆",
       "event_time": 1793170152
     },
     {
       "rank": 11,
-      "word": "中国体操队世锦赛载誉归来",
-      "hot_value": 8914135,
+      "word": "以色列议会选举投票结束",
+      "hot_value": 8018291,
       "label": "",
-      "event_time": 1793157971
+      "event_time": 1793147105
     },
     {
       "rank": 12,
       "word": "皇马官方致歉",
-      "hot_value": 8828641,
+      "hot_value": 7856357,
       "label": "",
       "event_time": 1793178321
     },
     {
       "rank": 13,
-      "word": "表演艺术家戈治均逝世",
-      "hot_value": 8675307,
-      "label": "",
-      "event_time": 1793153816
-    },
-    {
-      "rank": 14,
-      "word": "外媒解读华为手机芯片自研突破",
-      "hot_value": 7852657,
-      "label": "",
-      "event_time": 1793152496
-    },
-    {
-      "rank": 15,
-      "word": "IG对战LYON",
-      "hot_value": 7831125,
-      "label": "",
-      "event_time": 1793195981
-    },
-    {
-      "rank": 16,
-      "word": "听大麦哥聊爱情",
-      "hot_value": 7799275,
-      "label": "爆",
-      "event_time": 1793171592
-    },
-    {
-      "rank": 17,
       "word": "中使馆紧急提醒勿前往乌干达",
-      "hot_value": 7761548,
+      "hot_value": 7779313,
       "label": "",
       "event_time": 1793151655
     },
     {
-      "rank": 18,
+      "rank": 14,
       "word": "国足出征U17世界杯名单公布",
-      "hot_value": 7758880,
+      "hot_value": 7757367,
       "label": "",
       "event_time": 1793166048
     },
     {
-      "rank": 19,
-      "word": "天空之外再次迎来了宣发期",
-      "hot_value": 7743556,
+      "rank": 15,
+      "word": "IG对战LYON",
+      "hot_value": 7749597,
+      "label": "爆",
+      "event_time": 1793195981
+    },
+    {
+      "rank": 16,
+      "word": "快出来吧我原谅你了",
+      "hot_value": 7728804,
       "label": "音乐",
-      "event_time": 1793095961
+      "event_time": 1793081768
+    },
+    {
+      "rank": 17,
+      "word": "外媒解读华为手机芯片自研突破",
+      "hot_value": 7717237,
+      "label": "",
+      "event_time": 1793152496
+    },
+    {
+      "rank": 18,
+      "word": "就这样闯进我的心窝",
+      "hot_value": 7711539,
+      "label": "音乐",
+      "event_time": 1793177213
+    },
+    {
+      "rank": 19,
+      "word": "萌宠滑镜定格挑战",
+      "hot_value": 7708253,
+      "label": "音乐",
+      "event_time": 1793159097
     },
     {
       "rank": 20,
-      "word": "萌宠滑镜定格挑战",
-      "hot_value": 7723486,
-      "label": "音乐",
-      "event_time": 1793159097
+      "word": "中国体操队世锦赛载誉归来",
+      "hot_value": 7702365,
+      "label": "",
+      "event_time": 1793157971
     }
   ],
-  "update_time": "2026-10-28 16:53:24",
+  "update_time": "2026-10-28 21:26:25",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
