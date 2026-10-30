@@ -3,145 +3,145 @@
     {
       "rank": 1,
       "word": "中共中央举行新闻发布会",
-      "hot_value": 11644784,
+      "hot_value": 11563368,
       "label": "爆",
       "event_time": 1793268093
     },
     {
       "rank": 2,
       "word": "攻击-21无人机在四川舰成功起降",
-      "hot_value": 11460944,
+      "hot_value": 11318577,
       "label": "爆",
       "event_time": 1793350774
     },
     {
       "rank": 3,
       "word": "不怕远征难",
-      "hot_value": 11172236,
+      "hot_value": 11099961,
       "label": "爆",
       "event_time": 1793360683
     },
     {
       "rank": 4,
       "word": "比冬天先来的是一顿热火锅",
-      "hot_value": 11101725,
-      "label": "爆",
+      "hot_value": 11099721,
+      "label": "",
       "event_time": 1793332984
     },
     {
       "rank": 5,
+      "word": "解放军霸气喊话菲律宾军机",
+      "hot_value": 10543619,
+      "label": "",
+      "event_time": 1793347591
+    },
+    {
+      "rank": 6,
       "word": "落日与风能发电机同框太治愈",
-      "hot_value": 10543794,
+      "hot_value": 10538669,
       "label": "爆",
       "event_time": 1793353142
     },
     {
-      "rank": 6,
-      "word": "解放军霸气喊话菲律宾军机",
-      "hot_value": 10467229,
-      "label": "爆",
-      "event_time": 1793347591
-    },
-    {
       "rank": 7,
       "word": "10架美军机飞抵以色列空军基地",
-      "hot_value": 9305227,
-      "label": "爆",
+      "hot_value": 9420690,
+      "label": "",
       "event_time": 1793316016
     },
     {
       "rank": 8,
       "word": "中国U17女足首进世界杯8强",
-      "hot_value": 9278299,
+      "hot_value": 9412216,
       "label": "",
       "event_time": 1793315077
     },
     {
       "rank": 9,
       "word": "南部战区海空兵力黄岩岛战备警巡",
-      "hot_value": 9209022,
+      "hot_value": 9407826,
       "label": "爆",
       "event_time": 1793346021
     },
     {
       "rank": 10,
       "word": "国防部称遵义舰从容应对侵权挑衅",
-      "hot_value": 9201058,
+      "hot_value": 9394919,
       "label": "",
       "event_time": 1793326417
     },
     {
       "rank": 11,
       "word": "二十届五中全会公报一图速览",
-      "hot_value": 9159745,
+      "hot_value": 9314963,
       "label": "",
       "event_time": 1793347521
     },
     {
       "rank": 12,
       "word": "涉“那曲巴青地震”谣言案例",
-      "hot_value": 9127627,
+      "hot_value": 9117881,
       "label": "谣言",
       "event_time": 1793359918
     },
     {
       "rank": 13,
-      "word": "匿名玩家导演王巍在抖音有问必答",
-      "hot_value": 9078025,
-      "label": "热议",
-      "event_time": 1793355441
-    },
-    {
-      "rank": 14,
-      "word": "披荆斩棘2026总决赛",
-      "hot_value": 9027152,
-      "label": "爆",
-      "event_time": 1793361179
-    },
-    {
-      "rank": 15,
-      "word": "林丹杯桃田贤斗击败羊洋洋",
-      "hot_value": 8982004,
-      "label": "爆",
-      "event_time": 1793358950
-    },
-    {
-      "rank": 16,
-      "word": "复仇者联盟进入氛围感时代",
-      "hot_value": 8815472,
-      "label": "音乐",
-      "event_time": 1793350689
-    },
-    {
-      "rank": 17,
       "word": "我家有只可爱鬼",
-      "hot_value": 8442318,
+      "hot_value": 8882052,
       "label": "音乐",
       "event_time": 1793334839
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "word": "G2对战HLE",
+      "hot_value": 8660399,
+      "label": "",
+      "event_time": 1793371286
+    },
+    {
+      "rank": 15,
       "word": "星穹铁道4.7版本前瞻",
-      "hot_value": 8269878,
-      "label": "新",
+      "hot_value": 8423959,
+      "label": "",
       "event_time": 1793372174
+    },
+    {
+      "rank": 16,
+      "word": "披荆斩棘2026总决赛",
+      "hot_value": 8308011,
+      "label": "",
+      "event_time": 1793361179
+    },
+    {
+      "rank": 17,
+      "word": "复仇者联盟进入氛围感时代",
+      "hot_value": 8263966,
+      "label": "音乐",
+      "event_time": 1793350689
+    },
+    {
+      "rank": 18,
+      "word": "AI珍珠圣女妆",
+      "hot_value": 8230000,
+      "label": "音乐",
+      "event_time": 1793341728
     },
     {
       "rank": 19,
       "word": "星游记官宣正式重启",
-      "hot_value": 8217128,
+      "hot_value": 8050634,
       "label": "爆",
       "event_time": 1793354958
     },
     {
       "rank": 20,
       "word": "币安疑遭黑客攻击",
-      "hot_value": 8196972,
+      "hot_value": 7997903,
       "label": "爆",
       "event_time": 1793328807
     }
   ],
-  "update_time": "2026-10-30 16:52:48",
+  "update_time": "2026-10-30 21:14:35",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
