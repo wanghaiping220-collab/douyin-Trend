@@ -2,146 +2,146 @@
   "hot_list": [
     {
       "rank": 1,
-      "word": "中共中央30日上午举行新闻发布会",
-      "hot_value": 12105273,
+      "word": "中共中央举行新闻发布会",
+      "hot_value": 12202599,
       "label": "爆",
       "event_time": 1793268093
     },
     {
       "rank": 2,
-      "word": "国防部回应美日近期军演",
-      "hot_value": 11495585,
+      "word": "中国U17女足首进世界杯8强",
+      "hot_value": 12110867,
       "label": "爆",
-      "event_time": 1793262414
+      "event_time": 1793315077
     },
     {
       "rank": 3,
+      "word": "6G技术加速走向应用",
+      "hot_value": 10772075,
+      "label": "新",
+      "event_time": 1793327962
+    },
+    {
+      "rank": 4,
       "word": "持之以恒推进全面从严治党",
-      "hot_value": 11131037,
+      "hot_value": 10638279,
       "label": "",
       "event_time": 1793279284
     },
     {
-      "rank": 4,
-      "word": "秋日山野漫游",
-      "hot_value": 11083717,
+      "rank": 5,
+      "word": "国防部回应美日近期军演",
+      "hot_value": 9977343,
       "label": "",
-      "event_time": 1793186649
+      "event_time": 1793262414
     },
     {
-      "rank": 5,
-      "word": "国防部称\"以台制华\"必付沉重代价",
-      "hot_value": 10438746,
+      "rank": 6,
+      "word": "国防部称“以台制华”必付沉重代价",
+      "hot_value": 9188709,
       "label": "",
       "event_time": 1793267965
     },
     {
-      "rank": 6,
-      "word": "中国U17女足首进世界杯8强",
-      "hot_value": 10381857,
-      "label": "新",
-      "event_time": 1793315077
-    },
-    {
       "rank": 7,
       "word": "中国电影出海步伐加快",
-      "hot_value": 9208956,
+      "hot_value": 7816619,
       "label": "",
       "event_time": 1793248588
     },
     {
       "rank": 8,
       "word": "寻味城市招牌美食",
-      "hot_value": 9162545,
-      "label": "爆",
+      "hot_value": 7807398,
+      "label": "",
       "event_time": 1793191995
     },
     {
       "rank": 9,
-      "word": "BLG对阵TES",
-      "hot_value": 9162490,
-      "label": "",
-      "event_time": 1793277395
-    },
-    {
-      "rank": 10,
-      "word": "KC战胜CFO",
-      "hot_value": 8409701,
-      "label": "",
-      "event_time": 1793276207
-    },
-    {
-      "rank": 11,
-      "word": "张升民同志简历",
-      "hot_value": 8352876,
-      "label": "",
-      "event_time": 1793269691
-    },
-    {
-      "rank": 12,
-      "word": "刘晓艳渲染大赛reaction",
-      "hot_value": 7806139,
-      "label": "音乐",
-      "event_time": 1793250088
-    },
-    {
-      "rank": 13,
-      "word": "乌干达军方宣布“食人魔”落网",
-      "hot_value": 7742236,
-      "label": "爆",
-      "event_time": 1793242406
-    },
-    {
-      "rank": 14,
       "word": "造山女团的阿姨们太有劲了",
-      "hot_value": 7725512,
+      "hot_value": 7779048,
       "label": "爆",
       "event_time": 1793236331
     },
     {
-      "rank": 15,
-      "word": "无畏契约新英雄遐思上线",
-      "hot_value": 7724325,
-      "label": "爆",
-      "event_time": 1793250254
-    },
-    {
-      "rank": 16,
-      "word": "三丽鸥声明与VIVANT终止合作",
-      "hot_value": 7709425,
+      "rank": 10,
+      "word": "听完大麦哥关于“什么是爱情”",
+      "hot_value": 7732722,
       "label": "",
-      "event_time": 1793231060
+      "event_time": 1793282969
     },
     {
-      "rank": 17,
+      "rank": 11,
+      "word": "NBA高人切特来祝贺IG晋级了",
+      "hot_value": 7726117,
+      "label": "爆",
+      "event_time": 1793259519
+    },
+    {
+      "rank": 12,
+      "word": "本来养一只猫怕它孤单",
+      "hot_value": 7704179,
+      "label": "音乐",
+      "event_time": 1793261427
+    },
+    {
+      "rank": 13,
+      "word": "一不小心就被挖走了",
+      "hot_value": 7679339,
+      "label": "音乐",
+      "event_time": 1793256204
+    },
+    {
+      "rank": 14,
+      "word": "张升民同志简历",
+      "hot_value": 7678452,
+      "label": "",
+      "event_time": 1793269691
+    },
+    {
+      "rank": 15,
       "word": "云县人民医院来了个剪辑天才",
-      "hot_value": 7705573,
+      "hot_value": 7668718,
       "label": "爆",
       "event_time": 1793279118
     },
     {
-      "rank": 18,
+      "rank": 16,
       "word": "白鹿绝美建模珍珠可可妆",
-      "hot_value": 7700926,
+      "hot_value": 7663781,
       "label": "荐",
       "event_time": 1793278382
     },
     {
-      "rank": 19,
-      "word": "吴克群助力学生守护脑出血老师",
-      "hot_value": 7697653,
+      "rank": 17,
+      "word": "当我见到叶师傅后",
+      "hot_value": 7661830,
       "label": "爆",
-      "event_time": 1793263388
+      "event_time": 1793290717
+    },
+    {
+      "rank": 18,
+      "word": "我气疯了就肖战这样",
+      "hot_value": 7655507,
+      "label": "",
+      "event_time": 1793287412
+    },
+    {
+      "rank": 19,
+      "word": "X教授扮演者去世",
+      "hot_value": 7652652,
+      "label": "",
+      "event_time": 1793317196
     },
     {
       "rank": 20,
-      "word": "一不小心就被挖走了",
-      "hot_value": 7694112,
-      "label": "音乐",
-      "event_time": 1793256204
+      "word": "小羊崽开播了",
+      "hot_value": 7651214,
+      "label": "爆",
+      "event_time": 1793280574
     }
   ],
-  "update_time": "2026-10-29 23:46:36",
+  "update_time": "2026-10-30 03:37:24",
   "source": "抖音热榜",
   "category": "all",
   "is_test_data": false
